@@ -44255,5 +44255,23 @@
             "weeklyRepetitions": []
         }
     ],
+    "featured": [
+        {
+            "id": 3114323069,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Movie Night in the UTM Pool #2",
+            "description": "Coming Soon!",
+            "image": "",
+            "start_date": "2025-03-12 18:00:00",
+            "end_date": "2025-03-12 20:00:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Pool",
+            "symbol": "tv",
+            "womens": false,
+            "weeklyRepetitions": []
+        }
+    ],
     "announcements": []
 }
