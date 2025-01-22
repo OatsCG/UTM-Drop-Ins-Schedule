@@ -1,6 +1,88 @@
 {
     "allCategories": [
         {
+            "title": "Volleyball",
+            "symbol": "volleyball"
+        },
+        {
+            "title": "Basketball",
+            "symbol": "basketball"
+        },
+        {
+            "title": "Soccer",
+            "symbol": "soccerball"
+        },
+        {
+            "title": "Tennis",
+            "symbol": "tennisball"
+        },
+        {
+            "title": "Cricket",
+            "symbol": "cricket.ball"
+        },
+        {
+            "title": "Table Tennis",
+            "symbol": "figure.table.tennis"
+        },
+        {
+            "title": "Combat",
+            "symbol": "figure.kickboxing"
+        },
+        {
+            "title": "Cycling",
+            "symbol": "figure.indoor.cycle"
+        },
+        {
+            "title": "Squash",
+            "symbol": "figure.squash"
+        },
+        {
+            "title": "Badminton",
+            "symbol": "figure.badminton"
+        },
+        {
+            "title": "Pickleball",
+            "symbol": "figure.pickleball"
+        },
+        {
+            "title": "Field Sports",
+            "symbol": "flag"
+        },
+        {
+            "title": "Hockey",
+            "symbol": "hockey.puck"
+        },
+        {
+            "title": "Pool",
+            "symbol": "water.waves"
+        },
+        {
+            "title": "Rowfit",
+            "symbol": "figure.indoor.rowing"
+        },
+        {
+            "title": "Workout",
+            "symbol": "dumbbell"
+        },
+        {
+            "title": "Cardio",
+            "symbol": "heart"
+        },
+        {
+            "title": "Mind & Body",
+            "symbol": "figure.mind.and.body"
+        },
+        {
+            "title": "Dance",
+            "symbol": "figure.dance"
+        },
+        {
+            "title": "UTM Walks",
+            "symbol": "figure.walk"
+        }
+    ],
+    "categories": [
+        {
             "title": "UTM Walks",
             "symbol": "figure.walk"
         },
@@ -8261,7 +8343,6 @@
             "symbol": "figure.walk"
         }
     ],
-    "categories": [],
     "events": [
         {
             "id": 1606783144,
