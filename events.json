@@ -1,232 +1,124 @@
 {
-    "allCategories": [
-        {
-            "title": "Volleyball",
-            "symbol": "volleyball"
-        },
-        {
-            "title": "Basketball",
-            "symbol": "basketball"
-        },
-        {
-            "title": "Soccer",
-            "symbol": "soccerball"
-        },
-        {
-            "title": "Tennis",
-            "symbol": "tennisball"
-        },
-        {
-            "title": "Cricket",
-            "symbol": "cricket.ball"
-        },
-        {
-            "title": "Table Tennis",
-            "symbol": "figure.table.tennis"
-        },
-        {
-            "title": "Combat",
-            "symbol": "figure.kickboxing"
-        },
-        {
-            "title": "Cycling",
-            "symbol": "figure.indoor.cycle"
-        },
-        {
-            "title": "Squash",
-            "symbol": "figure.squash"
-        },
-        {
-            "title": "Badminton",
-            "symbol": "figure.badminton"
-        },
-        {
-            "title": "Pickleball",
-            "symbol": "figure.pickleball"
-        },
-        {
-            "title": "Field Sports",
-            "symbol": "flag"
-        },
-        {
-            "title": "Hockey",
-            "symbol": "hockey.puck"
-        },
-        {
-            "title": "Pool",
-            "symbol": "water.waves"
-        },
-        {
-            "title": "Rowfit",
-            "symbol": "figure.indoor.rowing"
-        },
-        {
-            "title": "Workout",
-            "symbol": "dumbbell"
-        },
-        {
-            "title": "Cardio",
-            "symbol": "heart"
-        },
-        {
-            "title": "Mind & Body",
-            "symbol": "figure.mind.and.body"
-        },
-        {
-            "title": "Dance",
-            "symbol": "figure.dance"
-        },
-        {
-            "title": "UTM Walks",
-            "symbol": "figure.walk"
-        }
-    ],
-    "medalCategories": [
-        {
-            "title": "Volleyball",
-            "symbol": "volleyball"
-        },
-        {
-            "title": "Basketball",
-            "symbol": "basketball"
-        },
-        {
-            "title": "Soccer",
-            "symbol": "soccerball"
-        },
-        {
-            "title": "Tennis",
-            "symbol": "tennisball"
-        },
-        {
-            "title": "Cricket",
-            "symbol": "cricket.ball"
-        },
-        {
-            "title": "Table Tennis",
-            "symbol": "figure.table.tennis"
-        },
-        {
-            "title": "Combat",
-            "symbol": "figure.kickboxing"
-        },
-        {
-            "title": "Cycling",
-            "symbol": "figure.indoor.cycle"
-        },
-        {
-            "title": "Squash",
-            "symbol": "figure.squash"
-        },
-        {
-            "title": "Badminton",
-            "symbol": "figure.badminton"
-        },
-        {
-            "title": "Pickleball",
-            "symbol": "figure.pickleball"
-        },
-        {
-            "title": "Field Sports",
-            "symbol": "flag"
-        },
-        {
-            "title": "Pool",
-            "symbol": "water.waves"
-        },
-        {
-            "title": "Rowfit",
-            "symbol": "figure.indoor.rowing"
-        },
-        {
-            "title": "Workout",
-            "symbol": "dumbbell"
-        },
-        {
-            "title": "Cardio",
-            "symbol": "heart"
-        },
-        {
-            "title": "Mind & Body",
-            "symbol": "figure.mind.and.body"
-        },
-        {
-            "title": "Dance",
-            "symbol": "figure.dance"
-        },
-        {
-            "title": "UTM Walks",
-            "symbol": "figure.walk"
-        }
-    ],
     "categories": [
         {
             "title": "Volleyball",
-            "symbol": "volleyball"
+            "symbol": "volleyball",
+            "isChip": true,
+            "isMedal": true
         },
         {
             "title": "Basketball",
-            "symbol": "basketball"
+            "symbol": "basketball",
+            "isChip": true,
+            "isMedal": true
         },
         {
             "title": "Soccer",
-            "symbol": "soccerball"
+            "symbol": "soccerball",
+            "isChip": true,
+            "isMedal": true
+        },
+        {
+            "title": "Tennis",
+            "symbol": "tennisball",
+            "isChip": false,
+            "isMedal": true
         },
         {
             "title": "Cricket",
-            "symbol": "cricket.ball"
+            "symbol": "cricket.ball",
+            "isChip": true,
+            "isMedal": true
         },
         {
             "title": "Table Tennis",
-            "symbol": "figure.table.tennis"
+            "symbol": "figure.table.tennis",
+            "isChip": true,
+            "isMedal": true
         },
         {
             "title": "Combat",
-            "symbol": "figure.kickboxing"
+            "symbol": "figure.kickboxing",
+            "isChip": true,
+            "isMedal": true
         },
         {
             "title": "Cycling",
-            "symbol": "figure.indoor.cycle"
+            "symbol": "figure.indoor.cycle",
+            "isChip": true,
+            "isMedal": true
         },
         {
             "title": "Squash",
-            "symbol": "figure.squash"
+            "symbol": "figure.squash",
+            "isChip": true,
+            "isMedal": true
         },
         {
             "title": "Badminton",
-            "symbol": "figure.badminton"
+            "symbol": "figure.badminton",
+            "isChip": true,
+            "isMedal": true
         },
         {
             "title": "Pickleball",
-            "symbol": "figure.pickleball"
+            "symbol": "figure.pickleball",
+            "isChip": true,
+            "isMedal": true
+        },
+        {
+            "title": "Field Sports",
+            "symbol": "flag",
+            "isChip": false,
+            "isMedal": true
         },
         {
             "title": "Hockey",
-            "symbol": "hockey.puck"
+            "symbol": "hockey.puck",
+            "isChip": true,
+            "isMedal": false
         },
         {
             "title": "Pool",
-            "symbol": "water.waves"
+            "symbol": "water.waves",
+            "isChip": true,
+            "isMedal": true
+        },
+        {
+            "title": "Rowfit",
+            "symbol": "figure.indoor.rowing",
+            "isChip": false,
+            "isMedal": true
         },
         {
             "title": "Workout",
-            "symbol": "dumbbell"
+            "symbol": "dumbbell",
+            "isChip": true,
+            "isMedal": true
         },
         {
             "title": "Cardio",
-            "symbol": "heart"
+            "symbol": "heart",
+            "isChip": true,
+            "isMedal": true
         },
         {
             "title": "Mind & Body",
-            "symbol": "figure.mind.and.body"
+            "symbol": "figure.mind.and.body",
+            "isChip": true,
+            "isMedal": true
         },
         {
             "title": "Dance",
-            "symbol": "figure.dance"
+            "symbol": "figure.dance",
+            "isChip": true,
+            "isMedal": true
         },
         {
             "title": "UTM Walks",
-            "symbol": "figure.walk"
+            "symbol": "figure.walk",
+            "isChip": true,
+            "isMedal": true
         }
     ],
     "events": [
