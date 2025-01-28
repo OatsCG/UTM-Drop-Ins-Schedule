@@ -13772,6 +13772,22 @@
             ]
         },
         {
+            "id": 3959150350,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-02-07 07:00:00",
+            "end_date": "2025-02-07 10:00:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "womens": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 3358179483,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Badminton",
@@ -13882,6 +13898,22 @@
             "weeklyRepetitions": [
                 "fr"
             ]
+        },
+        {
+            "id": 3407088887,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-02-07 10:30:00",
+            "end_date": "2025-02-07 13:00:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "womens": false,
+            "weeklyRepetitions": []
         },
         {
             "id": 3115561834,
@@ -13996,6 +14028,22 @@
                 "mo",
                 "we"
             ]
+        },
+        {
+            "id": 1011260902,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Indoor Soccer",
+            "description": "",
+            "image": "",
+            "start_date": "2025-02-07 13:30:00",
+            "end_date": "2025-02-07 15:30:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Soccer",
+            "symbol": "soccerball",
+            "womens": false,
+            "weeklyRepetitions": []
         },
         {
             "id": 3159821850,
@@ -39073,6 +39121,11 @@
             "id": 3110793070,
             "title": "Come Cheer on the UTM Hockey Teams!",
             "body": "Get ready to bring the energy! Our Hockey Teams are hosting their home game of the season on Saturday, February 8 at Canlan Ice Sports in Oakville.\nThe Women's game begins at 5 pm and Men's game at 7 pm.\nWe\u2019re offering special tickets that include pizza and transportation to make it easy for you to join the action:\n* $10 Ticket \u2013 Includes a slice of pizza + transportation to and from Canlan and the RAWC.\n* $5 Ticket \u2013 Includes a slice of pizza.\nLet\u2019s pack the rink and show our teams some love! It is going to be a night you would not want to miss!\nTickets are limited, so grab yours soon! Stay tuned for transportation schedules.\nGet your tickets here: [https://recreation.utoronto.ca/program/GetProgramDetails?courseId=3c4d42b4-2b55-4344-8035-23ef66cf8d84](https://recreation.utoronto.ca/program/GetProgramDetails?courseId=3c4d42b4-2b55-4344-8035-23ef66cf8d84 \"https://recreation.utoronto.ca/program/getprogramdetails?courseid=3c4d42b4-2b55-4344-8035-23ef66cf8d84\")"
+        },
+        {
+            "id": 4278277634,
+            "title": "Join Us for Pow-wow Dance Class!",
+            "body": "The Department of Recreation, Athletics & Wellness, in collaboration with the Office of Indigenous Initiatives, is thrilled to offer Powwow Dance Classes on the following Wednesdays, from 1:30pm to 3:00pm:\n* February 5\n* February 12\n* February 19\n* March 5\n* March 12\n* March 19\nThe class will be held at the RAWC Dance Studio, led by John (Waaseyaabin) Hupfield and Deanne Hupfield.\nThis event prioritizes Indigenous community, student, staff, faculty and librarians at UTM and within the city of Mississauga. **No membership or pre-registration required, this class will be a FREE of charge, drop-in class!**"
         }
     ]
 }
