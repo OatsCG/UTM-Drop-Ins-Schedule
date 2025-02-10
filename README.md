@@ -23,8 +23,8 @@ version.txt stores the version and date of when events.json was last updated.
             "title": String,
             "description": String,
             "image": String, // URL
-            "start_date": String, // Date String yyyy-MM-dd HH:mm:ss
-            "end_date": String, // Date String yyyy-MM-dd HH:mm:ss
+            "start_date": String, // Date String %Y-%m-%d %H:%M:%S
+            "end_date": String, // Date String %Y-%m-%d %H:%M:%S
             "venue": String,
             "ticket_label": String,
             "ticket_url": String, // URL
@@ -42,8 +42,8 @@ version.txt stores the version and date of when events.json was last updated.
             "title": String,
             "description": String,
             "image": String, // URL
-            "start_date": String, // Date String yyyy-MM-dd HH:mm:ss
-            "end_date": String, // Date String yyyy-MM-dd HH:mm:ss
+            "start_date": String, // Date String %Y-%m-%d %H:%M:%S
+            "end_date": String, // Date String %Y-%m-%d %H:%M:%S
             "venue": String,
             "ticket_label": String,
             "ticket_url": String, // URL
