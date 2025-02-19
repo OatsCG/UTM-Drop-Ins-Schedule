@@ -10497,42 +10497,6 @@
             ]
         },
         {
-            "id": 1106483264,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "Gym B; Feb 4",
-            "image": "",
-            "start_date": "2025-02-18 07:00:00",
-            "end_date": "2025-02-18 10:00:00",
-            "venue": "Gym B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "womens": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
-            "id": 2002509226,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Volleyball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-02-18 07:00:00",
-            "end_date": "2025-02-18 10:00:00",
-            "venue": "Gym A",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Volleyball",
-            "symbol": "volleyball",
-            "womens": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 1681634809,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-In Squash ",
@@ -10567,6 +10531,42 @@
             "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
             "sortCategory": "Table Tennis",
             "symbol": "figure.table.tennis",
+            "womens": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 1106483264,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "Gym B; Feb 4",
+            "image": "",
+            "start_date": "2025-02-18 07:00:00",
+            "end_date": "2025-02-18 10:00:00",
+            "venue": "Gym B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "womens": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 2002509226,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-02-18 07:00:00",
+            "end_date": "2025-02-18 10:00:00",
+            "venue": "Gym A",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
             "womens": false,
             "weeklyRepetitions": [
                 "tu"
@@ -11454,6 +11454,24 @@
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=6c48d357-166c-4ea6-a705-d1545191ce8c",
             "sortCategory": "Mind & Body",
             "symbol": "figure.yoga",
+            "womens": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
+            "id": 2617554380,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "H2O Paddleboard Core",
+            "description": "Is your Core up to the challenge of UTM's Paddleboards? Engage your core and stabilizers as you move through a total body workout challenging you to stay on top of your paddleboard! \u00a0Simple movements become taxing with the added instability of the paddleboard. Light a fire in your core with this new class that is sure to leave you feeling strong, \u00a0mindful and more aware of your body.",
+            "image": "",
+            "start_date": "2025-02-20 13:10:00",
+            "end_date": "2025-02-20 13:55:00",
+            "venue": "Pool",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=364971f7-9541-436a-8240-eb1316dc8038",
+            "sortCategory": "Pool",
+            "symbol": "water.waves",
             "womens": false,
             "weeklyRepetitions": [
                 "th"
@@ -12844,42 +12862,6 @@
             ]
         },
         {
-            "id": 2060379981,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "Gym B; Feb 4",
-            "image": "",
-            "start_date": "2025-02-25 07:00:00",
-            "end_date": "2025-02-25 10:00:00",
-            "venue": "Gym B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "womens": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
-            "id": 3264488163,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Volleyball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-02-25 07:00:00",
-            "end_date": "2025-02-25 10:00:00",
-            "venue": "Gym A",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Volleyball",
-            "symbol": "volleyball",
-            "womens": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 3300914648,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-In Squash ",
@@ -12914,6 +12896,42 @@
             "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
             "sortCategory": "Table Tennis",
             "symbol": "figure.table.tennis",
+            "womens": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 2060379981,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "Gym B; Feb 4",
+            "image": "",
+            "start_date": "2025-02-25 07:00:00",
+            "end_date": "2025-02-25 10:00:00",
+            "venue": "Gym B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "womens": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 3264488163,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-02-25 07:00:00",
+            "end_date": "2025-02-25 10:00:00",
+            "venue": "Gym A",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
             "womens": false,
             "weeklyRepetitions": [
                 "tu"
@@ -13965,24 +13983,6 @@
             ]
         },
         {
-            "id": 228357458,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only: TRX Fusion",
-            "description": "This class will give you the opportunity to get fit using unique equipment such as TRX suspension systems, Equalizer bars, kettle bells and more. You\u2019ll get a good sweat while learning new skills, building strength, and endurance. All fitness levels welcome.",
-            "image": "",
-            "start_date": "2025-02-27 13:10:00",
-            "end_date": "2025-02-27 13:55:00",
-            "venue": "Strength & Conditioning Centre",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=224fa6a8-38a8-451e-bbdf-5b1ea2ff2a55&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "womens": true,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
             "id": 3889341128,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "H2O Paddleboard Core",
@@ -13996,6 +13996,24 @@
             "sortCategory": "Pool",
             "symbol": "water.waves",
             "womens": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
+            "id": 228357458,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Women's Only: TRX Fusion",
+            "description": "This class will give you the opportunity to get fit using unique equipment such as TRX suspension systems, Equalizer bars, kettle bells and more. You\u2019ll get a good sweat while learning new skills, building strength, and endurance. All fitness levels welcome.",
+            "image": "",
+            "start_date": "2025-02-27 13:10:00",
+            "end_date": "2025-02-27 13:55:00",
+            "venue": "Strength & Conditioning Centre",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=224fa6a8-38a8-451e-bbdf-5b1ea2ff2a55&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
+            "womens": true,
             "weeklyRepetitions": [
                 "th"
             ]
@@ -15496,42 +15514,6 @@
             ]
         },
         {
-            "id": 3868483328,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "Gym B; Feb 4",
-            "image": "",
-            "start_date": "2025-03-04 07:00:00",
-            "end_date": "2025-03-04 10:00:00",
-            "venue": "Gym B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "womens": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
-            "id": 122628877,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Volleyball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-03-04 07:00:00",
-            "end_date": "2025-03-04 10:00:00",
-            "venue": "Gym A",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Volleyball",
-            "symbol": "volleyball",
-            "womens": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 2841008306,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-In Squash ",
@@ -15566,6 +15548,42 @@
             "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
             "sortCategory": "Table Tennis",
             "symbol": "figure.table.tennis",
+            "womens": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 3868483328,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "Gym B; Feb 4",
+            "image": "",
+            "start_date": "2025-03-04 07:00:00",
+            "end_date": "2025-03-04 10:00:00",
+            "venue": "Gym B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "womens": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 122628877,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-04 07:00:00",
+            "end_date": "2025-03-04 10:00:00",
+            "venue": "Gym A",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
             "womens": false,
             "weeklyRepetitions": [
                 "tu"
@@ -16639,24 +16657,6 @@
             ]
         },
         {
-            "id": 1127275924,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only: TRX Fusion",
-            "description": "This class will give you the opportunity to get fit using unique equipment such as TRX suspension systems, Equalizer bars, kettle bells and more. You\u2019ll get a good sweat while learning new skills, building strength, and endurance. All fitness levels welcome.",
-            "image": "",
-            "start_date": "2025-03-06 13:10:00",
-            "end_date": "2025-03-06 13:55:00",
-            "venue": "Strength & Conditioning Centre",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=224fa6a8-38a8-451e-bbdf-5b1ea2ff2a55&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "womens": true,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
             "id": 2604566406,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "H2O Paddleboard Core",
@@ -16670,6 +16670,24 @@
             "sortCategory": "Pool",
             "symbol": "water.waves",
             "womens": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
+            "id": 1127275924,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Women's Only: TRX Fusion",
+            "description": "This class will give you the opportunity to get fit using unique equipment such as TRX suspension systems, Equalizer bars, kettle bells and more. You\u2019ll get a good sweat while learning new skills, building strength, and endurance. All fitness levels welcome.",
+            "image": "",
+            "start_date": "2025-03-06 13:10:00",
+            "end_date": "2025-03-06 13:55:00",
+            "venue": "Strength & Conditioning Centre",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=224fa6a8-38a8-451e-bbdf-5b1ea2ff2a55&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
+            "womens": true,
             "weeklyRepetitions": [
                 "th"
             ]
@@ -18138,42 +18156,6 @@
             ]
         },
         {
-            "id": 283042201,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "Gym B; Feb 4",
-            "image": "",
-            "start_date": "2025-03-11 07:00:00",
-            "end_date": "2025-03-11 10:00:00",
-            "venue": "Gym B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "womens": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
-            "id": 3601999039,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Volleyball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-03-11 07:00:00",
-            "end_date": "2025-03-11 10:00:00",
-            "venue": "Gym A",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Volleyball",
-            "symbol": "volleyball",
-            "womens": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 849764201,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-In Squash ",
@@ -18208,6 +18190,42 @@
             "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
             "sortCategory": "Table Tennis",
             "symbol": "figure.table.tennis",
+            "womens": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 283042201,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "Gym B; Feb 4",
+            "image": "",
+            "start_date": "2025-03-11 07:00:00",
+            "end_date": "2025-03-11 10:00:00",
+            "venue": "Gym B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "womens": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 3601999039,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-11 07:00:00",
+            "end_date": "2025-03-11 10:00:00",
+            "venue": "Gym A",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
             "womens": false,
             "weeklyRepetitions": [
                 "tu"
@@ -19297,24 +19315,6 @@
             ]
         },
         {
-            "id": 1320497981,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only: TRX Fusion",
-            "description": "This class will give you the opportunity to get fit using unique equipment such as TRX suspension systems, Equalizer bars, kettle bells and more. You\u2019ll get a good sweat while learning new skills, building strength, and endurance. All fitness levels welcome.",
-            "image": "",
-            "start_date": "2025-03-13 13:10:00",
-            "end_date": "2025-03-13 13:55:00",
-            "venue": "Strength & Conditioning Centre",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=224fa6a8-38a8-451e-bbdf-5b1ea2ff2a55&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "womens": true,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
             "id": 2517752211,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "H2O Paddleboard Core",
@@ -19328,6 +19328,24 @@
             "sortCategory": "Pool",
             "symbol": "water.waves",
             "womens": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
+            "id": 1320497981,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Women's Only: TRX Fusion",
+            "description": "This class will give you the opportunity to get fit using unique equipment such as TRX suspension systems, Equalizer bars, kettle bells and more. You\u2019ll get a good sweat while learning new skills, building strength, and endurance. All fitness levels welcome.",
+            "image": "",
+            "start_date": "2025-03-13 13:10:00",
+            "end_date": "2025-03-13 13:55:00",
+            "venue": "Strength & Conditioning Centre",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=224fa6a8-38a8-451e-bbdf-5b1ea2ff2a55&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
+            "womens": true,
             "weeklyRepetitions": [
                 "th"
             ]
@@ -20796,42 +20814,6 @@
             ]
         },
         {
-            "id": 2457223766,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "Gym B; Feb 4",
-            "image": "",
-            "start_date": "2025-03-18 07:00:00",
-            "end_date": "2025-03-18 10:00:00",
-            "venue": "Gym B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "womens": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
-            "id": 202502286,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Volleyball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-03-18 07:00:00",
-            "end_date": "2025-03-18 10:00:00",
-            "venue": "Gym A",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Volleyball",
-            "symbol": "volleyball",
-            "womens": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 3220837698,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-In Squash ",
@@ -20866,6 +20848,42 @@
             "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
             "sortCategory": "Table Tennis",
             "symbol": "figure.table.tennis",
+            "womens": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 2457223766,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "Gym B; Feb 4",
+            "image": "",
+            "start_date": "2025-03-18 07:00:00",
+            "end_date": "2025-03-18 10:00:00",
+            "venue": "Gym B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "womens": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 202502286,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-18 07:00:00",
+            "end_date": "2025-03-18 10:00:00",
+            "venue": "Gym A",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
             "womens": false,
             "weeklyRepetitions": [
                 "tu"
@@ -21955,24 +21973,6 @@
             ]
         },
         {
-            "id": 1641702532,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only: TRX Fusion",
-            "description": "This class will give you the opportunity to get fit using unique equipment such as TRX suspension systems, Equalizer bars, kettle bells and more. You\u2019ll get a good sweat while learning new skills, building strength, and endurance. All fitness levels welcome.",
-            "image": "",
-            "start_date": "2025-03-20 13:10:00",
-            "end_date": "2025-03-20 13:55:00",
-            "venue": "Strength & Conditioning Centre",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=224fa6a8-38a8-451e-bbdf-5b1ea2ff2a55&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "womens": true,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
             "id": 112250874,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "H2O Paddleboard Core",
@@ -21986,6 +21986,24 @@
             "sortCategory": "Pool",
             "symbol": "water.waves",
             "womens": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
+            "id": 1641702532,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Women's Only: TRX Fusion",
+            "description": "This class will give you the opportunity to get fit using unique equipment such as TRX suspension systems, Equalizer bars, kettle bells and more. You\u2019ll get a good sweat while learning new skills, building strength, and endurance. All fitness levels welcome.",
+            "image": "",
+            "start_date": "2025-03-20 13:10:00",
+            "end_date": "2025-03-20 13:55:00",
+            "venue": "Strength & Conditioning Centre",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=224fa6a8-38a8-451e-bbdf-5b1ea2ff2a55&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
+            "womens": true,
             "weeklyRepetitions": [
                 "th"
             ]
@@ -23486,42 +23504,6 @@
             ]
         },
         {
-            "id": 2743938024,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "Gym B; Feb 4",
-            "image": "",
-            "start_date": "2025-03-25 07:00:00",
-            "end_date": "2025-03-25 10:00:00",
-            "venue": "Gym B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "womens": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
-            "id": 2592638726,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Volleyball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-03-25 07:00:00",
-            "end_date": "2025-03-25 10:00:00",
-            "venue": "Gym A",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Volleyball",
-            "symbol": "volleyball",
-            "womens": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 3889725336,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-In Squash ",
@@ -23556,6 +23538,42 @@
             "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
             "sortCategory": "Table Tennis",
             "symbol": "figure.table.tennis",
+            "womens": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 2743938024,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "Gym B; Feb 4",
+            "image": "",
+            "start_date": "2025-03-25 07:00:00",
+            "end_date": "2025-03-25 10:00:00",
+            "venue": "Gym B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "womens": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 2592638726,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-25 07:00:00",
+            "end_date": "2025-03-25 10:00:00",
+            "venue": "Gym A",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
             "womens": false,
             "weeklyRepetitions": [
                 "tu"
@@ -24627,24 +24645,6 @@
             ]
         },
         {
-            "id": 1675194658,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only: TRX Fusion",
-            "description": "This class will give you the opportunity to get fit using unique equipment such as TRX suspension systems, Equalizer bars, kettle bells and more. You\u2019ll get a good sweat while learning new skills, building strength, and endurance. All fitness levels welcome.",
-            "image": "",
-            "start_date": "2025-03-27 13:10:00",
-            "end_date": "2025-03-27 13:55:00",
-            "venue": "Strength & Conditioning Centre",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=224fa6a8-38a8-451e-bbdf-5b1ea2ff2a55&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "womens": true,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
             "id": 2990590055,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "H2O Paddleboard Core",
@@ -24658,6 +24658,24 @@
             "sortCategory": "Pool",
             "symbol": "water.waves",
             "womens": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
+            "id": 1675194658,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Women's Only: TRX Fusion",
+            "description": "This class will give you the opportunity to get fit using unique equipment such as TRX suspension systems, Equalizer bars, kettle bells and more. You\u2019ll get a good sweat while learning new skills, building strength, and endurance. All fitness levels welcome.",
+            "image": "",
+            "start_date": "2025-03-27 13:10:00",
+            "end_date": "2025-03-27 13:55:00",
+            "venue": "Strength & Conditioning Centre",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=224fa6a8-38a8-451e-bbdf-5b1ea2ff2a55&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
+            "womens": true,
             "weeklyRepetitions": [
                 "th"
             ]
@@ -26070,42 +26088,6 @@
             ]
         },
         {
-            "id": 367839844,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "Gym B; Feb 4",
-            "image": "",
-            "start_date": "2025-04-01 07:00:00",
-            "end_date": "2025-04-01 10:00:00",
-            "venue": "Gym B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "womens": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
-            "id": 3848008577,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Volleyball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-04-01 07:00:00",
-            "end_date": "2025-04-01 10:00:00",
-            "venue": "Gym A",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Volleyball",
-            "symbol": "volleyball",
-            "womens": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 757919761,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-In Squash ",
@@ -26140,6 +26122,42 @@
             "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
             "sortCategory": "Table Tennis",
             "symbol": "figure.table.tennis",
+            "womens": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 367839844,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "Gym B; Feb 4",
+            "image": "",
+            "start_date": "2025-04-01 07:00:00",
+            "end_date": "2025-04-01 10:00:00",
+            "venue": "Gym B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "womens": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 3848008577,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-04-01 07:00:00",
+            "end_date": "2025-04-01 10:00:00",
+            "venue": "Gym A",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
             "womens": false,
             "weeklyRepetitions": [
                 "tu"
@@ -27158,24 +27176,6 @@
             ]
         },
         {
-            "id": 447536434,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only: TRX Fusion",
-            "description": "This class will give you the opportunity to get fit using unique equipment such as TRX suspension systems, Equalizer bars, kettle bells and more. You\u2019ll get a good sweat while learning new skills, building strength, and endurance. All fitness levels welcome.",
-            "image": "",
-            "start_date": "2025-04-03 13:10:00",
-            "end_date": "2025-04-03 13:55:00",
-            "venue": "Strength & Conditioning Centre",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=224fa6a8-38a8-451e-bbdf-5b1ea2ff2a55&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "womens": true,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
             "id": 2635491208,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "H2O Paddleboard Core",
@@ -27189,6 +27189,24 @@
             "sortCategory": "Pool",
             "symbol": "water.waves",
             "womens": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
+            "id": 447536434,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Women's Only: TRX Fusion",
+            "description": "This class will give you the opportunity to get fit using unique equipment such as TRX suspension systems, Equalizer bars, kettle bells and more. You\u2019ll get a good sweat while learning new skills, building strength, and endurance. All fitness levels welcome.",
+            "image": "",
+            "start_date": "2025-04-03 13:10:00",
+            "end_date": "2025-04-03 13:55:00",
+            "venue": "Strength & Conditioning Centre",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=224fa6a8-38a8-451e-bbdf-5b1ea2ff2a55&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
+            "womens": true,
             "weeklyRepetitions": [
                 "th"
             ]
