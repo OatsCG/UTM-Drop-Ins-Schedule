@@ -11473,9 +11473,7 @@
             "sortCategory": "Pool",
             "symbol": "water.waves",
             "womens": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
+            "weeklyRepetitions": []
         },
         {
             "id": 2589216152,
@@ -13483,24 +13481,6 @@
             ]
         },
         {
-            "id": 278406668,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Indigenous Learn to Swim",
-            "description": "Indigenous Learn to Swim is an introductory program for Indigenous identified students designed to focus on water safety and building your confidence in an aquatic environment - all skill levels are welcome! Our aquatic instructors will meet you at your current swimming level and work with you to develop and enhance your skills. Whether you\u2019re conquering floats and glides or beginning to learn your strokes, come by, say hi, and let us help you meet your swimming goals!",
-            "image": "",
-            "start_date": "2025-02-26 12:00:00",
-            "end_date": "2025-02-26 12:50:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=f3149e07-f12c-4216-9cf2-2880afad2021",
-            "sortCategory": "Pool",
-            "symbol": "figure.pool.swim",
-            "womens": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 1940626557,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "UTM Walks ",
@@ -13516,6 +13496,24 @@
             "womens": false,
             "weeklyRepetitions": [
                 "mo",
+                "we"
+            ]
+        },
+        {
+            "id": 278406668,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Indigenous Learn to Swim",
+            "description": "Indigenous Learn to Swim is an introductory program for Indigenous identified students designed to focus on water safety and building your confidence in an aquatic environment - all skill levels are welcome! Our aquatic instructors will meet you at your current swimming level and work with you to develop and enhance your skills. Whether you\u2019re conquering floats and glides or beginning to learn your strokes, come by, say hi, and let us help you meet your swimming goals!",
+            "image": "",
+            "start_date": "2025-02-26 12:00:00",
+            "end_date": "2025-02-26 12:50:00",
+            "venue": "Pool",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=f3149e07-f12c-4216-9cf2-2880afad2021",
+            "sortCategory": "Pool",
+            "symbol": "figure.pool.swim",
+            "womens": false,
+            "weeklyRepetitions": [
                 "we"
             ]
         },
@@ -13977,24 +13975,6 @@
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=6c48d357-166c-4ea6-a705-d1545191ce8c",
             "sortCategory": "Mind & Body",
             "symbol": "figure.yoga",
-            "womens": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
-            "id": 3889341128,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "H2O Paddleboard Core",
-            "description": "Is your Core up to the challenge of UTM's Paddleboards? Engage your core and stabilizers as you move through a total body workout challenging you to stay on top of your paddleboard! \u00a0Simple movements become taxing with the added instability of the paddleboard. Light a fire in your core with this new class that is sure to leave you feeling strong, \u00a0mindful and more aware of your body.",
-            "image": "",
-            "start_date": "2025-02-27 13:10:00",
-            "end_date": "2025-02-27 13:55:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=364971f7-9541-436a-8240-eb1316dc8038",
-            "sortCategory": "Pool",
-            "symbol": "water.waves",
             "womens": false,
             "weeklyRepetitions": [
                 "th"
@@ -14478,6 +14458,24 @@
                 "fr",
                 "mo",
                 "we"
+            ]
+        },
+        {
+            "id": 3198569121,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "H2O Paddleboard Core",
+            "description": "Is your Core up to the challenge of UTM's Paddleboards? Engage your core and stabilizers as you move through a total body workout challenging you to stay on top of your paddleboard! \u00a0Simple movements become taxing with the added instability of the paddleboard. Light a fire in your core with this new class that is sure to leave you feeling strong, \u00a0mindful and more aware of your body.",
+            "image": "",
+            "start_date": "2025-02-28 13:10:00",
+            "end_date": "2025-02-28 13:55:00",
+            "venue": "Pool",
+            "ticket_label": "Reserve Your Spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=364971f7-9541-436a-8240-eb1316dc8038&semesterId=00000000-0000-0000-0000-000000000000",
+            "sortCategory": "Pool",
+            "symbol": "water.waves",
+            "womens": false,
+            "weeklyRepetitions": [
+                "fr"
             ]
         },
         {
@@ -16171,24 +16169,6 @@
             ]
         },
         {
-            "id": 949222222,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Indigenous Learn to Swim",
-            "description": "Indigenous Learn to Swim is an introductory program for Indigenous identified students designed to focus on water safety and building your confidence in an aquatic environment - all skill levels are welcome! Our aquatic instructors will meet you at your current swimming level and work with you to develop and enhance your skills. Whether you\u2019re conquering floats and glides or beginning to learn your strokes, come by, say hi, and let us help you meet your swimming goals!",
-            "image": "",
-            "start_date": "2025-03-05 12:00:00",
-            "end_date": "2025-03-05 12:50:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=f3149e07-f12c-4216-9cf2-2880afad2021",
-            "sortCategory": "Pool",
-            "symbol": "figure.pool.swim",
-            "womens": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 682925042,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "UTM Walks ",
@@ -16204,6 +16184,24 @@
             "womens": false,
             "weeklyRepetitions": [
                 "mo",
+                "we"
+            ]
+        },
+        {
+            "id": 949222222,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Indigenous Learn to Swim",
+            "description": "Indigenous Learn to Swim is an introductory program for Indigenous identified students designed to focus on water safety and building your confidence in an aquatic environment - all skill levels are welcome! Our aquatic instructors will meet you at your current swimming level and work with you to develop and enhance your skills. Whether you\u2019re conquering floats and glides or beginning to learn your strokes, come by, say hi, and let us help you meet your swimming goals!",
+            "image": "",
+            "start_date": "2025-03-05 12:00:00",
+            "end_date": "2025-03-05 12:50:00",
+            "venue": "Pool",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=f3149e07-f12c-4216-9cf2-2880afad2021",
+            "sortCategory": "Pool",
+            "symbol": "figure.pool.swim",
+            "womens": false,
+            "weeklyRepetitions": [
                 "we"
             ]
         },
@@ -16651,24 +16649,6 @@
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=6c48d357-166c-4ea6-a705-d1545191ce8c",
             "sortCategory": "Mind & Body",
             "symbol": "figure.yoga",
-            "womens": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
-            "id": 2604566406,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "H2O Paddleboard Core",
-            "description": "Is your Core up to the challenge of UTM's Paddleboards? Engage your core and stabilizers as you move through a total body workout challenging you to stay on top of your paddleboard! \u00a0Simple movements become taxing with the added instability of the paddleboard. Light a fire in your core with this new class that is sure to leave you feeling strong, \u00a0mindful and more aware of your body.",
-            "image": "",
-            "start_date": "2025-03-06 13:10:00",
-            "end_date": "2025-03-06 13:55:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=364971f7-9541-436a-8240-eb1316dc8038",
-            "sortCategory": "Pool",
-            "symbol": "water.waves",
             "womens": false,
             "weeklyRepetitions": [
                 "th"
@@ -17152,6 +17132,24 @@
                 "fr",
                 "mo",
                 "we"
+            ]
+        },
+        {
+            "id": 2479618905,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "H2O Paddleboard Core",
+            "description": "Is your Core up to the challenge of UTM's Paddleboards? Engage your core and stabilizers as you move through a total body workout challenging you to stay on top of your paddleboard! \u00a0Simple movements become taxing with the added instability of the paddleboard. Light a fire in your core with this new class that is sure to leave you feeling strong, \u00a0mindful and more aware of your body.",
+            "image": "",
+            "start_date": "2025-03-07 13:10:00",
+            "end_date": "2025-03-07 13:55:00",
+            "venue": "Pool",
+            "ticket_label": "Reserve Your Spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=364971f7-9541-436a-8240-eb1316dc8038&semesterId=00000000-0000-0000-0000-000000000000",
+            "sortCategory": "Pool",
+            "symbol": "water.waves",
+            "womens": false,
+            "weeklyRepetitions": [
+                "fr"
             ]
         },
         {
@@ -18813,24 +18811,6 @@
             ]
         },
         {
-            "id": 466788038,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Indigenous Learn to Swim",
-            "description": "Indigenous Learn to Swim is an introductory program for Indigenous identified students designed to focus on water safety and building your confidence in an aquatic environment - all skill levels are welcome! Our aquatic instructors will meet you at your current swimming level and work with you to develop and enhance your skills. Whether you\u2019re conquering floats and glides or beginning to learn your strokes, come by, say hi, and let us help you meet your swimming goals!",
-            "image": "",
-            "start_date": "2025-03-12 12:00:00",
-            "end_date": "2025-03-12 12:50:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=f3149e07-f12c-4216-9cf2-2880afad2021",
-            "sortCategory": "Pool",
-            "symbol": "figure.pool.swim",
-            "womens": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 2535753888,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "UTM Walks ",
@@ -18846,6 +18826,24 @@
             "womens": false,
             "weeklyRepetitions": [
                 "mo",
+                "we"
+            ]
+        },
+        {
+            "id": 466788038,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Indigenous Learn to Swim",
+            "description": "Indigenous Learn to Swim is an introductory program for Indigenous identified students designed to focus on water safety and building your confidence in an aquatic environment - all skill levels are welcome! Our aquatic instructors will meet you at your current swimming level and work with you to develop and enhance your skills. Whether you\u2019re conquering floats and glides or beginning to learn your strokes, come by, say hi, and let us help you meet your swimming goals!",
+            "image": "",
+            "start_date": "2025-03-12 12:00:00",
+            "end_date": "2025-03-12 12:50:00",
+            "venue": "Pool",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=f3149e07-f12c-4216-9cf2-2880afad2021",
+            "sortCategory": "Pool",
+            "symbol": "figure.pool.swim",
+            "womens": false,
+            "weeklyRepetitions": [
                 "we"
             ]
         },
@@ -19309,24 +19307,6 @@
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=6c48d357-166c-4ea6-a705-d1545191ce8c",
             "sortCategory": "Mind & Body",
             "symbol": "figure.yoga",
-            "womens": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
-            "id": 2517752211,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "H2O Paddleboard Core",
-            "description": "Is your Core up to the challenge of UTM's Paddleboards? Engage your core and stabilizers as you move through a total body workout challenging you to stay on top of your paddleboard! \u00a0Simple movements become taxing with the added instability of the paddleboard. Light a fire in your core with this new class that is sure to leave you feeling strong, \u00a0mindful and more aware of your body.",
-            "image": "",
-            "start_date": "2025-03-13 13:10:00",
-            "end_date": "2025-03-13 13:55:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=364971f7-9541-436a-8240-eb1316dc8038",
-            "sortCategory": "Pool",
-            "symbol": "water.waves",
             "womens": false,
             "weeklyRepetitions": [
                 "th"
@@ -19810,6 +19790,24 @@
                 "fr",
                 "mo",
                 "we"
+            ]
+        },
+        {
+            "id": 2267681545,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "H2O Paddleboard Core",
+            "description": "Is your Core up to the challenge of UTM's Paddleboards? Engage your core and stabilizers as you move through a total body workout challenging you to stay on top of your paddleboard! \u00a0Simple movements become taxing with the added instability of the paddleboard. Light a fire in your core with this new class that is sure to leave you feeling strong, \u00a0mindful and more aware of your body.",
+            "image": "",
+            "start_date": "2025-03-14 13:10:00",
+            "end_date": "2025-03-14 13:55:00",
+            "venue": "Pool",
+            "ticket_label": "Reserve Your Spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=364971f7-9541-436a-8240-eb1316dc8038&semesterId=00000000-0000-0000-0000-000000000000",
+            "sortCategory": "Pool",
+            "symbol": "water.waves",
+            "womens": false,
+            "weeklyRepetitions": [
+                "fr"
             ]
         },
         {
@@ -21471,24 +21469,6 @@
             ]
         },
         {
-            "id": 338338834,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Indigenous Learn to Swim",
-            "description": "Indigenous Learn to Swim is an introductory program for Indigenous identified students designed to focus on water safety and building your confidence in an aquatic environment - all skill levels are welcome! Our aquatic instructors will meet you at your current swimming level and work with you to develop and enhance your skills. Whether you\u2019re conquering floats and glides or beginning to learn your strokes, come by, say hi, and let us help you meet your swimming goals!",
-            "image": "",
-            "start_date": "2025-03-19 12:00:00",
-            "end_date": "2025-03-19 12:50:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=f3149e07-f12c-4216-9cf2-2880afad2021",
-            "sortCategory": "Pool",
-            "symbol": "figure.pool.swim",
-            "womens": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 2025707893,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "UTM Walks ",
@@ -21504,6 +21484,24 @@
             "womens": false,
             "weeklyRepetitions": [
                 "mo",
+                "we"
+            ]
+        },
+        {
+            "id": 338338834,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Indigenous Learn to Swim",
+            "description": "Indigenous Learn to Swim is an introductory program for Indigenous identified students designed to focus on water safety and building your confidence in an aquatic environment - all skill levels are welcome! Our aquatic instructors will meet you at your current swimming level and work with you to develop and enhance your skills. Whether you\u2019re conquering floats and glides or beginning to learn your strokes, come by, say hi, and let us help you meet your swimming goals!",
+            "image": "",
+            "start_date": "2025-03-19 12:00:00",
+            "end_date": "2025-03-19 12:50:00",
+            "venue": "Pool",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=f3149e07-f12c-4216-9cf2-2880afad2021",
+            "sortCategory": "Pool",
+            "symbol": "figure.pool.swim",
+            "womens": false,
+            "weeklyRepetitions": [
                 "we"
             ]
         },
@@ -21967,24 +21965,6 @@
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=6c48d357-166c-4ea6-a705-d1545191ce8c",
             "sortCategory": "Mind & Body",
             "symbol": "figure.yoga",
-            "womens": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
-            "id": 112250874,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "H2O Paddleboard Core",
-            "description": "Is your Core up to the challenge of UTM's Paddleboards? Engage your core and stabilizers as you move through a total body workout challenging you to stay on top of your paddleboard! \u00a0Simple movements become taxing with the added instability of the paddleboard. Light a fire in your core with this new class that is sure to leave you feeling strong, \u00a0mindful and more aware of your body.",
-            "image": "",
-            "start_date": "2025-03-20 13:10:00",
-            "end_date": "2025-03-20 13:55:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=364971f7-9541-436a-8240-eb1316dc8038",
-            "sortCategory": "Pool",
-            "symbol": "water.waves",
             "womens": false,
             "weeklyRepetitions": [
                 "th"
@@ -22500,6 +22480,24 @@
                 "fr",
                 "mo",
                 "we"
+            ]
+        },
+        {
+            "id": 1381293879,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "H2O Paddleboard Core",
+            "description": "Is your Core up to the challenge of UTM's Paddleboards? Engage your core and stabilizers as you move through a total body workout challenging you to stay on top of your paddleboard! \u00a0Simple movements become taxing with the added instability of the paddleboard. Light a fire in your core with this new class that is sure to leave you feeling strong, \u00a0mindful and more aware of your body.",
+            "image": "",
+            "start_date": "2025-03-21 13:10:00",
+            "end_date": "2025-03-21 13:55:00",
+            "venue": "Pool",
+            "ticket_label": "Reserve Your Spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=364971f7-9541-436a-8240-eb1316dc8038&semesterId=00000000-0000-0000-0000-000000000000",
+            "sortCategory": "Pool",
+            "symbol": "water.waves",
+            "womens": false,
+            "weeklyRepetitions": [
+                "fr"
             ]
         },
         {
@@ -24161,24 +24159,6 @@
             ]
         },
         {
-            "id": 2176031569,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Indigenous Learn to Swim",
-            "description": "Indigenous Learn to Swim is an introductory program for Indigenous identified students designed to focus on water safety and building your confidence in an aquatic environment - all skill levels are welcome! Our aquatic instructors will meet you at your current swimming level and work with you to develop and enhance your skills. Whether you\u2019re conquering floats and glides or beginning to learn your strokes, come by, say hi, and let us help you meet your swimming goals!",
-            "image": "",
-            "start_date": "2025-03-26 12:00:00",
-            "end_date": "2025-03-26 12:50:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=f3149e07-f12c-4216-9cf2-2880afad2021",
-            "sortCategory": "Pool",
-            "symbol": "figure.pool.swim",
-            "womens": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 1351624059,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "UTM Walks ",
@@ -24194,6 +24174,24 @@
             "womens": false,
             "weeklyRepetitions": [
                 "mo",
+                "we"
+            ]
+        },
+        {
+            "id": 2176031569,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Indigenous Learn to Swim",
+            "description": "Indigenous Learn to Swim is an introductory program for Indigenous identified students designed to focus on water safety and building your confidence in an aquatic environment - all skill levels are welcome! Our aquatic instructors will meet you at your current swimming level and work with you to develop and enhance your skills. Whether you\u2019re conquering floats and glides or beginning to learn your strokes, come by, say hi, and let us help you meet your swimming goals!",
+            "image": "",
+            "start_date": "2025-03-26 12:00:00",
+            "end_date": "2025-03-26 12:50:00",
+            "venue": "Pool",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=f3149e07-f12c-4216-9cf2-2880afad2021",
+            "sortCategory": "Pool",
+            "symbol": "figure.pool.swim",
+            "womens": false,
+            "weeklyRepetitions": [
                 "we"
             ]
         },
@@ -24639,24 +24637,6 @@
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=6c48d357-166c-4ea6-a705-d1545191ce8c",
             "sortCategory": "Mind & Body",
             "symbol": "figure.yoga",
-            "womens": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
-            "id": 2990590055,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "H2O Paddleboard Core",
-            "description": "Is your Core up to the challenge of UTM's Paddleboards? Engage your core and stabilizers as you move through a total body workout challenging you to stay on top of your paddleboard! \u00a0Simple movements become taxing with the added instability of the paddleboard. Light a fire in your core with this new class that is sure to leave you feeling strong, \u00a0mindful and more aware of your body.",
-            "image": "",
-            "start_date": "2025-03-27 13:10:00",
-            "end_date": "2025-03-27 13:55:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=364971f7-9541-436a-8240-eb1316dc8038",
-            "sortCategory": "Pool",
-            "symbol": "water.waves",
             "womens": false,
             "weeklyRepetitions": [
                 "th"
@@ -25156,6 +25136,24 @@
                 "fr",
                 "mo",
                 "we"
+            ]
+        },
+        {
+            "id": 1043439340,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "H2O Paddleboard Core",
+            "description": "Is your Core up to the challenge of UTM's Paddleboards? Engage your core and stabilizers as you move through a total body workout challenging you to stay on top of your paddleboard! \u00a0Simple movements become taxing with the added instability of the paddleboard. Light a fire in your core with this new class that is sure to leave you feeling strong, \u00a0mindful and more aware of your body.",
+            "image": "",
+            "start_date": "2025-03-28 13:10:00",
+            "end_date": "2025-03-28 13:55:00",
+            "venue": "Pool",
+            "ticket_label": "Reserve Your Spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=364971f7-9541-436a-8240-eb1316dc8038&semesterId=00000000-0000-0000-0000-000000000000",
+            "sortCategory": "Pool",
+            "symbol": "water.waves",
+            "womens": false,
+            "weeklyRepetitions": [
+                "fr"
             ]
         },
         {
@@ -26745,24 +26743,6 @@
             ]
         },
         {
-            "id": 3815808692,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Indigenous Learn to Swim",
-            "description": "Indigenous Learn to Swim is an introductory program for Indigenous identified students designed to focus on water safety and building your confidence in an aquatic environment - all skill levels are welcome! Our aquatic instructors will meet you at your current swimming level and work with you to develop and enhance your skills. Whether you\u2019re conquering floats and glides or beginning to learn your strokes, come by, say hi, and let us help you meet your swimming goals!",
-            "image": "",
-            "start_date": "2025-04-02 12:00:00",
-            "end_date": "2025-04-02 12:50:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=f3149e07-f12c-4216-9cf2-2880afad2021",
-            "sortCategory": "Pool",
-            "symbol": "figure.pool.swim",
-            "womens": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 2153987088,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "UTM Walks ",
@@ -26778,6 +26758,24 @@
             "womens": false,
             "weeklyRepetitions": [
                 "mo",
+                "we"
+            ]
+        },
+        {
+            "id": 3815808692,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Indigenous Learn to Swim",
+            "description": "Indigenous Learn to Swim is an introductory program for Indigenous identified students designed to focus on water safety and building your confidence in an aquatic environment - all skill levels are welcome! Our aquatic instructors will meet you at your current swimming level and work with you to develop and enhance your skills. Whether you\u2019re conquering floats and glides or beginning to learn your strokes, come by, say hi, and let us help you meet your swimming goals!",
+            "image": "",
+            "start_date": "2025-04-02 12:00:00",
+            "end_date": "2025-04-02 12:50:00",
+            "venue": "Pool",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=f3149e07-f12c-4216-9cf2-2880afad2021",
+            "sortCategory": "Pool",
+            "symbol": "figure.pool.swim",
+            "womens": false,
+            "weeklyRepetitions": [
                 "we"
             ]
         },
@@ -27170,24 +27168,6 @@
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=6c48d357-166c-4ea6-a705-d1545191ce8c",
             "sortCategory": "Mind & Body",
             "symbol": "figure.yoga",
-            "womens": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
-            "id": 2635491208,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "H2O Paddleboard Core",
-            "description": "Is your Core up to the challenge of UTM's Paddleboards? Engage your core and stabilizers as you move through a total body workout challenging you to stay on top of your paddleboard! \u00a0Simple movements become taxing with the added instability of the paddleboard. Light a fire in your core with this new class that is sure to leave you feeling strong, \u00a0mindful and more aware of your body.",
-            "image": "",
-            "start_date": "2025-04-03 13:10:00",
-            "end_date": "2025-04-03 13:55:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=364971f7-9541-436a-8240-eb1316dc8038",
-            "sortCategory": "Pool",
-            "symbol": "water.waves",
             "womens": false,
             "weeklyRepetitions": [
                 "th"
@@ -27635,6 +27615,24 @@
                 "fr",
                 "mo",
                 "we"
+            ]
+        },
+        {
+            "id": 996416582,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "H2O Paddleboard Core",
+            "description": "Is your Core up to the challenge of UTM's Paddleboards? Engage your core and stabilizers as you move through a total body workout challenging you to stay on top of your paddleboard! \u00a0Simple movements become taxing with the added instability of the paddleboard. Light a fire in your core with this new class that is sure to leave you feeling strong, \u00a0mindful and more aware of your body.",
+            "image": "",
+            "start_date": "2025-04-04 13:10:00",
+            "end_date": "2025-04-04 13:55:00",
+            "venue": "Pool",
+            "ticket_label": "Reserve Your Spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=364971f7-9541-436a-8240-eb1316dc8038&semesterId=00000000-0000-0000-0000-000000000000",
+            "sortCategory": "Pool",
+            "symbol": "water.waves",
+            "womens": false,
+            "weeklyRepetitions": [
+                "fr"
             ]
         },
         {
