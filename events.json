@@ -11257,6 +11257,54 @@
             ]
         },
         {
+            "id": 1088840232,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Table Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2025-02-20 07:00:00",
+            "end_date": "2025-02-20 22:00:00",
+            "venue": "Multipurpose B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Table Tennis",
+            "symbol": "figure.table.tennis",
+            "womens": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 1762119912,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-02-20 07:00:00",
+            "end_date": "2025-02-20 18:45:00",
+            "venue": "Gym B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "womens": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 2104608220,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-02-20 07:00:00",
+            "end_date": "2025-02-20 18:45:00",
+            "venue": "Gym A",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "womens": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 3303044421,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-In Squash ",
@@ -11333,6 +11381,22 @@
             ]
         },
         {
+            "id": 718950833,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Indoor Soccer",
+            "description": "",
+            "image": "",
+            "start_date": "2025-02-20 07:00:00",
+            "end_date": "2025-02-20 12:00:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Soccer",
+            "symbol": "soccerball",
+            "womens": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 3194571676,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Indoor Cycling",
@@ -11368,38 +11432,6 @@
                 "th",
                 "tu"
             ]
-        },
-        {
-            "id": 4006331483,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Open Volleyball Tournament",
-            "description": "",
-            "image": "",
-            "start_date": "2025-02-20 09:00:00",
-            "end_date": "2025-02-20 13:30:00",
-            "venue": "Gym A/B",
-            "ticket_label": "learn more",
-            "ticket_url": "uoft.me/utmintramurals",
-            "sortCategory": "Volleyball",
-            "symbol": "volleyball",
-            "womens": false,
-            "weeklyRepetitions": []
-        },
-        {
-            "id": 2363797865,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Table Tennis Tournament",
-            "description": "",
-            "image": "",
-            "start_date": "2025-02-20 09:00:00",
-            "end_date": "2025-02-20 17:00:00",
-            "venue": "Multipurpose A",
-            "ticket_label": "Learn More",
-            "ticket_url": "uoft.me/utmintramurals",
-            "sortCategory": "Table Tennis",
-            "symbol": "figure.table.tennis",
-            "womens": false,
-            "weeklyRepetitions": []
         },
         {
             "id": 65504051,
@@ -11460,6 +11492,22 @@
             ]
         },
         {
+            "id": 1325450059,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2025-02-20 12:30:00",
+            "end_date": "2025-02-20 14:30:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "womens": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 2617554380,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "H2O Paddleboard Core",
@@ -11506,6 +11554,42 @@
             "symbol": "figure.badminton",
             "womens": false,
             "weeklyRepetitions": []
+        },
+        {
+            "id": 370101146,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "2SLGTBQ+ Solidarity Swim",
+            "description": "\u00a0A welcoming and inclusive swim session designed specifically for the 2SLGBTQ+ community! This unique swim session is divided into two parts: half dedicated to fitness swimming and the other half to recreational swimming. Whether you're looking to get some laps in or simply enjoy a relaxing time in the pool, this event is for you. This swim session is visually isolated. Community members are encouraged to bring a friend along. If you\u2019d like to walk in with fellow swimmers, please meet our Aquatics staff member at the Davis Building RAWC entrance 15 min before the start of the program.",
+            "image": "",
+            "start_date": "2025-02-20 16:00:00",
+            "end_date": "2025-02-20 17:00:00",
+            "venue": "TBD",
+            "ticket_label": "Reserve your sport",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=0465236b-2f32-4b2a-97b1-af1ca7693be8",
+            "sortCategory": "Pool",
+            "symbol": "figure.pool.swim",
+            "womens": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
+            "id": 2938741257,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Women's Only: Hypertrophy 101",
+            "description": "Our hypertrophy class is designed to build muscle size.\u00a0This tailored program will combine an educational piece and a targeted workout where you will learn how to efficiently build body mass and build confidence\u00a0in your body's capabilities.\u00a0We will focus on proper form, technique, and tempo of specific exercises and muscle groups to safely help you get to your fitness goals. Embrace the challenge, push your limits, and see results, as you sculpt a stronger, more powerful you! The class is suitable for all levels of fitness.\u00a0",
+            "image": "",
+            "start_date": "2025-02-20 16:10:00",
+            "end_date": "2025-02-20 16:55:00",
+            "venue": "Strength & Conditioning Centre",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/program/GetProgramDetails?courseId=81ecd9bc-e525-4bb1-ac6d-535cf5fc646f",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
+            "womens": true,
+            "weeklyRepetitions": [
+                "th"
+            ]
         },
         {
             "id": 759241801,
@@ -11560,6 +11644,22 @@
             "weeklyRepetitions": [
                 "th"
             ]
+        },
+        {
+            "id": 113629641,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2025-02-20 18:45:00",
+            "end_date": "2025-02-20 21:30:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "womens": false,
+            "weeklyRepetitions": []
         },
         {
             "id": 4004684562,
@@ -13365,24 +13465,6 @@
             ]
         },
         {
-            "id": 2218964009,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Table Tennis ",
-            "description": "",
-            "image": "",
-            "start_date": "2025-02-26 07:00:00",
-            "end_date": "2025-02-26 21:30:00",
-            "venue": "Multipurpose B",
-            "ticket_label": "Book a Court ",
-            "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
-            "sortCategory": "Table Tennis",
-            "symbol": "figure.table.tennis",
-            "womens": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 2231736846,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Table Tennis",
@@ -13400,6 +13482,24 @@
                 "mo",
                 "th",
                 "tu",
+                "we"
+            ]
+        },
+        {
+            "id": 2218964009,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Table Tennis ",
+            "description": "",
+            "image": "",
+            "start_date": "2025-02-26 07:00:00",
+            "end_date": "2025-02-26 21:30:00",
+            "venue": "Multipurpose B",
+            "ticket_label": "Book a Court ",
+            "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
+            "sortCategory": "Table Tennis",
+            "symbol": "figure.table.tennis",
+            "womens": false,
+            "weeklyRepetitions": [
                 "we"
             ]
         },
@@ -13743,6 +13843,27 @@
             ]
         },
         {
+            "id": 2195493714,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Table Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2025-02-27 07:00:00",
+            "end_date": "2025-02-27 21:30:00",
+            "venue": "Multipurpose B",
+            "ticket_label": "Book a Court ",
+            "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
+            "sortCategory": "Table Tennis",
+            "symbol": "figure.table.tennis",
+            "womens": false,
+            "weeklyRepetitions": [
+                "mo",
+                "th",
+                "tu",
+                "we"
+            ]
+        },
+        {
             "id": 4081841833,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Adaptive Fitness Swim",
@@ -13794,27 +13915,6 @@
             "womens": false,
             "weeklyRepetitions": [
                 "th"
-            ]
-        },
-        {
-            "id": 2195493714,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Table Tennis",
-            "description": "",
-            "image": "",
-            "start_date": "2025-02-27 07:00:00",
-            "end_date": "2025-02-27 21:30:00",
-            "venue": "Multipurpose B",
-            "ticket_label": "Book a Court ",
-            "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
-            "sortCategory": "Table Tennis",
-            "symbol": "figure.table.tennis",
-            "womens": false,
-            "weeklyRepetitions": [
-                "mo",
-                "th",
-                "tu",
-                "we"
             ]
         },
         {
@@ -16035,24 +16135,6 @@
             ]
         },
         {
-            "id": 3545517626,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Table Tennis ",
-            "description": "",
-            "image": "",
-            "start_date": "2025-03-05 07:00:00",
-            "end_date": "2025-03-05 21:30:00",
-            "venue": "Multipurpose B",
-            "ticket_label": "Book a Court ",
-            "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
-            "sortCategory": "Table Tennis",
-            "symbol": "figure.table.tennis",
-            "womens": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 135479568,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Table Tennis",
@@ -16070,6 +16152,24 @@
                 "mo",
                 "th",
                 "tu",
+                "we"
+            ]
+        },
+        {
+            "id": 3545517626,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Table Tennis ",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-05 07:00:00",
+            "end_date": "2025-03-05 21:30:00",
+            "venue": "Multipurpose B",
+            "ticket_label": "Book a Court ",
+            "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
+            "sortCategory": "Table Tennis",
+            "symbol": "figure.table.tennis",
+            "womens": false,
+            "weeklyRepetitions": [
                 "we"
             ]
         },
@@ -16449,6 +16549,27 @@
             ]
         },
         {
+            "id": 824788428,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Table Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-06 07:00:00",
+            "end_date": "2025-03-06 21:30:00",
+            "venue": "Multipurpose B",
+            "ticket_label": "Book a Court ",
+            "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
+            "sortCategory": "Table Tennis",
+            "symbol": "figure.table.tennis",
+            "womens": false,
+            "weeklyRepetitions": [
+                "mo",
+                "th",
+                "tu",
+                "we"
+            ]
+        },
+        {
             "id": 3878621430,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Adaptive Fitness Swim",
@@ -16500,27 +16621,6 @@
             "womens": false,
             "weeklyRepetitions": [
                 "th"
-            ]
-        },
-        {
-            "id": 824788428,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Table Tennis",
-            "description": "",
-            "image": "",
-            "start_date": "2025-03-06 07:00:00",
-            "end_date": "2025-03-06 21:30:00",
-            "venue": "Multipurpose B",
-            "ticket_label": "Book a Court ",
-            "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
-            "sortCategory": "Table Tennis",
-            "symbol": "figure.table.tennis",
-            "womens": false,
-            "weeklyRepetitions": [
-                "mo",
-                "th",
-                "tu",
-                "we"
             ]
         },
         {
@@ -18677,24 +18777,6 @@
             ]
         },
         {
-            "id": 493382943,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Table Tennis ",
-            "description": "",
-            "image": "",
-            "start_date": "2025-03-12 07:00:00",
-            "end_date": "2025-03-12 21:30:00",
-            "venue": "Multipurpose B",
-            "ticket_label": "Book a Court ",
-            "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
-            "sortCategory": "Table Tennis",
-            "symbol": "figure.table.tennis",
-            "womens": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 1528883102,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Table Tennis",
@@ -18712,6 +18794,24 @@
                 "mo",
                 "th",
                 "tu",
+                "we"
+            ]
+        },
+        {
+            "id": 493382943,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Table Tennis ",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-12 07:00:00",
+            "end_date": "2025-03-12 21:30:00",
+            "venue": "Multipurpose B",
+            "ticket_label": "Book a Court ",
+            "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
+            "sortCategory": "Table Tennis",
+            "symbol": "figure.table.tennis",
+            "womens": false,
+            "weeklyRepetitions": [
                 "we"
             ]
         },
@@ -19107,6 +19207,27 @@
             ]
         },
         {
+            "id": 4245853056,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Table Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-13 07:00:00",
+            "end_date": "2025-03-13 21:30:00",
+            "venue": "Multipurpose B",
+            "ticket_label": "Book a Court ",
+            "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
+            "sortCategory": "Table Tennis",
+            "symbol": "figure.table.tennis",
+            "womens": false,
+            "weeklyRepetitions": [
+                "mo",
+                "th",
+                "tu",
+                "we"
+            ]
+        },
+        {
             "id": 2146800279,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Adaptive Fitness Swim",
@@ -19158,27 +19279,6 @@
             "womens": false,
             "weeklyRepetitions": [
                 "th"
-            ]
-        },
-        {
-            "id": 4245853056,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Table Tennis",
-            "description": "",
-            "image": "",
-            "start_date": "2025-03-13 07:00:00",
-            "end_date": "2025-03-13 21:30:00",
-            "venue": "Multipurpose B",
-            "ticket_label": "Book a Court ",
-            "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
-            "sortCategory": "Table Tennis",
-            "symbol": "figure.table.tennis",
-            "womens": false,
-            "weeklyRepetitions": [
-                "mo",
-                "th",
-                "tu",
-                "we"
             ]
         },
         {
@@ -21335,24 +21435,6 @@
             ]
         },
         {
-            "id": 4285892268,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Table Tennis ",
-            "description": "",
-            "image": "",
-            "start_date": "2025-03-19 07:00:00",
-            "end_date": "2025-03-19 21:30:00",
-            "venue": "Multipurpose B",
-            "ticket_label": "Book a Court ",
-            "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
-            "sortCategory": "Table Tennis",
-            "symbol": "figure.table.tennis",
-            "womens": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 3449225817,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Table Tennis",
@@ -21370,6 +21452,24 @@
                 "mo",
                 "th",
                 "tu",
+                "we"
+            ]
+        },
+        {
+            "id": 4285892268,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Table Tennis ",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-19 07:00:00",
+            "end_date": "2025-03-19 21:30:00",
+            "venue": "Multipurpose B",
+            "ticket_label": "Book a Court ",
+            "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
+            "sortCategory": "Table Tennis",
+            "symbol": "figure.table.tennis",
+            "womens": false,
+            "weeklyRepetitions": [
                 "we"
             ]
         },
@@ -21765,6 +21865,27 @@
             ]
         },
         {
+            "id": 3559348492,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Table Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-20 07:00:00",
+            "end_date": "2025-03-20 21:30:00",
+            "venue": "Multipurpose B",
+            "ticket_label": "Book a Court ",
+            "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
+            "sortCategory": "Table Tennis",
+            "symbol": "figure.table.tennis",
+            "womens": false,
+            "weeklyRepetitions": [
+                "mo",
+                "th",
+                "tu",
+                "we"
+            ]
+        },
+        {
             "id": 1085629001,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Adaptive Fitness Swim",
@@ -21816,27 +21937,6 @@
             "womens": false,
             "weeklyRepetitions": [
                 "th"
-            ]
-        },
-        {
-            "id": 3559348492,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Table Tennis",
-            "description": "",
-            "image": "",
-            "start_date": "2025-03-20 07:00:00",
-            "end_date": "2025-03-20 21:30:00",
-            "venue": "Multipurpose B",
-            "ticket_label": "Book a Court ",
-            "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
-            "sortCategory": "Table Tennis",
-            "symbol": "figure.table.tennis",
-            "womens": false,
-            "weeklyRepetitions": [
-                "mo",
-                "th",
-                "tu",
-                "we"
             ]
         },
         {
@@ -24025,24 +24125,6 @@
             ]
         },
         {
-            "id": 1181897696,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Table Tennis ",
-            "description": "",
-            "image": "",
-            "start_date": "2025-03-26 07:00:00",
-            "end_date": "2025-03-26 21:30:00",
-            "venue": "Multipurpose B",
-            "ticket_label": "Book a Court ",
-            "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
-            "sortCategory": "Table Tennis",
-            "symbol": "figure.table.tennis",
-            "womens": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 3849803432,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Table Tennis",
@@ -24060,6 +24142,24 @@
                 "mo",
                 "th",
                 "tu",
+                "we"
+            ]
+        },
+        {
+            "id": 1181897696,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Table Tennis ",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-26 07:00:00",
+            "end_date": "2025-03-26 21:30:00",
+            "venue": "Multipurpose B",
+            "ticket_label": "Book a Court ",
+            "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
+            "sortCategory": "Table Tennis",
+            "symbol": "figure.table.tennis",
+            "womens": false,
+            "weeklyRepetitions": [
                 "we"
             ]
         },
@@ -24437,6 +24537,27 @@
             ]
         },
         {
+            "id": 2088702085,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Table Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-27 07:00:00",
+            "end_date": "2025-03-27 21:30:00",
+            "venue": "Multipurpose B",
+            "ticket_label": "Book a Court ",
+            "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
+            "sortCategory": "Table Tennis",
+            "symbol": "figure.table.tennis",
+            "womens": false,
+            "weeklyRepetitions": [
+                "mo",
+                "th",
+                "tu",
+                "we"
+            ]
+        },
+        {
             "id": 3015153323,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Adaptive Fitness Swim",
@@ -24488,27 +24609,6 @@
             "womens": false,
             "weeklyRepetitions": [
                 "th"
-            ]
-        },
-        {
-            "id": 2088702085,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Table Tennis",
-            "description": "",
-            "image": "",
-            "start_date": "2025-03-27 07:00:00",
-            "end_date": "2025-03-27 21:30:00",
-            "venue": "Multipurpose B",
-            "ticket_label": "Book a Court ",
-            "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
-            "sortCategory": "Table Tennis",
-            "symbol": "figure.table.tennis",
-            "womens": false,
-            "weeklyRepetitions": [
-                "mo",
-                "th",
-                "tu",
-                "we"
             ]
         },
         {
@@ -26609,24 +26709,6 @@
             ]
         },
         {
-            "id": 2173950647,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Table Tennis ",
-            "description": "",
-            "image": "",
-            "start_date": "2025-04-02 07:00:00",
-            "end_date": "2025-04-02 21:30:00",
-            "venue": "Multipurpose B",
-            "ticket_label": "Book a Court ",
-            "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
-            "sortCategory": "Table Tennis",
-            "symbol": "figure.table.tennis",
-            "womens": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 285691876,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Table Tennis",
@@ -26644,6 +26726,24 @@
                 "mo",
                 "th",
                 "tu",
+                "we"
+            ]
+        },
+        {
+            "id": 2173950647,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Table Tennis ",
+            "description": "",
+            "image": "",
+            "start_date": "2025-04-02 07:00:00",
+            "end_date": "2025-04-02 21:30:00",
+            "venue": "Multipurpose B",
+            "ticket_label": "Book a Court ",
+            "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
+            "sortCategory": "Table Tennis",
+            "symbol": "figure.table.tennis",
+            "womens": false,
+            "weeklyRepetitions": [
                 "we"
             ]
         },
@@ -26987,6 +27087,27 @@
             ]
         },
         {
+            "id": 960254913,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Table Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2025-04-03 07:00:00",
+            "end_date": "2025-04-03 21:30:00",
+            "venue": "Multipurpose B",
+            "ticket_label": "Book a Court ",
+            "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
+            "sortCategory": "Table Tennis",
+            "symbol": "figure.table.tennis",
+            "womens": false,
+            "weeklyRepetitions": [
+                "mo",
+                "th",
+                "tu",
+                "we"
+            ]
+        },
+        {
             "id": 2726593440,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Adaptive Fitness Swim",
@@ -27038,27 +27159,6 @@
             "womens": false,
             "weeklyRepetitions": [
                 "th"
-            ]
-        },
-        {
-            "id": 960254913,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Table Tennis",
-            "description": "",
-            "image": "",
-            "start_date": "2025-04-03 07:00:00",
-            "end_date": "2025-04-03 21:30:00",
-            "venue": "Multipurpose B",
-            "ticket_label": "Book a Court ",
-            "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
-            "sortCategory": "Table Tennis",
-            "symbol": "figure.table.tennis",
-            "womens": false,
-            "weeklyRepetitions": [
-                "mo",
-                "th",
-                "tu",
-                "we"
             ]
         },
         {
