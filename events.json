@@ -12192,26 +12192,6 @@
             ]
         },
         {
-            "id": 2424911091,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Soul Sweat",
-            "description": "Soul Sweat\u00a0is an energizing strength training class created for individuals in the Black and Caribbean communities. This empowering workout is tailored to the unique needs of Black and Caribbean students, offering a safe and inclusive space to come together, work out with friends, and prioritize health and well-being. Participants will explore various ways to move their bodies, building strength, endurance, and resilience\u2014all while having fun. Open to all fitness levels, Soul Sweat fosters deeper connections within the community and promotes physical wellness, creating an environment where everyone can thrive together.",
-            "image": "",
-            "start_date": "2025-02-19 18:10:00",
-            "end_date": "2025-02-19 18:10:00",
-            "venue": "Strength & Conditioning Centre",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=cdaa9cec-f1a8-4b06-b801-208de6ee4c0a",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": true,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 3525119121,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Cycle Core",
@@ -14083,26 +14063,6 @@
             ]
         },
         {
-            "id": 1430034200,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Table Tennis ",
-            "description": "",
-            "image": "",
-            "start_date": "2025-02-25 07:00:00",
-            "end_date": "2025-02-25 21:30:00",
-            "venue": "Multipurpose B",
-            "ticket_label": "Book a Court ",
-            "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
-            "sortCategory": "Table Tennis",
-            "symbol": "figure.table.tennis",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 2216200480,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Table Tennis",
@@ -14123,6 +14083,26 @@
                 "th",
                 "tu",
                 "we"
+            ]
+        },
+        {
+            "id": 1430034200,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Table Tennis ",
+            "description": "",
+            "image": "",
+            "start_date": "2025-02-25 07:00:00",
+            "end_date": "2025-02-25 21:30:00",
+            "venue": "Multipurpose B",
+            "ticket_label": "Book a Court ",
+            "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
+            "sortCategory": "Table Tennis",
+            "symbol": "figure.table.tennis",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
             ]
         },
         {
@@ -14966,26 +14946,6 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
-            "id": 16604063,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Soul Sweat",
-            "description": "Soul Sweat\u00a0is an energizing strength training class created for individuals in the Black and Caribbean communities. This empowering workout is tailored to the unique needs of Black and Caribbean students, offering a safe and inclusive space to come together, work out with friends, and prioritize health and well-being. Participants will explore various ways to move their bodies, building strength, endurance, and resilience\u2014all while having fun. Open to all fitness levels, Soul Sweat fosters deeper connections within the community and promotes physical wellness, creating an environment where everyone can thrive together.",
-            "image": "",
-            "start_date": "2025-02-26 18:10:00",
-            "end_date": "2025-02-26 18:10:00",
-            "venue": "Strength & Conditioning Centre",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=cdaa9cec-f1a8-4b06-b801-208de6ee4c0a",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": true,
             "weeklyRepetitions": [
                 "we"
             ]
@@ -16961,26 +16921,6 @@
             ]
         },
         {
-            "id": 3254359363,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Table Tennis ",
-            "description": "",
-            "image": "",
-            "start_date": "2025-03-04 07:00:00",
-            "end_date": "2025-03-04 21:30:00",
-            "venue": "Multipurpose B",
-            "ticket_label": "Book a Court ",
-            "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
-            "sortCategory": "Table Tennis",
-            "symbol": "figure.table.tennis",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 4015332060,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Table Tennis",
@@ -17001,6 +16941,26 @@
                 "th",
                 "tu",
                 "we"
+            ]
+        },
+        {
+            "id": 3254359363,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Table Tennis ",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-04 07:00:00",
+            "end_date": "2025-03-04 21:30:00",
+            "venue": "Multipurpose B",
+            "ticket_label": "Book a Court ",
+            "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
+            "sortCategory": "Table Tennis",
+            "symbol": "figure.table.tennis",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
             ]
         },
         {
@@ -17915,7 +17875,7 @@
             "description": "Soul Sweat\u00a0is an energizing strength training class created for individuals in the Black and Caribbean communities. This empowering workout is tailored to the unique needs of Black and Caribbean students, offering a safe and inclusive space to come together, work out with friends, and prioritize health and well-being. Participants will explore various ways to move their bodies, building strength, endurance, and resilience\u2014all while having fun. Open to all fitness levels, Soul Sweat fosters deeper connections within the community and promotes physical wellness, creating an environment where everyone can thrive together.",
             "image": "",
             "start_date": "2025-03-05 18:10:00",
-            "end_date": "2025-03-05 18:10:00",
+            "end_date": "2025-03-05 18:55:00",
             "venue": "Strength & Conditioning Centre",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=cdaa9cec-f1a8-4b06-b801-208de6ee4c0a",
@@ -19847,26 +19807,6 @@
             ]
         },
         {
-            "id": 1920688868,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Table Tennis ",
-            "description": "",
-            "image": "",
-            "start_date": "2025-03-11 07:00:00",
-            "end_date": "2025-03-11 21:30:00",
-            "venue": "Multipurpose B",
-            "ticket_label": "Book a Court ",
-            "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
-            "sortCategory": "Table Tennis",
-            "symbol": "figure.table.tennis",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 3598151482,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Table Tennis",
@@ -19887,6 +19827,26 @@
                 "th",
                 "tu",
                 "we"
+            ]
+        },
+        {
+            "id": 1920688868,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Table Tennis ",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-11 07:00:00",
+            "end_date": "2025-03-11 21:30:00",
+            "venue": "Multipurpose B",
+            "ticket_label": "Book a Court ",
+            "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
+            "sortCategory": "Table Tennis",
+            "symbol": "figure.table.tennis",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
             ]
         },
         {
@@ -20819,7 +20779,7 @@
             "description": "Soul Sweat\u00a0is an energizing strength training class created for individuals in the Black and Caribbean communities. This empowering workout is tailored to the unique needs of Black and Caribbean students, offering a safe and inclusive space to come together, work out with friends, and prioritize health and well-being. Participants will explore various ways to move their bodies, building strength, endurance, and resilience\u2014all while having fun. Open to all fitness levels, Soul Sweat fosters deeper connections within the community and promotes physical wellness, creating an environment where everyone can thrive together.",
             "image": "",
             "start_date": "2025-03-12 18:10:00",
-            "end_date": "2025-03-12 18:10:00",
+            "end_date": "2025-03-12 18:55:00",
             "venue": "Strength & Conditioning Centre",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=cdaa9cec-f1a8-4b06-b801-208de6ee4c0a",
@@ -22751,26 +22711,6 @@
             ]
         },
         {
-            "id": 3048962681,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Table Tennis ",
-            "description": "",
-            "image": "",
-            "start_date": "2025-03-18 07:00:00",
-            "end_date": "2025-03-18 21:30:00",
-            "venue": "Multipurpose B",
-            "ticket_label": "Book a Court ",
-            "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
-            "sortCategory": "Table Tennis",
-            "symbol": "figure.table.tennis",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 112759361,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Table Tennis",
@@ -22791,6 +22731,26 @@
                 "th",
                 "tu",
                 "we"
+            ]
+        },
+        {
+            "id": 3048962681,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Table Tennis ",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-18 07:00:00",
+            "end_date": "2025-03-18 21:30:00",
+            "venue": "Multipurpose B",
+            "ticket_label": "Book a Court ",
+            "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
+            "sortCategory": "Table Tennis",
+            "symbol": "figure.table.tennis",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
             ]
         },
         {
@@ -23723,7 +23683,7 @@
             "description": "Soul Sweat\u00a0is an energizing strength training class created for individuals in the Black and Caribbean communities. This empowering workout is tailored to the unique needs of Black and Caribbean students, offering a safe and inclusive space to come together, work out with friends, and prioritize health and well-being. Participants will explore various ways to move their bodies, building strength, endurance, and resilience\u2014all while having fun. Open to all fitness levels, Soul Sweat fosters deeper connections within the community and promotes physical wellness, creating an environment where everyone can thrive together.",
             "image": "",
             "start_date": "2025-03-19 18:10:00",
-            "end_date": "2025-03-19 18:10:00",
+            "end_date": "2025-03-19 18:55:00",
             "venue": "Strength & Conditioning Centre",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=cdaa9cec-f1a8-4b06-b801-208de6ee4c0a",
@@ -25691,26 +25651,6 @@
             ]
         },
         {
-            "id": 3721502748,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Table Tennis ",
-            "description": "",
-            "image": "",
-            "start_date": "2025-03-25 07:00:00",
-            "end_date": "2025-03-25 21:30:00",
-            "venue": "Multipurpose B",
-            "ticket_label": "Book a Court ",
-            "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
-            "sortCategory": "Table Tennis",
-            "symbol": "figure.table.tennis",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 1979848740,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Table Tennis",
@@ -25731,6 +25671,26 @@
                 "th",
                 "tu",
                 "we"
+            ]
+        },
+        {
+            "id": 3721502748,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Table Tennis ",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-25 07:00:00",
+            "end_date": "2025-03-25 21:30:00",
+            "venue": "Multipurpose B",
+            "ticket_label": "Book a Court ",
+            "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
+            "sortCategory": "Table Tennis",
+            "symbol": "figure.table.tennis",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
             ]
         },
         {
@@ -26643,7 +26603,7 @@
             "description": "Soul Sweat\u00a0is an energizing strength training class created for individuals in the Black and Caribbean communities. This empowering workout is tailored to the unique needs of Black and Caribbean students, offering a safe and inclusive space to come together, work out with friends, and prioritize health and well-being. Participants will explore various ways to move their bodies, building strength, endurance, and resilience\u2014all while having fun. Open to all fitness levels, Soul Sweat fosters deeper connections within the community and promotes physical wellness, creating an environment where everyone can thrive together.",
             "image": "",
             "start_date": "2025-03-26 18:10:00",
-            "end_date": "2025-03-26 18:10:00",
+            "end_date": "2025-03-26 18:55:00",
             "venue": "Strength & Conditioning Centre",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=cdaa9cec-f1a8-4b06-b801-208de6ee4c0a",
@@ -28513,26 +28473,6 @@
             ]
         },
         {
-            "id": 2713690451,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Table Tennis ",
-            "description": "",
-            "image": "",
-            "start_date": "2025-04-01 07:00:00",
-            "end_date": "2025-04-01 21:30:00",
-            "venue": "Multipurpose B",
-            "ticket_label": "Book a Court ",
-            "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
-            "sortCategory": "Table Tennis",
-            "symbol": "figure.table.tennis",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 2410653765,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Table Tennis",
@@ -28553,6 +28493,26 @@
                 "th",
                 "tu",
                 "we"
+            ]
+        },
+        {
+            "id": 2713690451,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Table Tennis ",
+            "description": "",
+            "image": "",
+            "start_date": "2025-04-01 07:00:00",
+            "end_date": "2025-04-01 21:30:00",
+            "venue": "Multipurpose B",
+            "ticket_label": "Book a Court ",
+            "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
+            "sortCategory": "Table Tennis",
+            "symbol": "figure.table.tennis",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
             ]
         },
         {
@@ -29427,7 +29387,7 @@
             "description": "Soul Sweat\u00a0is an energizing strength training class created for individuals in the Black and Caribbean communities. This empowering workout is tailored to the unique needs of Black and Caribbean students, offering a safe and inclusive space to come together, work out with friends, and prioritize health and well-being. Participants will explore various ways to move their bodies, building strength, endurance, and resilience\u2014all while having fun. Open to all fitness levels, Soul Sweat fosters deeper connections within the community and promotes physical wellness, creating an environment where everyone can thrive together.",
             "image": "",
             "start_date": "2025-04-02 18:10:00",
-            "end_date": "2025-04-02 18:10:00",
+            "end_date": "2025-04-02 18:55:00",
             "venue": "Strength & Conditioning Centre",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=cdaa9cec-f1a8-4b06-b801-208de6ee4c0a",
