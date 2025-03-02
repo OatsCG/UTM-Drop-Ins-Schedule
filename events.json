@@ -11694,7 +11694,7 @@
             "description": "Achieve a balanced and toned body with the ultimate core fitness workout!\u00a0 Incorporate Pilate\u2019s postures with traditional core exercises to help improve posture, strength, and range of motion.\u00a0 Rejuvenate your workout with a focus on your breathing and find those deep core muscles in the abdomen and that surround the spine.\u00a0 All fitness levels welcome.",
             "image": "",
             "start_date": "2025-02-19 17:10:00",
-            "end_date": "2025-02-19 17:10:00",
+            "end_date": "2025-02-19 17:55:00",
             "venue": "Dance Studio",
             "ticket_label": "reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=03dbd7b9-e1e5-4221-bf11-dd4396b82c81&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
@@ -11714,7 +11714,7 @@
             "description": "Learn how to pack a punch in this technical workshop designed to teach beginners the basics of boxing. This session provides instructions on boxing stance, footwork, and fundamental mechanics of the jab and cross. Join this fun session to stay in shape and build your confidence!\u00a0*Hand wraps, gloves and non-slip shoes are recommended!",
             "image": "",
             "start_date": "2025-02-19 18:10:00",
-            "end_date": "2025-02-19 18:10:00",
+            "end_date": "2025-02-19 18:55:00",
             "venue": "Dance Studio",
             "ticket_label": "reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=605fabea-b518-4f2f-a3ec-cb51acefda80&semesterId=89c3c776-830f-415a-b4eb-d1482c172792",
@@ -13379,7 +13379,7 @@
             "description": "Rainbow Rhythm\u00a0is a lively aerobics class that centers around the 2SLGBTQ+\u00a0community! This vibrant program combines high-energy movement with an inclusive atmosphere that welcomes individuals of all fitness levels. Participants are encouraged to express themselves through dance and movement in a supportive environment that fosters self-acceptance and joy. Rainbow Rythm\u00a0is not just about getting fit; it\u2019s about feeling your best self and connecting with others who share a commitment to a healthy lifestyle.",
             "image": "",
             "start_date": "2025-02-24 19:10:00",
-            "end_date": "2025-02-24 19:10:00",
+            "end_date": "2025-02-24 19:55:00",
             "venue": "Dance Studio",
             "ticket_label": "reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=7c97d530-7ad0-4dd9-a16d-443e0c7b55db",
@@ -14271,7 +14271,7 @@
             "description": "Achieve a balanced and toned body with the ultimate core fitness workout!\u00a0 Incorporate Pilate\u2019s postures with traditional core exercises to help improve posture, strength, and range of motion.\u00a0 Rejuvenate your workout with a focus on your breathing and find those deep core muscles in the abdomen and that surround the spine.\u00a0 All fitness levels welcome.",
             "image": "",
             "start_date": "2025-02-26 17:10:00",
-            "end_date": "2025-02-26 17:10:00",
+            "end_date": "2025-02-26 17:55:00",
             "venue": "Dance Studio",
             "ticket_label": "reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=03dbd7b9-e1e5-4221-bf11-dd4396b82c81&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
@@ -14311,7 +14311,7 @@
             "description": "Learn how to pack a punch in this technical workshop designed to teach beginners the basics of boxing. This session provides instructions on boxing stance, footwork, and fundamental mechanics of the jab and cross. Join this fun session to stay in shape and build your confidence!\u00a0*Hand wraps, gloves and non-slip shoes are recommended!",
             "image": "",
             "start_date": "2025-02-26 18:10:00",
-            "end_date": "2025-02-26 18:10:00",
+            "end_date": "2025-02-26 18:55:00",
             "venue": "Dance Studio",
             "ticket_label": "reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=605fabea-b518-4f2f-a3ec-cb51acefda80&semesterId=89c3c776-830f-415a-b4eb-d1482c172792",
@@ -15139,26 +15139,6 @@
                 "fr",
                 "mo",
                 "we"
-            ]
-        },
-        {
-            "id": 3198569121,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "H2O Paddleboard Core",
-            "description": "Is your Core up to the challenge of UTM's Paddleboards? Engage your core and stabilizers as you move through a total body workout challenging you to stay on top of your paddleboard! \u00a0Simple movements become taxing with the added instability of the paddleboard. Light a fire in your core with this new class that is sure to leave you feeling strong, \u00a0mindful and more aware of your body.",
-            "image": "",
-            "start_date": "2025-02-28 13:10:00",
-            "end_date": "2025-02-28 13:55:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve Your Spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=364971f7-9541-436a-8240-eb1316dc8038&semesterId=00000000-0000-0000-0000-000000000000",
-            "sortCategory": "Pool",
-            "symbol": "water.waves",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "fr"
             ]
         },
         {
@@ -16165,7 +16145,7 @@
             "description": "Rainbow Rhythm\u00a0is a lively aerobics class that centers around the 2SLGBTQ+\u00a0community! This vibrant program combines high-energy movement with an inclusive atmosphere that welcomes individuals of all fitness levels. Participants are encouraged to express themselves through dance and movement in a supportive environment that fosters self-acceptance and joy. Rainbow Rythm\u00a0is not just about getting fit; it\u2019s about feeling your best self and connecting with others who share a commitment to a healthy lifestyle.",
             "image": "",
             "start_date": "2025-03-03 19:10:00",
-            "end_date": "2025-03-03 19:10:00",
+            "end_date": "2025-03-03 19:55:00",
             "venue": "Dance Studio",
             "ticket_label": "reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=7c97d530-7ad0-4dd9-a16d-443e0c7b55db",
@@ -17029,26 +17009,6 @@
             ]
         },
         {
-            "id": 2016095989,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Pow-wow Dance Class",
-            "description": "",
-            "image": "",
-            "start_date": "2025-03-05 13:30:00",
-            "end_date": "2025-03-05 13:30:00",
-            "venue": "Dance Studio",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Dance",
-            "symbol": "figure.dance",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 2700275253,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "PRIDE Basketball",
@@ -17113,7 +17073,7 @@
             "description": "Achieve a balanced and toned body with the ultimate core fitness workout!\u00a0 Incorporate Pilate\u2019s postures with traditional core exercises to help improve posture, strength, and range of motion.\u00a0 Rejuvenate your workout with a focus on your breathing and find those deep core muscles in the abdomen and that surround the spine.\u00a0 All fitness levels welcome.",
             "image": "",
             "start_date": "2025-03-05 17:10:00",
-            "end_date": "2025-03-05 17:10:00",
+            "end_date": "2025-03-05 17:55:00",
             "venue": "Dance Studio",
             "ticket_label": "reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=03dbd7b9-e1e5-4221-bf11-dd4396b82c81&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
@@ -17153,7 +17113,7 @@
             "description": "Learn how to pack a punch in this technical workshop designed to teach beginners the basics of boxing. This session provides instructions on boxing stance, footwork, and fundamental mechanics of the jab and cross. Join this fun session to stay in shape and build your confidence!\u00a0*Hand wraps, gloves and non-slip shoes are recommended!",
             "image": "",
             "start_date": "2025-03-05 18:10:00",
-            "end_date": "2025-03-05 18:10:00",
+            "end_date": "2025-03-05 18:55:00",
             "venue": "Dance Studio",
             "ticket_label": "reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=605fabea-b518-4f2f-a3ec-cb51acefda80&semesterId=89c3c776-830f-415a-b4eb-d1482c172792",
@@ -17947,26 +17907,6 @@
                 "fr",
                 "mo",
                 "we"
-            ]
-        },
-        {
-            "id": 2479618905,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "H2O Paddleboard Core",
-            "description": "Is your Core up to the challenge of UTM's Paddleboards? Engage your core and stabilizers as you move through a total body workout challenging you to stay on top of your paddleboard! \u00a0Simple movements become taxing with the added instability of the paddleboard. Light a fire in your core with this new class that is sure to leave you feeling strong, \u00a0mindful and more aware of your body.",
-            "image": "",
-            "start_date": "2025-03-07 13:10:00",
-            "end_date": "2025-03-07 13:55:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve Your Spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=364971f7-9541-436a-8240-eb1316dc8038&semesterId=00000000-0000-0000-0000-000000000000",
-            "sortCategory": "Pool",
-            "symbol": "water.waves",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "fr"
             ]
         },
         {
@@ -18961,7 +18901,7 @@
             "description": "Rainbow Rhythm\u00a0is a lively aerobics class that centers around the 2SLGBTQ+\u00a0community! This vibrant program combines high-energy movement with an inclusive atmosphere that welcomes individuals of all fitness levels. Participants are encouraged to express themselves through dance and movement in a supportive environment that fosters self-acceptance and joy. Rainbow Rythm\u00a0is not just about getting fit; it\u2019s about feeling your best self and connecting with others who share a commitment to a healthy lifestyle.",
             "image": "",
             "start_date": "2025-03-10 19:10:00",
-            "end_date": "2025-03-10 19:10:00",
+            "end_date": "2025-03-10 19:55:00",
             "venue": "Dance Studio",
             "ticket_label": "reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=7c97d530-7ad0-4dd9-a16d-443e0c7b55db",
@@ -19785,26 +19725,6 @@
             ]
         },
         {
-            "id": 1798556876,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Pow-wow Dance Class",
-            "description": "",
-            "image": "",
-            "start_date": "2025-03-12 13:30:00",
-            "end_date": "2025-03-12 13:30:00",
-            "venue": "Dance Studio",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Dance",
-            "symbol": "figure.dance",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 1310130836,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "PRIDE Basketball",
@@ -19851,7 +19771,7 @@
             "description": "Achieve a balanced and toned body with the ultimate core fitness workout!\u00a0 Incorporate Pilate\u2019s postures with traditional core exercises to help improve posture, strength, and range of motion.\u00a0 Rejuvenate your workout with a focus on your breathing and find those deep core muscles in the abdomen and that surround the spine.\u00a0 All fitness levels welcome.",
             "image": "",
             "start_date": "2025-03-12 17:10:00",
-            "end_date": "2025-03-12 17:10:00",
+            "end_date": "2025-03-12 17:55:00",
             "venue": "Dance Studio",
             "ticket_label": "reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=03dbd7b9-e1e5-4221-bf11-dd4396b82c81&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
@@ -19929,7 +19849,7 @@
             "description": "Learn how to pack a punch in this technical workshop designed to teach beginners the basics of boxing. This session provides instructions on boxing stance, footwork, and fundamental mechanics of the jab and cross. Join this fun session to stay in shape and build your confidence!\u00a0*Hand wraps, gloves and non-slip shoes are recommended!",
             "image": "",
             "start_date": "2025-03-12 18:10:00",
-            "end_date": "2025-03-12 18:10:00",
+            "end_date": "2025-03-12 18:55:00",
             "venue": "Dance Studio",
             "ticket_label": "reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=605fabea-b518-4f2f-a3ec-cb51acefda80&semesterId=89c3c776-830f-415a-b4eb-d1482c172792",
@@ -20236,6 +20156,26 @@
             ]
         },
         {
+            "id": 3473013257,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "H2O Paddleboard Core",
+            "description": "Is your Core up to the challenge of UTM's Paddleboards? Engage your core and stabilizers as you move through a total body workout challenging you to stay on top of your paddleboard! \u00a0Simple movements become taxing with the added instability of the paddleboard. Light a fire in your core with this new class that is sure to leave you feeling strong, \u00a0mindful and more aware of your body.",
+            "image": "",
+            "start_date": "2025-03-13 13:10:00",
+            "end_date": "2025-03-13 13:55:00",
+            "venue": "Pool",
+            "ticket_label": "Reserve Your Spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=364971f7-9541-436a-8240-eb1316dc8038&semesterId=00000000-0000-0000-0000-000000000000",
+            "sortCategory": "Pool",
+            "symbol": "water.waves",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
             "id": 1320497981,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: TRX Fusion",
@@ -20302,7 +20242,7 @@
             "description": "Our hypertrophy class is designed to build muscle size.\u00a0This tailored program will combine an educational piece and a targeted workout where you will learn how to efficiently build body mass and build confidence\u00a0in your body's capabilities.\u00a0We will focus on proper form, technique, and tempo of specific exercises and muscle groups to safely help you get to your fitness goals. Embrace the challenge, push your limits, and see results, as you sculpt a stronger, more powerful you! The class is suitable for all levels of fitness.\u00a0",
             "image": "",
             "start_date": "2025-03-13 16:10:00",
-            "end_date": "2025-03-13 16:10:00",
+            "end_date": "2025-03-13 16:55:00",
             "venue": "Strength & Conditioning Centre",
             "ticket_label": "reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/program/GetProgramDetails?courseId=81ecd9bc-e525-4bb1-ac6d-535cf5fc646f",
@@ -20746,51 +20686,9 @@
             ]
         },
         {
-            "id": 2267681545,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "H2O Paddleboard Core",
-            "description": "Is your Core up to the challenge of UTM's Paddleboards? Engage your core and stabilizers as you move through a total body workout challenging you to stay on top of your paddleboard! \u00a0Simple movements become taxing with the added instability of the paddleboard. Light a fire in your core with this new class that is sure to leave you feeling strong, \u00a0mindful and more aware of your body.",
-            "image": "",
-            "start_date": "2025-03-14 13:10:00",
-            "end_date": "2025-03-14 13:55:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve Your Spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=364971f7-9541-436a-8240-eb1316dc8038&semesterId=00000000-0000-0000-0000-000000000000",
-            "sortCategory": "Pool",
-            "symbol": "water.waves",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 3639219274,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Cardio HIIT",
-            "description": "A 45-minute-high intensity interval training class for all fitness levels. Use a variety of cardiovascular and resistance training equipment such as Ski Ergs, Rowers, Curve Treadmills, weights and more to build cardiovascular and muscular endurance.\u00a0",
-            "image": "",
-            "start_date": "2025-03-14 13:10:00",
-            "end_date": "2025-03-14 13:55:00",
-            "venue": "Strength & Conditioning Centre",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=07342ccc-7c88-4522-b99b-b29a44f8c624&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Cardio",
-            "symbol": "heart",
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo",
-                "we"
-            ]
-        },
-        {
-            "id": 813700205,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only: Cardio HIIT ",
             "description": "A 45-minute-high intensity interval training class for all fitness levels. Use a variety of cardiovascular and resistance training equipment such as Ski Ergs, Rowers, Curve Treadmills, weights and more to build cardiovascular and muscular endurance.\u00a0",
             "image": "",
             "start_date": "2025-03-14 13:10:00",
@@ -20848,27 +20746,6 @@
             "bipoc": false,
             "weeklyRepetitions": [
                 "fr"
-            ]
-        },
-        {
-            "id": 3859030227,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women on Weights",
-            "description": "A class that caters to women's needs and wants! Providing a safe space to get energized while building up strength and muscle. Push yourself and raise your limits with our women focused circuit training using a mix of cardio and weights. An inclusive, fun, and supportive environment that will teach you effective exercises and challenge you to reach your goals.",
-            "image": "",
-            "start_date": "2025-03-14 16:10:00",
-            "end_date": "2025-03-14 16:55:00",
-            "venue": "Strength & Conditioning Centre",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b05d2432-ae3d-4aae-8ccb-87540c252ef9&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Workout",
-            "symbol": "dumbbell",
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo"
             ]
         },
         {
@@ -21347,7 +21224,7 @@
             "description": "Available for all levels, this program is for students looking to learn the clean and jerk, snatch, and other full body exercises. Participants will be guided by coaches according to skill and performance.",
             "image": "",
             "start_date": "2025-03-16 14:00:00",
-            "end_date": "2025-03-16 14:00:00",
+            "end_date": "2025-03-16 15:00:00",
             "venue": "Strength & Conditioning Centre",
             "ticket_label": "reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=ca0118fb-e19b-47e1-9699-7670affdc43f",
@@ -21616,28 +21493,6 @@
             ]
         },
         {
-            "id": 686179239,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only: Cardio HIIT ",
-            "description": "A 45-minute-high intensity interval training class for all fitness levels. Use a variety of cardiovascular and resistance training equipment such as Ski Ergs, Rowers, Curve Treadmills, weights and more to build cardiovascular and muscular endurance.\u00a0",
-            "image": "",
-            "start_date": "2025-03-17 13:10:00",
-            "end_date": "2025-03-17 13:55:00",
-            "venue": "Strength & Conditioning Centre",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=07342ccc-7c88-4522-b99b-b29a44f8c624&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Cardio",
-            "symbol": "heart",
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo",
-                "we"
-            ]
-        },
-        {
             "id": 3936589671,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Meditation & Movement",
@@ -21735,27 +21590,6 @@
             "lgbt": false,
             "bipoc": true,
             "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
-            "id": 4132567979,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women on Weights",
-            "description": "A class that caters to women's needs and wants! Providing a safe space to get energized while building up strength and muscle. Push yourself and raise your limits with our women focused circuit training using a mix of cardio and weights. An inclusive, fun, and supportive environment that will teach you effective exercises and challenge you to reach your goals.",
-            "image": "",
-            "start_date": "2025-03-17 16:10:00",
-            "end_date": "2025-03-17 16:55:00",
-            "venue": "Strength & Conditioning Centre",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b05d2432-ae3d-4aae-8ccb-87540c252ef9&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Workout",
-            "symbol": "dumbbell",
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "fr",
                 "mo"
             ]
         },
@@ -21889,7 +21723,7 @@
             "description": "Rainbow Rhythm\u00a0is a lively aerobics class that centers around the 2SLGBTQ+\u00a0community! This vibrant program combines high-energy movement with an inclusive atmosphere that welcomes individuals of all fitness levels. Participants are encouraged to express themselves through dance and movement in a supportive environment that fosters self-acceptance and joy. Rainbow Rythm\u00a0is not just about getting fit; it\u2019s about feeling your best self and connecting with others who share a commitment to a healthy lifestyle.",
             "image": "",
             "start_date": "2025-03-17 19:10:00",
-            "end_date": "2025-03-17 19:10:00",
+            "end_date": "2025-03-17 19:55:00",
             "venue": "Dance Studio",
             "ticket_label": "reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=7c97d530-7ad0-4dd9-a16d-443e0c7b55db",
@@ -22149,26 +21983,6 @@
             "sortCategory": "Cycling",
             "symbol": "figure.indoor.cycle",
             "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
-            "id": 424060401,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women on Weights",
-            "description": "A class that caters to women's needs and wants! Providing a safe space to get energized while building up strength and muscle. Push yourself and raise your limits with our women focused circuit training using a mix of cardio and weights. An inclusive, fun, and supportive environment that will teach you effective exercises and challenge you to reach your goals.",
-            "image": "",
-            "start_date": "2025-03-18 13:10:00",
-            "end_date": "2025-03-18 13:55:00",
-            "venue": "Strength & Conditioning Centre",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b05d2432-ae3d-4aae-8ccb-87540c252ef9&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Workout",
-            "symbol": "dumbbell",
-            "womens": true,
             "lgbt": false,
             "bipoc": false,
             "weeklyRepetitions": [
@@ -22733,48 +22547,6 @@
             ]
         },
         {
-            "id": 4076540060,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only: Cardio HIIT ",
-            "description": "A 45-minute-high intensity interval training class for all fitness levels. Use a variety of cardiovascular and resistance training equipment such as Ski Ergs, Rowers, Curve Treadmills, weights and more to build cardiovascular and muscular endurance.\u00a0",
-            "image": "",
-            "start_date": "2025-03-19 13:10:00",
-            "end_date": "2025-03-19 13:55:00",
-            "venue": "Strength & Conditioning Centre",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=07342ccc-7c88-4522-b99b-b29a44f8c624&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Cardio",
-            "symbol": "heart",
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo",
-                "we"
-            ]
-        },
-        {
-            "id": 1038863125,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Pow-wow Dance Class",
-            "description": "",
-            "image": "",
-            "start_date": "2025-03-19 13:30:00",
-            "end_date": "2025-03-19 13:30:00",
-            "venue": "Dance Studio",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Dance",
-            "symbol": "figure.dance",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 1535947731,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "PRIDE Basketball",
@@ -22861,7 +22633,7 @@
             "description": "Achieve a balanced and toned body with the ultimate core fitness workout!\u00a0 Incorporate Pilate\u2019s postures with traditional core exercises to help improve posture, strength, and range of motion.\u00a0 Rejuvenate your workout with a focus on your breathing and find those deep core muscles in the abdomen and that surround the spine.\u00a0 All fitness levels welcome.",
             "image": "",
             "start_date": "2025-03-19 17:10:00",
-            "end_date": "2025-03-19 17:10:00",
+            "end_date": "2025-03-19 17:55:00",
             "venue": "Dance Studio",
             "ticket_label": "reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=03dbd7b9-e1e5-4221-bf11-dd4396b82c81&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
@@ -22921,7 +22693,7 @@
             "description": "Learn how to pack a punch in this technical workshop designed to teach beginners the basics of boxing. This session provides instructions on boxing stance, footwork, and fundamental mechanics of the jab and cross. Join this fun session to stay in shape and build your confidence!\u00a0*Hand wraps, gloves and non-slip shoes are recommended!",
             "image": "",
             "start_date": "2025-03-19 18:10:00",
-            "end_date": "2025-03-19 18:10:00",
+            "end_date": "2025-03-19 18:55:00",
             "venue": "Dance Studio",
             "ticket_label": "reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=605fabea-b518-4f2f-a3ec-cb51acefda80&semesterId=89c3c776-830f-415a-b4eb-d1482c172792",
@@ -23228,6 +23000,26 @@
             ]
         },
         {
+            "id": 3659992577,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "H2O Paddleboard Core",
+            "description": "Is your Core up to the challenge of UTM's Paddleboards? Engage your core and stabilizers as you move through a total body workout challenging you to stay on top of your paddleboard! \u00a0Simple movements become taxing with the added instability of the paddleboard. Light a fire in your core with this new class that is sure to leave you feeling strong, \u00a0mindful and more aware of your body.",
+            "image": "",
+            "start_date": "2025-03-20 13:10:00",
+            "end_date": "2025-03-20 13:55:00",
+            "venue": "Pool",
+            "ticket_label": "Reserve Your Spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=364971f7-9541-436a-8240-eb1316dc8038&semesterId=00000000-0000-0000-0000-000000000000",
+            "sortCategory": "Pool",
+            "symbol": "water.waves",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
             "id": 1641702532,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: TRX Fusion",
@@ -23294,7 +23086,7 @@
             "description": "Our hypertrophy class is designed to build muscle size.\u00a0This tailored program will combine an educational piece and a targeted workout where you will learn how to efficiently build body mass and build confidence\u00a0in your body's capabilities.\u00a0We will focus on proper form, technique, and tempo of specific exercises and muscle groups to safely help you get to your fitness goals. Embrace the challenge, push your limits, and see results, as you sculpt a stronger, more powerful you! The class is suitable for all levels of fitness.\u00a0",
             "image": "",
             "start_date": "2025-03-20 16:10:00",
-            "end_date": "2025-03-20 16:10:00",
+            "end_date": "2025-03-20 16:55:00",
             "venue": "Strength & Conditioning Centre",
             "ticket_label": "reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/program/GetProgramDetails?courseId=81ecd9bc-e525-4bb1-ac6d-535cf5fc646f",
@@ -23774,51 +23566,9 @@
             ]
         },
         {
-            "id": 1381293879,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "H2O Paddleboard Core",
-            "description": "Is your Core up to the challenge of UTM's Paddleboards? Engage your core and stabilizers as you move through a total body workout challenging you to stay on top of your paddleboard! \u00a0Simple movements become taxing with the added instability of the paddleboard. Light a fire in your core with this new class that is sure to leave you feeling strong, \u00a0mindful and more aware of your body.",
-            "image": "",
-            "start_date": "2025-03-21 13:10:00",
-            "end_date": "2025-03-21 13:55:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve Your Spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=364971f7-9541-436a-8240-eb1316dc8038&semesterId=00000000-0000-0000-0000-000000000000",
-            "sortCategory": "Pool",
-            "symbol": "water.waves",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 3781887351,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Cardio HIIT",
-            "description": "A 45-minute-high intensity interval training class for all fitness levels. Use a variety of cardiovascular and resistance training equipment such as Ski Ergs, Rowers, Curve Treadmills, weights and more to build cardiovascular and muscular endurance.\u00a0",
-            "image": "",
-            "start_date": "2025-03-21 13:10:00",
-            "end_date": "2025-03-21 13:55:00",
-            "venue": "Strength & Conditioning Centre",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=07342ccc-7c88-4522-b99b-b29a44f8c624&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Cardio",
-            "symbol": "heart",
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo",
-                "we"
-            ]
-        },
-        {
-            "id": 879072509,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only: Cardio HIIT ",
             "description": "A 45-minute-high intensity interval training class for all fitness levels. Use a variety of cardiovascular and resistance training equipment such as Ski Ergs, Rowers, Curve Treadmills, weights and more to build cardiovascular and muscular endurance.\u00a0",
             "image": "",
             "start_date": "2025-03-21 13:10:00",
@@ -23876,27 +23626,6 @@
             "bipoc": false,
             "weeklyRepetitions": [
                 "fr"
-            ]
-        },
-        {
-            "id": 653727735,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women on Weights",
-            "description": "A class that caters to women's needs and wants! Providing a safe space to get energized while building up strength and muscle. Push yourself and raise your limits with our women focused circuit training using a mix of cardio and weights. An inclusive, fun, and supportive environment that will teach you effective exercises and challenge you to reach your goals.",
-            "image": "",
-            "start_date": "2025-03-21 16:10:00",
-            "end_date": "2025-03-21 16:55:00",
-            "venue": "Strength & Conditioning Centre",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b05d2432-ae3d-4aae-8ccb-87540c252ef9&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Workout",
-            "symbol": "dumbbell",
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo"
             ]
         },
         {
@@ -24375,7 +24104,7 @@
             "description": "Available for all levels, this program is for students looking to learn the clean and jerk, snatch, and other full body exercises. Participants will be guided by coaches according to skill and performance.",
             "image": "",
             "start_date": "2025-03-23 14:00:00",
-            "end_date": "2025-03-23 14:00:00",
+            "end_date": "2025-03-23 15:00:00",
             "venue": "Strength & Conditioning Centre",
             "ticket_label": "reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=ca0118fb-e19b-47e1-9699-7670affdc43f",
@@ -24644,28 +24373,6 @@
             ]
         },
         {
-            "id": 172578610,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only: Cardio HIIT ",
-            "description": "A 45-minute-high intensity interval training class for all fitness levels. Use a variety of cardiovascular and resistance training equipment such as Ski Ergs, Rowers, Curve Treadmills, weights and more to build cardiovascular and muscular endurance.\u00a0",
-            "image": "",
-            "start_date": "2025-03-24 13:10:00",
-            "end_date": "2025-03-24 13:55:00",
-            "venue": "Strength & Conditioning Centre",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=07342ccc-7c88-4522-b99b-b29a44f8c624&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Cardio",
-            "symbol": "heart",
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo",
-                "we"
-            ]
-        },
-        {
             "id": 197802706,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Meditation & Movement",
@@ -24763,27 +24470,6 @@
             "lgbt": false,
             "bipoc": true,
             "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
-            "id": 2673595206,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women on Weights",
-            "description": "A class that caters to women's needs and wants! Providing a safe space to get energized while building up strength and muscle. Push yourself and raise your limits with our women focused circuit training using a mix of cardio and weights. An inclusive, fun, and supportive environment that will teach you effective exercises and challenge you to reach your goals.",
-            "image": "",
-            "start_date": "2025-03-24 16:10:00",
-            "end_date": "2025-03-24 16:55:00",
-            "venue": "Strength & Conditioning Centre",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b05d2432-ae3d-4aae-8ccb-87540c252ef9&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Workout",
-            "symbol": "dumbbell",
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "fr",
                 "mo"
             ]
         },
@@ -24917,7 +24603,7 @@
             "description": "Rainbow Rhythm\u00a0is a lively aerobics class that centers around the 2SLGBTQ+\u00a0community! This vibrant program combines high-energy movement with an inclusive atmosphere that welcomes individuals of all fitness levels. Participants are encouraged to express themselves through dance and movement in a supportive environment that fosters self-acceptance and joy. Rainbow Rythm\u00a0is not just about getting fit; it\u2019s about feeling your best self and connecting with others who share a commitment to a healthy lifestyle.",
             "image": "",
             "start_date": "2025-03-24 19:10:00",
-            "end_date": "2025-03-24 19:10:00",
+            "end_date": "2025-03-24 19:55:00",
             "venue": "Dance Studio",
             "ticket_label": "reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=7c97d530-7ad0-4dd9-a16d-443e0c7b55db",
@@ -25177,26 +24863,6 @@
             "sortCategory": "Cycling",
             "symbol": "figure.indoor.cycle",
             "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
-            "id": 2771999621,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women on Weights",
-            "description": "A class that caters to women's needs and wants! Providing a safe space to get energized while building up strength and muscle. Push yourself and raise your limits with our women focused circuit training using a mix of cardio and weights. An inclusive, fun, and supportive environment that will teach you effective exercises and challenge you to reach your goals.",
-            "image": "",
-            "start_date": "2025-03-25 13:10:00",
-            "end_date": "2025-03-25 13:55:00",
-            "venue": "Strength & Conditioning Centre",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b05d2432-ae3d-4aae-8ccb-87540c252ef9&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Workout",
-            "symbol": "dumbbell",
-            "womens": true,
             "lgbt": false,
             "bipoc": false,
             "weeklyRepetitions": [
@@ -25761,28 +25427,6 @@
             ]
         },
         {
-            "id": 401729918,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only: Cardio HIIT ",
-            "description": "A 45-minute-high intensity interval training class for all fitness levels. Use a variety of cardiovascular and resistance training equipment such as Ski Ergs, Rowers, Curve Treadmills, weights and more to build cardiovascular and muscular endurance.\u00a0",
-            "image": "",
-            "start_date": "2025-03-26 13:10:00",
-            "end_date": "2025-03-26 13:55:00",
-            "venue": "Strength & Conditioning Centre",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=07342ccc-7c88-4522-b99b-b29a44f8c624&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Cardio",
-            "symbol": "heart",
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo",
-                "we"
-            ]
-        },
-        {
             "id": 3449566019,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "PRIDE Basketball",
@@ -25869,7 +25513,7 @@
             "description": "Achieve a balanced and toned body with the ultimate core fitness workout!\u00a0 Incorporate Pilate\u2019s postures with traditional core exercises to help improve posture, strength, and range of motion.\u00a0 Rejuvenate your workout with a focus on your breathing and find those deep core muscles in the abdomen and that surround the spine.\u00a0 All fitness levels welcome.",
             "image": "",
             "start_date": "2025-03-26 17:10:00",
-            "end_date": "2025-03-26 17:10:00",
+            "end_date": "2025-03-26 17:55:00",
             "venue": "Dance Studio",
             "ticket_label": "reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=03dbd7b9-e1e5-4221-bf11-dd4396b82c81&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
@@ -25929,7 +25573,7 @@
             "description": "Learn how to pack a punch in this technical workshop designed to teach beginners the basics of boxing. This session provides instructions on boxing stance, footwork, and fundamental mechanics of the jab and cross. Join this fun session to stay in shape and build your confidence!\u00a0*Hand wraps, gloves and non-slip shoes are recommended!",
             "image": "",
             "start_date": "2025-03-26 18:10:00",
-            "end_date": "2025-03-26 18:10:00",
+            "end_date": "2025-03-26 18:55:00",
             "venue": "Dance Studio",
             "ticket_label": "reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=605fabea-b518-4f2f-a3ec-cb51acefda80&semesterId=89c3c776-830f-415a-b4eb-d1482c172792",
@@ -26236,6 +25880,26 @@
             ]
         },
         {
+            "id": 701443552,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "H2O Paddleboard Core",
+            "description": "Is your Core up to the challenge of UTM's Paddleboards? Engage your core and stabilizers as you move through a total body workout challenging you to stay on top of your paddleboard! \u00a0Simple movements become taxing with the added instability of the paddleboard. Light a fire in your core with this new class that is sure to leave you feeling strong, \u00a0mindful and more aware of your body.",
+            "image": "",
+            "start_date": "2025-03-27 13:10:00",
+            "end_date": "2025-03-27 13:55:00",
+            "venue": "Pool",
+            "ticket_label": "Reserve Your Spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=364971f7-9541-436a-8240-eb1316dc8038&semesterId=00000000-0000-0000-0000-000000000000",
+            "sortCategory": "Pool",
+            "symbol": "water.waves",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
             "id": 1675194658,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: TRX Fusion",
@@ -26320,7 +25984,7 @@
             "description": "Our hypertrophy class is designed to build muscle size.\u00a0This tailored program will combine an educational piece and a targeted workout where you will learn how to efficiently build body mass and build confidence\u00a0in your body's capabilities.\u00a0We will focus on proper form, technique, and tempo of specific exercises and muscle groups to safely help you get to your fitness goals. Embrace the challenge, push your limits, and see results, as you sculpt a stronger, more powerful you! The class is suitable for all levels of fitness.\u00a0",
             "image": "",
             "start_date": "2025-03-27 16:10:00",
-            "end_date": "2025-03-27 16:10:00",
+            "end_date": "2025-03-27 16:55:00",
             "venue": "Strength & Conditioning Centre",
             "ticket_label": "reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/program/GetProgramDetails?courseId=81ecd9bc-e525-4bb1-ac6d-535cf5fc646f",
@@ -26764,51 +26428,9 @@
             ]
         },
         {
-            "id": 1043439340,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "H2O Paddleboard Core",
-            "description": "Is your Core up to the challenge of UTM's Paddleboards? Engage your core and stabilizers as you move through a total body workout challenging you to stay on top of your paddleboard! \u00a0Simple movements become taxing with the added instability of the paddleboard. Light a fire in your core with this new class that is sure to leave you feeling strong, \u00a0mindful and more aware of your body.",
-            "image": "",
-            "start_date": "2025-03-28 13:10:00",
-            "end_date": "2025-03-28 13:55:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve Your Spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=364971f7-9541-436a-8240-eb1316dc8038&semesterId=00000000-0000-0000-0000-000000000000",
-            "sortCategory": "Pool",
-            "symbol": "water.waves",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 3578435608,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Cardio HIIT",
-            "description": "A 45-minute-high intensity interval training class for all fitness levels. Use a variety of cardiovascular and resistance training equipment such as Ski Ergs, Rowers, Curve Treadmills, weights and more to build cardiovascular and muscular endurance.\u00a0",
-            "image": "",
-            "start_date": "2025-03-28 13:10:00",
-            "end_date": "2025-03-28 13:55:00",
-            "venue": "Strength & Conditioning Centre",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=07342ccc-7c88-4522-b99b-b29a44f8c624&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Cardio",
-            "symbol": "heart",
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo",
-                "we"
-            ]
-        },
-        {
-            "id": 1344531222,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only: Cardio HIIT ",
             "description": "A 45-minute-high intensity interval training class for all fitness levels. Use a variety of cardiovascular and resistance training equipment such as Ski Ergs, Rowers, Curve Treadmills, weights and more to build cardiovascular and muscular endurance.\u00a0",
             "image": "",
             "start_date": "2025-03-28 13:10:00",
@@ -26841,27 +26463,6 @@
             "sortCategory": "Pool",
             "symbol": "figure.pool.swim",
             "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo"
-            ]
-        },
-        {
-            "id": 2125474077,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women on Weights",
-            "description": "A class that caters to women's needs and wants! Providing a safe space to get energized while building up strength and muscle. Push yourself and raise your limits with our women focused circuit training using a mix of cardio and weights. An inclusive, fun, and supportive environment that will teach you effective exercises and challenge you to reach your goals.",
-            "image": "",
-            "start_date": "2025-03-28 16:10:00",
-            "end_date": "2025-03-28 16:55:00",
-            "venue": "Strength & Conditioning Centre",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b05d2432-ae3d-4aae-8ccb-87540c252ef9&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Workout",
-            "symbol": "dumbbell",
-            "womens": true,
             "lgbt": false,
             "bipoc": false,
             "weeklyRepetitions": [
@@ -27325,7 +26926,7 @@
             "description": "Available for all levels, this program is for students looking to learn the clean and jerk, snatch, and other full body exercises. Participants will be guided by coaches according to skill and performance.",
             "image": "",
             "start_date": "2025-03-30 14:00:00",
-            "end_date": "2025-03-30 14:00:00",
+            "end_date": "2025-03-30 15:00:00",
             "venue": "Strength & Conditioning Centre",
             "ticket_label": "reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=ca0118fb-e19b-47e1-9699-7670affdc43f",
@@ -27594,28 +27195,6 @@
             ]
         },
         {
-            "id": 1246289443,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only: Cardio HIIT ",
-            "description": "A 45-minute-high intensity interval training class for all fitness levels. Use a variety of cardiovascular and resistance training equipment such as Ski Ergs, Rowers, Curve Treadmills, weights and more to build cardiovascular and muscular endurance.\u00a0",
-            "image": "",
-            "start_date": "2025-03-31 13:10:00",
-            "end_date": "2025-03-31 13:55:00",
-            "venue": "Strength & Conditioning Centre",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=07342ccc-7c88-4522-b99b-b29a44f8c624&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Cardio",
-            "symbol": "heart",
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo",
-                "we"
-            ]
-        },
-        {
             "id": 1457297124,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Meditation & Movement",
@@ -27713,27 +27292,6 @@
             "lgbt": false,
             "bipoc": true,
             "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
-            "id": 2437506516,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women on Weights",
-            "description": "A class that caters to women's needs and wants! Providing a safe space to get energized while building up strength and muscle. Push yourself and raise your limits with our women focused circuit training using a mix of cardio and weights. An inclusive, fun, and supportive environment that will teach you effective exercises and challenge you to reach your goals.",
-            "image": "",
-            "start_date": "2025-03-31 16:10:00",
-            "end_date": "2025-03-31 16:55:00",
-            "venue": "Strength & Conditioning Centre",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b05d2432-ae3d-4aae-8ccb-87540c252ef9&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Workout",
-            "symbol": "dumbbell",
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "fr",
                 "mo"
             ]
         },
@@ -27867,7 +27425,7 @@
             "description": "Rainbow Rhythm\u00a0is a lively aerobics class that centers around the 2SLGBTQ+\u00a0community! This vibrant program combines high-energy movement with an inclusive atmosphere that welcomes individuals of all fitness levels. Participants are encouraged to express themselves through dance and movement in a supportive environment that fosters self-acceptance and joy. Rainbow Rythm\u00a0is not just about getting fit; it\u2019s about feeling your best self and connecting with others who share a commitment to a healthy lifestyle.",
             "image": "",
             "start_date": "2025-03-31 19:10:00",
-            "end_date": "2025-03-31 19:10:00",
+            "end_date": "2025-03-31 19:55:00",
             "venue": "Dance Studio",
             "ticket_label": "reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=7c97d530-7ad0-4dd9-a16d-443e0c7b55db",
@@ -28127,26 +27685,6 @@
             "sortCategory": "Cycling",
             "symbol": "figure.indoor.cycle",
             "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
-            "id": 513853960,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women on Weights",
-            "description": "A class that caters to women's needs and wants! Providing a safe space to get energized while building up strength and muscle. Push yourself and raise your limits with our women focused circuit training using a mix of cardio and weights. An inclusive, fun, and supportive environment that will teach you effective exercises and challenge you to reach your goals.",
-            "image": "",
-            "start_date": "2025-04-01 13:10:00",
-            "end_date": "2025-04-01 13:55:00",
-            "venue": "Strength & Conditioning Centre",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b05d2432-ae3d-4aae-8ccb-87540c252ef9&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Workout",
-            "symbol": "dumbbell",
-            "womens": true,
             "lgbt": false,
             "bipoc": false,
             "weeklyRepetitions": [
@@ -28711,28 +28249,6 @@
             ]
         },
         {
-            "id": 4121667765,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only: Cardio HIIT ",
-            "description": "A 45-minute-high intensity interval training class for all fitness levels. Use a variety of cardiovascular and resistance training equipment such as Ski Ergs, Rowers, Curve Treadmills, weights and more to build cardiovascular and muscular endurance.\u00a0",
-            "image": "",
-            "start_date": "2025-04-02 13:10:00",
-            "end_date": "2025-04-02 13:55:00",
-            "venue": "Strength & Conditioning Centre",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=07342ccc-7c88-4522-b99b-b29a44f8c624&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Cardio",
-            "symbol": "heart",
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo",
-                "we"
-            ]
-        },
-        {
             "id": 803983518,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Registered Lessons",
@@ -28781,7 +28297,7 @@
             "description": "Achieve a balanced and toned body with the ultimate core fitness workout!\u00a0 Incorporate Pilate\u2019s postures with traditional core exercises to help improve posture, strength, and range of motion.\u00a0 Rejuvenate your workout with a focus on your breathing and find those deep core muscles in the abdomen and that surround the spine.\u00a0 All fitness levels welcome.",
             "image": "",
             "start_date": "2025-04-02 17:10:00",
-            "end_date": "2025-04-02 17:10:00",
+            "end_date": "2025-04-02 17:55:00",
             "venue": "Dance Studio",
             "ticket_label": "reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=03dbd7b9-e1e5-4221-bf11-dd4396b82c81&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
@@ -28841,7 +28357,7 @@
             "description": "Learn how to pack a punch in this technical workshop designed to teach beginners the basics of boxing. This session provides instructions on boxing stance, footwork, and fundamental mechanics of the jab and cross. Join this fun session to stay in shape and build your confidence!\u00a0*Hand wraps, gloves and non-slip shoes are recommended!",
             "image": "",
             "start_date": "2025-04-02 18:10:00",
-            "end_date": "2025-04-02 18:10:00",
+            "end_date": "2025-04-02 18:55:00",
             "venue": "Dance Studio",
             "ticket_label": "reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=605fabea-b518-4f2f-a3ec-cb51acefda80&semesterId=89c3c776-830f-415a-b4eb-d1482c172792",
@@ -29127,6 +28643,26 @@
             ]
         },
         {
+            "id": 1540499853,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "H2O Paddleboard Core",
+            "description": "Is your Core up to the challenge of UTM's Paddleboards? Engage your core and stabilizers as you move through a total body workout challenging you to stay on top of your paddleboard! \u00a0Simple movements become taxing with the added instability of the paddleboard. Light a fire in your core with this new class that is sure to leave you feeling strong, \u00a0mindful and more aware of your body.",
+            "image": "",
+            "start_date": "2025-04-03 13:10:00",
+            "end_date": "2025-04-03 13:55:00",
+            "venue": "Pool",
+            "ticket_label": "Reserve Your Spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=364971f7-9541-436a-8240-eb1316dc8038&semesterId=00000000-0000-0000-0000-000000000000",
+            "sortCategory": "Pool",
+            "symbol": "water.waves",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
             "id": 447536434,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: TRX Fusion",
@@ -29193,7 +28729,7 @@
             "description": "Our hypertrophy class is designed to build muscle size.\u00a0This tailored program will combine an educational piece and a targeted workout where you will learn how to efficiently build body mass and build confidence\u00a0in your body's capabilities.\u00a0We will focus on proper form, technique, and tempo of specific exercises and muscle groups to safely help you get to your fitness goals. Embrace the challenge, push your limits, and see results, as you sculpt a stronger, more powerful you! The class is suitable for all levels of fitness.\u00a0",
             "image": "",
             "start_date": "2025-04-03 16:10:00",
-            "end_date": "2025-04-03 16:10:00",
+            "end_date": "2025-04-03 16:55:00",
             "venue": "Strength & Conditioning Centre",
             "ticket_label": "reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/program/GetProgramDetails?courseId=81ecd9bc-e525-4bb1-ac6d-535cf5fc646f",
@@ -29597,51 +29133,9 @@
             ]
         },
         {
-            "id": 996416582,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "H2O Paddleboard Core",
-            "description": "Is your Core up to the challenge of UTM's Paddleboards? Engage your core and stabilizers as you move through a total body workout challenging you to stay on top of your paddleboard! \u00a0Simple movements become taxing with the added instability of the paddleboard. Light a fire in your core with this new class that is sure to leave you feeling strong, \u00a0mindful and more aware of your body.",
-            "image": "",
-            "start_date": "2025-04-04 13:10:00",
-            "end_date": "2025-04-04 13:55:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve Your Spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=364971f7-9541-436a-8240-eb1316dc8038&semesterId=00000000-0000-0000-0000-000000000000",
-            "sortCategory": "Pool",
-            "symbol": "water.waves",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 88493537,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Cardio HIIT",
-            "description": "A 45-minute-high intensity interval training class for all fitness levels. Use a variety of cardiovascular and resistance training equipment such as Ski Ergs, Rowers, Curve Treadmills, weights and more to build cardiovascular and muscular endurance.\u00a0",
-            "image": "",
-            "start_date": "2025-04-04 13:10:00",
-            "end_date": "2025-04-04 13:55:00",
-            "venue": "Strength & Conditioning Centre",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=07342ccc-7c88-4522-b99b-b29a44f8c624&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Cardio",
-            "symbol": "heart",
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo",
-                "we"
-            ]
-        },
-        {
-            "id": 1518668235,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only: Cardio HIIT ",
             "description": "A 45-minute-high intensity interval training class for all fitness levels. Use a variety of cardiovascular and resistance training equipment such as Ski Ergs, Rowers, Curve Treadmills, weights and more to build cardiovascular and muscular endurance.\u00a0",
             "image": "",
             "start_date": "2025-04-04 13:10:00",
@@ -29674,27 +29168,6 @@
             "sortCategory": "Pool",
             "symbol": "figure.pool.swim",
             "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo"
-            ]
-        },
-        {
-            "id": 525169383,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women on Weights",
-            "description": "A class that caters to women's needs and wants! Providing a safe space to get energized while building up strength and muscle. Push yourself and raise your limits with our women focused circuit training using a mix of cardio and weights. An inclusive, fun, and supportive environment that will teach you effective exercises and challenge you to reach your goals.",
-            "image": "",
-            "start_date": "2025-04-04 16:10:00",
-            "end_date": "2025-04-04 16:55:00",
-            "venue": "Strength & Conditioning Centre",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b05d2432-ae3d-4aae-8ccb-87540c252ef9&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Workout",
-            "symbol": "dumbbell",
-            "womens": true,
             "lgbt": false,
             "bipoc": false,
             "weeklyRepetitions": [
@@ -29994,7 +29467,7 @@
             "description": "Available for all levels, this program is for students looking to learn the clean and jerk, snatch, and other full body exercises. Participants will be guided by coaches according to skill and performance.",
             "image": "",
             "start_date": "2025-04-06 14:00:00",
-            "end_date": "2025-04-06 14:00:00",
+            "end_date": "2025-04-06 15:00:00",
             "venue": "Strength & Conditioning Centre",
             "ticket_label": "reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=ca0118fb-e19b-47e1-9699-7670affdc43f",
@@ -31951,66 +31424,6 @@
         }
     ],
     "featured": [
-        {
-            "id": 2016095989,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Pow-wow Dance Class",
-            "description": "",
-            "image": "",
-            "start_date": "2025-03-05 13:30:00",
-            "end_date": "2025-03-05 13:30:00",
-            "venue": "Dance Studio",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Dance",
-            "symbol": "figure.dance",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
-            "id": 1798556876,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Pow-wow Dance Class",
-            "description": "",
-            "image": "",
-            "start_date": "2025-03-12 13:30:00",
-            "end_date": "2025-03-12 13:30:00",
-            "venue": "Dance Studio",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Dance",
-            "symbol": "figure.dance",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
-            "id": 1038863125,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Pow-wow Dance Class",
-            "description": "",
-            "image": "",
-            "start_date": "2025-03-19 13:30:00",
-            "end_date": "2025-03-19 13:30:00",
-            "venue": "Dance Studio",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Dance",
-            "symbol": "figure.dance",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
         {
             "id": 1272674529,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
