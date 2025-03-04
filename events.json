@@ -1486,26 +1486,6 @@
             ]
         },
         {
-            "id": 1763978858,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "BIPOC Basketball",
-            "description": "BIPOC Sport Drop-in is a fun and social drop-in sports time that will provide further offerings for individuals within the BIPOC (Black, Indigenous, and People of Color) community. This dedicated time slot for various drop-in sports that will offer a safe and inclusive space to come together and prioritize their health and well-being. Build your sport skills in a fun and inclusive environment and our Sport Inclusion Ambassador will ensure you have the equipment and support you need to have a fun and positive session. You don\u2019t need to be a sport expert to come and join the fun!",
-            "image": "",
-            "start_date": "2025-01-08 15:30:00",
-            "end_date": "2025-01-08 17:00:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": true,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 1489374600,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women on Weights ",
@@ -3037,26 +3017,6 @@
             "lgbt": false,
             "bipoc": false,
             "weeklyRepetitions": []
-        },
-        {
-            "id": 1901911721,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "BIPOC Basketball",
-            "description": "BIPOC Sport Drop-in is a fun and social drop-in sports time that will provide further offerings for individuals within the BIPOC (Black, Indigenous, and People of Color) community. This dedicated time slot for various drop-in sports that will offer a safe and inclusive space to come together and prioritize their health and well-being. Build your sport skills in a fun and inclusive environment and our Sport Inclusion Ambassador will ensure you have the equipment and support you need to have a fun and positive session. You don\u2019t need to be a sport expert to come and join the fun!",
-            "image": "",
-            "start_date": "2025-01-15 15:30:00",
-            "end_date": "2025-01-15 17:00:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": true,
-            "weeklyRepetitions": [
-                "we"
-            ]
         },
         {
             "id": 3547265872,
@@ -7035,7 +6995,9 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "weeklyRepetitions": []
+            "weeklyRepetitions": [
+                "fr"
+            ]
         },
         {
             "id": 367248921,
@@ -7053,7 +7015,9 @@
             "womens": false,
             "lgbt": false,
             "bipoc": true,
-            "weeklyRepetitions": []
+            "weeklyRepetitions": [
+                "fr"
+            ]
         },
         {
             "id": 2060008293,
@@ -8491,26 +8455,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3358179483,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "Gym B; Feb 7",
-            "image": "",
-            "start_date": "2025-02-07 07:00:00",
-            "end_date": "2025-02-07 10:00:00",
-            "venue": "Gym B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 4214344456,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -8932,6 +8876,26 @@
             ]
         },
         {
+            "id": 2556178102,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "PRIDE Badminton and Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-02-07 18:30:00",
+            "end_date": "2025-02-07 20:00:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
             "id": 860425494,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "PRIDE Badminton and Volleyball",
@@ -8948,6 +8912,26 @@
             "lgbt": false,
             "bipoc": false,
             "weeklyRepetitions": []
+        },
+        {
+            "id": 3615361560,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "BIPOC Badminton and Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-02-07 20:00:00",
+            "end_date": "2025-02-07 21:30:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": true,
+            "weeklyRepetitions": [
+                "fr"
+            ]
         },
         {
             "id": 78146209,
@@ -10386,26 +10370,6 @@
             ]
         },
         {
-            "id": 2909285249,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "Gym B; Feb 7",
-            "image": "",
-            "start_date": "2025-02-14 07:00:00",
-            "end_date": "2025-02-14 10:00:00",
-            "venue": "Gym B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 2502570870,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -10751,6 +10715,26 @@
             ]
         },
         {
+            "id": 2957251308,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "PRIDE Badminton and Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-02-14 18:30:00",
+            "end_date": "2025-02-14 20:00:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
             "id": 2764524388,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Pride Badminton and Volleyball",
@@ -10767,6 +10751,26 @@
             "lgbt": true,
             "bipoc": false,
             "weeklyRepetitions": []
+        },
+        {
+            "id": 3608738283,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "BIPOC Badminton and Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-02-14 20:00:00",
+            "end_date": "2025-02-14 21:30:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": true,
+            "weeklyRepetitions": [
+                "fr"
+            ]
         },
         {
             "id": 1857748795,
@@ -11799,7 +11803,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-02-20 07:00:00",
-            "end_date": "2025-02-20 07:00:00",
+            "end_date": "2025-02-20 10:00:00",
             "venue": "Gym A",
             "ticket_label": "",
             "ticket_url": "",
@@ -11819,7 +11823,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-02-20 07:00:00",
-            "end_date": "2025-02-20 07:00:00",
+            "end_date": "2025-02-20 10:00:00",
             "venue": "Gym B",
             "ticket_label": "",
             "ticket_url": "",
@@ -12286,26 +12290,6 @@
             ]
         },
         {
-            "id": 2817168028,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "Gym B; Feb 7",
-            "image": "",
-            "start_date": "2025-02-21 07:00:00",
-            "end_date": "2025-02-21 10:00:00",
-            "venue": "Gym B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 1021711161,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -12589,6 +12573,46 @@
             "womens": true,
             "lgbt": false,
             "bipoc": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
+            "id": 2354911910,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "PRIDE Badminton and Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-02-21 18:30:00",
+            "end_date": "2025-02-21 20:00:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
+            "id": 1246901240,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "BIPOC Badminton and Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-02-21 20:00:00",
+            "end_date": "2025-02-21 21:30:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": true,
             "weeklyRepetitions": [
                 "fr"
             ]
@@ -13073,7 +13097,7 @@
             "description": "BIPOC Sport Drop-in is a fun and social drop-in sports time that will provide further offerings for individuals within the BIPOC (Black, Indigenous, and People of Color) community. This dedicated time slot for various drop-in sports that will offer a safe and inclusive space to come together and prioritize their health and well-being. Build your sport skills in a fun and inclusive environment and our Sport Inclusion Ambassador will ensure you have the equipment and support you need to have a fun and positive session. You don\u2019t need to be a sport expert to come and join the fun!",
             "image": "",
             "start_date": "2025-02-24 12:00:00",
-            "end_date": "2025-02-24 12:00:00",
+            "end_date": "2025-02-24 13:30:00",
             "venue": "Gym C",
             "ticket_label": "",
             "ticket_url": "",
@@ -13195,7 +13219,7 @@
             "description": "Pride Sports offers a unique drop-in Sports experience in an inclusive setting for the 2SLGTBQ+\u00a0community and allies. Join us for fun and social sports atmosphere that celebrate diversity and foster community. Tailored for 2SLGTBQ+ students, Pride Sports will provide a variety of sport offerings and have support from our Sport Inclusion Ambassador to ensure you have the equipment you need and provide support for a fun, inclusive and positive session. You don\u2019t need to be a sport expert to come and join the fun!",
             "image": "",
             "start_date": "2025-02-24 15:30:00",
-            "end_date": "2025-02-24 15:30:00",
+            "end_date": "2025-02-24 17:00:00",
             "venue": "Gym C",
             "ticket_label": "",
             "ticket_url": "",
@@ -13387,46 +13411,6 @@
             "symbol": "heart",
             "womens": false,
             "lgbt": true,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
-            "id": 3600309082,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Cricket",
-            "description": "",
-            "image": "",
-            "start_date": "2025-02-24 19:30:00",
-            "end_date": "2025-02-24 21:30:00",
-            "venue": "Gym C",
-            "ticket_label": "Register Now",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=f33f41ca-d83d-4166-a78f-43fe6d296a9c",
-            "sortCategory": "Cricket",
-            "symbol": "cricket.ball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
-            "id": 144010336,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Cricket",
-            "description": "",
-            "image": "",
-            "start_date": "2025-02-24 19:30:00",
-            "end_date": "2025-02-24 21:30:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Cricket",
-            "symbol": "cricket.ball",
-            "womens": false,
-            "lgbt": false,
             "bipoc": false,
             "weeklyRepetitions": [
                 "mo"
@@ -13836,26 +13820,6 @@
             "venue": "Visually Isolated Area (VIA) - Fitness Centre",
             "ticket_label": "reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=39e7a441-4ece-464a-99ab-63cb97195b0f&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
-            "id": 3008238150,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Kathak Bollywood Fusion",
-            "description": "Experience a vibrant fusion of cultural artistry and fitness with our Kathak Dance Fitness class! Perfect for all fitness levels, this dynamic session merges the grace and rhythm of Kathak\u2014an ancient Indian dance\u2014with a full-body workout.\u00a0Master intricate footwork, spins, and hand gestures while boosting cardiovascular endurance, strength, and flexibility. Whether you're a dance lover or new to fitness, this class offers a fun, engaging way to stay active and connect with your peers.",
-            "image": "",
-            "start_date": "2025-02-25 18:10:00",
-            "end_date": "2025-02-25 18:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=bbeb761b-e021-404c-9882-b51792170d2a",
             "sortCategory": "Workout",
             "symbol": "figure.run",
             "womens": false,
@@ -14291,7 +14255,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-02-26 17:30:00",
-            "end_date": "2025-02-26 17:30:00",
+            "end_date": "2025-02-26 19:00:00",
             "venue": "Gym C",
             "ticket_label": "",
             "ticket_url": "",
@@ -14439,7 +14403,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-02-27 07:00:00",
-            "end_date": "2025-02-27 07:00:00",
+            "end_date": "2025-02-27 10:00:00",
             "venue": "Gym A",
             "ticket_label": "",
             "ticket_url": "",
@@ -14459,7 +14423,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-02-27 07:00:00",
-            "end_date": "2025-02-27 07:00:00",
+            "end_date": "2025-02-27 10:00:00",
             "venue": "Gym B",
             "ticket_label": "",
             "ticket_url": "",
@@ -14778,7 +14742,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-02-27 19:15:00",
-            "end_date": "2025-02-27 19:15:00",
+            "end_date": "2025-02-27 21:30:00",
             "venue": "Gym C",
             "ticket_label": "",
             "ticket_url": "",
@@ -14875,26 +14839,6 @@
                 "th",
                 "tu",
                 "we"
-            ]
-        },
-        {
-            "id": 1104109492,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "Gym B; Feb 7",
-            "image": "",
-            "start_date": "2025-02-28 07:00:00",
-            "end_date": "2025-02-28 10:00:00",
-            "venue": "Gym B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "fr"
             ]
         },
         {
@@ -15261,6 +15205,26 @@
             ]
         },
         {
+            "id": 260285595,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "PRIDE Badminton and Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-02-28 18:30:00",
+            "end_date": "2025-02-28 20:00:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
             "id": 1975461968,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Sports, Games, & Play",
@@ -15276,6 +15240,26 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
+            "id": 2198450687,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "BIPOC Badminton and Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-02-28 20:00:00",
+            "end_date": "2025-02-28 21:30:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": true,
             "weeklyRepetitions": [
                 "fr"
             ]
@@ -15689,42 +15673,6 @@
             ]
         },
         {
-            "id": 2502051146,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-In Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2025-03-03 07:00:00",
-            "end_date": "2025-03-03 11:30:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": []
-        },
-        {
-            "id": 1942738547,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-In Volleyball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-03-03 07:00:00",
-            "end_date": "2025-03-03 11:30:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Volleyball",
-            "symbol": "volleyball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 1696406131,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Table Tennis",
@@ -15766,6 +15714,62 @@
             "weeklyRepetitions": [
                 "mo"
             ]
+        },
+        {
+            "id": 2909414736,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-03 07:00:00",
+            "end_date": "2025-03-03 10:00:00",
+            "venue": "Gym B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
+            "id": 2502051146,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-In Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-03 07:00:00",
+            "end_date": "2025-03-03 11:30:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 1942738547,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-In Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-03 07:00:00",
+            "end_date": "2025-03-03 11:30:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": []
         },
         {
             "id": 4077030335,
@@ -15860,7 +15864,7 @@
             "description": "BIPOC Sport Drop-in is a fun and social drop-in sports time that will provide further offerings for individuals within the BIPOC (Black, Indigenous, and People of Color) community. This dedicated time slot for various drop-in sports that will offer a safe and inclusive space to come together and prioritize their health and well-being. Build your sport skills in a fun and inclusive environment and our Sport Inclusion Ambassador will ensure you have the equipment and support you need to have a fun and positive session. You don\u2019t need to be a sport expert to come and join the fun!",
             "image": "",
             "start_date": "2025-03-03 12:00:00",
-            "end_date": "2025-03-03 12:00:00",
+            "end_date": "2025-03-03 13:30:00",
             "venue": "Gym C",
             "ticket_label": "",
             "ticket_url": "",
@@ -15956,13 +15960,33 @@
             ]
         },
         {
+            "id": 2871870944,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Learn to Play: Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-03 15:00:00",
+            "end_date": "2025-03-03 16:30:00",
+            "venue": "Gym A/B",
+            "ticket_label": "Learn More",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/learn-play/weekly-learn-play",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
             "id": 1196875001,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Pride Badminton and Volleyball",
             "description": "Pride Sports offers a unique drop-in Sports experience in an inclusive setting for the 2SLGTBQ+\u00a0community and allies. Join us for fun and social sports atmosphere that celebrate diversity and foster community. Tailored for 2SLGTBQ+ students, Pride Sports will provide a variety of sport offerings and have support from our Sport Inclusion Ambassador to ensure you have the equipment you need and provide support for a fun, inclusive and positive session. You don\u2019t need to be a sport expert to come and join the fun!",
             "image": "",
             "start_date": "2025-03-03 15:30:00",
-            "end_date": "2025-03-03 15:30:00",
+            "end_date": "2025-03-03 17:00:00",
             "venue": "Gym C",
             "ticket_label": "",
             "ticket_url": "",
@@ -16159,29 +16183,9 @@
             ]
         },
         {
-            "id": 3746845588,
+            "id": 461549796,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Cricket",
-            "description": "",
-            "image": "",
-            "start_date": "2025-03-03 19:30:00",
-            "end_date": "2025-03-03 21:30:00",
-            "venue": "Gym C",
-            "ticket_label": "Register Now",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=f33f41ca-d83d-4166-a78f-43fe6d296a9c",
-            "sortCategory": "Cricket",
-            "symbol": "cricket.ball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
-            "id": 1659214194,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Cricket",
+            "title": "Learn to Play: Women's Only Cricket",
             "description": "",
             "image": "",
             "start_date": "2025-03-03 19:30:00",
@@ -16191,6 +16195,26 @@
             "ticket_url": "",
             "sortCategory": "Cricket",
             "symbol": "cricket.ball",
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
+            "id": 1828031274,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-03 20:30:00",
+            "end_date": "2025-03-03 21:30:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -16243,6 +16267,26 @@
                 "th",
                 "tu",
                 "we"
+            ]
+        },
+        {
+            "id": 2125561369,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-04 07:00:00",
+            "end_date": "2025-03-04 10:30:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
             ]
         },
         {
@@ -16323,6 +16367,26 @@
             "bipoc": false,
             "weeklyRepetitions": [
                 "th",
+                "tu"
+            ]
+        },
+        {
+            "id": 2783365252,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-04 10:30:00",
+            "end_date": "2025-03-04 13:00:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
                 "tu"
             ]
         },
@@ -16632,26 +16696,6 @@
             ]
         },
         {
-            "id": 2341401487,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Kathak Bollywood Fusion",
-            "description": "Experience a vibrant fusion of cultural artistry and fitness with our Kathak Dance Fitness class! Perfect for all fitness levels, this dynamic session merges the grace and rhythm of Kathak\u2014an ancient Indian dance\u2014with a full-body workout.\u00a0Master intricate footwork, spins, and hand gestures while boosting cardiovascular endurance, strength, and flexibility. Whether you're a dance lover or new to fitness, this class offers a fun, engaging way to stay active and connect with your peers.",
-            "image": "",
-            "start_date": "2025-03-04 18:10:00",
-            "end_date": "2025-03-04 18:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=bbeb761b-e021-404c-9882-b51792170d2a",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 4200346809,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball ",
@@ -16801,6 +16845,26 @@
             ]
         },
         {
+            "id": 3905802374,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-05 07:00:00",
+            "end_date": "2025-03-05 10:30:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
             "id": 3545517626,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Table Tennis ",
@@ -16813,6 +16877,46 @@
             "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
             "sortCategory": "Table Tennis",
             "symbol": "figure.table.tennis",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 3162748226,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Volleyball ",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-05 07:00:00",
+            "end_date": "2025-03-05 10:00:00",
+            "venue": "Gym A",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 2246380232,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton ",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-05 07:00:00",
+            "end_date": "2025-03-05 10:00:00",
+            "venue": "Gym B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -17029,6 +17133,26 @@
             ]
         },
         {
+            "id": 1104993512,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "BIPOC Basketball",
+            "description": "BIPOC Sport Drop-in is a fun and social drop-in sports time that will provide further offerings for individuals within the BIPOC (Black, Indigenous, and People of Color) community. This dedicated time slot for various drop-in sports that will offer a safe and inclusive space to come together and prioritize their health and well-being. Build your sport skills in a fun and inclusive environment and our Sport Inclusion Ambassador will ensure you have the equipment and support you need to have a fun and positive session. You don\u2019t need to be a sport expert to come and join the fun!",
+            "image": "",
+            "start_date": "2025-03-05 15:30:00",
+            "end_date": "2025-03-05 17:00:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": true,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
             "id": 3769231312,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Registered Lessons",
@@ -17093,7 +17217,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-03-05 17:30:00",
-            "end_date": "2025-03-05 17:30:00",
+            "end_date": "2025-03-05 19:00:00",
             "venue": "Gym C",
             "ticket_label": "",
             "ticket_url": "",
@@ -17195,6 +17319,26 @@
             ]
         },
         {
+            "id": 3105199498,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-06 07:00:00",
+            "end_date": "2025-03-06 10:30:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
             "id": 3498672516,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Table Tennis ",
@@ -17241,7 +17385,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-03-06 07:00:00",
-            "end_date": "2025-03-06 07:00:00",
+            "end_date": "2025-03-06 10:00:00",
             "venue": "Gym A",
             "ticket_label": "",
             "ticket_url": "",
@@ -17261,7 +17405,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-03-06 07:00:00",
-            "end_date": "2025-03-06 07:00:00",
+            "end_date": "2025-03-06 10:00:00",
             "venue": "Gym B",
             "ticket_label": "",
             "ticket_url": "",
@@ -17313,6 +17457,26 @@
             "weeklyRepetitions": [
                 "th",
                 "tu"
+            ]
+        },
+        {
+            "id": 3176961562,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-06 10:30:00",
+            "end_date": "2025-03-06 12:00:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th"
             ]
         },
         {
@@ -17564,7 +17728,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-03-06 19:15:00",
-            "end_date": "2025-03-06 19:15:00",
+            "end_date": "2025-03-06 21:30:00",
             "venue": "Gym C",
             "ticket_label": "",
             "ticket_url": "",
@@ -17664,24 +17828,40 @@
             ]
         },
         {
-            "id": 402180585,
+            "id": 1507177668,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "Gym B; Feb 7",
+            "title": "Drop-in Basketball",
+            "description": "",
             "image": "",
             "start_date": "2025-03-07 07:00:00",
-            "end_date": "2025-03-07 10:00:00",
+            "end_date": "2025-03-07 11:30:00",
             "venue": "Gym B",
             "ticket_label": "",
             "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 987343690,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-07 07:00:00",
+            "end_date": "2025-03-07 11:30:00",
+            "venue": "Gym A",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": []
         },
         {
             "id": 1979389715,
@@ -17808,6 +17988,24 @@
             ]
         },
         {
+            "id": 4228292949,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Indoor Soccer",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-07 12:00:00",
+            "end_date": "2025-03-07 15:30:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Soccer",
+            "symbol": "soccerball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 2015729039,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -17868,6 +18066,24 @@
             ]
         },
         {
+            "id": 3750205765,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Cricket",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-07 12:30:00",
+            "end_date": "2025-03-07 15:00:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Cricket",
+            "symbol": "cricket.ball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 982762703,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-In Table Tennis",
@@ -17908,6 +18124,24 @@
                 "mo",
                 "we"
             ]
+        },
+        {
+            "id": 3640967098,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Pickleball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-07 15:30:00",
+            "end_date": "2025-03-07 17:30:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Pickleball",
+            "symbol": "figure.pickleball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": []
         },
         {
             "id": 2428891660,
@@ -18012,6 +18246,26 @@
             ]
         },
         {
+            "id": 3130696378,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "PRIDE Badminton and Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-07 18:30:00",
+            "end_date": "2025-03-07 20:00:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
             "id": 3513803356,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Sports, Games, & Play",
@@ -18027,6 +18281,26 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
+            "id": 3163754985,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "BIPOC Badminton and Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-07 20:00:00",
+            "end_date": "2025-03-07 21:30:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": true,
             "weeklyRepetitions": [
                 "fr"
             ]
@@ -18193,6 +18467,24 @@
             "weeklyRepetitions": [
                 "sa"
             ]
+        },
+        {
+            "id": 250848167,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-08 14:00:00",
+            "end_date": "2025-03-08 16:45:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": []
         },
         {
             "id": 335653823,
@@ -18486,6 +18778,26 @@
             ]
         },
         {
+            "id": 932222426,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-10 07:00:00",
+            "end_date": "2025-03-10 10:00:00",
+            "venue": "Gym B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
             "id": 3831749852,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-In Badminton",
@@ -18616,7 +18928,7 @@
             "description": "BIPOC Sport Drop-in is a fun and social drop-in sports time that will provide further offerings for individuals within the BIPOC (Black, Indigenous, and People of Color) community. This dedicated time slot for various drop-in sports that will offer a safe and inclusive space to come together and prioritize their health and well-being. Build your sport skills in a fun and inclusive environment and our Sport Inclusion Ambassador will ensure you have the equipment and support you need to have a fun and positive session. You don\u2019t need to be a sport expert to come and join the fun!",
             "image": "",
             "start_date": "2025-03-10 12:00:00",
-            "end_date": "2025-03-10 12:00:00",
+            "end_date": "2025-03-10 13:30:00",
             "venue": "Gym C",
             "ticket_label": "",
             "ticket_url": "",
@@ -18712,13 +19024,33 @@
             ]
         },
         {
+            "id": 191684574,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Learn to Play: Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-10 15:00:00",
+            "end_date": "2025-03-10 16:30:00",
+            "venue": "Gym A/B",
+            "ticket_label": "Learn More",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/learn-play/weekly-learn-play",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
             "id": 602462326,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Pride Badminton and Volleyball",
             "description": "Pride Sports offers a unique drop-in Sports experience in an inclusive setting for the 2SLGTBQ+\u00a0community and allies. Join us for fun and social sports atmosphere that celebrate diversity and foster community. Tailored for 2SLGTBQ+ students, Pride Sports will provide a variety of sport offerings and have support from our Sport Inclusion Ambassador to ensure you have the equipment you need and provide support for a fun, inclusive and positive session. You don\u2019t need to be a sport expert to come and join the fun!",
             "image": "",
             "start_date": "2025-03-10 15:30:00",
-            "end_date": "2025-03-10 15:30:00",
+            "end_date": "2025-03-10 17:00:00",
             "venue": "Gym C",
             "ticket_label": "",
             "ticket_url": "",
@@ -18915,9 +19247,9 @@
             ]
         },
         {
-            "id": 673101640,
+            "id": 3566073155,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Cricket",
+            "title": "Learn to Play: Women's Only Cricket",
             "description": "",
             "image": "",
             "start_date": "2025-03-10 19:30:00",
@@ -18927,6 +19259,26 @@
             "ticket_url": "",
             "sortCategory": "Cricket",
             "symbol": "cricket.ball",
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
+            "id": 2387454366,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-10 20:30:00",
+            "end_date": "2025-03-10 21:30:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -18979,6 +19331,26 @@
                 "th",
                 "tu",
                 "we"
+            ]
+        },
+        {
+            "id": 425105558,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-11 07:00:00",
+            "end_date": "2025-03-11 10:30:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
             ]
         },
         {
@@ -19059,6 +19431,26 @@
             "bipoc": false,
             "weeklyRepetitions": [
                 "th",
+                "tu"
+            ]
+        },
+        {
+            "id": 2195435789,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-11 10:30:00",
+            "end_date": "2025-03-11 13:00:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
                 "tu"
             ]
         },
@@ -19517,6 +19909,26 @@
             ]
         },
         {
+            "id": 1008710338,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-12 07:00:00",
+            "end_date": "2025-03-12 10:30:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
             "id": 493382943,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Table Tennis ",
@@ -19529,6 +19941,46 @@
             "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
             "sortCategory": "Table Tennis",
             "symbol": "figure.table.tennis",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 1870593271,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Volleyball ",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-12 07:00:00",
+            "end_date": "2025-03-12 10:00:00",
+            "venue": "Gym A",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 2479696316,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton ",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-12 07:00:00",
+            "end_date": "2025-03-12 10:00:00",
+            "venue": "Gym B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -19745,6 +20197,26 @@
             ]
         },
         {
+            "id": 1541882395,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "BIPOC Basketball",
+            "description": "BIPOC Sport Drop-in is a fun and social drop-in sports time that will provide further offerings for individuals within the BIPOC (Black, Indigenous, and People of Color) community. This dedicated time slot for various drop-in sports that will offer a safe and inclusive space to come together and prioritize their health and well-being. Build your sport skills in a fun and inclusive environment and our Sport Inclusion Ambassador will ensure you have the equipment and support you need to have a fun and positive session. You don\u2019t need to be a sport expert to come and join the fun!",
+            "image": "",
+            "start_date": "2025-03-12 15:30:00",
+            "end_date": "2025-03-12 17:00:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": true,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
             "id": 2321510823,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Registered Lessons",
@@ -19811,7 +20283,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-03-12 17:30:00",
-            "end_date": "2025-03-12 17:30:00",
+            "end_date": "2025-03-12 19:00:00",
             "venue": "Gym C",
             "ticket_label": "",
             "ticket_url": "",
@@ -19951,6 +20423,26 @@
             ]
         },
         {
+            "id": 2411327362,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-13 07:00:00",
+            "end_date": "2025-03-13 10:30:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
             "id": 516189224,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Table Tennis ",
@@ -19997,7 +20489,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-03-13 07:00:00",
-            "end_date": "2025-03-13 07:00:00",
+            "end_date": "2025-03-13 10:00:00",
             "venue": "Gym A",
             "ticket_label": "",
             "ticket_url": "",
@@ -20017,7 +20509,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-03-13 07:00:00",
-            "end_date": "2025-03-13 07:00:00",
+            "end_date": "2025-03-13 10:00:00",
             "venue": "Gym B",
             "ticket_label": "",
             "ticket_url": "",
@@ -20069,6 +20561,26 @@
             "weeklyRepetitions": [
                 "th",
                 "tu"
+            ]
+        },
+        {
+            "id": 756435241,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-13 10:30:00",
+            "end_date": "2025-03-13 12:00:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th"
             ]
         },
         {
@@ -20362,7 +20874,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-03-13 19:15:00",
-            "end_date": "2025-03-13 19:15:00",
+            "end_date": "2025-03-13 21:30:00",
             "venue": "Gym C",
             "ticket_label": "",
             "ticket_url": "",
@@ -20462,26 +20974,6 @@
             ]
         },
         {
-            "id": 242764821,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "Gym B; Feb 7",
-            "image": "",
-            "start_date": "2025-03-14 07:00:00",
-            "end_date": "2025-03-14 10:00:00",
-            "venue": "Gym B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 1676345292,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -20514,6 +21006,26 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
+            "id": 242764821,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "Gym B; Feb 7",
+            "image": "",
+            "start_date": "2025-03-14 07:00:00",
+            "end_date": "2025-03-14 10:00:00",
+            "venue": "Gym B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -20811,6 +21323,26 @@
             ]
         },
         {
+            "id": 2522143114,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "PRIDE Badminton and Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-14 18:30:00",
+            "end_date": "2025-03-14 20:00:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
             "id": 3170314732,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Sports, Games, & Play",
@@ -20826,6 +21358,26 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
+            "id": 2288361957,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "BIPOC Badminton and Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-14 20:00:00",
+            "end_date": "2025-03-14 21:30:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": true,
             "weeklyRepetitions": [
                 "fr"
             ]
@@ -21325,6 +21877,26 @@
             ]
         },
         {
+            "id": 4246403172,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-17 07:00:00",
+            "end_date": "2025-03-17 10:00:00",
+            "venue": "Gym B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
             "id": 3178227228,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Intro to Coached Swim",
@@ -21437,7 +22009,7 @@
             "description": "BIPOC Sport Drop-in is a fun and social drop-in sports time that will provide further offerings for individuals within the BIPOC (Black, Indigenous, and People of Color) community. This dedicated time slot for various drop-in sports that will offer a safe and inclusive space to come together and prioritize their health and well-being. Build your sport skills in a fun and inclusive environment and our Sport Inclusion Ambassador will ensure you have the equipment and support you need to have a fun and positive session. You don\u2019t need to be a sport expert to come and join the fun!",
             "image": "",
             "start_date": "2025-03-17 12:00:00",
-            "end_date": "2025-03-17 12:00:00",
+            "end_date": "2025-03-17 13:30:00",
             "venue": "Gym C",
             "ticket_label": "",
             "ticket_url": "",
@@ -21533,13 +22105,33 @@
             ]
         },
         {
+            "id": 3638009937,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Learn to Play: Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-17 15:00:00",
+            "end_date": "2025-03-17 16:30:00",
+            "venue": "Gym A/B",
+            "ticket_label": "Learn More",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/learn-play/weekly-learn-play",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
             "id": 2614452460,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Pride Badminton and Volleyball",
             "description": "Pride Sports offers a unique drop-in Sports experience in an inclusive setting for the 2SLGTBQ+\u00a0community and allies. Join us for fun and social sports atmosphere that celebrate diversity and foster community. Tailored for 2SLGTBQ+ students, Pride Sports will provide a variety of sport offerings and have support from our Sport Inclusion Ambassador to ensure you have the equipment you need and provide support for a fun, inclusive and positive session. You don\u2019t need to be a sport expert to come and join the fun!",
             "image": "",
             "start_date": "2025-03-17 15:30:00",
-            "end_date": "2025-03-17 15:30:00",
+            "end_date": "2025-03-17 17:00:00",
             "venue": "Gym C",
             "ticket_label": "",
             "ticket_url": "",
@@ -21737,9 +22329,9 @@
             ]
         },
         {
-            "id": 360222423,
+            "id": 2212170702,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Cricket",
+            "title": "Learn to Play: Women's Only Cricket",
             "description": "",
             "image": "",
             "start_date": "2025-03-17 19:30:00",
@@ -21749,6 +22341,26 @@
             "ticket_url": "",
             "sortCategory": "Cricket",
             "symbol": "cricket.ball",
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
+            "id": 3659172134,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-17 20:30:00",
+            "end_date": "2025-03-17 21:30:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -21801,6 +22413,26 @@
                 "th",
                 "tu",
                 "we"
+            ]
+        },
+        {
+            "id": 2209357937,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-18 07:00:00",
+            "end_date": "2025-03-18 10:30:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
             ]
         },
         {
@@ -21881,6 +22513,26 @@
             "bipoc": false,
             "weeklyRepetitions": [
                 "th",
+                "tu"
+            ]
+        },
+        {
+            "id": 1388661259,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-18 10:30:00",
+            "end_date": "2025-03-18 13:00:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
                 "tu"
             ]
         },
@@ -22339,6 +22991,26 @@
             ]
         },
         {
+            "id": 2213510360,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-19 07:00:00",
+            "end_date": "2025-03-19 10:30:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
             "id": 4285892268,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Table Tennis ",
@@ -22351,6 +23023,46 @@
             "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
             "sortCategory": "Table Tennis",
             "symbol": "figure.table.tennis",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 600955159,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Volleyball ",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-19 07:00:00",
+            "end_date": "2025-03-19 10:00:00",
+            "venue": "Gym A",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 2586519261,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton ",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-19 07:00:00",
+            "end_date": "2025-03-19 10:00:00",
+            "venue": "Gym B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -22567,6 +23279,26 @@
             ]
         },
         {
+            "id": 1033323340,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "BIPOC Basketball",
+            "description": "BIPOC Sport Drop-in is a fun and social drop-in sports time that will provide further offerings for individuals within the BIPOC (Black, Indigenous, and People of Color) community. This dedicated time slot for various drop-in sports that will offer a safe and inclusive space to come together and prioritize their health and well-being. Build your sport skills in a fun and inclusive environment and our Sport Inclusion Ambassador will ensure you have the equipment and support you need to have a fun and positive session. You don\u2019t need to be a sport expert to come and join the fun!",
+            "image": "",
+            "start_date": "2025-03-19 15:30:00",
+            "end_date": "2025-03-19 17:00:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": true,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
             "id": 2067809237,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Registered Lessons",
@@ -22673,7 +23405,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-03-19 17:30:00",
-            "end_date": "2025-03-19 17:30:00",
+            "end_date": "2025-03-19 19:00:00",
             "venue": "Gym C",
             "ticket_label": "",
             "ticket_url": "",
@@ -22795,6 +23527,26 @@
             ]
         },
         {
+            "id": 10717152,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-20 07:00:00",
+            "end_date": "2025-03-20 10:30:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
             "id": 600795921,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Table Tennis ",
@@ -22841,7 +23593,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-03-20 07:00:00",
-            "end_date": "2025-03-20 07:00:00",
+            "end_date": "2025-03-20 10:00:00",
             "venue": "Gym A",
             "ticket_label": "",
             "ticket_url": "",
@@ -22861,7 +23613,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-03-20 07:00:00",
-            "end_date": "2025-03-20 07:00:00",
+            "end_date": "2025-03-20 10:00:00",
             "venue": "Gym B",
             "ticket_label": "",
             "ticket_url": "",
@@ -22913,6 +23665,26 @@
             "weeklyRepetitions": [
                 "th",
                 "tu"
+            ]
+        },
+        {
+            "id": 3392242617,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-20 10:30:00",
+            "end_date": "2025-03-20 12:00:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th"
             ]
         },
         {
@@ -23242,7 +24014,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-03-20 19:15:00",
-            "end_date": "2025-03-20 19:15:00",
+            "end_date": "2025-03-20 21:30:00",
             "venue": "Gym C",
             "ticket_label": "",
             "ticket_url": "",
@@ -23342,26 +24114,6 @@
             ]
         },
         {
-            "id": 446713413,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "Gym B; Feb 7",
-            "image": "",
-            "start_date": "2025-03-21 07:00:00",
-            "end_date": "2025-03-21 10:00:00",
-            "venue": "Gym B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 1607216574,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -23394,6 +24146,26 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
+            "id": 446713413,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "Gym B; Feb 7",
+            "image": "",
+            "start_date": "2025-03-21 07:00:00",
+            "end_date": "2025-03-21 10:00:00",
+            "venue": "Gym B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -23691,6 +24463,26 @@
             ]
         },
         {
+            "id": 3443818848,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "PRIDE Badminton and Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-21 18:30:00",
+            "end_date": "2025-03-21 20:00:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
             "id": 1293018180,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Sports, Games, & Play",
@@ -23706,6 +24498,26 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
+            "id": 4244675993,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "BIPOC Badminton and Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-21 20:00:00",
+            "end_date": "2025-03-21 21:30:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": true,
             "weeklyRepetitions": [
                 "fr"
             ]
@@ -24205,6 +25017,26 @@
             ]
         },
         {
+            "id": 3563888726,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-24 07:00:00",
+            "end_date": "2025-03-24 10:00:00",
+            "venue": "Gym B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
             "id": 3551352380,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Intro to Coached Swim",
@@ -24317,7 +25149,7 @@
             "description": "BIPOC Sport Drop-in is a fun and social drop-in sports time that will provide further offerings for individuals within the BIPOC (Black, Indigenous, and People of Color) community. This dedicated time slot for various drop-in sports that will offer a safe and inclusive space to come together and prioritize their health and well-being. Build your sport skills in a fun and inclusive environment and our Sport Inclusion Ambassador will ensure you have the equipment and support you need to have a fun and positive session. You don\u2019t need to be a sport expert to come and join the fun!",
             "image": "",
             "start_date": "2025-03-24 12:00:00",
-            "end_date": "2025-03-24 12:00:00",
+            "end_date": "2025-03-24 13:30:00",
             "venue": "Gym C",
             "ticket_label": "",
             "ticket_url": "",
@@ -24413,13 +25245,33 @@
             ]
         },
         {
+            "id": 412459788,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Learn to Play: Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-24 15:00:00",
+            "end_date": "2025-03-24 16:30:00",
+            "venue": "Gym A/B",
+            "ticket_label": "Learn More",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/learn-play/weekly-learn-play",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
             "id": 3087399743,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Pride Badminton and Volleyball",
             "description": "Pride Sports offers a unique drop-in Sports experience in an inclusive setting for the 2SLGTBQ+\u00a0community and allies. Join us for fun and social sports atmosphere that celebrate diversity and foster community. Tailored for 2SLGTBQ+ students, Pride Sports will provide a variety of sport offerings and have support from our Sport Inclusion Ambassador to ensure you have the equipment you need and provide support for a fun, inclusive and positive session. You don\u2019t need to be a sport expert to come and join the fun!",
             "image": "",
             "start_date": "2025-03-24 15:30:00",
-            "end_date": "2025-03-24 15:30:00",
+            "end_date": "2025-03-24 17:00:00",
             "venue": "Gym C",
             "ticket_label": "",
             "ticket_url": "",
@@ -24617,9 +25469,9 @@
             ]
         },
         {
-            "id": 3281240612,
+            "id": 3426602258,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Cricket",
+            "title": "Learn to Play: Women's Only Cricket",
             "description": "",
             "image": "",
             "start_date": "2025-03-24 19:30:00",
@@ -24629,6 +25481,26 @@
             "ticket_url": "",
             "sortCategory": "Cricket",
             "symbol": "cricket.ball",
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
+            "id": 305706990,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-24 20:30:00",
+            "end_date": "2025-03-24 21:30:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -24681,6 +25553,26 @@
                 "th",
                 "tu",
                 "we"
+            ]
+        },
+        {
+            "id": 1794553566,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-25 07:00:00",
+            "end_date": "2025-03-25 10:30:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
             ]
         },
         {
@@ -24761,6 +25653,26 @@
             "bipoc": false,
             "weeklyRepetitions": [
                 "th",
+                "tu"
+            ]
+        },
+        {
+            "id": 3458521116,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-25 10:30:00",
+            "end_date": "2025-03-25 13:00:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
                 "tu"
             ]
         },
@@ -25219,6 +26131,26 @@
             ]
         },
         {
+            "id": 1700915563,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-26 07:00:00",
+            "end_date": "2025-03-26 10:30:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
             "id": 1181897696,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Table Tennis ",
@@ -25231,6 +26163,46 @@
             "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
             "sortCategory": "Table Tennis",
             "symbol": "figure.table.tennis",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 811414082,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Volleyball ",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-26 07:00:00",
+            "end_date": "2025-03-26 10:00:00",
+            "venue": "Gym A",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 3389945424,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton ",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-26 07:00:00",
+            "end_date": "2025-03-26 10:00:00",
+            "venue": "Gym B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -25447,6 +26419,26 @@
             ]
         },
         {
+            "id": 3919521786,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "BIPOC Basketball",
+            "description": "BIPOC Sport Drop-in is a fun and social drop-in sports time that will provide further offerings for individuals within the BIPOC (Black, Indigenous, and People of Color) community. This dedicated time slot for various drop-in sports that will offer a safe and inclusive space to come together and prioritize their health and well-being. Build your sport skills in a fun and inclusive environment and our Sport Inclusion Ambassador will ensure you have the equipment and support you need to have a fun and positive session. You don\u2019t need to be a sport expert to come and join the fun!",
+            "image": "",
+            "start_date": "2025-03-26 15:30:00",
+            "end_date": "2025-03-26 17:00:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": true,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
             "id": 3291749993,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Registered Lessons",
@@ -25553,7 +26545,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-03-26 17:30:00",
-            "end_date": "2025-03-26 17:30:00",
+            "end_date": "2025-03-26 19:00:00",
             "venue": "Gym C",
             "ticket_label": "",
             "ticket_url": "",
@@ -25675,6 +26667,26 @@
             ]
         },
         {
+            "id": 2956617132,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-27 07:00:00",
+            "end_date": "2025-03-27 10:30:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
             "id": 550277376,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Table Tennis ",
@@ -25721,7 +26733,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-03-27 07:00:00",
-            "end_date": "2025-03-27 07:00:00",
+            "end_date": "2025-03-27 10:00:00",
             "venue": "Gym A",
             "ticket_label": "",
             "ticket_url": "",
@@ -25741,7 +26753,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-03-27 07:00:00",
-            "end_date": "2025-03-27 07:00:00",
+            "end_date": "2025-03-27 10:00:00",
             "venue": "Gym B",
             "ticket_label": "",
             "ticket_url": "",
@@ -25793,6 +26805,26 @@
             "weeklyRepetitions": [
                 "th",
                 "tu"
+            ]
+        },
+        {
+            "id": 2403236393,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-27 10:30:00",
+            "end_date": "2025-03-27 12:00:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th"
             ]
         },
         {
@@ -26104,7 +27136,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-03-27 19:15:00",
-            "end_date": "2025-03-27 19:15:00",
+            "end_date": "2025-03-27 21:30:00",
             "venue": "Gym C",
             "ticket_label": "",
             "ticket_url": "",
@@ -26204,26 +27236,6 @@
             ]
         },
         {
-            "id": 1060916635,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "Gym B; Feb 7",
-            "image": "",
-            "start_date": "2025-03-28 07:00:00",
-            "end_date": "2025-03-28 10:00:00",
-            "venue": "Gym B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 3994514981,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -26256,6 +27268,26 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
+            "id": 1060916635,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "Gym B; Feb 7",
+            "image": "",
+            "start_date": "2025-03-28 07:00:00",
+            "end_date": "2025-03-28 10:00:00",
+            "venue": "Gym B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -26533,6 +27565,26 @@
             ]
         },
         {
+            "id": 508001028,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "PRIDE Badminton and Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-28 18:30:00",
+            "end_date": "2025-03-28 20:00:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
             "id": 907031563,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Sports, Games, & Play",
@@ -26548,6 +27600,26 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
+            "id": 1767078826,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "BIPOC Badminton and Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-28 20:00:00",
+            "end_date": "2025-03-28 21:30:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": true,
             "weeklyRepetitions": [
                 "fr"
             ]
@@ -27027,6 +28099,26 @@
             ]
         },
         {
+            "id": 1740647539,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-31 07:00:00",
+            "end_date": "2025-03-31 10:00:00",
+            "venue": "Gym B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
             "id": 3273978261,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Intro to Coached Swim",
@@ -27139,7 +28231,7 @@
             "description": "BIPOC Sport Drop-in is a fun and social drop-in sports time that will provide further offerings for individuals within the BIPOC (Black, Indigenous, and People of Color) community. This dedicated time slot for various drop-in sports that will offer a safe and inclusive space to come together and prioritize their health and well-being. Build your sport skills in a fun and inclusive environment and our Sport Inclusion Ambassador will ensure you have the equipment and support you need to have a fun and positive session. You don\u2019t need to be a sport expert to come and join the fun!",
             "image": "",
             "start_date": "2025-03-31 12:00:00",
-            "end_date": "2025-03-31 12:00:00",
+            "end_date": "2025-03-31 13:30:00",
             "venue": "Gym C",
             "ticket_label": "",
             "ticket_url": "",
@@ -27235,13 +28327,33 @@
             ]
         },
         {
+            "id": 3956635679,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Learn to Play: Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-31 15:00:00",
+            "end_date": "2025-03-31 16:30:00",
+            "venue": "Gym A/B",
+            "ticket_label": "Learn More",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/learn-play/weekly-learn-play",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
             "id": 1030277193,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Pride Badminton and Volleyball",
             "description": "Pride Sports offers a unique drop-in Sports experience in an inclusive setting for the 2SLGTBQ+\u00a0community and allies. Join us for fun and social sports atmosphere that celebrate diversity and foster community. Tailored for 2SLGTBQ+ students, Pride Sports will provide a variety of sport offerings and have support from our Sport Inclusion Ambassador to ensure you have the equipment you need and provide support for a fun, inclusive and positive session. You don\u2019t need to be a sport expert to come and join the fun!",
             "image": "",
             "start_date": "2025-03-31 15:30:00",
-            "end_date": "2025-03-31 15:30:00",
+            "end_date": "2025-03-31 17:00:00",
             "venue": "Gym C",
             "ticket_label": "",
             "ticket_url": "",
@@ -27439,9 +28551,9 @@
             ]
         },
         {
-            "id": 4262761454,
+            "id": 1012254937,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Cricket",
+            "title": "Learn to Play: Women's Only Cricket",
             "description": "",
             "image": "",
             "start_date": "2025-03-31 19:30:00",
@@ -27451,6 +28563,26 @@
             "ticket_url": "",
             "sortCategory": "Cricket",
             "symbol": "cricket.ball",
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
+            "id": 3607058242,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-31 20:30:00",
+            "end_date": "2025-03-31 21:30:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -27503,6 +28635,26 @@
                 "th",
                 "tu",
                 "we"
+            ]
+        },
+        {
+            "id": 4047860207,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-04-01 07:00:00",
+            "end_date": "2025-04-01 10:30:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
             ]
         },
         {
@@ -27583,6 +28735,26 @@
             "bipoc": false,
             "weeklyRepetitions": [
                 "th",
+                "tu"
+            ]
+        },
+        {
+            "id": 4039932689,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-04-01 10:30:00",
+            "end_date": "2025-04-01 13:00:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
                 "tu"
             ]
         },
@@ -28061,6 +29233,26 @@
             ]
         },
         {
+            "id": 334109874,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Volleyball ",
+            "description": "",
+            "image": "",
+            "start_date": "2025-04-02 07:00:00",
+            "end_date": "2025-04-02 10:00:00",
+            "venue": "Gym A",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
             "id": 3674348543,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Intro to Coached Swim",
@@ -28249,6 +29441,26 @@
             ]
         },
         {
+            "id": 3727579948,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "BIPOC Basketball",
+            "description": "BIPOC Sport Drop-in is a fun and social drop-in sports time that will provide further offerings for individuals within the BIPOC (Black, Indigenous, and People of Color) community. This dedicated time slot for various drop-in sports that will offer a safe and inclusive space to come together and prioritize their health and well-being. Build your sport skills in a fun and inclusive environment and our Sport Inclusion Ambassador will ensure you have the equipment and support you need to have a fun and positive session. You don\u2019t need to be a sport expert to come and join the fun!",
+            "image": "",
+            "start_date": "2025-04-02 15:30:00",
+            "end_date": "2025-04-02 17:00:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": true,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
             "id": 803983518,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Registered Lessons",
@@ -28337,7 +29549,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-04-02 17:30:00",
-            "end_date": "2025-04-02 17:30:00",
+            "end_date": "2025-04-02 19:00:00",
             "venue": "Gym C",
             "ticket_label": "",
             "ticket_url": "",
@@ -28459,6 +29671,26 @@
             ]
         },
         {
+            "id": 3442718051,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-04-03 07:00:00",
+            "end_date": "2025-04-03 10:30:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
             "id": 2422880077,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Table Tennis ",
@@ -28505,7 +29737,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-04-03 07:00:00",
-            "end_date": "2025-04-03 07:00:00",
+            "end_date": "2025-04-03 10:00:00",
             "venue": "Gym A",
             "ticket_label": "",
             "ticket_url": "",
@@ -28525,7 +29757,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-04-03 07:00:00",
-            "end_date": "2025-04-03 07:00:00",
+            "end_date": "2025-04-03 10:00:00",
             "venue": "Gym B",
             "ticket_label": "",
             "ticket_url": "",
@@ -28551,6 +29783,26 @@
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=1f8d209f-2492-4436-a249-ff2ab2ce3623&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
             "sortCategory": "Cycling",
             "symbol": "figure.indoor.cycle",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
+            "id": 3447780571,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-04-03 10:30:00",
+            "end_date": "2025-04-03 12:00:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -28929,26 +30181,6 @@
             ]
         },
         {
-            "id": 2669426286,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "Gym B; Feb 7",
-            "image": "",
-            "start_date": "2025-04-04 07:00:00",
-            "end_date": "2025-04-04 10:00:00",
-            "venue": "Gym B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 2049343910,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -28961,6 +30193,26 @@
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=d3331c2b-594d-4b36-becc-a9b943a4dde6",
             "sortCategory": "Pool",
             "symbol": "figure.pool.swim",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
+            "id": 2669426286,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "Gym B; Feb 7",
+            "image": "",
+            "start_date": "2025-04-04 07:00:00",
+            "end_date": "2025-04-04 10:00:00",
+            "venue": "Gym B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -29238,6 +30490,26 @@
             ]
         },
         {
+            "id": 455303801,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "PRIDE Badminton and Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-04-04 18:30:00",
+            "end_date": "2025-04-04 20:00:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
             "id": 3720792026,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Sports, Games, & Play",
@@ -29253,6 +30525,26 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
+            "id": 4229586714,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "BIPOC Badminton and Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-04-04 20:00:00",
+            "end_date": "2025-04-04 21:30:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": true,
             "weeklyRepetitions": [
                 "fr"
             ]
@@ -29517,26 +30809,6 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
-            "id": 3521256509,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "BIPOC Badminton and Volleyball",
-            "description": "BIPOC Sport Drop-in is a fun and social drop-in sports time that will provide further offerings for individuals within the BIPOC (Black, Indigenous, and People of Color) community. This dedicated time slot for various drop-in sports that will offer a safe and inclusive space to come together and prioritize their health and well-being. Build your sport skills in a fun and inclusive environment and our Sport Inclusion Ambassador will ensure you have the equipment and support you need to have a fun and positive session. You don\u2019t need to be a sport expert to come and join the fun!",
-            "image": "",
-            "start_date": "2025-04-07 12:00:00",
-            "end_date": "2025-04-07 12:00:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Volleyball",
-            "symbol": "volleyball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": true,
             "weeklyRepetitions": [
                 "mo"
             ]
@@ -31438,6 +32710,24 @@
             "sortCategory": "Workout",
             "symbol": "dumbbell",
             "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 3750205765,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Cricket",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-07 12:30:00",
+            "end_date": "2025-03-07 15:00:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Cricket",
+            "symbol": "cricket.ball",
+            "womens": false,
             "lgbt": false,
             "bipoc": false,
             "weeklyRepetitions": []
