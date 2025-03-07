@@ -115,10 +115,10 @@
             "isMedal": true
         },
         {
-            "title": "UTM Walks",
-            "symbol": "figure.walk",
+            "title": "UTM Moves",
+            "symbol": "figure.run",
             "isChip": true,
-            "isMedal": true
+            "isMedal": false
         }
     ],
     "events": [
@@ -1233,26 +1233,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 3281623589,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only Cardio HIIT",
-            "description": "A 45-minute-high intensity interval training class for all fitness levels. Use a variety of cardiovascular and resistance training equipment such as Ski Ergs, Rowers, Curve Treadmills, weights and more to build cardiovascular and muscular endurance.\u00a0",
-            "image": "",
-            "start_date": "2025-01-07 17:10:00",
-            "end_date": "2025-01-07 17:55:00",
-            "venue": "Multipurpose B",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=07342ccc-7c88-4522-b99b-b29a44f8c624&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Cardio",
-            "symbol": "heart",
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 3083385753,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Hatha Yoga",
@@ -1273,6 +1253,26 @@
             ]
         },
         {
+            "id": 3281623589,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Women's Only Cardio HIIT",
+            "description": "A 45-minute-high intensity interval training class for all fitness levels. Use a variety of cardiovascular and resistance training equipment such as Ski Ergs, Rowers, Curve Treadmills, weights and more to build cardiovascular and muscular endurance.\u00a0",
+            "image": "",
+            "start_date": "2025-01-07 17:10:00",
+            "end_date": "2025-01-07 17:55:00",
+            "venue": "Multipurpose B",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=07342ccc-7c88-4522-b99b-b29a44f8c624&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
+            "sortCategory": "Cardio",
+            "symbol": "heart",
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
             "id": 1836386861,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Bootcamp",
@@ -1285,26 +1285,6 @@
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=39e7a441-4ece-464a-99ab-63cb97195b0f&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
             "sortCategory": "Workout",
             "symbol": "figure.run",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
-            "id": 1099845659,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Zumba",
-            "description": "A high energy and fun fitness/dance class that blends exciting club music and world rhythms with easy-to-follow choreography. Come and join the fun and find your rhythmic groove! No dance experience required. All levels welcome.",
-            "image": "",
-            "start_date": "2025-01-07 19:10:00",
-            "end_date": "2025-01-07 19:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=5b5cce5c-4612-4751-a5eb-3890621de61b&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Dance",
-            "symbol": "figure.dance",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -1856,7 +1836,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-01-10 13:00:00",
-            "end_date": "2025-01-10 21:30:00",
+            "end_date": "2025-01-10 19:30:00",
             "venue": "Multipurpose B",
             "ticket_label": "Book a Court ",
             "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
@@ -2228,7 +2208,7 @@
             "venue": "RAWC Lobby",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=526519cd-45ca-498f-84a6-9a48e31a9fd2",
-            "sortCategory": "UTM Walks",
+            "sortCategory": "UTM Moves",
             "symbol": "figure.walk",
             "womens": false,
             "lgbt": false,
@@ -2730,26 +2710,6 @@
             ]
         },
         {
-            "id": 653708336,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only Cardio HIIT",
-            "description": "A 45-minute-high intensity interval training class for all fitness levels. Use a variety of cardiovascular and resistance training equipment such as Ski Ergs, Rowers, Curve Treadmills, weights and more to build cardiovascular and muscular endurance.\u00a0",
-            "image": "",
-            "start_date": "2025-01-14 17:10:00",
-            "end_date": "2025-01-14 17:55:00",
-            "venue": "Multipurpose B",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=07342ccc-7c88-4522-b99b-b29a44f8c624&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Cardio",
-            "symbol": "heart",
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 471306325,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Hatha Yoga",
@@ -2763,6 +2723,26 @@
             "sortCategory": "Mind & Body",
             "symbol": "figure.yoga",
             "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 653708336,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Women's Only Cardio HIIT",
+            "description": "A 45-minute-high intensity interval training class for all fitness levels. Use a variety of cardiovascular and resistance training equipment such as Ski Ergs, Rowers, Curve Treadmills, weights and more to build cardiovascular and muscular endurance.\u00a0",
+            "image": "",
+            "start_date": "2025-01-14 17:10:00",
+            "end_date": "2025-01-14 17:55:00",
+            "venue": "Multipurpose B",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=07342ccc-7c88-4522-b99b-b29a44f8c624&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
+            "sortCategory": "Cardio",
+            "symbol": "heart",
+            "womens": true,
             "lgbt": false,
             "bipoc": false,
             "weeklyRepetitions": [
@@ -2802,26 +2782,6 @@
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=39e7a441-4ece-464a-99ab-63cb97195b0f&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
             "sortCategory": "Workout",
             "symbol": "figure.run",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
-            "id": 3977596280,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Zumba",
-            "description": "A high energy and fun fitness/dance class that blends exciting club music and world rhythms with easy-to-follow choreography. Come and join the fun and find your rhythmic groove! No dance experience required. All levels welcome.",
-            "image": "",
-            "start_date": "2025-01-14 19:10:00",
-            "end_date": "2025-01-14 19:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=5b5cce5c-4612-4751-a5eb-3890621de61b&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Dance",
-            "symbol": "figure.dance",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -2928,7 +2888,7 @@
             "venue": "RAWC Lobby",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=526519cd-45ca-498f-84a6-9a48e31a9fd2",
-            "sortCategory": "UTM Walks",
+            "sortCategory": "UTM Moves",
             "symbol": "figure.walk",
             "womens": false,
             "lgbt": false,
@@ -3407,7 +3367,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-01-17 13:00:00",
-            "end_date": "2025-01-17 21:30:00",
+            "end_date": "2025-01-17 19:30:00",
             "venue": "Multipurpose B",
             "ticket_label": "Book a Court ",
             "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
@@ -3857,7 +3817,7 @@
             "venue": "RAWC Lobby",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=526519cd-45ca-498f-84a6-9a48e31a9fd2",
-            "sortCategory": "UTM Walks",
+            "sortCategory": "UTM Moves",
             "symbol": "figure.walk",
             "womens": false,
             "lgbt": false,
@@ -4461,26 +4421,6 @@
             ]
         },
         {
-            "id": 1549216167,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only Cardio HIIT",
-            "description": "A 45-minute-high intensity interval training class for all fitness levels. Use a variety of cardiovascular and resistance training equipment such as Ski Ergs, Rowers, Curve Treadmills, weights and more to build cardiovascular and muscular endurance.\u00a0",
-            "image": "",
-            "start_date": "2025-01-21 17:10:00",
-            "end_date": "2025-01-21 17:55:00",
-            "venue": "Multipurpose B",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=07342ccc-7c88-4522-b99b-b29a44f8c624&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Cardio",
-            "symbol": "heart",
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 225561636,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Hatha Yoga",
@@ -4494,6 +4434,26 @@
             "sortCategory": "Mind & Body",
             "symbol": "figure.yoga",
             "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 1549216167,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Women's Only Cardio HIIT",
+            "description": "A 45-minute-high intensity interval training class for all fitness levels. Use a variety of cardiovascular and resistance training equipment such as Ski Ergs, Rowers, Curve Treadmills, weights and more to build cardiovascular and muscular endurance.\u00a0",
+            "image": "",
+            "start_date": "2025-01-21 17:10:00",
+            "end_date": "2025-01-21 17:55:00",
+            "venue": "Multipurpose B",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=07342ccc-7c88-4522-b99b-b29a44f8c624&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
+            "sortCategory": "Cardio",
+            "symbol": "heart",
+            "womens": true,
             "lgbt": false,
             "bipoc": false,
             "weeklyRepetitions": [
@@ -4533,26 +4493,6 @@
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=39e7a441-4ece-464a-99ab-63cb97195b0f&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
             "sortCategory": "Workout",
             "symbol": "figure.run",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
-            "id": 408340299,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Zumba",
-            "description": "A high energy and fun fitness/dance class that blends exciting club music and world rhythms with easy-to-follow choreography. Come and join the fun and find your rhythmic groove! No dance experience required. All levels welcome.",
-            "image": "",
-            "start_date": "2025-01-21 19:10:00",
-            "end_date": "2025-01-21 19:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=5b5cce5c-4612-4751-a5eb-3890621de61b&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Dance",
-            "symbol": "figure.dance",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -4751,7 +4691,7 @@
             "venue": "RAWC Lobby",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=526519cd-45ca-498f-84a6-9a48e31a9fd2",
-            "sortCategory": "UTM Walks",
+            "sortCategory": "UTM Moves",
             "symbol": "figure.walk",
             "womens": false,
             "lgbt": false,
@@ -5041,7 +4981,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-01-24 13:00:00",
-            "end_date": "2025-01-24 21:30:00",
+            "end_date": "2025-01-24 19:30:00",
             "venue": "Multipurpose B",
             "ticket_label": "Book a Court ",
             "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
@@ -5504,7 +5444,7 @@
             "venue": "RAWC Lobby",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=526519cd-45ca-498f-84a6-9a48e31a9fd2",
-            "sortCategory": "UTM Walks",
+            "sortCategory": "UTM Moves",
             "symbol": "figure.walk",
             "womens": false,
             "lgbt": false,
@@ -6087,26 +6027,6 @@
             ]
         },
         {
-            "id": 1627036397,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only Cardio HIIT",
-            "description": "A 45-minute-high intensity interval training class for all fitness levels. Use a variety of cardiovascular and resistance training equipment such as Ski Ergs, Rowers, Curve Treadmills, weights and more to build cardiovascular and muscular endurance.\u00a0",
-            "image": "",
-            "start_date": "2025-01-28 17:10:00",
-            "end_date": "2025-01-28 17:55:00",
-            "venue": "Multipurpose B",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=07342ccc-7c88-4522-b99b-b29a44f8c624&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Cardio",
-            "symbol": "heart",
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 733421352,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Hatha Yoga",
@@ -6120,6 +6040,26 @@
             "sortCategory": "Mind & Body",
             "symbol": "figure.yoga",
             "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 1627036397,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Women's Only Cardio HIIT",
+            "description": "A 45-minute-high intensity interval training class for all fitness levels. Use a variety of cardiovascular and resistance training equipment such as Ski Ergs, Rowers, Curve Treadmills, weights and more to build cardiovascular and muscular endurance.\u00a0",
+            "image": "",
+            "start_date": "2025-01-28 17:10:00",
+            "end_date": "2025-01-28 17:55:00",
+            "venue": "Multipurpose B",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=07342ccc-7c88-4522-b99b-b29a44f8c624&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
+            "sortCategory": "Cardio",
+            "symbol": "heart",
+            "womens": true,
             "lgbt": false,
             "bipoc": false,
             "weeklyRepetitions": [
@@ -6179,26 +6119,6 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
-            "id": 982758667,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Zumba",
-            "description": "A high energy and fun fitness/dance class that blends exciting club music and world rhythms with easy-to-follow choreography. Come and join the fun and find your rhythmic groove! No dance experience required. All levels welcome.",
-            "image": "",
-            "start_date": "2025-01-28 19:10:00",
-            "end_date": "2025-01-28 19:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=5b5cce5c-4612-4751-a5eb-3890621de61b&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Dance",
-            "symbol": "figure.dance",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -6399,7 +6319,7 @@
             "venue": "RAWC Lobby",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=526519cd-45ca-498f-84a6-9a48e31a9fd2",
-            "sortCategory": "UTM Walks",
+            "sortCategory": "UTM Moves",
             "symbol": "figure.walk",
             "womens": false,
             "lgbt": false,
@@ -6823,7 +6743,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-01-31 13:00:00",
-            "end_date": "2025-01-31 21:30:00",
+            "end_date": "2025-01-31 19:30:00",
             "venue": "Multipurpose B",
             "ticket_label": "Book a Court ",
             "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
@@ -7318,7 +7238,7 @@
             "venue": "RAWC Lobby",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=526519cd-45ca-498f-84a6-9a48e31a9fd2",
-            "sortCategory": "UTM Walks",
+            "sortCategory": "UTM Moves",
             "symbol": "figure.walk",
             "womens": false,
             "lgbt": false,
@@ -7921,26 +7841,6 @@
             ]
         },
         {
-            "id": 1694640870,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only Cardio HIIT",
-            "description": "A 45-minute-high intensity interval training class for all fitness levels. Use a variety of cardiovascular and resistance training equipment such as Ski Ergs, Rowers, Curve Treadmills, weights and more to build cardiovascular and muscular endurance.\u00a0",
-            "image": "",
-            "start_date": "2025-02-04 17:10:00",
-            "end_date": "2025-02-04 17:55:00",
-            "venue": "Multipurpose B",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=07342ccc-7c88-4522-b99b-b29a44f8c624&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Cardio",
-            "symbol": "heart",
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 3531137818,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Hatha Yoga",
@@ -7954,6 +7854,26 @@
             "sortCategory": "Mind & Body",
             "symbol": "figure.yoga",
             "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 1694640870,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Women's Only Cardio HIIT",
+            "description": "A 45-minute-high intensity interval training class for all fitness levels. Use a variety of cardiovascular and resistance training equipment such as Ski Ergs, Rowers, Curve Treadmills, weights and more to build cardiovascular and muscular endurance.\u00a0",
+            "image": "",
+            "start_date": "2025-02-04 17:10:00",
+            "end_date": "2025-02-04 17:55:00",
+            "venue": "Multipurpose B",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=07342ccc-7c88-4522-b99b-b29a44f8c624&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
+            "sortCategory": "Cardio",
+            "symbol": "heart",
+            "womens": true,
             "lgbt": false,
             "bipoc": false,
             "weeklyRepetitions": [
@@ -8013,26 +7933,6 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
-            "id": 3416493486,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Zumba",
-            "description": "A high energy and fun fitness/dance class that blends exciting club music and world rhythms with easy-to-follow choreography. Come and join the fun and find your rhythmic groove! No dance experience required. All levels welcome.",
-            "image": "",
-            "start_date": "2025-02-04 19:10:00",
-            "end_date": "2025-02-04 19:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=5b5cce5c-4612-4751-a5eb-3890621de61b&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Dance",
-            "symbol": "figure.dance",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -8277,7 +8177,7 @@
             "venue": "RAWC Lobby",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=526519cd-45ca-498f-84a6-9a48e31a9fd2",
-            "sortCategory": "UTM Walks",
+            "sortCategory": "UTM Moves",
             "symbol": "figure.walk",
             "womens": false,
             "lgbt": false,
@@ -8679,7 +8579,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-02-07 13:00:00",
-            "end_date": "2025-02-07 21:30:00",
+            "end_date": "2025-02-07 19:30:00",
             "venue": "Multipurpose B",
             "ticket_label": "Book a Court ",
             "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
@@ -9286,7 +9186,7 @@
             "venue": "RAWC Lobby",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=526519cd-45ca-498f-84a6-9a48e31a9fd2",
-            "sortCategory": "UTM Walks",
+            "sortCategory": "UTM Moves",
             "symbol": "figure.walk",
             "womens": false,
             "lgbt": false,
@@ -9925,26 +9825,6 @@
             ]
         },
         {
-            "id": 1719021214,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only Cardio HIIT",
-            "description": "A 45-minute-high intensity interval training class for all fitness levels. Use a variety of cardiovascular and resistance training equipment such as Ski Ergs, Rowers, Curve Treadmills, weights and more to build cardiovascular and muscular endurance.\u00a0",
-            "image": "",
-            "start_date": "2025-02-11 17:10:00",
-            "end_date": "2025-02-11 17:55:00",
-            "venue": "Multipurpose B",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=07342ccc-7c88-4522-b99b-b29a44f8c624&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Cardio",
-            "symbol": "heart",
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 3894936773,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Hatha Yoga",
@@ -9958,6 +9838,26 @@
             "sortCategory": "Mind & Body",
             "symbol": "figure.yoga",
             "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 1719021214,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Women's Only Cardio HIIT",
+            "description": "A 45-minute-high intensity interval training class for all fitness levels. Use a variety of cardiovascular and resistance training equipment such as Ski Ergs, Rowers, Curve Treadmills, weights and more to build cardiovascular and muscular endurance.\u00a0",
+            "image": "",
+            "start_date": "2025-02-11 17:10:00",
+            "end_date": "2025-02-11 17:55:00",
+            "venue": "Multipurpose B",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=07342ccc-7c88-4522-b99b-b29a44f8c624&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
+            "sortCategory": "Cardio",
+            "symbol": "heart",
+            "womens": true,
             "lgbt": false,
             "bipoc": false,
             "weeklyRepetitions": [
@@ -10035,26 +9935,6 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
-            "id": 1978430234,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Zumba",
-            "description": "A high energy and fun fitness/dance class that blends exciting club music and world rhythms with easy-to-follow choreography. Come and join the fun and find your rhythmic groove! No dance experience required. All levels welcome.",
-            "image": "",
-            "start_date": "2025-02-11 19:10:00",
-            "end_date": "2025-02-11 19:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=5b5cce5c-4612-4751-a5eb-3890621de61b&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Dance",
-            "symbol": "figure.dance",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -10556,7 +10436,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-02-14 13:00:00",
-            "end_date": "2025-02-14 21:30:00",
+            "end_date": "2025-02-14 19:30:00",
             "venue": "Multipurpose B",
             "ticket_label": "Book a Court ",
             "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
@@ -11240,26 +11120,6 @@
             ]
         },
         {
-            "id": 1649910586,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only Cardio HIIT",
-            "description": "A 45-minute-high intensity interval training class for all fitness levels. Use a variety of cardiovascular and resistance training equipment such as Ski Ergs, Rowers, Curve Treadmills, weights and more to build cardiovascular and muscular endurance.\u00a0",
-            "image": "",
-            "start_date": "2025-02-18 17:10:00",
-            "end_date": "2025-02-18 17:55:00",
-            "venue": "Multipurpose B",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=07342ccc-7c88-4522-b99b-b29a44f8c624&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Cardio",
-            "symbol": "heart",
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 1137603605,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Hatha Yoga",
@@ -11273,6 +11133,26 @@
             "sortCategory": "Mind & Body",
             "symbol": "figure.yoga",
             "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 1649910586,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Women's Only Cardio HIIT",
+            "description": "A 45-minute-high intensity interval training class for all fitness levels. Use a variety of cardiovascular and resistance training equipment such as Ski Ergs, Rowers, Curve Treadmills, weights and more to build cardiovascular and muscular endurance.\u00a0",
+            "image": "",
+            "start_date": "2025-02-18 17:10:00",
+            "end_date": "2025-02-18 17:55:00",
+            "venue": "Multipurpose B",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=07342ccc-7c88-4522-b99b-b29a44f8c624&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
+            "sortCategory": "Cardio",
+            "symbol": "heart",
+            "womens": true,
             "lgbt": false,
             "bipoc": false,
             "weeklyRepetitions": [
@@ -11312,26 +11192,6 @@
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=39e7a441-4ece-464a-99ab-63cb97195b0f&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
             "sortCategory": "Workout",
             "symbol": "figure.run",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
-            "id": 3581803828,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Zumba",
-            "description": "A high energy and fun fitness/dance class that blends exciting club music and world rhythms with easy-to-follow choreography. Come and join the fun and find your rhythmic groove! No dance experience required. All levels welcome.",
-            "image": "",
-            "start_date": "2025-02-18 19:10:00",
-            "end_date": "2025-02-18 19:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=5b5cce5c-4612-4751-a5eb-3890621de61b&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Dance",
-            "symbol": "figure.dance",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -12500,7 +12360,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-02-21 13:00:00",
-            "end_date": "2025-02-21 21:30:00",
+            "end_date": "2025-02-21 19:30:00",
             "venue": "Multipurpose B",
             "ticket_label": "Book a Court ",
             "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
@@ -12862,47 +12722,6 @@
             ]
         },
         {
-            "id": 4161298076,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2025-02-23 11:30:00",
-            "end_date": "2025-02-23 13:00:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=d3331c2b-594d-4b36-becc-a9b943a4dde6",
-            "sortCategory": "Pool",
-            "symbol": "figure.pool.swim",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
-            "id": 1090039574,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Stroke Development",
-            "description": "\nAre you looking to get some guidance on improving your strokes? This program will allow you to get feedback on your strokes and ideas to help make improvements. Staff will watch your strokes and provide drills to help you fine tune your strokes. Note: This is not a lesson.",
-            "image": "",
-            "start_date": "2025-02-23 12:00:00",
-            "end_date": "2025-02-23 13:00:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=e04706d3-7021-4301-9890-0c1e8e974fc8",
-            "sortCategory": "Pool",
-            "symbol": "figure.pool.swim",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "su",
-                "tu"
-            ]
-        },
-        {
             "id": 499930058,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -12919,26 +12738,6 @@
             "lgbt": false,
             "bipoc": false,
             "weeklyRepetitions": []
-        },
-        {
-            "id": 783315706,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fun Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2025-02-23 13:30:00",
-            "end_date": "2025-02-23 16:30:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b3c1fd9b-343f-4114-a627-c861f963c685",
-            "sortCategory": "Pool",
-            "symbol": "figure.pool.swim",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
         },
         {
             "id": 2572984778,
@@ -13080,7 +12879,7 @@
             "venue": "RAWC Lobby",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=526519cd-45ca-498f-84a6-9a48e31a9fd2",
-            "sortCategory": "UTM Walks",
+            "sortCategory": "UTM Moves",
             "symbol": "figure.walk",
             "womens": false,
             "lgbt": false,
@@ -13316,26 +13115,6 @@
             ]
         },
         {
-            "id": 2467045443,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "Gym c; Feb 24",
-            "image": "",
-            "start_date": "2025-02-24 17:30:00",
-            "end_date": "2025-02-24 19:00:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
             "id": 368201473,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Intermediate Boxing",
@@ -13447,7 +13226,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-02-25 07:00:00",
-            "end_date": "2025-02-25 21:30:00",
+            "end_date": "2025-02-25 19:30:00",
             "venue": "Multipurpose B",
             "ticket_label": "Book a Court ",
             "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
@@ -13586,27 +13365,6 @@
                 "th",
                 "tu",
                 "we"
-            ]
-        },
-        {
-            "id": 1470820470,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Stroke Development",
-            "description": "\nAre you looking to get some guidance on improving your strokes? This program will allow you to get feedback on your strokes and ideas to help make improvements. Staff will watch your strokes and provide drills to help you fine tune your strokes. Note: This is not a lesson.",
-            "image": "",
-            "start_date": "2025-02-25 12:00:00",
-            "end_date": "2025-02-25 13:00:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=e04706d3-7021-4301-9890-0c1e8e974fc8",
-            "sortCategory": "Pool",
-            "symbol": "figure.pool.swim",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "su",
-                "tu"
             ]
         },
         {
@@ -13750,26 +13508,6 @@
             ]
         },
         {
-            "id": 1781412313,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only Cardio HIIT",
-            "description": "A 45-minute-high intensity interval training class for all fitness levels. Use a variety of cardiovascular and resistance training equipment such as Ski Ergs, Rowers, Curve Treadmills, weights and more to build cardiovascular and muscular endurance.\u00a0",
-            "image": "",
-            "start_date": "2025-02-25 17:10:00",
-            "end_date": "2025-02-25 17:55:00",
-            "venue": "Multipurpose B",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=07342ccc-7c88-4522-b99b-b29a44f8c624&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Cardio",
-            "symbol": "heart",
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 1051395303,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Hatha Yoga",
@@ -13783,6 +13521,26 @@
             "sortCategory": "Mind & Body",
             "symbol": "figure.yoga",
             "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 1781412313,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Women's Only Cardio HIIT",
+            "description": "A 45-minute-high intensity interval training class for all fitness levels. Use a variety of cardiovascular and resistance training equipment such as Ski Ergs, Rowers, Curve Treadmills, weights and more to build cardiovascular and muscular endurance.\u00a0",
+            "image": "",
+            "start_date": "2025-02-25 17:10:00",
+            "end_date": "2025-02-25 17:55:00",
+            "venue": "Multipurpose B",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=07342ccc-7c88-4522-b99b-b29a44f8c624&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
+            "sortCategory": "Cardio",
+            "symbol": "heart",
+            "womens": true,
             "lgbt": false,
             "bipoc": false,
             "weeklyRepetitions": [
@@ -13822,46 +13580,6 @@
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=39e7a441-4ece-464a-99ab-63cb97195b0f&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
             "sortCategory": "Workout",
             "symbol": "figure.run",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
-            "id": 1101575059,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Basketball ",
-            "description": "",
-            "image": "",
-            "start_date": "2025-02-25 18:45:00",
-            "end_date": "2025-02-25 21:30:00",
-            "venue": "Gym A/B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
-            "id": 2978370960,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Zumba",
-            "description": "A high energy and fun fitness/dance class that blends exciting club music and world rhythms with easy-to-follow choreography. Come and join the fun and find your rhythmic groove! No dance experience required. All levels welcome.",
-            "image": "",
-            "start_date": "2025-02-25 19:10:00",
-            "end_date": "2025-02-25 19:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=5b5cce5c-4612-4751-a5eb-3890621de61b&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Dance",
-            "symbol": "figure.dance",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -13962,7 +13680,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-02-26 07:00:00",
-            "end_date": "2025-02-26 21:30:00",
+            "end_date": "2025-02-26 19:30:00",
             "venue": "Multipurpose B",
             "ticket_label": "Book a Court ",
             "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
@@ -14094,7 +13812,7 @@
             "venue": "RAWC Lobby",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=526519cd-45ca-498f-84a6-9a48e31a9fd2",
-            "sortCategory": "UTM Walks",
+            "sortCategory": "UTM Moves",
             "symbol": "figure.walk",
             "womens": false,
             "lgbt": false,
@@ -14340,7 +14058,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-02-27 07:00:00",
-            "end_date": "2025-02-27 21:30:00",
+            "end_date": "2025-02-27 19:30:00",
             "venue": "Multipurpose B",
             "ticket_label": "Book a Court ",
             "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
@@ -15050,7 +14768,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-02-28 13:00:00",
-            "end_date": "2025-02-28 21:30:00",
+            "end_date": "2025-02-28 19:30:00",
             "venue": "Multipurpose B",
             "ticket_label": "Book a Court ",
             "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
@@ -15547,47 +15265,6 @@
             ]
         },
         {
-            "id": 1015986606,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2025-03-02 11:30:00",
-            "end_date": "2025-03-02 13:00:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=d3331c2b-594d-4b36-becc-a9b943a4dde6",
-            "sortCategory": "Pool",
-            "symbol": "figure.pool.swim",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
-            "id": 3485766111,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Stroke Development",
-            "description": "\nAre you looking to get some guidance on improving your strokes? This program will allow you to get feedback on your strokes and ideas to help make improvements. Staff will watch your strokes and provide drills to help you fine tune your strokes. Note: This is not a lesson.",
-            "image": "",
-            "start_date": "2025-03-02 12:00:00",
-            "end_date": "2025-03-02 13:00:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=e04706d3-7021-4301-9890-0c1e8e974fc8",
-            "sortCategory": "Pool",
-            "symbol": "figure.pool.swim",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "su",
-                "tu"
-            ]
-        },
-        {
             "id": 3529462872,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "RAWC W.O.D.",
@@ -15605,26 +15282,6 @@
             "bipoc": false,
             "weeklyRepetitions": [
                 "sa",
-                "su"
-            ]
-        },
-        {
-            "id": 815613046,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fun Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2025-03-02 13:30:00",
-            "end_date": "2025-03-02 16:30:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b3c1fd9b-343f-4114-a627-c861f963c685",
-            "sortCategory": "Pool",
-            "symbol": "figure.pool.swim",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
                 "su"
             ]
         },
@@ -15679,7 +15336,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-03-03 07:00:00",
-            "end_date": "2025-03-03 21:30:00",
+            "end_date": "2025-03-03 19:30:00",
             "venue": "Multipurpose B",
             "ticket_label": "Book a Court ",
             "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
@@ -15847,7 +15504,7 @@
             "venue": "RAWC Lobby",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=526519cd-45ca-498f-84a6-9a48e31a9fd2",
-            "sortCategory": "UTM Walks",
+            "sortCategory": "UTM Moves",
             "symbol": "figure.walk",
             "womens": false,
             "lgbt": false,
@@ -16082,26 +15739,6 @@
             ]
         },
         {
-            "id": 2964009111,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "Gym c; Feb 24",
-            "image": "",
-            "start_date": "2025-03-03 17:30:00",
-            "end_date": "2025-03-03 19:00:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
             "id": 260613494,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Intermediate Boxing",
@@ -16183,12 +15820,12 @@
             ]
         },
         {
-            "id": 461549796,
+            "id": 873577911,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Learn to Play: Women's Only Cricket",
             "description": "",
             "image": "",
-            "start_date": "2025-03-03 19:30:00",
+            "start_date": "2025-03-03 20:30:00",
             "end_date": "2025-03-03 21:30:00",
             "venue": "Gym C",
             "ticket_label": "",
@@ -16253,7 +15890,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-03-04 07:00:00",
-            "end_date": "2025-03-04 21:30:00",
+            "end_date": "2025-03-04 19:30:00",
             "venue": "Multipurpose B",
             "ticket_label": "Book a Court ",
             "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
@@ -16270,26 +15907,6 @@
             ]
         },
         {
-            "id": 2125561369,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Basketball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-03-04 07:00:00",
-            "end_date": "2025-03-04 10:30:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 3254359363,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Table Tennis ",
@@ -16302,6 +15919,26 @@
             "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
             "sortCategory": "Table Tennis",
             "symbol": "figure.table.tennis",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 2125561369,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-04 07:00:00",
+            "end_date": "2025-03-04 10:30:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -16350,6 +15987,26 @@
             ]
         },
         {
+            "id": 2548528099,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Runs: Couch to 5k - Mississauga Marathon",
+            "description": "This program is open to all students, staff, and faculty with an active RAWC membership, regardless of experience level! This is a structured 8-week program with educational resources and themes. Whether you're aiming\u00a0to complete your first 5k or just want to enjoy a fun, social run, this program provides a supportive and encouraging environment to help you reach your goals.\u00a0",
+            "image": "",
+            "start_date": "2025-03-04 07:30:00",
+            "end_date": "2025-03-04 08:00:00",
+            "venue": "Track Level",
+            "ticket_label": "Learn more",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/fitness-recreation/utm-runs",
+            "sortCategory": "UTM Moves",
+            "symbol": "figure.run",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
             "id": 4175910036,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Standup Paddleboard",
@@ -16377,7 +16034,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-03-04 10:30:00",
-            "end_date": "2025-03-04 13:00:00",
+            "end_date": "2025-03-04 13:45:00",
             "venue": "Gym A/B",
             "ticket_label": "",
             "ticket_url": "",
@@ -16452,27 +16109,6 @@
                 "th",
                 "tu",
                 "we"
-            ]
-        },
-        {
-            "id": 2037070243,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Stroke Development",
-            "description": "\nAre you looking to get some guidance on improving your strokes? This program will allow you to get feedback on your strokes and ideas to help make improvements. Staff will watch your strokes and provide drills to help you fine tune your strokes. Note: This is not a lesson.",
-            "image": "",
-            "start_date": "2025-03-04 12:00:00",
-            "end_date": "2025-03-04 13:00:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=e04706d3-7021-4301-9890-0c1e8e974fc8",
-            "sortCategory": "Pool",
-            "symbol": "figure.pool.swim",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "su",
-                "tu"
             ]
         },
         {
@@ -16616,26 +16252,6 @@
             ]
         },
         {
-            "id": 3583013226,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only Cardio HIIT",
-            "description": "A 45-minute-high intensity interval training class for all fitness levels. Use a variety of cardiovascular and resistance training equipment such as Ski Ergs, Rowers, Curve Treadmills, weights and more to build cardiovascular and muscular endurance.\u00a0",
-            "image": "",
-            "start_date": "2025-03-04 17:10:00",
-            "end_date": "2025-03-04 17:55:00",
-            "venue": "Multipurpose B",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=07342ccc-7c88-4522-b99b-b29a44f8c624&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Cardio",
-            "symbol": "heart",
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 1863340679,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Hatha Yoga",
@@ -16649,6 +16265,26 @@
             "sortCategory": "Mind & Body",
             "symbol": "figure.yoga",
             "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 3583013226,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Women's Only Cardio HIIT",
+            "description": "A 45-minute-high intensity interval training class for all fitness levels. Use a variety of cardiovascular and resistance training equipment such as Ski Ergs, Rowers, Curve Treadmills, weights and more to build cardiovascular and muscular endurance.\u00a0",
+            "image": "",
+            "start_date": "2025-03-04 17:10:00",
+            "end_date": "2025-03-04 17:55:00",
+            "venue": "Multipurpose B",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=07342ccc-7c88-4522-b99b-b29a44f8c624&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
+            "sortCategory": "Cardio",
+            "symbol": "heart",
+            "womens": true,
             "lgbt": false,
             "bipoc": false,
             "weeklyRepetitions": [
@@ -16688,46 +16324,6 @@
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=39e7a441-4ece-464a-99ab-63cb97195b0f&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
             "sortCategory": "Workout",
             "symbol": "figure.run",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
-            "id": 4200346809,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Basketball ",
-            "description": "",
-            "image": "",
-            "start_date": "2025-03-04 18:45:00",
-            "end_date": "2025-03-04 21:30:00",
-            "venue": "Gym A/B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
-            "id": 3334915282,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Zumba",
-            "description": "A high energy and fun fitness/dance class that blends exciting club music and world rhythms with easy-to-follow choreography. Come and join the fun and find your rhythmic groove! No dance experience required. All levels welcome.",
-            "image": "",
-            "start_date": "2025-03-04 19:10:00",
-            "end_date": "2025-03-04 19:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=5b5cce5c-4612-4751-a5eb-3890621de61b&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Dance",
-            "symbol": "figure.dance",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -16798,6 +16394,24 @@
             ]
         },
         {
+            "id": 4059237966,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-04 20:30:00",
+            "end_date": "2025-03-04 21:30:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 2414643429,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-In Squash ",
@@ -16828,7 +16442,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-03-05 07:00:00",
-            "end_date": "2025-03-05 21:30:00",
+            "end_date": "2025-03-05 19:30:00",
             "venue": "Multipurpose B",
             "ticket_label": "Book a Court ",
             "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
@@ -16845,26 +16459,6 @@
             ]
         },
         {
-            "id": 3905802374,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Basketball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-03-05 07:00:00",
-            "end_date": "2025-03-05 10:30:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 3545517626,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Table Tennis ",
@@ -16877,6 +16471,26 @@
             "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
             "sortCategory": "Table Tennis",
             "symbol": "figure.table.tennis",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 3905802374,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-05 07:00:00",
+            "end_date": "2025-03-05 10:30:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -17040,7 +16654,7 @@
             "venue": "RAWC Lobby",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=526519cd-45ca-498f-84a6-9a48e31a9fd2",
-            "sortCategory": "UTM Walks",
+            "sortCategory": "UTM Moves",
             "symbol": "figure.walk",
             "womens": false,
             "lgbt": false,
@@ -17083,6 +16697,26 @@
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=89c2fdbf-7626-4fcd-8bcf-31fe93f3893f&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
             "sortCategory": "Mind & Body",
             "symbol": "figure.core.training",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 2887204465,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Runs: Couch to 5k - Mississauga Marathon",
+            "description": "This program is open to all students, staff, and faculty with an active RAWC membership, regardless of experience level! This is a structured 8-week program with educational resources and themes. Whether you're aiming\u00a0to complete your first 5k or just want to enjoy a fun, social run, this program provides a supportive and encouraging environment to help you reach your goals.\u00a0",
+            "image": "",
+            "start_date": "2025-03-05 12:10:00",
+            "end_date": "2025-03-05 12:40:00",
+            "venue": "Track Level",
+            "ticket_label": "Learn more",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/fitness-recreation/utm-runs",
+            "sortCategory": "UTM Moves",
+            "symbol": "figure.run",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -17302,7 +16936,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-03-06 07:00:00",
-            "end_date": "2025-03-06 21:30:00",
+            "end_date": "2025-03-06 19:30:00",
             "venue": "Multipurpose B",
             "ticket_label": "Book a Court ",
             "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
@@ -18090,7 +17724,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-03-07 13:00:00",
-            "end_date": "2025-03-07 21:30:00",
+            "end_date": "2025-03-07 19:30:00",
             "venue": "Multipurpose B",
             "ticket_label": "Book a Court ",
             "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
@@ -18589,47 +18223,6 @@
             ]
         },
         {
-            "id": 3032190946,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2025-03-09 11:30:00",
-            "end_date": "2025-03-09 13:00:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=d3331c2b-594d-4b36-becc-a9b943a4dde6",
-            "sortCategory": "Pool",
-            "symbol": "figure.pool.swim",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
-            "id": 1417541715,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Stroke Development",
-            "description": "\nAre you looking to get some guidance on improving your strokes? This program will allow you to get feedback on your strokes and ideas to help make improvements. Staff will watch your strokes and provide drills to help you fine tune your strokes. Note: This is not a lesson.",
-            "image": "",
-            "start_date": "2025-03-09 12:00:00",
-            "end_date": "2025-03-09 13:00:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=e04706d3-7021-4301-9890-0c1e8e974fc8",
-            "sortCategory": "Pool",
-            "symbol": "figure.pool.swim",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "su",
-                "tu"
-            ]
-        },
-        {
             "id": 2866562365,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "RAWC W.O.D.",
@@ -18647,26 +18240,6 @@
             "bipoc": false,
             "weeklyRepetitions": [
                 "sa",
-                "su"
-            ]
-        },
-        {
-            "id": 2621512958,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fun Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2025-03-09 13:30:00",
-            "end_date": "2025-03-09 16:30:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b3c1fd9b-343f-4114-a627-c861f963c685",
-            "sortCategory": "Pool",
-            "symbol": "figure.pool.swim",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
                 "su"
             ]
         },
@@ -18741,7 +18314,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-03-10 07:00:00",
-            "end_date": "2025-03-10 21:30:00",
+            "end_date": "2025-03-10 19:30:00",
             "venue": "Multipurpose B",
             "ticket_label": "Book a Court ",
             "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
@@ -18837,13 +18410,13 @@
             ]
         },
         {
-            "id": 2711721944,
+            "id": 1873175671,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball ",
             "description": "",
             "image": "",
             "start_date": "2025-03-10 10:30:00",
-            "end_date": "2025-03-10 12:30:00",
+            "end_date": "2025-03-10 14:30:00",
             "venue": "Gym A/B",
             "ticket_label": "",
             "ticket_url": "",
@@ -18852,9 +18425,7 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
+            "weeklyRepetitions": []
         },
         {
             "id": 2033852181,
@@ -18911,7 +18482,7 @@
             "venue": "RAWC Lobby",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=526519cd-45ca-498f-84a6-9a48e31a9fd2",
-            "sortCategory": "UTM Walks",
+            "sortCategory": "UTM Moves",
             "symbol": "figure.walk",
             "womens": false,
             "lgbt": false,
@@ -19146,26 +18717,6 @@
             ]
         },
         {
-            "id": 1362510215,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "Gym c; Feb 24",
-            "image": "",
-            "start_date": "2025-03-10 17:30:00",
-            "end_date": "2025-03-10 19:00:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
             "id": 95996387,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Intermediate Boxing",
@@ -19247,12 +18798,12 @@
             ]
         },
         {
-            "id": 3566073155,
+            "id": 1747118163,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Learn to Play: Women's Only Cricket",
             "description": "",
             "image": "",
-            "start_date": "2025-03-10 19:30:00",
+            "start_date": "2025-03-10 20:30:00",
             "end_date": "2025-03-10 21:30:00",
             "venue": "Gym C",
             "ticket_label": "",
@@ -19317,7 +18868,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-03-11 07:00:00",
-            "end_date": "2025-03-11 21:30:00",
+            "end_date": "2025-03-11 19:30:00",
             "venue": "Multipurpose B",
             "ticket_label": "Book a Court ",
             "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
@@ -19334,26 +18885,6 @@
             ]
         },
         {
-            "id": 425105558,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Basketball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-03-11 07:00:00",
-            "end_date": "2025-03-11 10:30:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 1920688868,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Table Tennis ",
@@ -19366,6 +18897,26 @@
             "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
             "sortCategory": "Table Tennis",
             "symbol": "figure.table.tennis",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 425105558,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-11 07:00:00",
+            "end_date": "2025-03-11 10:30:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -19414,6 +18965,26 @@
             ]
         },
         {
+            "id": 3060253856,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Runs: Couch to 5k - Mississauga Marathon",
+            "description": "This program is open to all students, staff, and faculty with an active RAWC membership, regardless of experience level! This is a structured 8-week program with educational resources and themes. Whether you're aiming\u00a0to complete your first 5k or just want to enjoy a fun, social run, this program provides a supportive and encouraging environment to help you reach your goals.\u00a0",
+            "image": "",
+            "start_date": "2025-03-11 07:30:00",
+            "end_date": "2025-03-11 08:00:00",
+            "venue": "Track Level",
+            "ticket_label": "Learn more",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/fitness-recreation/utm-runs",
+            "sortCategory": "UTM Moves",
+            "symbol": "figure.run",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
             "id": 526975872,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Standup Paddleboard",
@@ -19441,7 +19012,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-03-11 10:30:00",
-            "end_date": "2025-03-11 13:00:00",
+            "end_date": "2025-03-11 13:45:00",
             "venue": "Gym A/B",
             "ticket_label": "",
             "ticket_url": "",
@@ -19516,27 +19087,6 @@
                 "th",
                 "tu",
                 "we"
-            ]
-        },
-        {
-            "id": 3420004352,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Stroke Development",
-            "description": "\nAre you looking to get some guidance on improving your strokes? This program will allow you to get feedback on your strokes and ideas to help make improvements. Staff will watch your strokes and provide drills to help you fine tune your strokes. Note: This is not a lesson.",
-            "image": "",
-            "start_date": "2025-03-11 12:00:00",
-            "end_date": "2025-03-11 13:00:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=e04706d3-7021-4301-9890-0c1e8e974fc8",
-            "sortCategory": "Pool",
-            "symbol": "figure.pool.swim",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "su",
-                "tu"
             ]
         },
         {
@@ -19892,7 +19442,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-03-12 07:00:00",
-            "end_date": "2025-03-12 21:30:00",
+            "end_date": "2025-03-12 19:30:00",
             "venue": "Multipurpose B",
             "ticket_label": "Book a Court ",
             "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
@@ -19909,26 +19459,6 @@
             ]
         },
         {
-            "id": 1008710338,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Basketball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-03-12 07:00:00",
-            "end_date": "2025-03-12 10:30:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 493382943,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Table Tennis ",
@@ -19941,6 +19471,26 @@
             "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
             "sortCategory": "Table Tennis",
             "symbol": "figure.table.tennis",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 1008710338,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-12 07:00:00",
+            "end_date": "2025-03-12 10:30:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -20104,7 +19654,7 @@
             "venue": "RAWC Lobby",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=526519cd-45ca-498f-84a6-9a48e31a9fd2",
-            "sortCategory": "UTM Walks",
+            "sortCategory": "UTM Moves",
             "symbol": "figure.walk",
             "womens": false,
             "lgbt": false,
@@ -20147,6 +19697,26 @@
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=89c2fdbf-7626-4fcd-8bcf-31fe93f3893f&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
             "sortCategory": "Mind & Body",
             "symbol": "figure.core.training",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 1493826473,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Runs: Couch to 5k - Mississauga Marathon",
+            "description": "This program is open to all students, staff, and faculty with an active RAWC membership, regardless of experience level! This is a structured 8-week program with educational resources and themes. Whether you're aiming\u00a0to complete your first 5k or just want to enjoy a fun, social run, this program provides a supportive and encouraging environment to help you reach your goals.\u00a0",
+            "image": "",
+            "start_date": "2025-03-12 12:10:00",
+            "end_date": "2025-03-12 12:40:00",
+            "venue": "Track Level",
+            "ticket_label": "Learn more",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/fitness-recreation/utm-runs",
+            "sortCategory": "UTM Moves",
+            "symbol": "figure.run",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -20235,6 +19805,24 @@
             "weeklyRepetitions": [
                 "we"
             ]
+        },
+        {
+            "id": 2932672046,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-12 17:00:00",
+            "end_date": "2025-03-12 19:00:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": []
         },
         {
             "id": 2909975460,
@@ -20406,7 +19994,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-03-13 07:00:00",
-            "end_date": "2025-03-13 21:30:00",
+            "end_date": "2025-03-13 19:30:00",
             "venue": "Multipurpose B",
             "ticket_label": "Book a Court ",
             "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
@@ -20848,6 +20436,24 @@
             ]
         },
         {
+            "id": 4221333870,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-13 19:00:00",
+            "end_date": "2025-03-13 21:00:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 2916854244,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Salsa & Bachata",
@@ -21184,7 +20790,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-03-14 13:00:00",
-            "end_date": "2025-03-14 21:30:00",
+            "end_date": "2025-03-14 19:30:00",
             "venue": "Multipurpose B",
             "ticket_label": "Book a Court ",
             "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
@@ -21840,7 +21446,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-03-17 07:00:00",
-            "end_date": "2025-03-17 21:30:00",
+            "end_date": "2025-03-17 19:30:00",
             "venue": "Multipurpose B",
             "ticket_label": "Book a Court ",
             "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
@@ -21992,7 +21598,7 @@
             "venue": "RAWC Lobby",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=526519cd-45ca-498f-84a6-9a48e31a9fd2",
-            "sortCategory": "UTM Walks",
+            "sortCategory": "UTM Moves",
             "symbol": "figure.walk",
             "womens": false,
             "lgbt": false,
@@ -22228,26 +21834,6 @@
             ]
         },
         {
-            "id": 815932290,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "Gym c; Feb 24",
-            "image": "",
-            "start_date": "2025-03-17 17:30:00",
-            "end_date": "2025-03-17 19:00:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
             "id": 3957296959,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Intermediate Boxing",
@@ -22260,6 +21846,26 @@
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=33df4c67-b0d1-4017-bfd4-24e46782d478&semesterId=d2a7e223-5b53-4ee9-ba2d-98dcb5430961",
             "sortCategory": "Combat",
             "symbol": "figure.boxing",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
+            "id": 815932290,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "Gym c; Feb 24",
+            "image": "",
+            "start_date": "2025-03-17 17:30:00",
+            "end_date": "2025-03-17 19:00:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -22329,12 +21935,12 @@
             ]
         },
         {
-            "id": 2212170702,
+            "id": 3086596084,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Learn to Play: Women's Only Cricket",
             "description": "",
             "image": "",
-            "start_date": "2025-03-17 19:30:00",
+            "start_date": "2025-03-17 20:30:00",
             "end_date": "2025-03-17 21:30:00",
             "venue": "Gym C",
             "ticket_label": "",
@@ -22399,7 +22005,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-03-18 07:00:00",
-            "end_date": "2025-03-18 21:30:00",
+            "end_date": "2025-03-18 19:30:00",
             "venue": "Multipurpose B",
             "ticket_label": "Book a Court ",
             "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
@@ -22416,26 +22022,6 @@
             ]
         },
         {
-            "id": 2209357937,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Basketball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-03-18 07:00:00",
-            "end_date": "2025-03-18 10:30:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 3048962681,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Table Tennis ",
@@ -22448,6 +22034,26 @@
             "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
             "sortCategory": "Table Tennis",
             "symbol": "figure.table.tennis",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 2209357937,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-18 07:00:00",
+            "end_date": "2025-03-18 10:30:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -22496,6 +22102,26 @@
             ]
         },
         {
+            "id": 341670295,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Runs: Couch to 5k - Mississauga Marathon",
+            "description": "This program is open to all students, staff, and faculty with an active RAWC membership, regardless of experience level! This is a structured 8-week program with educational resources and themes. Whether you're aiming\u00a0to complete your first 5k or just want to enjoy a fun, social run, this program provides a supportive and encouraging environment to help you reach your goals.\u00a0",
+            "image": "",
+            "start_date": "2025-03-18 07:30:00",
+            "end_date": "2025-03-18 08:00:00",
+            "venue": "Track Level",
+            "ticket_label": "Learn more",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/fitness-recreation/utm-runs",
+            "sortCategory": "UTM Moves",
+            "symbol": "figure.run",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
             "id": 2119378802,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Standup Paddleboard",
@@ -22523,7 +22149,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-03-18 10:30:00",
-            "end_date": "2025-03-18 13:00:00",
+            "end_date": "2025-03-18 13:45:00",
             "venue": "Gym A/B",
             "ticket_label": "",
             "ticket_url": "",
@@ -22974,7 +22600,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-03-19 07:00:00",
-            "end_date": "2025-03-19 21:30:00",
+            "end_date": "2025-03-19 19:30:00",
             "venue": "Multipurpose B",
             "ticket_label": "Book a Court ",
             "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
@@ -22991,26 +22617,6 @@
             ]
         },
         {
-            "id": 2213510360,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Basketball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-03-19 07:00:00",
-            "end_date": "2025-03-19 10:30:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 4285892268,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Table Tennis ",
@@ -23023,6 +22629,26 @@
             "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
             "sortCategory": "Table Tennis",
             "symbol": "figure.table.tennis",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 2213510360,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-19 07:00:00",
+            "end_date": "2025-03-19 10:30:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -23186,7 +22812,7 @@
             "venue": "RAWC Lobby",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=526519cd-45ca-498f-84a6-9a48e31a9fd2",
-            "sortCategory": "UTM Walks",
+            "sortCategory": "UTM Moves",
             "symbol": "figure.walk",
             "womens": false,
             "lgbt": false,
@@ -23229,6 +22855,26 @@
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=89c2fdbf-7626-4fcd-8bcf-31fe93f3893f&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
             "sortCategory": "Mind & Body",
             "symbol": "figure.core.training",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 1647555533,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Runs: Couch to 5k - Mississauga Marathon",
+            "description": "This program is open to all students, staff, and faculty with an active RAWC membership, regardless of experience level! This is a structured 8-week program with educational resources and themes. Whether you're aiming\u00a0to complete your first 5k or just want to enjoy a fun, social run, this program provides a supportive and encouraging environment to help you reach your goals.\u00a0",
+            "image": "",
+            "start_date": "2025-03-19 12:10:00",
+            "end_date": "2025-03-19 12:40:00",
+            "venue": "Track Level",
+            "ticket_label": "Learn more",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/fitness-recreation/utm-runs",
+            "sortCategory": "UTM Moves",
+            "symbol": "figure.run",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -23510,7 +23156,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-03-20 07:00:00",
-            "end_date": "2025-03-20 21:30:00",
+            "end_date": "2025-03-20 19:30:00",
             "venue": "Multipurpose B",
             "ticket_label": "Book a Court ",
             "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
@@ -24324,7 +23970,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-03-21 13:00:00",
-            "end_date": "2025-03-21 21:30:00",
+            "end_date": "2025-03-21 19:30:00",
             "venue": "Multipurpose B",
             "ticket_label": "Book a Court ",
             "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
@@ -24980,7 +24626,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-03-24 07:00:00",
-            "end_date": "2025-03-24 21:30:00",
+            "end_date": "2025-03-24 19:30:00",
             "venue": "Multipurpose B",
             "ticket_label": "Book a Court ",
             "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
@@ -25132,7 +24778,7 @@
             "venue": "RAWC Lobby",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=526519cd-45ca-498f-84a6-9a48e31a9fd2",
-            "sortCategory": "UTM Walks",
+            "sortCategory": "UTM Moves",
             "symbol": "figure.walk",
             "womens": false,
             "lgbt": false,
@@ -25368,26 +25014,6 @@
             ]
         },
         {
-            "id": 3233747364,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "Gym c; Feb 24",
-            "image": "",
-            "start_date": "2025-03-24 17:30:00",
-            "end_date": "2025-03-24 19:00:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
             "id": 2818987165,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Intermediate Boxing",
@@ -25400,6 +25026,26 @@
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=33df4c67-b0d1-4017-bfd4-24e46782d478&semesterId=d2a7e223-5b53-4ee9-ba2d-98dcb5430961",
             "sortCategory": "Combat",
             "symbol": "figure.boxing",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
+            "id": 3233747364,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "Gym c; Feb 24",
+            "image": "",
+            "start_date": "2025-03-24 17:30:00",
+            "end_date": "2025-03-24 19:00:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -25469,12 +25115,12 @@
             ]
         },
         {
-            "id": 3426602258,
+            "id": 1781595254,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Learn to Play: Women's Only Cricket",
             "description": "",
             "image": "",
-            "start_date": "2025-03-24 19:30:00",
+            "start_date": "2025-03-24 20:30:00",
             "end_date": "2025-03-24 21:30:00",
             "venue": "Gym C",
             "ticket_label": "",
@@ -25539,7 +25185,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-03-25 07:00:00",
-            "end_date": "2025-03-25 21:30:00",
+            "end_date": "2025-03-25 19:30:00",
             "venue": "Multipurpose B",
             "ticket_label": "Book a Court ",
             "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
@@ -25556,26 +25202,6 @@
             ]
         },
         {
-            "id": 1794553566,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Basketball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-03-25 07:00:00",
-            "end_date": "2025-03-25 10:30:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 3721502748,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Table Tennis ",
@@ -25588,6 +25214,26 @@
             "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
             "sortCategory": "Table Tennis",
             "symbol": "figure.table.tennis",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 1794553566,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-25 07:00:00",
+            "end_date": "2025-03-25 10:30:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -25636,6 +25282,26 @@
             ]
         },
         {
+            "id": 2963191133,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Runs: Couch to 5k - Mississauga Marathon",
+            "description": "This program is open to all students, staff, and faculty with an active RAWC membership, regardless of experience level! This is a structured 8-week program with educational resources and themes. Whether you're aiming\u00a0to complete your first 5k or just want to enjoy a fun, social run, this program provides a supportive and encouraging environment to help you reach your goals.\u00a0",
+            "image": "",
+            "start_date": "2025-03-25 07:30:00",
+            "end_date": "2025-03-25 08:00:00",
+            "venue": "Track Level",
+            "ticket_label": "Learn more",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/fitness-recreation/utm-runs",
+            "sortCategory": "UTM Moves",
+            "symbol": "figure.run",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
             "id": 3505839775,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Standup Paddleboard",
@@ -25663,7 +25329,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-03-25 10:30:00",
-            "end_date": "2025-03-25 13:00:00",
+            "end_date": "2025-03-25 13:45:00",
             "venue": "Gym A/B",
             "ticket_label": "",
             "ticket_url": "",
@@ -26114,7 +25780,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-03-26 07:00:00",
-            "end_date": "2025-03-26 21:30:00",
+            "end_date": "2025-03-26 19:30:00",
             "venue": "Multipurpose B",
             "ticket_label": "Book a Court ",
             "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
@@ -26131,26 +25797,6 @@
             ]
         },
         {
-            "id": 1700915563,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Basketball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-03-26 07:00:00",
-            "end_date": "2025-03-26 10:30:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 1181897696,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Table Tennis ",
@@ -26163,6 +25809,26 @@
             "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
             "sortCategory": "Table Tennis",
             "symbol": "figure.table.tennis",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 1700915563,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-26 07:00:00",
+            "end_date": "2025-03-26 10:30:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -26326,7 +25992,7 @@
             "venue": "RAWC Lobby",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=526519cd-45ca-498f-84a6-9a48e31a9fd2",
-            "sortCategory": "UTM Walks",
+            "sortCategory": "UTM Moves",
             "symbol": "figure.walk",
             "womens": false,
             "lgbt": false,
@@ -26369,6 +26035,26 @@
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=89c2fdbf-7626-4fcd-8bcf-31fe93f3893f&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
             "sortCategory": "Mind & Body",
             "symbol": "figure.core.training",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 2677953399,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Runs: Couch to 5k - Mississauga Marathon",
+            "description": "This program is open to all students, staff, and faculty with an active RAWC membership, regardless of experience level! This is a structured 8-week program with educational resources and themes. Whether you're aiming\u00a0to complete your first 5k or just want to enjoy a fun, social run, this program provides a supportive and encouraging environment to help you reach your goals.\u00a0",
+            "image": "",
+            "start_date": "2025-03-26 12:10:00",
+            "end_date": "2025-03-26 12:40:00",
+            "venue": "Track Level",
+            "ticket_label": "Learn more",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/fitness-recreation/utm-runs",
+            "sortCategory": "UTM Moves",
+            "symbol": "figure.run",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -26650,7 +26336,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-03-27 07:00:00",
-            "end_date": "2025-03-27 21:30:00",
+            "end_date": "2025-03-27 19:30:00",
             "venue": "Multipurpose B",
             "ticket_label": "Book a Court ",
             "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
@@ -27446,7 +27132,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-03-28 13:00:00",
-            "end_date": "2025-03-28 21:30:00",
+            "end_date": "2025-03-28 19:30:00",
             "venue": "Multipurpose B",
             "ticket_label": "Book a Court ",
             "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
@@ -28062,7 +27748,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-03-31 07:00:00",
-            "end_date": "2025-03-31 21:30:00",
+            "end_date": "2025-03-31 19:30:00",
             "venue": "Multipurpose B",
             "ticket_label": "Book a Court ",
             "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
@@ -28214,7 +27900,7 @@
             "venue": "RAWC Lobby",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=526519cd-45ca-498f-84a6-9a48e31a9fd2",
-            "sortCategory": "UTM Walks",
+            "sortCategory": "UTM Moves",
             "symbol": "figure.walk",
             "womens": false,
             "lgbt": false,
@@ -28450,26 +28136,6 @@
             ]
         },
         {
-            "id": 1266584287,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "Gym c; Feb 24",
-            "image": "",
-            "start_date": "2025-03-31 17:30:00",
-            "end_date": "2025-03-31 19:00:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
             "id": 3519852383,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Intermediate Boxing",
@@ -28482,6 +28148,26 @@
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=33df4c67-b0d1-4017-bfd4-24e46782d478&semesterId=d2a7e223-5b53-4ee9-ba2d-98dcb5430961",
             "sortCategory": "Combat",
             "symbol": "figure.boxing",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
+            "id": 1266584287,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "Gym c; Feb 24",
+            "image": "",
+            "start_date": "2025-03-31 17:30:00",
+            "end_date": "2025-03-31 19:00:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -28551,12 +28237,12 @@
             ]
         },
         {
-            "id": 1012254937,
+            "id": 1327558614,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Learn to Play: Women's Only Cricket",
             "description": "",
             "image": "",
-            "start_date": "2025-03-31 19:30:00",
+            "start_date": "2025-03-31 20:30:00",
             "end_date": "2025-03-31 21:30:00",
             "venue": "Gym C",
             "ticket_label": "",
@@ -28621,7 +28307,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-04-01 07:00:00",
-            "end_date": "2025-04-01 21:30:00",
+            "end_date": "2025-04-01 19:30:00",
             "venue": "Multipurpose B",
             "ticket_label": "Book a Court ",
             "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
@@ -28638,26 +28324,6 @@
             ]
         },
         {
-            "id": 4047860207,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Basketball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-04-01 07:00:00",
-            "end_date": "2025-04-01 10:30:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 2713690451,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Table Tennis ",
@@ -28670,6 +28336,26 @@
             "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
             "sortCategory": "Table Tennis",
             "symbol": "figure.table.tennis",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 4047860207,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-04-01 07:00:00",
+            "end_date": "2025-04-01 10:30:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -28718,6 +28404,26 @@
             ]
         },
         {
+            "id": 3551521437,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Runs: Couch to 5k - Mississauga Marathon",
+            "description": "This program is open to all students, staff, and faculty with an active RAWC membership, regardless of experience level! This is a structured 8-week program with educational resources and themes. Whether you're aiming\u00a0to complete your first 5k or just want to enjoy a fun, social run, this program provides a supportive and encouraging environment to help you reach your goals.\u00a0",
+            "image": "",
+            "start_date": "2025-04-01 07:30:00",
+            "end_date": "2025-04-01 08:00:00",
+            "venue": "Track Level",
+            "ticket_label": "Learn more",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/fitness-recreation/utm-runs",
+            "sortCategory": "UTM Moves",
+            "symbol": "figure.run",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
             "id": 1218608591,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Standup Paddleboard",
@@ -28745,7 +28451,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-04-01 10:30:00",
-            "end_date": "2025-04-01 13:00:00",
+            "end_date": "2025-04-01 13:45:00",
             "venue": "Gym A/B",
             "ticket_label": "",
             "ticket_url": "",
@@ -29196,7 +28902,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-04-02 07:00:00",
-            "end_date": "2025-04-02 21:30:00",
+            "end_date": "2025-04-02 19:30:00",
             "venue": "Multipurpose B",
             "ticket_label": "Book a Court ",
             "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
@@ -29368,7 +29074,7 @@
             "venue": "RAWC Lobby",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=526519cd-45ca-498f-84a6-9a48e31a9fd2",
-            "sortCategory": "UTM Walks",
+            "sortCategory": "UTM Moves",
             "symbol": "figure.walk",
             "womens": false,
             "lgbt": false,
@@ -29411,6 +29117,26 @@
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=89c2fdbf-7626-4fcd-8bcf-31fe93f3893f&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
             "sortCategory": "Mind & Body",
             "symbol": "figure.core.training",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 3587445939,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Runs: Couch to 5k - Mississauga Marathon",
+            "description": "This program is open to all students, staff, and faculty with an active RAWC membership, regardless of experience level! This is a structured 8-week program with educational resources and themes. Whether you're aiming\u00a0to complete your first 5k or just want to enjoy a fun, social run, this program provides a supportive and encouraging environment to help you reach your goals.\u00a0",
+            "image": "",
+            "start_date": "2025-04-02 12:10:00",
+            "end_date": "2025-04-02 12:40:00",
+            "venue": "Track Level",
+            "ticket_label": "Learn more",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/fitness-recreation/utm-runs",
+            "sortCategory": "UTM Moves",
+            "symbol": "figure.run",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -29654,7 +29380,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-04-03 07:00:00",
-            "end_date": "2025-04-03 21:30:00",
+            "end_date": "2025-04-03 19:30:00",
             "venue": "Multipurpose B",
             "ticket_label": "Book a Court ",
             "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
@@ -30371,7 +30097,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-04-04 13:00:00",
-            "end_date": "2025-04-04 21:30:00",
+            "end_date": "2025-04-04 19:30:00",
             "venue": "Multipurpose B",
             "ticket_label": "Book a Court ",
             "ticket_url": "\u00a0https://recreation.utoronto.ca/booking",
@@ -30917,6 +30643,26 @@
             ]
         },
         {
+            "id": 519074353,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Runs: Couch to 5k - Mississauga Marathon",
+            "description": "This program is open to all students, staff, and faculty with an active RAWC membership, regardless of experience level! This is a structured 8-week program with educational resources and themes. Whether you're aiming\u00a0to complete your first 5k or just want to enjoy a fun, social run, this program provides a supportive and encouraging environment to help you reach your goals.\u00a0",
+            "image": "",
+            "start_date": "2025-04-08 07:30:00",
+            "end_date": "2025-04-08 08:00:00",
+            "venue": "Track Level",
+            "ticket_label": "Learn more",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/fitness-recreation/utm-runs",
+            "sortCategory": "UTM Moves",
+            "symbol": "figure.run",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
             "id": 1796176639,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Stroke Development",
@@ -31096,6 +30842,26 @@
             "womens": false,
             "lgbt": false,
             "bipoc": true,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 471646342,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Runs: Couch to 5k - Mississauga Marathon",
+            "description": "This program is open to all students, staff, and faculty with an active RAWC membership, regardless of experience level! This is a structured 8-week program with educational resources and themes. Whether you're aiming\u00a0to complete your first 5k or just want to enjoy a fun, social run, this program provides a supportive and encouraging environment to help you reach your goals.\u00a0",
+            "image": "",
+            "start_date": "2025-04-09 12:10:00",
+            "end_date": "2025-04-09 12:40:00",
+            "venue": "Track Level",
+            "ticket_label": "Learn more",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/fitness-recreation/utm-runs",
+            "sortCategory": "UTM Moves",
+            "symbol": "figure.run",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
             "weeklyRepetitions": [
                 "we"
             ]
@@ -31647,6 +31413,26 @@
             ]
         },
         {
+            "id": 2597397376,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Runs: Couch to 5k - Mississauga Marathon",
+            "description": "This program is open to all students, staff, and faculty with an active RAWC membership, regardless of experience level! This is a structured 8-week program with educational resources and themes. Whether you're aiming\u00a0to complete your first 5k or just want to enjoy a fun, social run, this program provides a supportive and encouraging environment to help you reach your goals.\u00a0",
+            "image": "",
+            "start_date": "2025-04-15 07:30:00",
+            "end_date": "2025-04-15 08:00:00",
+            "venue": "Track Level",
+            "ticket_label": "Learn more",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/fitness-recreation/utm-runs",
+            "sortCategory": "UTM Moves",
+            "symbol": "figure.run",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
             "id": 2822646671,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Stroke Development",
@@ -31826,6 +31612,26 @@
             "womens": false,
             "lgbt": false,
             "bipoc": true,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 3658871267,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Runs: Couch to 5k - Mississauga Marathon",
+            "description": "This program is open to all students, staff, and faculty with an active RAWC membership, regardless of experience level! This is a structured 8-week program with educational resources and themes. Whether you're aiming\u00a0to complete your first 5k or just want to enjoy a fun, social run, this program provides a supportive and encouraging environment to help you reach your goals.\u00a0",
+            "image": "",
+            "start_date": "2025-04-16 12:10:00",
+            "end_date": "2025-04-16 12:40:00",
+            "venue": "Track Level",
+            "ticket_label": "Learn more",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/fitness-recreation/utm-runs",
+            "sortCategory": "UTM Moves",
+            "symbol": "figure.run",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
             "weeklyRepetitions": [
                 "we"
             ]
@@ -32257,6 +32063,26 @@
             ]
         },
         {
+            "id": 2956128322,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Runs: Couch to 5k - Mississauga Marathon",
+            "description": "This program is open to all students, staff, and faculty with an active RAWC membership, regardless of experience level! This is a structured 8-week program with educational resources and themes. Whether you're aiming\u00a0to complete your first 5k or just want to enjoy a fun, social run, this program provides a supportive and encouraging environment to help you reach your goals.\u00a0",
+            "image": "",
+            "start_date": "2025-04-22 07:30:00",
+            "end_date": "2025-04-22 08:00:00",
+            "venue": "Track Level",
+            "ticket_label": "Learn more",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/fitness-recreation/utm-runs",
+            "sortCategory": "UTM Moves",
+            "symbol": "figure.run",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
             "id": 3927809599,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Stroke Development",
@@ -32436,6 +32262,26 @@
             "womens": false,
             "lgbt": false,
             "bipoc": true,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 3852761724,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Runs: Couch to 5k - Mississauga Marathon",
+            "description": "This program is open to all students, staff, and faculty with an active RAWC membership, regardless of experience level! This is a structured 8-week program with educational resources and themes. Whether you're aiming\u00a0to complete your first 5k or just want to enjoy a fun, social run, this program provides a supportive and encouraging environment to help you reach your goals.\u00a0",
+            "image": "",
+            "start_date": "2025-04-23 12:10:00",
+            "end_date": "2025-04-23 12:40:00",
+            "venue": "Track Level",
+            "ticket_label": "Learn more",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/fitness-recreation/utm-runs",
+            "sortCategory": "UTM Moves",
+            "symbol": "figure.run",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
             "weeklyRepetitions": [
                 "we"
             ]
@@ -32693,27 +32539,49 @@
             "lgbt": false,
             "bipoc": false,
             "weeklyRepetitions": []
+        },
+        {
+            "id": 1962533984,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Runs: Couch to 5k - Mississauga Marathon",
+            "description": "This program is open to all students, staff, and faculty with an active RAWC membership, regardless of experience level! This is a structured 8-week program with educational resources and themes. Whether you're aiming\u00a0to complete your first 5k or just want to enjoy a fun, social run, this program provides a supportive and encouraging environment to help you reach your goals.\u00a0",
+            "image": "",
+            "start_date": "2025-04-29 07:30:00",
+            "end_date": "2025-04-29 08:00:00",
+            "venue": "Track Level",
+            "ticket_label": "Learn more",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/fitness-recreation/utm-runs",
+            "sortCategory": "UTM Moves",
+            "symbol": "figure.run",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 652565343,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Runs: Couch to 5k - Mississauga Marathon",
+            "description": "This program is open to all students, staff, and faculty with an active RAWC membership, regardless of experience level! This is a structured 8-week program with educational resources and themes. Whether you're aiming\u00a0to complete your first 5k or just want to enjoy a fun, social run, this program provides a supportive and encouraging environment to help you reach your goals.\u00a0",
+            "image": "",
+            "start_date": "2025-04-30 12:10:00",
+            "end_date": "2025-04-30 12:40:00",
+            "venue": "Track Level",
+            "ticket_label": "Learn more",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/fitness-recreation/utm-runs",
+            "sortCategory": "UTM Moves",
+            "symbol": "figure.run",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
         }
     ],
     "featured": [
-        {
-            "id": 1272674529,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Cancelled: Women on Weights (WOW)",
-            "description": "",
-            "image": "",
-            "start_date": "2025-03-05 16:10:00",
-            "end_date": "2025-03-05 16:55:00",
-            "venue": "Strength & Conditioning Centre",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Workout",
-            "symbol": "dumbbell",
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": []
-        },
         {
             "id": 3750205765,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
@@ -32791,6 +32659,126 @@
             "weeklyRepetitions": [
                 "fr"
             ]
+        },
+        {
+            "id": 1310130836,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "PRIDE Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-12 14:00:00",
+            "end_date": "2025-03-12 15:30:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 1535947731,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "PRIDE Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-19 14:00:00",
+            "end_date": "2025-03-19 15:30:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 3449566019,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "PRIDE Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-26 14:00:00",
+            "end_date": "2025-03-26 15:30:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 3574421820,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Women's Only Cardio HIIT",
+            "description": "A 45-minute-high intensity interval training class for all fitness levels. Use a variety of cardiovascular and resistance training equipment such as Ski Ergs, Rowers, Curve Treadmills, weights and more to build cardiovascular and muscular endurance.\u00a0",
+            "image": "",
+            "start_date": "2025-03-18 17:10:00",
+            "end_date": "2025-03-18 17:55:00",
+            "venue": "Strength & Conditioning Centre",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=07342ccc-7c88-4522-b99b-b29a44f8c624&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
+            "sortCategory": "Cardio",
+            "symbol": "heart",
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 3899230663,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Women's Only Cardio HIIT",
+            "description": "A 45-minute-high intensity interval training class for all fitness levels. Use a variety of cardiovascular and resistance training equipment such as Ski Ergs, Rowers, Curve Treadmills, weights and more to build cardiovascular and muscular endurance.\u00a0",
+            "image": "",
+            "start_date": "2025-03-25 17:10:00",
+            "end_date": "2025-03-25 17:55:00",
+            "venue": "Strength & Conditioning Centre",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=07342ccc-7c88-4522-b99b-b29a44f8c624&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
+            "sortCategory": "Cardio",
+            "symbol": "heart",
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 2669609422,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Women's Only Cardio HIIT",
+            "description": "A 45-minute-high intensity interval training class for all fitness levels. Use a variety of cardiovascular and resistance training equipment such as Ski Ergs, Rowers, Curve Treadmills, weights and more to build cardiovascular and muscular endurance.\u00a0",
+            "image": "",
+            "start_date": "2025-04-01 17:10:00",
+            "end_date": "2025-04-01 17:55:00",
+            "venue": "Strength & Conditioning Centre",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=07342ccc-7c88-4522-b99b-b29a44f8c624&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
+            "sortCategory": "Cardio",
+            "symbol": "heart",
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
         }
     ],
     "announcements": [
@@ -32798,7 +32786,7 @@
             "id": 1173763499,
             "title": "The SCC will be closed March 2 to March 12",
             "body": "Please note that the Strength and Conditioning Centre will be closed from Sunday, March 2 - Wednesday, March 12 due to scheduled space upgrades.\nA number of classes have been relocated or cancelled due to scheduled work.\nPlease visit our website for the most up to date schedule \u00a0here:\u00a0 [Schedule | Recreation, Athletics & Wellness](https://www.utm.utoronto.ca/athletics/schedule?program_id=4 \"https://www.utm.utoronto.ca/athletics/schedule?program_id=4\")\nWe appreciate your patience and understanding as we revamp our spaces!",
-            "type": 0
+            "type": 1
         }
     ]
 }
