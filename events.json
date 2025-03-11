@@ -5867,12 +5867,12 @@
             ]
         },
         {
-            "id": 3348587026,
+            "id": 3008783351,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Badminton",
             "description": "",
             "image": "",
-            "start_date": "2025-01-28 20:15:00",
+            "start_date": "2025-01-28 19:30:00",
             "end_date": "2025-01-28 21:30:00",
             "venue": "Gym C",
             "ticket_label": "",
@@ -6103,7 +6103,7 @@
             "sortCategory": "Basketball",
             "symbol": "basketball",
             "womens": false,
-            "lgbt": false,
+            "lgbt": true,
             "bipoc": false,
             "weeklyRepetitions": [
                 "we"
@@ -6609,7 +6609,7 @@
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
             "womens": false,
-            "lgbt": false,
+            "lgbt": true,
             "bipoc": false,
             "weeklyRepetitions": [
                 "fr"
@@ -7615,12 +7615,12 @@
             ]
         },
         {
-            "id": 1301765213,
+            "id": 467859636,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Badminton",
             "description": "",
             "image": "",
-            "start_date": "2025-02-04 20:15:00",
+            "start_date": "2025-02-04 19:30:00",
             "end_date": "2025-02-04 21:30:00",
             "venue": "Gym C",
             "ticket_label": "",
@@ -7895,7 +7895,7 @@
             "sortCategory": "Basketball",
             "symbol": "basketball",
             "womens": false,
-            "lgbt": false,
+            "lgbt": true,
             "bipoc": false,
             "weeklyRepetitions": [
                 "we"
@@ -8399,7 +8399,7 @@
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
             "womens": false,
-            "lgbt": false,
+            "lgbt": true,
             "bipoc": false,
             "weeklyRepetitions": [
                 "fr"
@@ -8419,7 +8419,7 @@
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
             "womens": false,
-            "lgbt": false,
+            "lgbt": true,
             "bipoc": false,
             "weeklyRepetitions": []
         },
@@ -9433,24 +9433,6 @@
             ]
         },
         {
-            "id": 10900699,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Learn to Play - Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2025-02-11 17:30:00",
-            "end_date": "2025-02-11 19:00:00",
-            "venue": "Gym C",
-            "ticket_label": "Learn More",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/learn-play",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 393600890,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Lifesaving Sport",
@@ -9511,12 +9493,12 @@
             ]
         },
         {
-            "id": 1954672967,
+            "id": 3290271471,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Badminton",
             "description": "",
             "image": "",
-            "start_date": "2025-02-11 20:15:00",
+            "start_date": "2025-02-11 19:30:00",
             "end_date": "2025-02-11 21:30:00",
             "venue": "Gym C",
             "ticket_label": "",
@@ -9749,7 +9731,7 @@
             "sortCategory": "Basketball",
             "symbol": "basketball",
             "womens": false,
-            "lgbt": false,
+            "lgbt": true,
             "bipoc": false,
             "weeklyRepetitions": [
                 "we"
@@ -10112,7 +10094,7 @@
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
             "womens": false,
-            "lgbt": false,
+            "lgbt": true,
             "bipoc": false,
             "weeklyRepetitions": [
                 "fr"
@@ -10684,6 +10666,26 @@
             ]
         },
         {
+            "id": 1230737751,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2025-02-18 19:30:00",
+            "end_date": "2025-02-18 21:30:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
             "id": 3741437807,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Coached Swim",
@@ -10722,26 +10724,6 @@
             "bipoc": false,
             "weeklyRepetitions": [
                 "th",
-                "tu"
-            ]
-        },
-        {
-            "id": 4064218347,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2025-02-18 20:15:00",
-            "end_date": "2025-02-18 21:30:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
                 "tu"
             ]
         },
@@ -10987,7 +10969,7 @@
             "sortCategory": "Basketball",
             "symbol": "basketball",
             "womens": false,
-            "lgbt": false,
+            "lgbt": true,
             "bipoc": false,
             "weeklyRepetitions": [
                 "we"
@@ -11915,7 +11897,7 @@
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
             "womens": false,
-            "lgbt": false,
+            "lgbt": true,
             "bipoc": false,
             "weeklyRepetitions": [
                 "fr"
@@ -13032,6 +13014,26 @@
             ]
         },
         {
+            "id": 3022524800,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2025-02-25 19:30:00",
+            "end_date": "2025-02-25 21:30:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
             "id": 3047358387,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Coached Swim",
@@ -13070,26 +13072,6 @@
             "bipoc": false,
             "weeklyRepetitions": [
                 "th",
-                "tu"
-            ]
-        },
-        {
-            "id": 752996688,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2025-02-25 20:15:00",
-            "end_date": "2025-02-25 21:30:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
                 "tu"
             ]
         },
@@ -13342,7 +13324,7 @@
             "sortCategory": "Basketball",
             "symbol": "basketball",
             "womens": false,
-            "lgbt": false,
+            "lgbt": true,
             "bipoc": false,
             "weeklyRepetitions": [
                 "we"
@@ -14342,7 +14324,7 @@
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
             "womens": false,
-            "lgbt": false,
+            "lgbt": true,
             "bipoc": false,
             "weeklyRepetitions": [
                 "fr"
@@ -15718,6 +15700,26 @@
             ]
         },
         {
+            "id": 3057060372,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-04 19:30:00",
+            "end_date": "2025-03-04 21:30:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
             "id": 2972494413,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Coached Swim",
@@ -15756,26 +15758,6 @@
             "bipoc": false,
             "weeklyRepetitions": [
                 "th",
-                "tu"
-            ]
-        },
-        {
-            "id": 4251415535,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2025-03-04 20:15:00",
-            "end_date": "2025-03-04 21:30:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
                 "tu"
             ]
         },
@@ -16146,7 +16128,7 @@
             "sortCategory": "Basketball",
             "symbol": "basketball",
             "womens": false,
-            "lgbt": false,
+            "lgbt": true,
             "bipoc": false,
             "weeklyRepetitions": [
                 "we"
@@ -17263,7 +17245,7 @@
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
             "womens": false,
-            "lgbt": false,
+            "lgbt": true,
             "bipoc": false,
             "weeklyRepetitions": [
                 "fr"
@@ -18500,6 +18482,24 @@
             ]
         },
         {
+            "id": 774972102,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Indoor Soccer",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-11 15:45:00",
+            "end_date": "2025-03-11 18:15:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Soccer",
+            "symbol": "soccerball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 2648025770,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -18620,6 +18620,26 @@
             ]
         },
         {
+            "id": 3630080051,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Learn to Play - Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-11 17:30:00",
+            "end_date": "2025-03-11 19:00:00",
+            "venue": "Gym C",
+            "ticket_label": "Learn More",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/learn-play",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
             "id": 1711231081,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Lifesaving Sport",
@@ -18650,26 +18670,6 @@
             "venue": "Visually Isolated Area (VIA) - Fitness Centre",
             "ticket_label": "reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=39e7a441-4ece-464a-99ab-63cb97195b0f&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
-            "id": 1048668210,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Kathak Bollywood Fusion",
-            "description": "Experience a vibrant fusion of cultural artistry and fitness with our Kathak Dance Fitness class! Perfect for all fitness levels, this dynamic session merges the grace and rhythm of Kathak\u2014an ancient Indian dance\u2014with a full-body workout.\u00a0Master intricate footwork, spins, and hand gestures while boosting cardiovascular endurance, strength, and flexibility. Whether you're a dance lover or new to fitness, this class offers a fun, engaging way to stay active and connect with your peers.",
-            "image": "",
-            "start_date": "2025-03-11 18:10:00",
-            "end_date": "2025-03-11 18:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=bbeb761b-e021-404c-9882-b51792170d2a",
             "sortCategory": "Workout",
             "symbol": "figure.run",
             "womens": false,
@@ -18720,6 +18720,26 @@
             ]
         },
         {
+            "id": 1598371822,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-11 19:30:00",
+            "end_date": "2025-03-11 21:30:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
             "id": 1201597547,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Coached Swim",
@@ -18758,26 +18778,6 @@
             "bipoc": false,
             "weeklyRepetitions": [
                 "th",
-                "tu"
-            ]
-        },
-        {
-            "id": 3170411641,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2025-03-11 20:15:00",
-            "end_date": "2025-03-11 21:30:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
                 "tu"
             ]
         },
@@ -19130,7 +19130,7 @@
             "sortCategory": "Basketball",
             "symbol": "basketball",
             "womens": false,
-            "lgbt": false,
+            "lgbt": true,
             "bipoc": false,
             "weeklyRepetitions": [
                 "we"
@@ -20347,7 +20347,7 @@
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
             "womens": false,
-            "lgbt": false,
+            "lgbt": true,
             "bipoc": false,
             "weeklyRepetitions": [
                 "fr"
@@ -20434,13 +20434,13 @@
             ]
         },
         {
-            "id": 1873284846,
+            "id": 3249209738,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Badminton",
             "description": "",
             "image": "",
             "start_date": "2025-03-15 10:00:00",
-            "end_date": "2025-03-15 13:00:00",
+            "end_date": "2025-03-15 16:45:00",
             "venue": "Gym C",
             "ticket_label": "",
             "ticket_url": "",
@@ -20454,13 +20454,13 @@
             ]
         },
         {
-            "id": 3249209738,
+            "id": 1873284846,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Badminton",
             "description": "",
             "image": "",
             "start_date": "2025-03-15 10:00:00",
-            "end_date": "2025-03-15 16:45:00",
+            "end_date": "2025-03-15 13:00:00",
             "venue": "Gym C",
             "ticket_label": "",
             "ticket_url": "",
@@ -21813,6 +21813,26 @@
             ]
         },
         {
+            "id": 2170181132,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Learn to Play - Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-18 17:30:00",
+            "end_date": "2025-03-18 19:00:00",
+            "venue": "Gym C",
+            "ticket_label": "Learn More",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/learn-play",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
             "id": 2439485142,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Lifesaving Sport",
@@ -21913,6 +21933,26 @@
             ]
         },
         {
+            "id": 2870091549,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-18 19:30:00",
+            "end_date": "2025-03-18 21:30:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
             "id": 635640259,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Coached Swim",
@@ -21951,26 +21991,6 @@
             "bipoc": false,
             "weeklyRepetitions": [
                 "th",
-                "tu"
-            ]
-        },
-        {
-            "id": 2526367312,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2025-03-18 20:15:00",
-            "end_date": "2025-03-18 21:30:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
                 "tu"
             ]
         },
@@ -22323,7 +22343,7 @@
             "sortCategory": "Basketball",
             "symbol": "basketball",
             "womens": false,
-            "lgbt": false,
+            "lgbt": true,
             "bipoc": false,
             "weeklyRepetitions": [
                 "we"
@@ -23607,7 +23627,7 @@
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
             "womens": false,
-            "lgbt": false,
+            "lgbt": true,
             "bipoc": false,
             "weeklyRepetitions": [
                 "fr"
@@ -23694,13 +23714,13 @@
             ]
         },
         {
-            "id": 525107046,
+            "id": 1169985824,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Badminton",
             "description": "",
             "image": "",
             "start_date": "2025-03-22 10:00:00",
-            "end_date": "2025-03-22 13:00:00",
+            "end_date": "2025-03-22 16:45:00",
             "venue": "Gym C",
             "ticket_label": "",
             "ticket_url": "",
@@ -23714,13 +23734,13 @@
             ]
         },
         {
-            "id": 1169985824,
+            "id": 525107046,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Badminton",
             "description": "",
             "image": "",
             "start_date": "2025-03-22 10:00:00",
-            "end_date": "2025-03-22 16:45:00",
+            "end_date": "2025-03-22 13:00:00",
             "venue": "Gym C",
             "ticket_label": "",
             "ticket_url": "",
@@ -25113,6 +25133,26 @@
             ]
         },
         {
+            "id": 1294965357,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Learn to Play - Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-25 17:30:00",
+            "end_date": "2025-03-25 19:00:00",
+            "venue": "Gym C",
+            "ticket_label": "Learn More",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/learn-play",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
             "id": 1711625851,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Lifesaving Sport",
@@ -25213,6 +25253,26 @@
             ]
         },
         {
+            "id": 2057794477,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-25 19:30:00",
+            "end_date": "2025-03-25 21:30:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
             "id": 3514419378,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Coached Swim",
@@ -25251,26 +25311,6 @@
             "bipoc": false,
             "weeklyRepetitions": [
                 "th",
-                "tu"
-            ]
-        },
-        {
-            "id": 4127848963,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2025-03-25 20:15:00",
-            "end_date": "2025-03-25 21:30:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
                 "tu"
             ]
         },
@@ -25623,7 +25663,7 @@
             "sortCategory": "Basketball",
             "symbol": "basketball",
             "womens": false,
-            "lgbt": false,
+            "lgbt": true,
             "bipoc": false,
             "weeklyRepetitions": [
                 "we"
@@ -26869,7 +26909,7 @@
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
             "womens": false,
-            "lgbt": false,
+            "lgbt": true,
             "bipoc": false,
             "weeklyRepetitions": [
                 "fr"
@@ -28455,6 +28495,26 @@
             ]
         },
         {
+            "id": 3854535856,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2025-04-01 19:30:00",
+            "end_date": "2025-04-01 21:30:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
             "id": 1968585934,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Coached Swim",
@@ -28493,26 +28553,6 @@
             "bipoc": false,
             "weeklyRepetitions": [
                 "th",
-                "tu"
-            ]
-        },
-        {
-            "id": 661135260,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2025-04-01 20:15:00",
-            "end_date": "2025-04-01 21:30:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
                 "tu"
             ]
         },
@@ -29934,7 +29974,7 @@
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
             "womens": false,
-            "lgbt": false,
+            "lgbt": true,
             "bipoc": false,
             "weeklyRepetitions": [
                 "fr"
@@ -32301,7 +32341,7 @@
             "sortCategory": "Basketball",
             "symbol": "basketball",
             "womens": false,
-            "lgbt": false,
+            "lgbt": true,
             "bipoc": false,
             "weeklyRepetitions": [
                 "we"
@@ -32321,7 +32361,7 @@
             "sortCategory": "Basketball",
             "symbol": "basketball",
             "womens": false,
-            "lgbt": false,
+            "lgbt": true,
             "bipoc": false,
             "weeklyRepetitions": [
                 "we"
@@ -32341,7 +32381,7 @@
             "sortCategory": "Basketball",
             "symbol": "basketball",
             "womens": false,
-            "lgbt": false,
+            "lgbt": true,
             "bipoc": false,
             "weeklyRepetitions": [
                 "we"
@@ -32763,6 +32803,346 @@
             "bipoc": false,
             "weeklyRepetitions": [
                 "mo"
+            ]
+        },
+        {
+            "id": 672825600,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Women's Only Basketball ",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-18 13:30:00",
+            "end_date": "2025-03-18 15:00:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 4140139422,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Women's Only Basketball ",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-25 13:30:00",
+            "end_date": "2025-03-25 15:00:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 3305801534,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Women's Only Basketball ",
+            "description": "",
+            "image": "",
+            "start_date": "2025-04-01 13:30:00",
+            "end_date": "2025-04-01 15:00:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 779003705,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Women's Only: Strength 101",
+            "description": "Have you hit a plateau or feel like you\u2019re not getting any stronger? Our expert trainers will guide you through the steps to achieve your strength goals with a dynamic and strength targeted workouts.\u00a0We will use a variety of exercises and state of the art equipment in our Strength and Conditioning Center.\u00a0\u00a0Challenge yourself in a supportive and motivating environment and achieve your fitness goals with our invigorating strength class.\u00a0\u00a0No matter your fitness level, this is a\u00a0perfect class to learn the proper technique,\u00a0fine tune your strength training program, or take it to the next level as an experienced lifter",
+            "image": "",
+            "start_date": "2025-03-18 16:10:00",
+            "end_date": "2025-03-18 16:55:00",
+            "venue": "Strength & Conditioning Centre",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/program/GetProgramDetails?courseId=e13dee39-9237-45ac-a44a-d2d4cfbe8c38",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 753812644,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Women's Only: Strength 101",
+            "description": "Have you hit a plateau or feel like you\u2019re not getting any stronger? Our expert trainers will guide you through the steps to achieve your strength goals with a dynamic and strength targeted workouts.\u00a0We will use a variety of exercises and state of the art equipment in our Strength and Conditioning Center.\u00a0\u00a0Challenge yourself in a supportive and motivating environment and achieve your fitness goals with our invigorating strength class.\u00a0\u00a0No matter your fitness level, this is a\u00a0perfect class to learn the proper technique,\u00a0fine tune your strength training program, or take it to the next level as an experienced lifter",
+            "image": "",
+            "start_date": "2025-03-25 16:10:00",
+            "end_date": "2025-03-25 16:55:00",
+            "venue": "Strength & Conditioning Centre",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/program/GetProgramDetails?courseId=e13dee39-9237-45ac-a44a-d2d4cfbe8c38",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 2264009085,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Women's Only: Strength 101",
+            "description": "Have you hit a plateau or feel like you\u2019re not getting any stronger? Our expert trainers will guide you through the steps to achieve your strength goals with a dynamic and strength targeted workouts.\u00a0We will use a variety of exercises and state of the art equipment in our Strength and Conditioning Center.\u00a0\u00a0Challenge yourself in a supportive and motivating environment and achieve your fitness goals with our invigorating strength class.\u00a0\u00a0No matter your fitness level, this is a\u00a0perfect class to learn the proper technique,\u00a0fine tune your strength training program, or take it to the next level as an experienced lifter",
+            "image": "",
+            "start_date": "2025-04-01 16:10:00",
+            "end_date": "2025-04-01 16:55:00",
+            "venue": "Strength & Conditioning Centre",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/program/GetProgramDetails?courseId=e13dee39-9237-45ac-a44a-d2d4cfbe8c38",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 169939057,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Hatha Yoga",
+            "description": "This gentle class begins with a guided meditation, introduces yoga postures to stretch and strengthen the body, and teaches relaxation practices to reduce stress and calm the mind. Taught in a supportive environment, this 45-minute class is ideal for beginners, but all levels are welcome. Yoga mats are provided.",
+            "image": "",
+            "start_date": "2025-03-18 17:10:00",
+            "end_date": "2025-03-18 17:55:00",
+            "venue": "Dance Studio",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=e7c4fcb2-8ffe-4737-917b-afea46f13058&semesterId=d2a7e223-5b53-4ee9-ba2d-98dcb5430961",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.yoga",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 2300532248,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Hatha Yoga",
+            "description": "This gentle class begins with a guided meditation, introduces yoga postures to stretch and strengthen the body, and teaches relaxation practices to reduce stress and calm the mind. Taught in a supportive environment, this 45-minute class is ideal for beginners, but all levels are welcome. Yoga mats are provided.",
+            "image": "",
+            "start_date": "2025-03-25 17:10:00",
+            "end_date": "2025-03-25 17:55:00",
+            "venue": "Dance Studio",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=e7c4fcb2-8ffe-4737-917b-afea46f13058&semesterId=d2a7e223-5b53-4ee9-ba2d-98dcb5430961",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.yoga",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 3408248308,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Hatha Yoga",
+            "description": "This gentle class begins with a guided meditation, introduces yoga postures to stretch and strengthen the body, and teaches relaxation practices to reduce stress and calm the mind. Taught in a supportive environment, this 45-minute class is ideal for beginners, but all levels are welcome. Yoga mats are provided.",
+            "image": "",
+            "start_date": "2025-04-01 17:10:00",
+            "end_date": "2025-04-01 17:55:00",
+            "venue": "Dance Studio",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=e7c4fcb2-8ffe-4737-917b-afea46f13058&semesterId=d2a7e223-5b53-4ee9-ba2d-98dcb5430961",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.yoga",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 3574421820,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Women's Only Cardio HIIT",
+            "description": "A 45-minute-high intensity interval training class for all fitness levels. Use a variety of cardiovascular and resistance training equipment such as Ski Ergs, Rowers, Curve Treadmills, weights and more to build cardiovascular and muscular endurance.\u00a0",
+            "image": "",
+            "start_date": "2025-03-18 17:10:00",
+            "end_date": "2025-03-18 17:55:00",
+            "venue": "Strength & Conditioning Centre",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=07342ccc-7c88-4522-b99b-b29a44f8c624&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
+            "sortCategory": "Cardio",
+            "symbol": "heart",
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 3899230663,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Women's Only Cardio HIIT",
+            "description": "A 45-minute-high intensity interval training class for all fitness levels. Use a variety of cardiovascular and resistance training equipment such as Ski Ergs, Rowers, Curve Treadmills, weights and more to build cardiovascular and muscular endurance.\u00a0",
+            "image": "",
+            "start_date": "2025-03-25 17:10:00",
+            "end_date": "2025-03-25 17:55:00",
+            "venue": "Strength & Conditioning Centre",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=07342ccc-7c88-4522-b99b-b29a44f8c624&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
+            "sortCategory": "Cardio",
+            "symbol": "heart",
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 2669609422,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Women's Only Cardio HIIT",
+            "description": "A 45-minute-high intensity interval training class for all fitness levels. Use a variety of cardiovascular and resistance training equipment such as Ski Ergs, Rowers, Curve Treadmills, weights and more to build cardiovascular and muscular endurance.\u00a0",
+            "image": "",
+            "start_date": "2025-04-01 17:10:00",
+            "end_date": "2025-04-01 17:55:00",
+            "venue": "Strength & Conditioning Centre",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=07342ccc-7c88-4522-b99b-b29a44f8c624&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
+            "sortCategory": "Cardio",
+            "symbol": "heart",
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 2170181132,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Learn to Play - Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-18 17:30:00",
+            "end_date": "2025-03-18 19:00:00",
+            "venue": "Gym C",
+            "ticket_label": "Learn More",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/learn-play",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 1294965357,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Learn to Play - Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-25 17:30:00",
+            "end_date": "2025-03-25 19:00:00",
+            "venue": "Gym C",
+            "ticket_label": "Learn More",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/learn-play",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 2213767212,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Kathak Bollywood Fusion",
+            "description": "Experience a vibrant fusion of cultural artistry and fitness with our Kathak Dance Fitness class! Perfect for all fitness levels, this dynamic session merges the grace and rhythm of Kathak\u2014an ancient Indian dance\u2014with a full-body workout.\u00a0Master intricate footwork, spins, and hand gestures while boosting cardiovascular endurance, strength, and flexibility. Whether you're a dance lover or new to fitness, this class offers a fun, engaging way to stay active and connect with your peers.",
+            "image": "",
+            "start_date": "2025-03-18 18:10:00",
+            "end_date": "2025-03-18 18:55:00",
+            "venue": "Dance Studio",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=bbeb761b-e021-404c-9882-b51792170d2a",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 170369146,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Kathak Bollywood Fusion",
+            "description": "Experience a vibrant fusion of cultural artistry and fitness with our Kathak Dance Fitness class! Perfect for all fitness levels, this dynamic session merges the grace and rhythm of Kathak\u2014an ancient Indian dance\u2014with a full-body workout.\u00a0Master intricate footwork, spins, and hand gestures while boosting cardiovascular endurance, strength, and flexibility. Whether you're a dance lover or new to fitness, this class offers a fun, engaging way to stay active and connect with your peers.",
+            "image": "",
+            "start_date": "2025-03-25 18:10:00",
+            "end_date": "2025-03-25 18:55:00",
+            "venue": "Dance Studio",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=bbeb761b-e021-404c-9882-b51792170d2a",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 4071544063,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Kathak Bollywood Fusion",
+            "description": "Experience a vibrant fusion of cultural artistry and fitness with our Kathak Dance Fitness class! Perfect for all fitness levels, this dynamic session merges the grace and rhythm of Kathak\u2014an ancient Indian dance\u2014with a full-body workout.\u00a0Master intricate footwork, spins, and hand gestures while boosting cardiovascular endurance, strength, and flexibility. Whether you're a dance lover or new to fitness, this class offers a fun, engaging way to stay active and connect with your peers.",
+            "image": "",
+            "start_date": "2025-04-01 18:10:00",
+            "end_date": "2025-04-01 18:55:00",
+            "venue": "Dance Studio",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=bbeb761b-e021-404c-9882-b51792170d2a",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
             ]
         },
         {
