@@ -33146,6 +33146,66 @@
             ]
         },
         {
+            "id": 2255243051,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Zumba",
+            "description": "A high energy and fun fitness/dance class that blends exciting club music and world rhythms with easy-to-follow choreography. Come and join the fun and find your rhythmic groove! No dance experience required. All levels welcome.",
+            "image": "",
+            "start_date": "2025-03-18 19:10:00",
+            "end_date": "2025-03-18 19:55:00",
+            "venue": "Dance Studio",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=5b5cce5c-4612-4751-a5eb-3890621de61b&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
+            "sortCategory": "Dance",
+            "symbol": "figure.dance",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 1330022015,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Zumba",
+            "description": "A high energy and fun fitness/dance class that blends exciting club music and world rhythms with easy-to-follow choreography. Come and join the fun and find your rhythmic groove! No dance experience required. All levels welcome.",
+            "image": "",
+            "start_date": "2025-03-25 19:10:00",
+            "end_date": "2025-03-25 19:55:00",
+            "venue": "Dance Studio",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=5b5cce5c-4612-4751-a5eb-3890621de61b&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
+            "sortCategory": "Dance",
+            "symbol": "figure.dance",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 2500191171,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Zumba",
+            "description": "A high energy and fun fitness/dance class that blends exciting club music and world rhythms with easy-to-follow choreography. Come and join the fun and find your rhythmic groove! No dance experience required. All levels welcome.",
+            "image": "",
+            "start_date": "2025-04-01 19:10:00",
+            "end_date": "2025-04-01 19:55:00",
+            "venue": "Dance Studio",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=5b5cce5c-4612-4751-a5eb-3890621de61b&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
+            "sortCategory": "Dance",
+            "symbol": "figure.dance",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
             "id": 2400814449,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Pride Pump",
