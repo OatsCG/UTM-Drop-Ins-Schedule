@@ -31212,126 +31212,6 @@
     ],
     "featured": [
         {
-            "id": 2453167631,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Indoor Soccer",
-            "description": "",
-            "image": "",
-            "start_date": "2025-03-23 14:00:00",
-            "end_date": "2025-03-23 16:30:00",
-            "venue": "Gym A/B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Soccer",
-            "symbol": "soccerball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
-            "id": 322454929,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Indoor Soccer",
-            "description": "",
-            "image": "",
-            "start_date": "2025-03-26 10:30:00",
-            "end_date": "2025-03-26 15:00:00",
-            "venue": "Gym A/B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Soccer",
-            "symbol": "soccerball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
-            "id": 173738942,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Indoor Soccer",
-            "description": "",
-            "image": "",
-            "start_date": "2025-04-02 10:30:00",
-            "end_date": "2025-04-02 15:00:00",
-            "venue": "Gym A/B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Soccer",
-            "symbol": "soccerball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
-            "id": 248201459,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Learn to Lift  - OWL",
-            "description": "Available for all levels, this program is for students looking to learn the clean and jerk, snatch, and other full body exercises. Participants will be guided by coaches according to skill and performance.",
-            "image": "",
-            "start_date": "2025-03-23 14:00:00",
-            "end_date": "2025-03-23 15:00:00",
-            "venue": "Strength & Conditioning Centre",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=ca0118fb-e19b-47e1-9699-7670affdc43f",
-            "sortCategory": "Workout",
-            "symbol": "figure.strengthtraining.traditional",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
-            "id": 322668661,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Learn to Lift  - OWL",
-            "description": "Available for all levels, this program is for students looking to learn the clean and jerk, snatch, and other full body exercises. Participants will be guided by coaches according to skill and performance.",
-            "image": "",
-            "start_date": "2025-03-30 14:00:00",
-            "end_date": "2025-03-30 15:00:00",
-            "venue": "Strength & Conditioning Centre",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=ca0118fb-e19b-47e1-9699-7670affdc43f",
-            "sortCategory": "Workout",
-            "symbol": "figure.strengthtraining.traditional",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
-            "id": 2206395530,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Learn to Lift  - OWL",
-            "description": "Available for all levels, this program is for students looking to learn the clean and jerk, snatch, and other full body exercises. Participants will be guided by coaches according to skill and performance.",
-            "image": "",
-            "start_date": "2025-04-06 14:00:00",
-            "end_date": "2025-04-06 15:00:00",
-            "venue": "Strength & Conditioning Centre",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=ca0118fb-e19b-47e1-9699-7670affdc43f",
-            "sortCategory": "Workout",
-            "symbol": "figure.strengthtraining.traditional",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
             "id": 2516401165,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Yogilates",
@@ -31864,6 +31744,46 @@
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=64cbe11d-09c4-48a0-876b-31734b0b40ec&semesterId=89c3c776-830f-415a-b4eb-d1482c172792",
             "sortCategory": "Mind & Body",
             "symbol": "figure.yoga",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 322454929,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Indoor Soccer",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-26 10:30:00",
+            "end_date": "2025-03-26 15:00:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Soccer",
+            "symbol": "soccerball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 173738942,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Indoor Soccer",
+            "description": "",
+            "image": "",
+            "start_date": "2025-04-02 10:30:00",
+            "end_date": "2025-04-02 15:00:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Soccer",
+            "symbol": "soccerball",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -32549,6 +32469,106 @@
             "bipoc": false,
             "weeklyRepetitions": [
                 "fr"
+            ]
+        },
+        {
+            "id": 4269859879,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Pickleball ",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-29 10:00:00",
+            "end_date": "2025-03-29 13:00:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Pickleball",
+            "symbol": "figure.pickleball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "sa"
+            ]
+        },
+        {
+            "id": 197379397,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Pickleball ",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-30 14:30:00",
+            "end_date": "2025-03-30 16:45:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Pickleball",
+            "symbol": "figure.pickleball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "su"
+            ]
+        },
+        {
+            "id": 2820490909,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Pickleball ",
+            "description": "",
+            "image": "",
+            "start_date": "2025-04-05 10:00:00",
+            "end_date": "2025-04-05 13:00:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Pickleball",
+            "symbol": "figure.pickleball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "sa"
+            ]
+        },
+        {
+            "id": 322668661,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Learn to Lift  - OWL",
+            "description": "Available for all levels, this program is for students looking to learn the clean and jerk, snatch, and other full body exercises. Participants will be guided by coaches according to skill and performance.",
+            "image": "",
+            "start_date": "2025-03-30 14:00:00",
+            "end_date": "2025-03-30 15:00:00",
+            "venue": "Strength & Conditioning Centre",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=ca0118fb-e19b-47e1-9699-7670affdc43f",
+            "sortCategory": "Workout",
+            "symbol": "figure.strengthtraining.traditional",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "su"
+            ]
+        },
+        {
+            "id": 2206395530,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Learn to Lift  - OWL",
+            "description": "Available for all levels, this program is for students looking to learn the clean and jerk, snatch, and other full body exercises. Participants will be guided by coaches according to skill and performance.",
+            "image": "",
+            "start_date": "2025-04-06 14:00:00",
+            "end_date": "2025-04-06 15:00:00",
+            "venue": "Strength & Conditioning Centre",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=ca0118fb-e19b-47e1-9699-7670affdc43f",
+            "sortCategory": "Workout",
+            "symbol": "figure.strengthtraining.traditional",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "su"
             ]
         }
     ],
