@@ -30584,86 +30584,6 @@
     ],
     "featured": [
         {
-            "id": 1317409306,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Beginner Boxing",
-            "description": "Learn how to pack a punch in this technical workshop designed to teach beginners the basics of boxing. This session provides instructions on boxing stance, footwork, and fundamental mechanics of the jab and cross. Join this fun session to stay in shape and build your confidence!\u00a0*Hand wraps, gloves and non-slip shoes are recommended!",
-            "image": "",
-            "start_date": "2025-03-26 18:10:00",
-            "end_date": "2025-03-26 18:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=605fabea-b518-4f2f-a3ec-cb51acefda80&semesterId=89c3c776-830f-415a-b4eb-d1482c172792",
-            "sortCategory": "Combat",
-            "symbol": "figure.boxing",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
-            "id": 2794662851,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Beginner Boxing",
-            "description": "Learn how to pack a punch in this technical workshop designed to teach beginners the basics of boxing. This session provides instructions on boxing stance, footwork, and fundamental mechanics of the jab and cross. Join this fun session to stay in shape and build your confidence!\u00a0*Hand wraps, gloves and non-slip shoes are recommended!",
-            "image": "",
-            "start_date": "2025-04-02 18:10:00",
-            "end_date": "2025-04-02 18:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=605fabea-b518-4f2f-a3ec-cb51acefda80&semesterId=89c3c776-830f-415a-b4eb-d1482c172792",
-            "sortCategory": "Combat",
-            "symbol": "figure.boxing",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
-            "id": 3873652787,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Soul Sweat",
-            "description": "Soul Sweat\u00a0is an energizing strength training class created for individuals in the Black and Caribbean communities. This empowering workout is tailored to the unique needs of Black and Caribbean students, offering a safe and inclusive space to come together, work out with friends, and prioritize health and well-being. Participants will explore various ways to move their bodies, building strength, endurance, and resilience\u2014all while having fun. Open to all fitness levels, Soul Sweat fosters deeper connections within the community and promotes physical wellness, creating an environment where everyone can thrive together.",
-            "image": "",
-            "start_date": "2025-03-26 18:10:00",
-            "end_date": "2025-03-26 18:55:00",
-            "venue": "Strength & Conditioning Centre",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=cdaa9cec-f1a8-4b06-b801-208de6ee4c0a",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": true,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
-            "id": 3365210394,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Soul Sweat",
-            "description": "Soul Sweat\u00a0is an energizing strength training class created for individuals in the Black and Caribbean communities. This empowering workout is tailored to the unique needs of Black and Caribbean students, offering a safe and inclusive space to come together, work out with friends, and prioritize health and well-being. Participants will explore various ways to move their bodies, building strength, endurance, and resilience\u2014all while having fun. Open to all fitness levels, Soul Sweat fosters deeper connections within the community and promotes physical wellness, creating an environment where everyone can thrive together.",
-            "image": "",
-            "start_date": "2025-04-02 18:10:00",
-            "end_date": "2025-04-02 18:55:00",
-            "venue": "Strength & Conditioning Centre",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=cdaa9cec-f1a8-4b06-b801-208de6ee4c0a",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": true,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 3450029126,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Indoor Cycling",
@@ -31859,6 +31779,46 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 2794662851,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Beginner Boxing",
+            "description": "Learn how to pack a punch in this technical workshop designed to teach beginners the basics of boxing. This session provides instructions on boxing stance, footwork, and fundamental mechanics of the jab and cross. Join this fun session to stay in shape and build your confidence!\u00a0*Hand wraps, gloves and non-slip shoes are recommended!",
+            "image": "",
+            "start_date": "2025-04-02 18:10:00",
+            "end_date": "2025-04-02 18:55:00",
+            "venue": "Dance Studio",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=605fabea-b518-4f2f-a3ec-cb51acefda80&semesterId=89c3c776-830f-415a-b4eb-d1482c172792",
+            "sortCategory": "Combat",
+            "symbol": "figure.boxing",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 3365210394,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Soul Sweat",
+            "description": "Soul Sweat\u00a0is an energizing strength training class created for individuals in the Black and Caribbean communities. This empowering workout is tailored to the unique needs of Black and Caribbean students, offering a safe and inclusive space to come together, work out with friends, and prioritize health and well-being. Participants will explore various ways to move their bodies, building strength, endurance, and resilience\u2014all while having fun. Open to all fitness levels, Soul Sweat fosters deeper connections within the community and promotes physical wellness, creating an environment where everyone can thrive together.",
+            "image": "",
+            "start_date": "2025-04-02 18:10:00",
+            "end_date": "2025-04-02 18:55:00",
+            "venue": "Strength & Conditioning Centre",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=cdaa9cec-f1a8-4b06-b801-208de6ee4c0a",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": true,
             "weeklyRepetitions": [
                 "we"
             ]
