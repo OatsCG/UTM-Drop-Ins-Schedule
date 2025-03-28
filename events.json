@@ -23947,24 +23947,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1909777040,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Pickleball Tournament",
-            "description": "",
-            "image": "",
-            "start_date": "2025-03-26 16:00:00",
-            "end_date": "2025-03-26 21:30:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Pickleball",
-            "symbol": "figure.pickleball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 3291749993,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Registered Lessons",
@@ -23983,6 +23965,24 @@
             "weeklyRepetitions": [
                 "we"
             ]
+        },
+        {
+            "id": 1909777040,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Pickleball Tournament",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-26 16:00:00",
+            "end_date": "2025-03-26 21:30:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Pickleball",
+            "symbol": "figure.pickleball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": []
         },
         {
             "id": 558624860,
@@ -28888,6 +28888,26 @@
             ]
         },
         {
+            "id": 345288731,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Pilates",
+            "description": "Achieve a balanced and toned body with the ultimate core fitness workout!\u00a0 Incorporate Pilate\u2019s postures with traditional core exercises to help improve posture, strength, and range of motion.\u00a0 Rejuvenate your workout with a focus on your breathing and find those deep core muscles in the abdomen and that surround the spine.\u00a0 All fitness levels welcome.",
+            "image": "",
+            "start_date": "2025-04-09 17:10:00",
+            "end_date": "2025-04-09 17:55:00",
+            "venue": "Dance Studio",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=03dbd7b9-e1e5-4221-bf11-dd4396b82c81&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.pilates",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
             "id": 1939172598,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Adaptive Fitness Swim",
@@ -29658,6 +29678,26 @@
             ]
         },
         {
+            "id": 1457066339,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Pilates",
+            "description": "Achieve a balanced and toned body with the ultimate core fitness workout!\u00a0 Incorporate Pilate\u2019s postures with traditional core exercises to help improve posture, strength, and range of motion.\u00a0 Rejuvenate your workout with a focus on your breathing and find those deep core muscles in the abdomen and that surround the spine.\u00a0 All fitness levels welcome.",
+            "image": "",
+            "start_date": "2025-04-16 17:10:00",
+            "end_date": "2025-04-16 17:55:00",
+            "venue": "Dance Studio",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=03dbd7b9-e1e5-4221-bf11-dd4396b82c81&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.pilates",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
             "id": 2260497333,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Adaptive Fitness Swim",
@@ -30308,6 +30348,26 @@
             ]
         },
         {
+            "id": 3633133145,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Pilates",
+            "description": "Achieve a balanced and toned body with the ultimate core fitness workout!\u00a0 Incorporate Pilate\u2019s postures with traditional core exercises to help improve posture, strength, and range of motion.\u00a0 Rejuvenate your workout with a focus on your breathing and find those deep core muscles in the abdomen and that surround the spine.\u00a0 All fitness levels welcome.",
+            "image": "",
+            "start_date": "2025-04-23 17:10:00",
+            "end_date": "2025-04-23 17:55:00",
+            "venue": "Dance Studio",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=03dbd7b9-e1e5-4221-bf11-dd4396b82c81&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.pilates",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
             "id": 1450678338,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Learn to Swim (Students Only)",
@@ -30583,406 +30643,6 @@
         }
     ],
     "featured": [
-        {
-            "id": 3450029126,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Indoor Cycling",
-            "description": "Increase your cardio and strength with our indoor cycling class. Get your heart pumping with a series of sprints, hills, and drills to build endurance, burn calories and relieve stress. This multi-level class will motivate you through music and moves that allow you to set the intensity of your workout and cruise at your own pace.",
-            "image": "",
-            "start_date": "2025-03-27 07:45:00",
-            "end_date": "2025-03-27 08:15:00",
-            "venue": "Fitness Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=1f8d209f-2492-4436-a249-ff2ab2ce3623&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Cycling",
-            "symbol": "figure.indoor.cycle",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
-            "id": 442674747,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Indoor Cycling",
-            "description": "Increase your cardio and strength with our indoor cycling class. Get your heart pumping with a series of sprints, hills, and drills to build endurance, burn calories and relieve stress. This multi-level class will motivate you through music and moves that allow you to set the intensity of your workout and cruise at your own pace.",
-            "image": "",
-            "start_date": "2025-04-03 07:45:00",
-            "end_date": "2025-04-03 08:15:00",
-            "venue": "Fitness Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=1f8d209f-2492-4436-a249-ff2ab2ce3623&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Cycling",
-            "symbol": "figure.indoor.cycle",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
-            "id": 1258397246,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Adaptive Hatha Yoga ",
-            "description": "This gentle class begins with a guided meditation, introduces yoga postures to stretch and strengthen the body, and teaches relaxation practices to reduce stress and calm the mind. Taught in a supportive environment, this 45-minute class is ideal for beginners, but all levels are welcome. Yoga mats are provided.",
-            "image": "",
-            "start_date": "2025-03-27 12:10:00",
-            "end_date": "2025-03-27 12:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=6c48d357-166c-4ea6-a705-d1545191ce8c",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.yoga",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
-            "id": 1422408682,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Adaptive Hatha Yoga ",
-            "description": "This gentle class begins with a guided meditation, introduces yoga postures to stretch and strengthen the body, and teaches relaxation practices to reduce stress and calm the mind. Taught in a supportive environment, this 45-minute class is ideal for beginners, but all levels are welcome. Yoga mats are provided.",
-            "image": "",
-            "start_date": "2025-04-03 12:10:00",
-            "end_date": "2025-04-03 12:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=6c48d357-166c-4ea6-a705-d1545191ce8c",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.yoga",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
-            "id": 1675194658,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only: TRX Fusion",
-            "description": "This class will give you the opportunity to get fit using unique equipment such as TRX suspension systems, Equalizer bars, kettle bells and more. You\u2019ll get a good sweat while learning new skills, building strength, and endurance. All fitness levels welcome.",
-            "image": "",
-            "start_date": "2025-03-27 13:10:00",
-            "end_date": "2025-03-27 13:55:00",
-            "venue": "Strength & Conditioning Centre",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=224fa6a8-38a8-451e-bbdf-5b1ea2ff2a55&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
-            "id": 447536434,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only: TRX Fusion",
-            "description": "This class will give you the opportunity to get fit using unique equipment such as TRX suspension systems, Equalizer bars, kettle bells and more. You\u2019ll get a good sweat while learning new skills, building strength, and endurance. All fitness levels welcome.",
-            "image": "",
-            "start_date": "2025-04-03 13:10:00",
-            "end_date": "2025-04-03 13:55:00",
-            "venue": "Strength & Conditioning Centre",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=224fa6a8-38a8-451e-bbdf-5b1ea2ff2a55&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
-            "id": 3733051868,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Women's Only Badminton and Volleyball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-03-27 14:30:00",
-            "end_date": "2025-03-27 16:00:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Volleyball",
-            "symbol": "volleyball",
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
-            "id": 202233353,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Women's Only Badminton and Volleyball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-03-31 13:45:00",
-            "end_date": "2025-03-31 15:15:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Volleyball",
-            "symbol": "volleyball",
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
-            "id": 1549744173,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Women's Only Badminton and Volleyball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-04-03 14:30:00",
-            "end_date": "2025-04-03 16:00:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Volleyball",
-            "symbol": "volleyball",
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
-            "id": 2390921401,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only: Hypertrophy 101",
-            "description": "Our hypertrophy class is designed to build muscle size.\u00a0This tailored program will combine an educational piece and a targeted workout where you will learn how to efficiently build body mass and build confidence\u00a0in your body's capabilities.\u00a0We will focus on proper form, technique, and tempo of specific exercises and muscle groups to safely help you get to your fitness goals. Embrace the challenge, push your limits, and see results, as you sculpt a stronger, more powerful you! The class is suitable for all levels of fitness.\u00a0",
-            "image": "",
-            "start_date": "2025-03-27 16:10:00",
-            "end_date": "2025-03-27 16:55:00",
-            "venue": "Strength & Conditioning Centre",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/program/GetProgramDetails?courseId=81ecd9bc-e525-4bb1-ac6d-535cf5fc646f",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
-            "id": 3736626347,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only: Hypertrophy 101",
-            "description": "Our hypertrophy class is designed to build muscle size.\u00a0This tailored program will combine an educational piece and a targeted workout where you will learn how to efficiently build body mass and build confidence\u00a0in your body's capabilities.\u00a0We will focus on proper form, technique, and tempo of specific exercises and muscle groups to safely help you get to your fitness goals. Embrace the challenge, push your limits, and see results, as you sculpt a stronger, more powerful you! The class is suitable for all levels of fitness.\u00a0",
-            "image": "",
-            "start_date": "2025-04-03 16:10:00",
-            "end_date": "2025-04-03 16:55:00",
-            "venue": "Strength & Conditioning Centre",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/program/GetProgramDetails?courseId=81ecd9bc-e525-4bb1-ac6d-535cf5fc646f",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
-            "id": 1045807531,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Bootcamp",
-            "description": "A\u00a0high-intensity class that incorporates plyometrics, strength\u00a0and interval training.\u00a0Build your cardiovascular and muscular endurance using various types of equipment and bodyweight movements. Challenge yourself and get ready for a top to bottom workout.\u00a0",
-            "image": "",
-            "start_date": "2025-03-27 18:10:00",
-            "end_date": "2025-03-27 18:55:00",
-            "venue": "Track Level",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=39e7a441-4ece-464a-99ab-63cb97195b0f&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
-            "id": 1650488916,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Bootcamp",
-            "description": "A\u00a0high-intensity class that incorporates plyometrics, strength\u00a0and interval training.\u00a0Build your cardiovascular and muscular endurance using various types of equipment and bodyweight movements. Challenge yourself and get ready for a top to bottom workout.\u00a0",
-            "image": "",
-            "start_date": "2025-04-01 18:10:00",
-            "end_date": "2025-04-01 18:55:00",
-            "venue": "Visually Isolated Area (VIA) - Fitness Centre",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=39e7a441-4ece-464a-99ab-63cb97195b0f&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
-            "id": 1837819531,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Bootcamp",
-            "description": "A\u00a0high-intensity class that incorporates plyometrics, strength\u00a0and interval training.\u00a0Build your cardiovascular and muscular endurance using various types of equipment and bodyweight movements. Challenge yourself and get ready for a top to bottom workout.\u00a0",
-            "image": "",
-            "start_date": "2025-04-03 18:10:00",
-            "end_date": "2025-04-03 18:55:00",
-            "venue": "Track Level",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=39e7a441-4ece-464a-99ab-63cb97195b0f&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
-            "id": 2307390758,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Basketballf",
-            "description": "",
-            "image": "",
-            "start_date": "2025-03-27 19:00:00",
-            "end_date": "2025-03-27 21:30:00",
-            "venue": "Gym A/B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
-            "id": 2299384917,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Basketballf",
-            "description": "",
-            "image": "",
-            "start_date": "2025-04-03 19:00:00",
-            "end_date": "2025-04-03 21:30:00",
-            "venue": "Gym A/B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
-            "id": 254140430,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Salsa & Bachata",
-            "description": "Learn the basics of Salsa and Bachata, the most popular Latin club dances. This group class puts the focus on social interaction, teaching you to lead, follow, and develop a sense of musicality for a smooth dancing experience.\u00a0Please bring clean smooth-soled shoes for dancing; partners are not required.\u00a0",
-            "image": "",
-            "start_date": "2025-03-27 19:10:00",
-            "end_date": "2025-03-27 20:00:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=3c46e800-7c58-433f-bc29-ae0f59c4aa60&semesterId=c0176165-a345-43f0-8060-2358e0051c75",
-            "sortCategory": "Dance",
-            "symbol": "figure.dance",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
-            "id": 2196680819,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Salsa & Bachata",
-            "description": "Learn the basics of Salsa and Bachata, the most popular Latin club dances. This group class puts the focus on social interaction, teaching you to lead, follow, and develop a sense of musicality for a smooth dancing experience.\u00a0Please bring clean smooth-soled shoes for dancing; partners are not required.\u00a0",
-            "image": "",
-            "start_date": "2025-04-03 19:10:00",
-            "end_date": "2025-04-03 20:00:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=3c46e800-7c58-433f-bc29-ae0f59c4aa60&semesterId=c0176165-a345-43f0-8060-2358e0051c75",
-            "sortCategory": "Dance",
-            "symbol": "figure.dance",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
-            "id": 1614648423,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Swing & Cha Cha",
-            "description": "Learn the basics of Swing and Cha Cha and have fun dancing to Top 40\u2019s and timeless classics. Stay on your toes with these energetic rhythmic dances. Learn to lead, follow, and feel the rhythm of the music.\u00a0Please bring clean smooth-soled shoes for dancing; partners are not required.\u00a0",
-            "image": "",
-            "start_date": "2025-03-27 20:00:00",
-            "end_date": "2025-03-27 20:50:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=9d4d2555-af4c-4e5f-8661-523e3a202b6f&semesterId=c0176165-a345-43f0-8060-2358e0051c75",
-            "sortCategory": "Dance",
-            "symbol": "figure.dance",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
-            "id": 295067163,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Swing & Cha Cha",
-            "description": "Learn the basics of Swing and Cha Cha and have fun dancing to Top 40\u2019s and timeless classics. Stay on your toes with these energetic rhythmic dances. Learn to lead, follow, and feel the rhythm of the music.\u00a0Please bring clean smooth-soled shoes for dancing; partners are not required.\u00a0",
-            "image": "",
-            "start_date": "2025-04-03 20:00:00",
-            "end_date": "2025-04-03 20:50:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=9d4d2555-af4c-4e5f-8661-523e3a202b6f&semesterId=c0176165-a345-43f0-8060-2358e0051c75",
-            "sortCategory": "Dance",
-            "symbol": "figure.dance",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
         {
             "id": 2215898944,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
@@ -31426,6 +31086,46 @@
             ]
         },
         {
+            "id": 202233353,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Women's Only Badminton and Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-31 13:45:00",
+            "end_date": "2025-03-31 15:15:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
+            "id": 1549744173,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Women's Only Badminton and Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-04-03 14:30:00",
+            "end_date": "2025-04-03 16:00:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
             "id": 3956635679,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Learn to Play: Volleyball",
@@ -31584,6 +31284,66 @@
             ]
         },
         {
+            "id": 2854446051,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Indoor Soccer",
+            "description": "",
+            "image": "",
+            "start_date": "2025-04-01 14:15:00",
+            "end_date": "2025-04-01 18:00:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Soccer",
+            "symbol": "soccerball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 173738942,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Indoor Soccer",
+            "description": "",
+            "image": "",
+            "start_date": "2025-04-02 10:30:00",
+            "end_date": "2025-04-02 14:00:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Soccer",
+            "symbol": "soccerball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 1607753702,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Indoor Soccer",
+            "description": "",
+            "image": "",
+            "start_date": "2025-04-03 07:00:00",
+            "end_date": "2025-04-03 10:00:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Soccer",
+            "symbol": "soccerball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
             "id": 2264009085,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Strength 101",
@@ -31641,6 +31401,46 @@
             "bipoc": false,
             "weeklyRepetitions": [
                 "tu"
+            ]
+        },
+        {
+            "id": 1650488916,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Bootcamp",
+            "description": "A\u00a0high-intensity class that incorporates plyometrics, strength\u00a0and interval training.\u00a0Build your cardiovascular and muscular endurance using various types of equipment and bodyweight movements. Challenge yourself and get ready for a top to bottom workout.\u00a0",
+            "image": "",
+            "start_date": "2025-04-01 18:10:00",
+            "end_date": "2025-04-01 18:55:00",
+            "venue": "Visually Isolated Area (VIA) - Fitness Centre",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=39e7a441-4ece-464a-99ab-63cb97195b0f&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 1837819531,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Bootcamp",
+            "description": "A\u00a0high-intensity class that incorporates plyometrics, strength\u00a0and interval training.\u00a0Build your cardiovascular and muscular endurance using various types of equipment and bodyweight movements. Challenge yourself and get ready for a top to bottom workout.\u00a0",
+            "image": "",
+            "start_date": "2025-04-03 18:10:00",
+            "end_date": "2025-04-03 18:55:00",
+            "venue": "Track Level",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=39e7a441-4ece-464a-99ab-63cb97195b0f&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th"
             ]
         },
         {
@@ -31764,26 +31564,6 @@
             ]
         },
         {
-            "id": 4196164805,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Pilates",
-            "description": "Achieve a balanced and toned body with the ultimate core fitness workout!\u00a0 Incorporate Pilate\u2019s postures with traditional core exercises to help improve posture, strength, and range of motion.\u00a0 Rejuvenate your workout with a focus on your breathing and find those deep core muscles in the abdomen and that surround the spine.\u00a0 All fitness levels welcome.",
-            "image": "",
-            "start_date": "2025-04-02 17:10:00",
-            "end_date": "2025-04-02 17:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=03dbd7b9-e1e5-4221-bf11-dd4396b82c81&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.pilates",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 2794662851,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Beginner Boxing",
@@ -31821,6 +31601,146 @@
             "bipoc": true,
             "weeklyRepetitions": [
                 "we"
+            ]
+        },
+        {
+            "id": 442674747,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Indoor Cycling",
+            "description": "Increase your cardio and strength with our indoor cycling class. Get your heart pumping with a series of sprints, hills, and drills to build endurance, burn calories and relieve stress. This multi-level class will motivate you through music and moves that allow you to set the intensity of your workout and cruise at your own pace.",
+            "image": "",
+            "start_date": "2025-04-03 07:45:00",
+            "end_date": "2025-04-03 08:15:00",
+            "venue": "Fitness Studio",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=1f8d209f-2492-4436-a249-ff2ab2ce3623&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
+            "sortCategory": "Cycling",
+            "symbol": "figure.indoor.cycle",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
+            "id": 1422408682,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Adaptive Hatha Yoga ",
+            "description": "This gentle class begins with a guided meditation, introduces yoga postures to stretch and strengthen the body, and teaches relaxation practices to reduce stress and calm the mind. Taught in a supportive environment, this 45-minute class is ideal for beginners, but all levels are welcome. Yoga mats are provided.",
+            "image": "",
+            "start_date": "2025-04-03 12:10:00",
+            "end_date": "2025-04-03 12:55:00",
+            "venue": "Dance Studio",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=6c48d357-166c-4ea6-a705-d1545191ce8c",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.yoga",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
+            "id": 447536434,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Women's Only: TRX Fusion",
+            "description": "This class will give you the opportunity to get fit using unique equipment such as TRX suspension systems, Equalizer bars, kettle bells and more. You\u2019ll get a good sweat while learning new skills, building strength, and endurance. All fitness levels welcome.",
+            "image": "",
+            "start_date": "2025-04-03 13:10:00",
+            "end_date": "2025-04-03 13:55:00",
+            "venue": "Strength & Conditioning Centre",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=224fa6a8-38a8-451e-bbdf-5b1ea2ff2a55&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
+            "id": 3736626347,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Women's Only: Hypertrophy 101",
+            "description": "Our hypertrophy class is designed to build muscle size.\u00a0This tailored program will combine an educational piece and a targeted workout where you will learn how to efficiently build body mass and build confidence\u00a0in your body's capabilities.\u00a0We will focus on proper form, technique, and tempo of specific exercises and muscle groups to safely help you get to your fitness goals. Embrace the challenge, push your limits, and see results, as you sculpt a stronger, more powerful you! The class is suitable for all levels of fitness.\u00a0",
+            "image": "",
+            "start_date": "2025-04-03 16:10:00",
+            "end_date": "2025-04-03 16:55:00",
+            "venue": "Strength & Conditioning Centre",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/program/GetProgramDetails?courseId=81ecd9bc-e525-4bb1-ac6d-535cf5fc646f",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
+            "id": 2299384917,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketballf",
+            "description": "",
+            "image": "",
+            "start_date": "2025-04-03 19:00:00",
+            "end_date": "2025-04-03 21:30:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
+            "id": 2196680819,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Salsa & Bachata",
+            "description": "Learn the basics of Salsa and Bachata, the most popular Latin club dances. This group class puts the focus on social interaction, teaching you to lead, follow, and develop a sense of musicality for a smooth dancing experience.\u00a0Please bring clean smooth-soled shoes for dancing; partners are not required.\u00a0",
+            "image": "",
+            "start_date": "2025-04-03 19:10:00",
+            "end_date": "2025-04-03 20:00:00",
+            "venue": "Dance Studio",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=3c46e800-7c58-433f-bc29-ae0f59c4aa60&semesterId=c0176165-a345-43f0-8060-2358e0051c75",
+            "sortCategory": "Dance",
+            "symbol": "figure.dance",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
+            "id": 295067163,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Swing & Cha Cha",
+            "description": "Learn the basics of Swing and Cha Cha and have fun dancing to Top 40\u2019s and timeless classics. Stay on your toes with these energetic rhythmic dances. Learn to lead, follow, and feel the rhythm of the music.\u00a0Please bring clean smooth-soled shoes for dancing; partners are not required.\u00a0",
+            "image": "",
+            "start_date": "2025-04-03 20:00:00",
+            "end_date": "2025-04-03 20:50:00",
+            "venue": "Dance Studio",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=9d4d2555-af4c-4e5f-8661-523e3a202b6f&semesterId=c0176165-a345-43f0-8060-2358e0051c75",
+            "sortCategory": "Dance",
+            "symbol": "figure.dance",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th"
             ]
         },
         {
