@@ -31680,6 +31680,66 @@
             ]
         },
         {
+            "id": 2646029825,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fun Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2025-04-06 13:30:00",
+            "end_date": "2025-04-06 16:30:00",
+            "venue": "Pool",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b3c1fd9b-343f-4114-a627-c861f963c685",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "su"
+            ]
+        },
+        {
+            "id": 2122923002,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fun Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2025-04-13 13:30:00",
+            "end_date": "2025-04-13 16:30:00",
+            "venue": "Pool",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b3c1fd9b-343f-4114-a627-c861f963c685",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "su"
+            ]
+        },
+        {
+            "id": 2270490402,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fun Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2025-04-20 13:30:00",
+            "end_date": "2025-04-20 16:30:00",
+            "venue": "Pool",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b3c1fd9b-343f-4114-a627-c861f963c685",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "su"
+            ]
+        },
+        {
             "id": 2206395530,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Learn to Lift  - OWL",
