@@ -11194,6 +11194,26 @@
             ]
         },
         {
+            "id": 1021711161,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2025-02-21 07:00:00",
+            "end_date": "2025-02-21 09:50:00",
+            "venue": "Pool",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=d3331c2b-594d-4b36-becc-a9b943a4dde6",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
             "id": 746265336,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-In Squash ",
@@ -11215,26 +11235,6 @@
                 "th",
                 "tu",
                 "we"
-            ]
-        },
-        {
-            "id": 1021711161,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2025-02-21 07:00:00",
-            "end_date": "2025-02-21 09:50:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=d3331c2b-594d-4b36-becc-a9b943a4dde6",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "fr"
             ]
         },
         {
@@ -13315,6 +13315,26 @@
             ]
         },
         {
+            "id": 3963514175,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2025-02-28 07:00:00",
+            "end_date": "2025-02-28 09:50:00",
+            "venue": "Pool",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=d3331c2b-594d-4b36-becc-a9b943a4dde6",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
             "id": 1721274608,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-In Squash ",
@@ -13336,26 +13356,6 @@
                 "th",
                 "tu",
                 "we"
-            ]
-        },
-        {
-            "id": 3963514175,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2025-02-28 07:00:00",
-            "end_date": "2025-02-28 09:50:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=d3331c2b-594d-4b36-becc-a9b943a4dde6",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "fr"
             ]
         },
         {
@@ -15828,6 +15828,26 @@
             ]
         },
         {
+            "id": 1979389715,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-07 07:00:00",
+            "end_date": "2025-03-07 09:50:00",
+            "venue": "Pool",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=d3331c2b-594d-4b36-becc-a9b943a4dde6",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
             "id": 4067498884,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-In Squash ",
@@ -15849,26 +15869,6 @@
                 "th",
                 "tu",
                 "we"
-            ]
-        },
-        {
-            "id": 1979389715,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2025-03-07 07:00:00",
-            "end_date": "2025-03-07 09:50:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=d3331c2b-594d-4b36-becc-a9b943a4dde6",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "fr"
             ]
         },
         {
@@ -18532,6 +18532,26 @@
             ]
         },
         {
+            "id": 1676345292,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-14 07:00:00",
+            "end_date": "2025-03-14 09:50:00",
+            "venue": "Pool",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=d3331c2b-594d-4b36-becc-a9b943a4dde6",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
             "id": 1839752108,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-In Squash ",
@@ -18553,26 +18573,6 @@
                 "th",
                 "tu",
                 "we"
-            ]
-        },
-        {
-            "id": 1676345292,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2025-03-14 07:00:00",
-            "end_date": "2025-03-14 09:50:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=d3331c2b-594d-4b36-becc-a9b943a4dde6",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "fr"
             ]
         },
         {
@@ -21424,6 +21424,26 @@
             ]
         },
         {
+            "id": 1607216574,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-21 07:00:00",
+            "end_date": "2025-03-21 09:50:00",
+            "venue": "Pool",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=d3331c2b-594d-4b36-becc-a9b943a4dde6",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
             "id": 1381071840,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-In Squash ",
@@ -21445,26 +21465,6 @@
                 "th",
                 "tu",
                 "we"
-            ]
-        },
-        {
-            "id": 1607216574,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2025-03-21 07:00:00",
-            "end_date": "2025-03-21 09:50:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=d3331c2b-594d-4b36-becc-a9b943a4dde6",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "fr"
             ]
         },
         {
@@ -24584,6 +24584,26 @@
             ]
         },
         {
+            "id": 3994514981,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2025-03-28 07:00:00",
+            "end_date": "2025-03-28 09:50:00",
+            "venue": "Pool",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=d3331c2b-594d-4b36-becc-a9b943a4dde6",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
             "id": 1973936658,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-In Squash ",
@@ -24605,26 +24625,6 @@
                 "th",
                 "tu",
                 "we"
-            ]
-        },
-        {
-            "id": 3994514981,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2025-03-28 07:00:00",
-            "end_date": "2025-03-28 09:50:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=d3331c2b-594d-4b36-becc-a9b943a4dde6",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "fr"
             ]
         },
         {
@@ -27305,6 +27305,26 @@
             ]
         },
         {
+            "id": 2726593440,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Adaptive Fitness Swim",
+            "description": "Join us in the far right lanes for accessible options for those with physical limitations requiring use of our PAL lift. Participants who need assistance transferring or swimming must bring support with them.",
+            "image": "",
+            "start_date": "2025-04-03 07:00:00",
+            "end_date": "2025-04-03 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=824eeda8-692c-4b98-9df6-b4995faf98c8",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
             "id": 3598056911,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-In Squash ",
@@ -27326,26 +27346,6 @@
                 "th",
                 "tu",
                 "we"
-            ]
-        },
-        {
-            "id": 2726593440,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Adaptive Fitness Swim",
-            "description": "Join us in the far right lanes for accessible options for those with physical limitations requiring use of our PAL lift. Participants who need assistance transferring or swimming must bring support with them.",
-            "image": "",
-            "start_date": "2025-04-03 07:00:00",
-            "end_date": "2025-04-03 08:50:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=824eeda8-692c-4b98-9df6-b4995faf98c8",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "th"
             ]
         },
         {
@@ -27907,6 +27907,26 @@
             ]
         },
         {
+            "id": 2049343910,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2025-04-04 07:00:00",
+            "end_date": "2025-04-04 09:50:00",
+            "venue": "Pool",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=d3331c2b-594d-4b36-becc-a9b943a4dde6",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
             "id": 526686044,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-In Squash ",
@@ -27985,26 +28005,6 @@
             "lgbt": false,
             "bipoc": false,
             "weeklyRepetitions": []
-        },
-        {
-            "id": 2049343910,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2025-04-04 07:00:00",
-            "end_date": "2025-04-04 09:50:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=d3331c2b-594d-4b36-becc-a9b943a4dde6",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
         },
         {
             "id": 2669426286,
@@ -28210,26 +28210,6 @@
             ]
         },
         {
-            "id": 6622139,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "H2O Kickboxing",
-            "description": "",
-            "image": "",
-            "start_date": "2025-04-04 13:10:00",
-            "end_date": "2025-04-04 13:55:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Combat",
-            "symbol": "figure.boxing",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 88493537,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Cardio HIIT",
@@ -28249,6 +28229,26 @@
                 "fr",
                 "mo",
                 "we"
+            ]
+        },
+        {
+            "id": 6622139,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "H2O Kickboxing",
+            "description": "",
+            "image": "",
+            "start_date": "2025-04-04 13:10:00",
+            "end_date": "2025-04-04 13:55:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Combat",
+            "symbol": "figure.boxing",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "fr"
             ]
         },
         {
@@ -29039,6 +29039,26 @@
             ]
         },
         {
+            "id": 2206816092,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2025-04-08 11:00:00",
+            "end_date": "2025-04-08 14:00:00",
+            "venue": "Pool",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=d3331c2b-594d-4b36-becc-a9b943a4dde6",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
             "id": 1791740506,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "RAWC W.O.D",
@@ -29113,8 +29133,8 @@
             "start_date": "2025-04-08 13:10:00",
             "end_date": "2025-04-08 13:55:00",
             "venue": "Dance Studio",
-            "ticket_label": "",
-            "ticket_url": "",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b05d2432-ae3d-4aae-8ccb-87540c252ef9",
             "sortCategory": "Workout",
             "symbol": "dumbbell",
             "womens": true,
@@ -29690,8 +29710,8 @@
             "start_date": "2025-04-10 13:10:00",
             "end_date": "2025-04-10 13:55:00",
             "venue": "Dance Studio",
-            "ticket_label": "",
-            "ticket_url": "",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b05d2432-ae3d-4aae-8ccb-87540c252ef9",
             "sortCategory": "Workout",
             "symbol": "dumbbell",
             "womens": true,
@@ -30030,26 +30050,6 @@
             ]
         },
         {
-            "id": 3394355652,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "H2O Kickboxing",
-            "description": "",
-            "image": "",
-            "start_date": "2025-04-11 13:10:00",
-            "end_date": "2025-04-11 13:55:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Combat",
-            "symbol": "figure.boxing",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 1950736649,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Cardio HIIT",
@@ -30069,6 +30069,26 @@
                 "fr",
                 "mo",
                 "we"
+            ]
+        },
+        {
+            "id": 3394355652,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "H2O Kickboxing",
+            "description": "",
+            "image": "",
+            "start_date": "2025-04-11 13:10:00",
+            "end_date": "2025-04-11 13:55:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Combat",
+            "symbol": "figure.boxing",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "fr"
             ]
         },
         {
@@ -30609,6 +30629,26 @@
             ]
         },
         {
+            "id": 3204368187,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2025-04-15 11:00:00",
+            "end_date": "2025-04-15 14:00:00",
+            "venue": "Pool",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=d3331c2b-594d-4b36-becc-a9b943a4dde6",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
             "id": 1850733455,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "RAWC W.O.D",
@@ -30683,8 +30723,8 @@
             "start_date": "2025-04-15 13:10:00",
             "end_date": "2025-04-15 13:55:00",
             "venue": "Dance Studio",
-            "ticket_label": "",
-            "ticket_url": "",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b05d2432-ae3d-4aae-8ccb-87540c252ef9",
             "sortCategory": "Workout",
             "symbol": "dumbbell",
             "womens": true,
@@ -31260,8 +31300,8 @@
             "start_date": "2025-04-17 13:10:00",
             "end_date": "2025-04-17 13:55:00",
             "venue": "Dance Studio",
-            "ticket_label": "",
-            "ticket_url": "",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b05d2432-ae3d-4aae-8ccb-87540c252ef9",
             "sortCategory": "Workout",
             "symbol": "dumbbell",
             "womens": true,
@@ -31540,26 +31580,6 @@
             ]
         },
         {
-            "id": 3967917258,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "H2O Kickboxing",
-            "description": "",
-            "image": "",
-            "start_date": "2025-04-18 13:10:00",
-            "end_date": "2025-04-18 13:55:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Combat",
-            "symbol": "figure.boxing",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 2040566006,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Cardio HIIT",
@@ -31579,6 +31599,26 @@
                 "fr",
                 "mo",
                 "we"
+            ]
+        },
+        {
+            "id": 3967917258,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "H2O Kickboxing",
+            "description": "",
+            "image": "",
+            "start_date": "2025-04-18 13:10:00",
+            "end_date": "2025-04-18 13:55:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Combat",
+            "symbol": "figure.boxing",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "fr"
             ]
         },
         {
@@ -32059,6 +32099,26 @@
             ]
         },
         {
+            "id": 1612355105,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2025-04-22 11:00:00",
+            "end_date": "2025-04-22 14:00:00",
+            "venue": "Pool",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=d3331c2b-594d-4b36-becc-a9b943a4dde6",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
             "id": 4160765972,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "RAWC W.O.D",
@@ -32133,8 +32193,8 @@
             "start_date": "2025-04-22 13:10:00",
             "end_date": "2025-04-22 13:55:00",
             "venue": "Dance Studio",
-            "ticket_label": "",
-            "ticket_url": "",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b05d2432-ae3d-4aae-8ccb-87540c252ef9",
             "sortCategory": "Workout",
             "symbol": "dumbbell",
             "womens": true,
@@ -32690,8 +32750,8 @@
             "start_date": "2025-04-24 13:10:00",
             "end_date": "2025-04-24 13:55:00",
             "venue": "Dance Studio",
-            "ticket_label": "",
-            "ticket_url": "",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b05d2432-ae3d-4aae-8ccb-87540c252ef9",
             "sortCategory": "Workout",
             "symbol": "dumbbell",
             "womens": true,
@@ -33003,26 +33063,6 @@
             ]
         },
         {
-            "id": 3109741697,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "H2O Kickboxing",
-            "description": "",
-            "image": "",
-            "start_date": "2025-04-25 13:10:00",
-            "end_date": "2025-04-25 13:55:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Combat",
-            "symbol": "figure.boxing",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 3207373713,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Cardio HIIT",
@@ -33042,6 +33082,26 @@
                 "fr",
                 "mo",
                 "we"
+            ]
+        },
+        {
+            "id": 3109741697,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "H2O Kickboxing",
+            "description": "",
+            "image": "",
+            "start_date": "2025-04-25 13:10:00",
+            "end_date": "2025-04-25 13:55:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Combat",
+            "symbol": "figure.boxing",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "fr"
             ]
         },
         {
@@ -33410,8 +33470,8 @@
             "start_date": "2025-04-29 13:10:00",
             "end_date": "2025-04-29 13:55:00",
             "venue": "Dance Studio",
-            "ticket_label": "",
-            "ticket_url": "",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b05d2432-ae3d-4aae-8ccb-87540c252ef9",
             "sortCategory": "Workout",
             "symbol": "dumbbell",
             "womens": true,
@@ -33764,8 +33824,8 @@
             "start_date": "2025-05-01 13:10:00",
             "end_date": "2025-05-01 13:55:00",
             "venue": "Dance Studio",
-            "ticket_label": "",
-            "ticket_url": "",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b05d2432-ae3d-4aae-8ccb-87540c252ef9",
             "sortCategory": "Workout",
             "symbol": "dumbbell",
             "womens": true,
@@ -33902,26 +33962,6 @@
             ]
         },
         {
-            "id": 1579984309,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "H2O Kickboxing",
-            "description": "",
-            "image": "",
-            "start_date": "2025-05-02 13:10:00",
-            "end_date": "2025-05-02 13:55:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Combat",
-            "symbol": "figure.boxing",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 4150227215,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Cardio HIIT",
@@ -33941,6 +33981,26 @@
                 "fr",
                 "mo",
                 "we"
+            ]
+        },
+        {
+            "id": 1579984309,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "H2O Kickboxing",
+            "description": "",
+            "image": "",
+            "start_date": "2025-05-02 13:10:00",
+            "end_date": "2025-05-02 13:55:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Combat",
+            "symbol": "figure.boxing",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "fr"
             ]
         },
         {
@@ -34029,66 +34089,6 @@
         }
     ],
     "featured": [
-        {
-            "id": 3793143604,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Lifesaving Sport",
-            "description": "Student-only drop-in program where you'll practice and perfect fun lifeguarding and lifesaving skills, build lasting friendships while discovering the exciting world of Lifesaving Sport. No prior lifesaving or lifeguarding experience required!Prerequisites: Swim 400 meters continuously without stopping Recover an object from the deepest part of the pool Perform scissor kick/eggbeater/whip kick for 25 meters",
-            "image": "",
-            "start_date": "2025-04-08 18:00:00",
-            "end_date": "2025-04-08 19:00:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=545ae897-57d8-4a88-8e24-c8e8c704ccae",
-            "sortCategory": "Swim",
-            "symbol": "lifepreserver",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
-            "id": 816445716,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Lifesaving Sport",
-            "description": "Student-only drop-in program where you'll practice and perfect fun lifeguarding and lifesaving skills, build lasting friendships while discovering the exciting world of Lifesaving Sport. No prior lifesaving or lifeguarding experience required!Prerequisites: Swim 400 meters continuously without stopping Recover an object from the deepest part of the pool Perform scissor kick/eggbeater/whip kick for 25 meters",
-            "image": "",
-            "start_date": "2025-04-15 18:00:00",
-            "end_date": "2025-04-15 19:00:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=545ae897-57d8-4a88-8e24-c8e8c704ccae",
-            "sortCategory": "Swim",
-            "symbol": "lifepreserver",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
-            "id": 2470204540,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Lifesaving Sport",
-            "description": "Student-only drop-in program where you'll practice and perfect fun lifeguarding and lifesaving skills, build lasting friendships while discovering the exciting world of Lifesaving Sport. No prior lifesaving or lifeguarding experience required!Prerequisites: Swim 400 meters continuously without stopping Recover an object from the deepest part of the pool Perform scissor kick/eggbeater/whip kick for 25 meters",
-            "image": "",
-            "start_date": "2025-04-22 18:00:00",
-            "end_date": "2025-04-22 19:00:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=545ae897-57d8-4a88-8e24-c8e8c704ccae",
-            "sortCategory": "Swim",
-            "symbol": "lifepreserver",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
         {
             "id": 3357380537,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
@@ -34583,6 +34583,286 @@
             "bipoc": false,
             "weeklyRepetitions": [
                 "mo"
+            ]
+        },
+        {
+            "id": 2872743287,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Women's Only: Strength 101",
+            "description": "Have you hit a plateau or feel like you\u2019re not getting any stronger? Our expert trainers will guide you through the steps to achieve your strength goals with a dynamic and strength targeted workouts.\u00a0We will use a variety of exercises and state of the art equipment in our Strength and Conditioning Center.\u00a0\u00a0Challenge yourself in a supportive and motivating environment and achieve your fitness goals with our invigorating strength class.\u00a0\u00a0No matter your fitness level, this is a\u00a0perfect class to learn the proper technique,\u00a0fine tune your strength training program, or take it to the next level as an experienced lifter",
+            "image": "",
+            "start_date": "2025-04-15 16:10:00",
+            "end_date": "2025-04-15 16:55:00",
+            "venue": "Multipurpose B",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/program/GetProgramDetails?courseId=e13dee39-9237-45ac-a44a-d2d4cfbe8c38",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 597132736,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Women's Only: Strength 101",
+            "description": "Have you hit a plateau or feel like you\u2019re not getting any stronger? Our expert trainers will guide you through the steps to achieve your strength goals with a dynamic and strength targeted workouts.\u00a0We will use a variety of exercises and state of the art equipment in our Strength and Conditioning Center.\u00a0\u00a0Challenge yourself in a supportive and motivating environment and achieve your fitness goals with our invigorating strength class.\u00a0\u00a0No matter your fitness level, this is a\u00a0perfect class to learn the proper technique,\u00a0fine tune your strength training program, or take it to the next level as an experienced lifter",
+            "image": "",
+            "start_date": "2025-04-22 16:10:00",
+            "end_date": "2025-04-22 16:55:00",
+            "venue": "Multipurpose B",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/program/GetProgramDetails?courseId=e13dee39-9237-45ac-a44a-d2d4cfbe8c38",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 4063220748,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Women's Only: Strength 101",
+            "description": "Have you hit a plateau or feel like you\u2019re not getting any stronger? Our expert trainers will guide you through the steps to achieve your strength goals with a dynamic and strength targeted workouts.\u00a0We will use a variety of exercises and state of the art equipment in our Strength and Conditioning Center.\u00a0\u00a0Challenge yourself in a supportive and motivating environment and achieve your fitness goals with our invigorating strength class.\u00a0\u00a0No matter your fitness level, this is a\u00a0perfect class to learn the proper technique,\u00a0fine tune your strength training program, or take it to the next level as an experienced lifter",
+            "image": "",
+            "start_date": "2025-04-29 16:10:00",
+            "end_date": "2025-04-29 16:55:00",
+            "venue": "Multipurpose B",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/program/GetProgramDetails?courseId=e13dee39-9237-45ac-a44a-d2d4cfbe8c38",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 588903633,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Hatha Yoga",
+            "description": "This gentle class begins with a guided meditation, introduces yoga postures to stretch and strengthen the body, and teaches relaxation practices to reduce stress and calm the mind. Taught in a supportive environment, this 45-minute class is ideal for beginners, but all levels are welcome. Yoga mats are provided.",
+            "image": "",
+            "start_date": "2025-04-15 17:10:00",
+            "end_date": "2025-04-15 17:55:00",
+            "venue": "Dance Studio",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=e7c4fcb2-8ffe-4737-917b-afea46f13058&semesterId=d2a7e223-5b53-4ee9-ba2d-98dcb5430961",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.yoga",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 541659644,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Hatha Yoga",
+            "description": "This gentle class begins with a guided meditation, introduces yoga postures to stretch and strengthen the body, and teaches relaxation practices to reduce stress and calm the mind. Taught in a supportive environment, this 45-minute class is ideal for beginners, but all levels are welcome. Yoga mats are provided.",
+            "image": "",
+            "start_date": "2025-04-22 17:10:00",
+            "end_date": "2025-04-22 17:55:00",
+            "venue": "Dance Studio",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=e7c4fcb2-8ffe-4737-917b-afea46f13058&semesterId=d2a7e223-5b53-4ee9-ba2d-98dcb5430961",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.yoga",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 750676700,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Hatha Yoga",
+            "description": "This gentle class begins with a guided meditation, introduces yoga postures to stretch and strengthen the body, and teaches relaxation practices to reduce stress and calm the mind. Taught in a supportive environment, this 45-minute class is ideal for beginners, but all levels are welcome. Yoga mats are provided.",
+            "image": "",
+            "start_date": "2025-04-29 17:10:00",
+            "end_date": "2025-04-29 17:55:00",
+            "venue": "Dance Studio",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=e7c4fcb2-8ffe-4737-917b-afea46f13058&semesterId=d2a7e223-5b53-4ee9-ba2d-98dcb5430961",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.yoga",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 816445716,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Lifesaving Sport",
+            "description": "Student-only drop-in program where you'll practice and perfect fun lifeguarding and lifesaving skills, build lasting friendships while discovering the exciting world of Lifesaving Sport. No prior lifesaving or lifeguarding experience required!Prerequisites: Swim 400 meters continuously without stopping Recover an object from the deepest part of the pool Perform scissor kick/eggbeater/whip kick for 25 meters",
+            "image": "",
+            "start_date": "2025-04-15 18:00:00",
+            "end_date": "2025-04-15 19:00:00",
+            "venue": "Pool",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=545ae897-57d8-4a88-8e24-c8e8c704ccae",
+            "sortCategory": "Swim",
+            "symbol": "lifepreserver",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 2470204540,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Lifesaving Sport",
+            "description": "Student-only drop-in program where you'll practice and perfect fun lifeguarding and lifesaving skills, build lasting friendships while discovering the exciting world of Lifesaving Sport. No prior lifesaving or lifeguarding experience required!Prerequisites: Swim 400 meters continuously without stopping Recover an object from the deepest part of the pool Perform scissor kick/eggbeater/whip kick for 25 meters",
+            "image": "",
+            "start_date": "2025-04-22 18:00:00",
+            "end_date": "2025-04-22 19:00:00",
+            "venue": "Pool",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=545ae897-57d8-4a88-8e24-c8e8c704ccae",
+            "sortCategory": "Swim",
+            "symbol": "lifepreserver",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 2674196393,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Kathak Bollywood Fusion",
+            "description": "Experience a vibrant fusion of cultural artistry and fitness with our Kathak Dance Fitness class! Perfect for all fitness levels, this dynamic session merges the grace and rhythm of Kathak\u2014an ancient Indian dance\u2014with a full-body workout.\u00a0Master intricate footwork, spins, and hand gestures while boosting cardiovascular endurance, strength, and flexibility. Whether you're a dance lover or new to fitness, this class offers a fun, engaging way to stay active and connect with your peers.",
+            "image": "",
+            "start_date": "2025-04-15 18:10:00",
+            "end_date": "2025-04-15 18:55:00",
+            "venue": "Dance Studio",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=bbeb761b-e021-404c-9882-b51792170d2a",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 479922573,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Kathak Bollywood Fusion",
+            "description": "Experience a vibrant fusion of cultural artistry and fitness with our Kathak Dance Fitness class! Perfect for all fitness levels, this dynamic session merges the grace and rhythm of Kathak\u2014an ancient Indian dance\u2014with a full-body workout.\u00a0Master intricate footwork, spins, and hand gestures while boosting cardiovascular endurance, strength, and flexibility. Whether you're a dance lover or new to fitness, this class offers a fun, engaging way to stay active and connect with your peers.",
+            "image": "",
+            "start_date": "2025-04-22 18:10:00",
+            "end_date": "2025-04-22 18:55:00",
+            "venue": "Dance Studio",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=bbeb761b-e021-404c-9882-b51792170d2a",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 4203628504,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Kathak Bollywood Fusion",
+            "description": "Experience a vibrant fusion of cultural artistry and fitness with our Kathak Dance Fitness class! Perfect for all fitness levels, this dynamic session merges the grace and rhythm of Kathak\u2014an ancient Indian dance\u2014with a full-body workout.\u00a0Master intricate footwork, spins, and hand gestures while boosting cardiovascular endurance, strength, and flexibility. Whether you're a dance lover or new to fitness, this class offers a fun, engaging way to stay active and connect with your peers.",
+            "image": "",
+            "start_date": "2025-04-29 18:10:00",
+            "end_date": "2025-04-29 18:55:00",
+            "venue": "Dance Studio",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=bbeb761b-e021-404c-9882-b51792170d2a",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 3305168361,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Zumba",
+            "description": "A high energy and fun fitness/dance class that blends exciting club music and world rhythms with easy-to-follow choreography. Come and join the fun and find your rhythmic groove! No dance experience required. All levels welcome.",
+            "image": "",
+            "start_date": "2025-04-15 19:10:00",
+            "end_date": "2025-04-15 19:55:00",
+            "venue": "Dance Studio",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=5b5cce5c-4612-4751-a5eb-3890621de61b&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
+            "sortCategory": "Dance",
+            "symbol": "figure.dance",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 3183601740,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Zumba",
+            "description": "A high energy and fun fitness/dance class that blends exciting club music and world rhythms with easy-to-follow choreography. Come and join the fun and find your rhythmic groove! No dance experience required. All levels welcome.",
+            "image": "",
+            "start_date": "2025-04-22 19:10:00",
+            "end_date": "2025-04-22 19:55:00",
+            "venue": "Dance Studio",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=5b5cce5c-4612-4751-a5eb-3890621de61b&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
+            "sortCategory": "Dance",
+            "symbol": "figure.dance",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 633988418,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Zumba",
+            "description": "A high energy and fun fitness/dance class that blends exciting club music and world rhythms with easy-to-follow choreography. Come and join the fun and find your rhythmic groove! No dance experience required. All levels welcome.",
+            "image": "",
+            "start_date": "2025-04-29 19:10:00",
+            "end_date": "2025-04-29 19:55:00",
+            "venue": "Dance Studio",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=5b5cce5c-4612-4751-a5eb-3890621de61b&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
+            "sortCategory": "Dance",
+            "symbol": "figure.dance",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
             ]
         }
     ],
