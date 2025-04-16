@@ -31565,361 +31565,6 @@
     ],
     "featured": [
         {
-            "id": 1850733455,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "RAWC W.O.D",
-            "description": "Are\u00a0you new to fitness and exercise? Worried about hurting yourself or using machines incorrectly? Want to get started but don\u2019t know how? Then join us for a RAWC Workout of the Day led by our certified personal trainers. Learn the proper technique and a variety of exercises to add to your own workouts. From dumbbells to barbells, no matter what your fitness goal is\u2026 we got you covered!\u00a0",
-            "image": "",
-            "start_date": "2025-04-15 11:10:00",
-            "end_date": "2025-04-15 11:55:00",
-            "venue": "Fitness Centre",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=bd21dcf1-5ad4-47a5-96e1-53e86350a33f&semesterId=bb4e0bba-b1e3-485c-8a94-769596e0e6bd",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo",
-                "th",
-                "tu",
-                "we"
-            ]
-        },
-        {
-            "id": 2423663919,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "RAWC W.O.D",
-            "description": "Are\u00a0you new to fitness and exercise? Worried about hurting yourself or using machines incorrectly? Want to get started but don\u2019t know how? Then join us for a RAWC Workout of the Day led by our certified personal trainers. Learn the proper technique and a variety of exercises to add to your own workouts. From dumbbells to barbells, no matter what your fitness goal is\u2026 we got you covered!\u00a0",
-            "image": "",
-            "start_date": "2025-04-16 11:10:00",
-            "end_date": "2025-04-16 11:55:00",
-            "venue": "Fitness Centre",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=bd21dcf1-5ad4-47a5-96e1-53e86350a33f&semesterId=bb4e0bba-b1e3-485c-8a94-769596e0e6bd",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo",
-                "th",
-                "tu",
-                "we"
-            ]
-        },
-        {
-            "id": 632005182,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "RAWC W.O.D",
-            "description": "Are\u00a0you new to fitness and exercise? Worried about hurting yourself or using machines incorrectly? Want to get started but don\u2019t know how? Then join us for a RAWC Workout of the Day led by our certified personal trainers. Learn the proper technique and a variety of exercises to add to your own workouts. From dumbbells to barbells, no matter what your fitness goal is\u2026 we got you covered!\u00a0",
-            "image": "",
-            "start_date": "2025-04-17 11:10:00",
-            "end_date": "2025-04-17 11:55:00",
-            "venue": "Fitness Centre",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=bd21dcf1-5ad4-47a5-96e1-53e86350a33f&semesterId=bb4e0bba-b1e3-485c-8a94-769596e0e6bd",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo",
-                "th",
-                "tu",
-                "we"
-            ]
-        },
-        {
-            "id": 2822646671,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Stroke Development",
-            "description": "\nAre you looking to get some guidance on improving your strokes? This program will allow you to get feedback on your strokes and ideas to help make improvements. Staff will watch your strokes and provide drills to help you fine tune your strokes. Note: This is not a lesson.",
-            "image": "",
-            "start_date": "2025-04-15 12:00:00",
-            "end_date": "2025-04-15 13:00:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=e04706d3-7021-4301-9890-0c1e8e974fc8",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "su",
-                "tu"
-            ]
-        },
-        {
-            "id": 3741915459,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Stroke Development",
-            "description": "\nAre you looking to get some guidance on improving your strokes? This program will allow you to get feedback on your strokes and ideas to help make improvements. Staff will watch your strokes and provide drills to help you fine tune your strokes. Note: This is not a lesson.",
-            "image": "",
-            "start_date": "2025-04-20 12:00:00",
-            "end_date": "2025-04-20 13:00:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=e04706d3-7021-4301-9890-0c1e8e974fc8",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "su",
-                "tu"
-            ]
-        },
-        {
-            "id": 3927809599,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Stroke Development",
-            "description": "\nAre you looking to get some guidance on improving your strokes? This program will allow you to get feedback on your strokes and ideas to help make improvements. Staff will watch your strokes and provide drills to help you fine tune your strokes. Note: This is not a lesson.",
-            "image": "",
-            "start_date": "2025-04-22 12:00:00",
-            "end_date": "2025-04-22 13:00:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=e04706d3-7021-4301-9890-0c1e8e974fc8",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "su",
-                "tu"
-            ]
-        },
-        {
-            "id": 2872743287,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only: Strength 101",
-            "description": "Have you hit a plateau or feel like you\u2019re not getting any stronger? Our expert trainers will guide you through the steps to achieve your strength goals with a dynamic and strength targeted workouts.\u00a0We will use a variety of exercises and state of the art equipment in our Strength and Conditioning Center.\u00a0\u00a0Challenge yourself in a supportive and motivating environment and achieve your fitness goals with our invigorating strength class.\u00a0\u00a0No matter your fitness level, this is a\u00a0perfect class to learn the proper technique,\u00a0fine tune your strength training program, or take it to the next level as an experienced lifter",
-            "image": "",
-            "start_date": "2025-04-15 16:10:00",
-            "end_date": "2025-04-15 16:55:00",
-            "venue": "Multipurpose B",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/program/GetProgramDetails?courseId=e13dee39-9237-45ac-a44a-d2d4cfbe8c38",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
-            "id": 597132736,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only: Strength 101",
-            "description": "Have you hit a plateau or feel like you\u2019re not getting any stronger? Our expert trainers will guide you through the steps to achieve your strength goals with a dynamic and strength targeted workouts.\u00a0We will use a variety of exercises and state of the art equipment in our Strength and Conditioning Center.\u00a0\u00a0Challenge yourself in a supportive and motivating environment and achieve your fitness goals with our invigorating strength class.\u00a0\u00a0No matter your fitness level, this is a\u00a0perfect class to learn the proper technique,\u00a0fine tune your strength training program, or take it to the next level as an experienced lifter",
-            "image": "",
-            "start_date": "2025-04-22 16:10:00",
-            "end_date": "2025-04-22 16:55:00",
-            "venue": "Multipurpose B",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/program/GetProgramDetails?courseId=e13dee39-9237-45ac-a44a-d2d4cfbe8c38",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
-            "id": 4063220748,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only: Strength 101",
-            "description": "Have you hit a plateau or feel like you\u2019re not getting any stronger? Our expert trainers will guide you through the steps to achieve your strength goals with a dynamic and strength targeted workouts.\u00a0We will use a variety of exercises and state of the art equipment in our Strength and Conditioning Center.\u00a0\u00a0Challenge yourself in a supportive and motivating environment and achieve your fitness goals with our invigorating strength class.\u00a0\u00a0No matter your fitness level, this is a\u00a0perfect class to learn the proper technique,\u00a0fine tune your strength training program, or take it to the next level as an experienced lifter",
-            "image": "",
-            "start_date": "2025-04-29 16:10:00",
-            "end_date": "2025-04-29 16:55:00",
-            "venue": "Multipurpose B",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/program/GetProgramDetails?courseId=e13dee39-9237-45ac-a44a-d2d4cfbe8c38",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
-            "id": 588903633,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Hatha Yoga",
-            "description": "This gentle class begins with a guided meditation, introduces yoga postures to stretch and strengthen the body, and teaches relaxation practices to reduce stress and calm the mind. Taught in a supportive environment, this 45-minute class is ideal for beginners, but all levels are welcome. Yoga mats are provided.",
-            "image": "",
-            "start_date": "2025-04-15 17:10:00",
-            "end_date": "2025-04-15 17:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=e7c4fcb2-8ffe-4737-917b-afea46f13058&semesterId=d2a7e223-5b53-4ee9-ba2d-98dcb5430961",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.yoga",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
-            "id": 541659644,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Hatha Yoga",
-            "description": "This gentle class begins with a guided meditation, introduces yoga postures to stretch and strengthen the body, and teaches relaxation practices to reduce stress and calm the mind. Taught in a supportive environment, this 45-minute class is ideal for beginners, but all levels are welcome. Yoga mats are provided.",
-            "image": "",
-            "start_date": "2025-04-22 17:10:00",
-            "end_date": "2025-04-22 17:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=e7c4fcb2-8ffe-4737-917b-afea46f13058&semesterId=d2a7e223-5b53-4ee9-ba2d-98dcb5430961",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.yoga",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
-            "id": 750676700,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Hatha Yoga",
-            "description": "This gentle class begins with a guided meditation, introduces yoga postures to stretch and strengthen the body, and teaches relaxation practices to reduce stress and calm the mind. Taught in a supportive environment, this 45-minute class is ideal for beginners, but all levels are welcome. Yoga mats are provided.",
-            "image": "",
-            "start_date": "2025-04-29 17:10:00",
-            "end_date": "2025-04-29 17:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=e7c4fcb2-8ffe-4737-917b-afea46f13058&semesterId=d2a7e223-5b53-4ee9-ba2d-98dcb5430961",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.yoga",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
-            "id": 816445716,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Lifesaving Sport",
-            "description": "Student-only drop-in program where you'll practice and perfect fun lifeguarding and lifesaving skills, build lasting friendships while discovering the exciting world of Lifesaving Sport. No prior lifesaving or lifeguarding experience required!Prerequisites: Swim 400 meters continuously without stopping Recover an object from the deepest part of the pool Perform scissor kick/eggbeater/whip kick for 25 meters",
-            "image": "",
-            "start_date": "2025-04-15 18:00:00",
-            "end_date": "2025-04-15 19:00:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=545ae897-57d8-4a88-8e24-c8e8c704ccae",
-            "sortCategory": "Swim",
-            "symbol": "lifepreserver",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
-            "id": 2470204540,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Lifesaving Sport",
-            "description": "Student-only drop-in program where you'll practice and perfect fun lifeguarding and lifesaving skills, build lasting friendships while discovering the exciting world of Lifesaving Sport. No prior lifesaving or lifeguarding experience required!Prerequisites: Swim 400 meters continuously without stopping Recover an object from the deepest part of the pool Perform scissor kick/eggbeater/whip kick for 25 meters",
-            "image": "",
-            "start_date": "2025-04-22 18:00:00",
-            "end_date": "2025-04-22 19:00:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=545ae897-57d8-4a88-8e24-c8e8c704ccae",
-            "sortCategory": "Swim",
-            "symbol": "lifepreserver",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
-            "id": 2674196393,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Kathak Bollywood Fusion",
-            "description": "Experience a vibrant fusion of cultural artistry and fitness with our Kathak Dance Fitness class! Perfect for all fitness levels, this dynamic session merges the grace and rhythm of Kathak\u2014an ancient Indian dance\u2014with a full-body workout.\u00a0Master intricate footwork, spins, and hand gestures while boosting cardiovascular endurance, strength, and flexibility. Whether you're a dance lover or new to fitness, this class offers a fun, engaging way to stay active and connect with your peers.",
-            "image": "",
-            "start_date": "2025-04-15 18:10:00",
-            "end_date": "2025-04-15 18:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=bbeb761b-e021-404c-9882-b51792170d2a",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
-            "id": 479922573,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Kathak Bollywood Fusion",
-            "description": "Experience a vibrant fusion of cultural artistry and fitness with our Kathak Dance Fitness class! Perfect for all fitness levels, this dynamic session merges the grace and rhythm of Kathak\u2014an ancient Indian dance\u2014with a full-body workout.\u00a0Master intricate footwork, spins, and hand gestures while boosting cardiovascular endurance, strength, and flexibility. Whether you're a dance lover or new to fitness, this class offers a fun, engaging way to stay active and connect with your peers.",
-            "image": "",
-            "start_date": "2025-04-22 18:10:00",
-            "end_date": "2025-04-22 18:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=bbeb761b-e021-404c-9882-b51792170d2a",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
-            "id": 4203628504,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Kathak Bollywood Fusion",
-            "description": "Experience a vibrant fusion of cultural artistry and fitness with our Kathak Dance Fitness class! Perfect for all fitness levels, this dynamic session merges the grace and rhythm of Kathak\u2014an ancient Indian dance\u2014with a full-body workout.\u00a0Master intricate footwork, spins, and hand gestures while boosting cardiovascular endurance, strength, and flexibility. Whether you're a dance lover or new to fitness, this class offers a fun, engaging way to stay active and connect with your peers.",
-            "image": "",
-            "start_date": "2025-04-29 18:10:00",
-            "end_date": "2025-04-29 18:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=bbeb761b-e021-404c-9882-b51792170d2a",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
             "id": 3910839176,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Intro to Coached Swim",
@@ -32039,6 +31684,54 @@
             "lgbt": false,
             "bipoc": false,
             "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 2423663919,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "RAWC W.O.D",
+            "description": "Are\u00a0you new to fitness and exercise? Worried about hurting yourself or using machines incorrectly? Want to get started but don\u2019t know how? Then join us for a RAWC Workout of the Day led by our certified personal trainers. Learn the proper technique and a variety of exercises to add to your own workouts. From dumbbells to barbells, no matter what your fitness goal is\u2026 we got you covered!\u00a0",
+            "image": "",
+            "start_date": "2025-04-16 11:10:00",
+            "end_date": "2025-04-16 11:55:00",
+            "venue": "Fitness Centre",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=bd21dcf1-5ad4-47a5-96e1-53e86350a33f&semesterId=bb4e0bba-b1e3-485c-8a94-769596e0e6bd",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo",
+                "th",
+                "tu",
+                "we"
+            ]
+        },
+        {
+            "id": 632005182,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "RAWC W.O.D",
+            "description": "Are\u00a0you new to fitness and exercise? Worried about hurting yourself or using machines incorrectly? Want to get started but don\u2019t know how? Then join us for a RAWC Workout of the Day led by our certified personal trainers. Learn the proper technique and a variety of exercises to add to your own workouts. From dumbbells to barbells, no matter what your fitness goal is\u2026 we got you covered!\u00a0",
+            "image": "",
+            "start_date": "2025-04-17 11:10:00",
+            "end_date": "2025-04-17 11:55:00",
+            "venue": "Fitness Centre",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=bd21dcf1-5ad4-47a5-96e1-53e86350a33f&semesterId=bb4e0bba-b1e3-485c-8a94-769596e0e6bd",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo",
+                "th",
+                "tu",
                 "we"
             ]
         },
@@ -32263,6 +31956,66 @@
             ]
         },
         {
+            "id": 2260497333,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Adaptive Fitness Swim",
+            "description": "Join us in the far right lanes for accessible options for those with physical limitations requiring use of our PAL lift. Participants who need assistance transferring or swimming must bring support with them.",
+            "image": "",
+            "start_date": "2025-04-17 07:00:00",
+            "end_date": "2025-04-17 08:50:00",
+            "venue": "Pool",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=824eeda8-692c-4b98-9df6-b4995faf98c8",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
+            "id": 3062158514,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Adaptive Fitness Swim ",
+            "description": "Join us in the far right lanes for accessible options for those with physical limitations requiring use of our PAL lift. Participants who need assistance transferring or swimming must bring support with them.",
+            "image": "",
+            "start_date": "2025-04-21 11:00:00",
+            "end_date": "2025-04-21 14:00:00",
+            "venue": "Pool",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=824eeda8-692c-4b98-9df6-b4995faf98c8",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
+            "id": 828917926,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Adaptive Fitness Swim",
+            "description": "Join us in the far right lanes for accessible options for those with physical limitations requiring use of our PAL lift. Participants who need assistance transferring or swimming must bring support with them.",
+            "image": "",
+            "start_date": "2025-04-22 16:00:00",
+            "end_date": "2025-04-22 20:00:00",
+            "venue": "Pool",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=824eeda8-692c-4b98-9df6-b4995faf98c8",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
             "id": 907161836,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Indoor Cycling",
@@ -32315,6 +32068,66 @@
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=1f8d209f-2492-4436-a249-ff2ab2ce3623&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
             "sortCategory": "Cycling",
             "symbol": "figure.indoor.cycle",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
+            "id": 3675438257,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Learn to Swim (Students Only)",
+            "description": "Learn to Swim is an introductory program designed to focus on water safety and building your confidence in an aquatic environment - all skill levels are welcome! Our aquatic instructors will meet you at your current swimming level and work with you to develop and enhance your skills. Whether you\u2019re conquering floats and glides or beginning to learn your strokes, come by, say hi, and let us help you meet your swimming goals!",
+            "image": "",
+            "start_date": "2025-04-17 11:00:00",
+            "end_date": "2025-04-17 11:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
+            "id": 132843207,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Learn to Swim (Students Only)",
+            "description": "Learn to Swim is an introductory program designed to focus on water safety and building your confidence in an aquatic environment - all skill levels are welcome! Our aquatic instructors will meet you at your current swimming level and work with you to develop and enhance your skills. Whether you\u2019re conquering floats and glides or beginning to learn your strokes, come by, say hi, and let us help you meet your swimming goals!",
+            "image": "",
+            "start_date": "2025-04-22 16:15:00",
+            "end_date": "2025-04-22 17:00:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 1450678338,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Learn to Swim (Students Only)",
+            "description": "Learn to Swim is an introductory program designed to focus on water safety and building your confidence in an aquatic environment - all skill levels are welcome! Our aquatic instructors will meet you at your current swimming level and work with you to develop and enhance your skills. Whether you\u2019re conquering floats and glides or beginning to learn your strokes, come by, say hi, and let us help you meet your swimming goals!",
+            "image": "",
+            "start_date": "2025-04-24 11:00:00",
+            "end_date": "2025-04-24 11:50:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -32603,6 +32416,111 @@
             ]
         },
         {
+            "id": 768058779,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Coached Swim",
+            "description": "The UTM Coached Swim is a program for individuals seeking a gym alternative for fitness, focusing on training for triathlons and competitive swimming. The program is designed to enhance competitive swimming abilities, stroke techniques and personal fitness. Team spirit is encouraged through the occasional organization of social events and regular participation.",
+            "image": "",
+            "start_date": "2025-04-17 20:15:00",
+            "end_date": "2025-04-17 21:45:00",
+            "venue": "Pool",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=054d1257-7afd-4d48-b651-51a0f5d90911",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th",
+                "tu"
+            ]
+        },
+        {
+            "id": 733565898,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Coached Swim",
+            "description": "The UTM Coached Swim is a program for individuals seeking a gym alternative for fitness, focusing on training for triathlons and competitive swimming. The program is designed to enhance competitive swimming abilities, stroke techniques and personal fitness. Team spirit is encouraged through the occasional organization of social events and regular participation.",
+            "image": "",
+            "start_date": "2025-04-22 20:15:00",
+            "end_date": "2025-04-22 21:45:00",
+            "venue": "Pool",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=054d1257-7afd-4d48-b651-51a0f5d90911",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th",
+                "tu"
+            ]
+        },
+        {
+            "id": 496566716,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Coached Swim",
+            "description": "The UTM Coached Swim is a program for individuals seeking a gym alternative for fitness, focusing on training for triathlons and competitive swimming. The program is designed to enhance competitive swimming abilities, stroke techniques and personal fitness. Team spirit is encouraged through the occasional organization of social events and regular participation.",
+            "image": "",
+            "start_date": "2025-04-24 20:15:00",
+            "end_date": "2025-04-24 21:45:00",
+            "venue": "Pool",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=054d1257-7afd-4d48-b651-51a0f5d90911",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th",
+                "tu"
+            ]
+        },
+        {
+            "id": 3741915459,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Stroke Development",
+            "description": "\nAre you looking to get some guidance on improving your strokes? This program will allow you to get feedback on your strokes and ideas to help make improvements. Staff will watch your strokes and provide drills to help you fine tune your strokes. Note: This is not a lesson.",
+            "image": "",
+            "start_date": "2025-04-20 12:00:00",
+            "end_date": "2025-04-20 13:00:00",
+            "venue": "Pool",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=e04706d3-7021-4301-9890-0c1e8e974fc8",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "su",
+                "tu"
+            ]
+        },
+        {
+            "id": 3927809599,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Stroke Development",
+            "description": "\nAre you looking to get some guidance on improving your strokes? This program will allow you to get feedback on your strokes and ideas to help make improvements. Staff will watch your strokes and provide drills to help you fine tune your strokes. Note: This is not a lesson.",
+            "image": "",
+            "start_date": "2025-04-22 12:00:00",
+            "end_date": "2025-04-22 13:00:00",
+            "venue": "Pool",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=e04706d3-7021-4301-9890-0c1e8e974fc8",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "su",
+                "tu"
+            ]
+        },
+        {
             "id": 2270490402,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fun Swim",
@@ -32856,6 +32774,146 @@
             "bipoc": false,
             "weeklyRepetitions": [
                 "mo"
+            ]
+        },
+        {
+            "id": 597132736,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Women's Only: Strength 101",
+            "description": "Have you hit a plateau or feel like you\u2019re not getting any stronger? Our expert trainers will guide you through the steps to achieve your strength goals with a dynamic and strength targeted workouts.\u00a0We will use a variety of exercises and state of the art equipment in our Strength and Conditioning Center.\u00a0\u00a0Challenge yourself in a supportive and motivating environment and achieve your fitness goals with our invigorating strength class.\u00a0\u00a0No matter your fitness level, this is a\u00a0perfect class to learn the proper technique,\u00a0fine tune your strength training program, or take it to the next level as an experienced lifter",
+            "image": "",
+            "start_date": "2025-04-22 16:10:00",
+            "end_date": "2025-04-22 16:55:00",
+            "venue": "Multipurpose B",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/program/GetProgramDetails?courseId=e13dee39-9237-45ac-a44a-d2d4cfbe8c38",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 4063220748,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Women's Only: Strength 101",
+            "description": "Have you hit a plateau or feel like you\u2019re not getting any stronger? Our expert trainers will guide you through the steps to achieve your strength goals with a dynamic and strength targeted workouts.\u00a0We will use a variety of exercises and state of the art equipment in our Strength and Conditioning Center.\u00a0\u00a0Challenge yourself in a supportive and motivating environment and achieve your fitness goals with our invigorating strength class.\u00a0\u00a0No matter your fitness level, this is a\u00a0perfect class to learn the proper technique,\u00a0fine tune your strength training program, or take it to the next level as an experienced lifter",
+            "image": "",
+            "start_date": "2025-04-29 16:10:00",
+            "end_date": "2025-04-29 16:55:00",
+            "venue": "Multipurpose B",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/program/GetProgramDetails?courseId=e13dee39-9237-45ac-a44a-d2d4cfbe8c38",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 541659644,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Hatha Yoga",
+            "description": "This gentle class begins with a guided meditation, introduces yoga postures to stretch and strengthen the body, and teaches relaxation practices to reduce stress and calm the mind. Taught in a supportive environment, this 45-minute class is ideal for beginners, but all levels are welcome. Yoga mats are provided.",
+            "image": "",
+            "start_date": "2025-04-22 17:10:00",
+            "end_date": "2025-04-22 17:55:00",
+            "venue": "Dance Studio",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=e7c4fcb2-8ffe-4737-917b-afea46f13058&semesterId=d2a7e223-5b53-4ee9-ba2d-98dcb5430961",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.yoga",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 750676700,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Hatha Yoga",
+            "description": "This gentle class begins with a guided meditation, introduces yoga postures to stretch and strengthen the body, and teaches relaxation practices to reduce stress and calm the mind. Taught in a supportive environment, this 45-minute class is ideal for beginners, but all levels are welcome. Yoga mats are provided.",
+            "image": "",
+            "start_date": "2025-04-29 17:10:00",
+            "end_date": "2025-04-29 17:55:00",
+            "venue": "Dance Studio",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=e7c4fcb2-8ffe-4737-917b-afea46f13058&semesterId=d2a7e223-5b53-4ee9-ba2d-98dcb5430961",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.yoga",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 2470204540,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Lifesaving Sport",
+            "description": "Student-only drop-in program where you'll practice and perfect fun lifeguarding and lifesaving skills, build lasting friendships while discovering the exciting world of Lifesaving Sport. No prior lifesaving or lifeguarding experience required!Prerequisites: Swim 400 meters continuously without stopping Recover an object from the deepest part of the pool Perform scissor kick/eggbeater/whip kick for 25 meters",
+            "image": "",
+            "start_date": "2025-04-22 18:00:00",
+            "end_date": "2025-04-22 19:00:00",
+            "venue": "Pool",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=545ae897-57d8-4a88-8e24-c8e8c704ccae",
+            "sortCategory": "Swim",
+            "symbol": "lifepreserver",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 479922573,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Kathak Bollywood Fusion",
+            "description": "Experience a vibrant fusion of cultural artistry and fitness with our Kathak Dance Fitness class! Perfect for all fitness levels, this dynamic session merges the grace and rhythm of Kathak\u2014an ancient Indian dance\u2014with a full-body workout.\u00a0Master intricate footwork, spins, and hand gestures while boosting cardiovascular endurance, strength, and flexibility. Whether you're a dance lover or new to fitness, this class offers a fun, engaging way to stay active and connect with your peers.",
+            "image": "",
+            "start_date": "2025-04-22 18:10:00",
+            "end_date": "2025-04-22 18:55:00",
+            "venue": "Dance Studio",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=bbeb761b-e021-404c-9882-b51792170d2a",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 4203628504,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Kathak Bollywood Fusion",
+            "description": "Experience a vibrant fusion of cultural artistry and fitness with our Kathak Dance Fitness class! Perfect for all fitness levels, this dynamic session merges the grace and rhythm of Kathak\u2014an ancient Indian dance\u2014with a full-body workout.\u00a0Master intricate footwork, spins, and hand gestures while boosting cardiovascular endurance, strength, and flexibility. Whether you're a dance lover or new to fitness, this class offers a fun, engaging way to stay active and connect with your peers.",
+            "image": "",
+            "start_date": "2025-04-29 18:10:00",
+            "end_date": "2025-04-29 18:55:00",
+            "venue": "Dance Studio",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=bbeb761b-e021-404c-9882-b51792170d2a",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
             ]
         },
         {
