@@ -31029,14 +31029,14 @@
             ]
         },
         {
-            "id": 1940680045,
+            "id": 95219708,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women on Weights",
             "description": "",
             "image": "",
             "start_date": "2025-04-29 13:10:00",
             "end_date": "2025-04-29 13:55:00",
-            "venue": "Dance Studio",
+            "venue": "Multipurpose A",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b05d2432-ae3d-4aae-8ccb-87540c252ef9",
             "sortCategory": "Workout",
@@ -31044,10 +31044,7 @@
             "womens": true,
             "lgbt": false,
             "bipoc": false,
-            "weeklyRepetitions": [
-                "th",
-                "tu"
-            ]
+            "weeklyRepetitions": []
         },
         {
             "id": 4063220748,
@@ -31315,7 +31312,7 @@
             ]
         },
         {
-            "id": 3339580347,
+            "id": 3895870548,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women on Weights",
             "description": "",
@@ -31565,397 +31562,6 @@
     ],
     "featured": [
         {
-            "id": 3910839176,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Intro to Coached Swim",
-            "description": "The UTM Intro to Coached Swim program is for individuals seeking a gym alternative for fitness, those training for triathlons, and competitive swimming training who might have limited coached environment experience. The program is designed to enhance competitive swimming abilities, stroke techniques, and personal fitness. This program will introduce the structure of a coached swim and provide a challenging workout for those new to the coached environment. Participants must be able to swim a minimum of 25m and be comfortable in deep water.The program is being introduced to all RAWC Members as part of their membership.",
-            "image": "",
-            "start_date": "2025-04-16 07:15:00",
-            "end_date": "2025-04-16 08:15:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=054d1257-7afd-4d48-b651-51a0f5d90911",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "mo",
-                "we"
-            ]
-        },
-        {
-            "id": 2218243633,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Intro to Coached Swim",
-            "description": "The UTM Intro to Coached Swim program is for individuals seeking a gym alternative for fitness, those training for triathlons, and competitive swimming training who might have limited coached environment experience. The program is designed to enhance competitive swimming abilities, stroke techniques, and personal fitness. This program will introduce the structure of a coached swim and provide a challenging workout for those new to the coached environment. Participants must be able to swim a minimum of 25m and be comfortable in deep water.The program is being introduced to all RAWC Members as part of their membership.",
-            "image": "",
-            "start_date": "2025-04-21 07:15:00",
-            "end_date": "2025-04-21 08:15:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=054d1257-7afd-4d48-b651-51a0f5d90911",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "mo",
-                "we"
-            ]
-        },
-        {
-            "id": 413153797,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Intro to Coached Swim",
-            "description": "The UTM Intro to Coached Swim program is for individuals seeking a gym alternative for fitness, those training for triathlons, and competitive swimming training who might have limited coached environment experience. The program is designed to enhance competitive swimming abilities, stroke techniques, and personal fitness. This program will introduce the structure of a coached swim and provide a challenging workout for those new to the coached environment. Participants must be able to swim a minimum of 25m and be comfortable in deep water.The program is being introduced to all RAWC Members as part of their membership.",
-            "image": "",
-            "start_date": "2025-04-23 07:15:00",
-            "end_date": "2025-04-23 08:15:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=054d1257-7afd-4d48-b651-51a0f5d90911",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "mo",
-                "we"
-            ]
-        },
-        {
-            "id": 1382729084,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Flow Yoga",
-            "description": "Energize your day with our Flow Yoga class. Move seamlessly through poses synchronizing the breath to movement while elevating your heart rate for this total body mindful workout.",
-            "image": "",
-            "start_date": "2025-04-16 07:45:00",
-            "end_date": "2025-04-16 08:15:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=64cbe11d-09c4-48a0-876b-31734b0b40ec&semesterId=89c3c776-830f-415a-b4eb-d1482c172792",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.yoga",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
-            "id": 2462008208,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Flow Yoga",
-            "description": "Energize your day with our Flow Yoga class. Move seamlessly through poses synchronizing the breath to movement while elevating your heart rate for this total body mindful workout.",
-            "image": "",
-            "start_date": "2025-04-23 07:45:00",
-            "end_date": "2025-04-23 08:15:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=64cbe11d-09c4-48a0-876b-31734b0b40ec&semesterId=89c3c776-830f-415a-b4eb-d1482c172792",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.yoga",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
-            "id": 254015880,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Flow Yoga",
-            "description": "Energize your day with our Flow Yoga class. Move seamlessly through poses synchronizing the breath to movement while elevating your heart rate for this total body mindful workout.",
-            "image": "",
-            "start_date": "2025-04-30 07:45:00",
-            "end_date": "2025-04-30 08:15:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=64cbe11d-09c4-48a0-876b-31734b0b40ec&semesterId=89c3c776-830f-415a-b4eb-d1482c172792",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.yoga",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
-            "id": 2423663919,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "RAWC W.O.D",
-            "description": "Are\u00a0you new to fitness and exercise? Worried about hurting yourself or using machines incorrectly? Want to get started but don\u2019t know how? Then join us for a RAWC Workout of the Day led by our certified personal trainers. Learn the proper technique and a variety of exercises to add to your own workouts. From dumbbells to barbells, no matter what your fitness goal is\u2026 we got you covered!\u00a0",
-            "image": "",
-            "start_date": "2025-04-16 11:10:00",
-            "end_date": "2025-04-16 11:55:00",
-            "venue": "Fitness Centre",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=bd21dcf1-5ad4-47a5-96e1-53e86350a33f&semesterId=bb4e0bba-b1e3-485c-8a94-769596e0e6bd",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo",
-                "th",
-                "tu",
-                "we"
-            ]
-        },
-        {
-            "id": 632005182,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "RAWC W.O.D",
-            "description": "Are\u00a0you new to fitness and exercise? Worried about hurting yourself or using machines incorrectly? Want to get started but don\u2019t know how? Then join us for a RAWC Workout of the Day led by our certified personal trainers. Learn the proper technique and a variety of exercises to add to your own workouts. From dumbbells to barbells, no matter what your fitness goal is\u2026 we got you covered!\u00a0",
-            "image": "",
-            "start_date": "2025-04-17 11:10:00",
-            "end_date": "2025-04-17 11:55:00",
-            "venue": "Fitness Centre",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=bd21dcf1-5ad4-47a5-96e1-53e86350a33f&semesterId=bb4e0bba-b1e3-485c-8a94-769596e0e6bd",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo",
-                "th",
-                "tu",
-                "we"
-            ]
-        },
-        {
-            "id": 2175206327,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Indigenous Learn to Swim",
-            "description": "Indigenous Learn to Swim is an introductory program for Indigenous identified students designed to focus on water safety and building your confidence in an aquatic environment - all skill levels are welcome! Our aquatic instructors will meet you at your current swimming level and work with you to develop and enhance your skills. Whether you\u2019re conquering floats and glides or beginning to learn your strokes, come by, say hi, and let us help you meet your swimming goals!",
-            "image": "",
-            "start_date": "2025-04-16 12:00:00",
-            "end_date": "2025-04-16 12:50:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=f3149e07-f12c-4216-9cf2-2880afad2021",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": true,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
-            "id": 4265287153,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Indigenous Learn to Swim",
-            "description": "Indigenous Learn to Swim is an introductory program for Indigenous identified students designed to focus on water safety and building your confidence in an aquatic environment - all skill levels are welcome! Our aquatic instructors will meet you at your current swimming level and work with you to develop and enhance your skills. Whether you\u2019re conquering floats and glides or beginning to learn your strokes, come by, say hi, and let us help you meet your swimming goals!",
-            "image": "",
-            "start_date": "2025-04-23 12:00:00",
-            "end_date": "2025-04-23 12:50:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=f3149e07-f12c-4216-9cf2-2880afad2021",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": true,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
-            "id": 1297725987,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Glutes, Core & More",
-            "description": "\u00a0A Pilates-inspired fitness class that offers the benefits of Pilates training with an emphasis on the powerhouse muscles including the glutes and hips, abdominals, low back muscles and deep pelvic floor muscles.\u00a0 Join us and get the strength back in your glutes and core!",
-            "image": "",
-            "start_date": "2025-04-16 12:10:00",
-            "end_date": "2025-04-16 12:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=89c2fdbf-7626-4fcd-8bcf-31fe93f3893f&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.core.training",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
-            "id": 3377564456,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Glutes, Core & More",
-            "description": "\u00a0A Pilates-inspired fitness class that offers the benefits of Pilates training with an emphasis on the powerhouse muscles including the glutes and hips, abdominals, low back muscles and deep pelvic floor muscles.\u00a0 Join us and get the strength back in your glutes and core!",
-            "image": "",
-            "start_date": "2025-04-23 12:10:00",
-            "end_date": "2025-04-23 12:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=89c2fdbf-7626-4fcd-8bcf-31fe93f3893f&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.core.training",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
-            "id": 525688004,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Glutes, Core & More",
-            "description": "\u00a0A Pilates-inspired fitness class that offers the benefits of Pilates training with an emphasis on the powerhouse muscles including the glutes and hips, abdominals, low back muscles and deep pelvic floor muscles.\u00a0 Join us and get the strength back in your glutes and core!",
-            "image": "",
-            "start_date": "2025-04-30 12:10:00",
-            "end_date": "2025-04-30 12:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=89c2fdbf-7626-4fcd-8bcf-31fe93f3893f&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.core.training",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
-            "id": 1457066339,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Pilates",
-            "description": "Achieve a balanced and toned body with the ultimate core fitness workout!\u00a0 Incorporate Pilate\u2019s postures with traditional core exercises to help improve posture, strength, and range of motion.\u00a0 Rejuvenate your workout with a focus on your breathing and find those deep core muscles in the abdomen and that surround the spine.\u00a0 All fitness levels welcome.",
-            "image": "",
-            "start_date": "2025-04-16 17:10:00",
-            "end_date": "2025-04-16 17:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=03dbd7b9-e1e5-4221-bf11-dd4396b82c81&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.pilates",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
-            "id": 3633133145,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Pilates",
-            "description": "Achieve a balanced and toned body with the ultimate core fitness workout!\u00a0 Incorporate Pilate\u2019s postures with traditional core exercises to help improve posture, strength, and range of motion.\u00a0 Rejuvenate your workout with a focus on your breathing and find those deep core muscles in the abdomen and that surround the spine.\u00a0 All fitness levels welcome.",
-            "image": "",
-            "start_date": "2025-04-23 17:10:00",
-            "end_date": "2025-04-23 17:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=03dbd7b9-e1e5-4221-bf11-dd4396b82c81&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.pilates",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
-            "id": 2418045356,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Pilates",
-            "description": "Achieve a balanced and toned body with the ultimate core fitness workout!\u00a0 Incorporate Pilate\u2019s postures with traditional core exercises to help improve posture, strength, and range of motion.\u00a0 Rejuvenate your workout with a focus on your breathing and find those deep core muscles in the abdomen and that surround the spine.\u00a0 All fitness levels welcome.",
-            "image": "",
-            "start_date": "2025-04-30 17:10:00",
-            "end_date": "2025-04-30 17:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=03dbd7b9-e1e5-4221-bf11-dd4396b82c81&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.pilates",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
-            "id": 1963083191,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Beginner Boxing",
-            "description": "Learn how to pack a punch in this technical workshop designed to teach beginners the basics of boxing. This session provides instructions on boxing stance, footwork, and fundamental mechanics of the jab and cross. Join this fun session to stay in shape and build your confidence!\u00a0*Hand wraps, gloves and non-slip shoes are recommended!",
-            "image": "",
-            "start_date": "2025-04-16 18:10:00",
-            "end_date": "2025-04-16 18:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=605fabea-b518-4f2f-a3ec-cb51acefda80&semesterId=89c3c776-830f-415a-b4eb-d1482c172792",
-            "sortCategory": "Combat",
-            "symbol": "figure.boxing",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
-            "id": 578094155,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Beginner Boxing",
-            "description": "Learn how to pack a punch in this technical workshop designed to teach beginners the basics of boxing. This session provides instructions on boxing stance, footwork, and fundamental mechanics of the jab and cross. Join this fun session to stay in shape and build your confidence!\u00a0*Hand wraps, gloves and non-slip shoes are recommended!",
-            "image": "",
-            "start_date": "2025-04-23 18:10:00",
-            "end_date": "2025-04-23 18:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=605fabea-b518-4f2f-a3ec-cb51acefda80&semesterId=89c3c776-830f-415a-b4eb-d1482c172792",
-            "sortCategory": "Combat",
-            "symbol": "figure.boxing",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
-            "id": 876061162,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Beginner Boxing",
-            "description": "Learn how to pack a punch in this technical workshop designed to teach beginners the basics of boxing. This session provides instructions on boxing stance, footwork, and fundamental mechanics of the jab and cross. Join this fun session to stay in shape and build your confidence!\u00a0*Hand wraps, gloves and non-slip shoes are recommended!",
-            "image": "",
-            "start_date": "2025-04-30 18:10:00",
-            "end_date": "2025-04-30 18:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=605fabea-b518-4f2f-a3ec-cb51acefda80&semesterId=89c3c776-830f-415a-b4eb-d1482c172792",
-            "sortCategory": "Combat",
-            "symbol": "figure.boxing",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 2260497333,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Adaptive Fitness Swim",
@@ -32136,6 +31742,30 @@
             ]
         },
         {
+            "id": 632005182,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "RAWC W.O.D",
+            "description": "Are\u00a0you new to fitness and exercise? Worried about hurting yourself or using machines incorrectly? Want to get started but don\u2019t know how? Then join us for a RAWC Workout of the Day led by our certified personal trainers. Learn the proper technique and a variety of exercises to add to your own workouts. From dumbbells to barbells, no matter what your fitness goal is\u2026 we got you covered!\u00a0",
+            "image": "",
+            "start_date": "2025-04-17 11:10:00",
+            "end_date": "2025-04-17 11:55:00",
+            "venue": "Fitness Centre",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=bd21dcf1-5ad4-47a5-96e1-53e86350a33f&semesterId=bb4e0bba-b1e3-485c-8a94-769596e0e6bd",
+            "sortCategory": "Workout",
+            "symbol": "figure.run",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo",
+                "th",
+                "tu",
+                "we"
+            ]
+        },
+        {
             "id": 1826091700,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Adaptive Hatha Yoga ",
@@ -32289,6 +31919,66 @@
             "sortCategory": "Workout",
             "symbol": "figure.run",
             "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
+            "id": 1807997521,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Registered Lessons",
+            "description": "We are proud to offer swimming lessons at UTM for all levels and a variety of age groups. Please see our website for full details and information. ",
+            "image": "",
+            "start_date": "2025-04-17 17:00:00",
+            "end_date": "2025-04-17 20:00:00",
+            "venue": "Pool",
+            "ticket_label": "Learn more",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/aquatics/swimming-lessons",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
+            "id": 1239267568,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Registered Lessons",
+            "description": "We are proud to offer swimming lessons at UTM for all levels and a variety of age groups. Please see our website for full details and information. ",
+            "image": "",
+            "start_date": "2025-04-23 16:00:00",
+            "end_date": "2025-04-23 16:00:00",
+            "venue": "Pool",
+            "ticket_label": "Learn more",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/aquatics/swimming-lessons",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 3772708183,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Registered Lessons",
+            "description": "We are proud to offer swimming lessons at UTM for all levels and a variety of age groups. Please see our website for full details and information. ",
+            "image": "",
+            "start_date": "2025-04-24 17:00:00",
+            "end_date": "2025-04-24 20:00:00",
+            "venue": "Pool",
+            "ticket_label": "Learn more",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/aquatics/swimming-lessons",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "womens": false,
             "lgbt": false,
             "bipoc": false,
             "weeklyRepetitions": [
@@ -32538,6 +32228,48 @@
             "bipoc": false,
             "weeklyRepetitions": [
                 "su"
+            ]
+        },
+        {
+            "id": 2218243633,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Intro to Coached Swim",
+            "description": "The UTM Intro to Coached Swim program is for individuals seeking a gym alternative for fitness, those training for triathlons, and competitive swimming training who might have limited coached environment experience. The program is designed to enhance competitive swimming abilities, stroke techniques, and personal fitness. This program will introduce the structure of a coached swim and provide a challenging workout for those new to the coached environment. Participants must be able to swim a minimum of 25m and be comfortable in deep water.The program is being introduced to all RAWC Members as part of their membership.",
+            "image": "",
+            "start_date": "2025-04-21 07:15:00",
+            "end_date": "2025-04-21 08:15:00",
+            "venue": "Pool",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=054d1257-7afd-4d48-b651-51a0f5d90911",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "mo",
+                "we"
+            ]
+        },
+        {
+            "id": 413153797,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Intro to Coached Swim",
+            "description": "The UTM Intro to Coached Swim program is for individuals seeking a gym alternative for fitness, those training for triathlons, and competitive swimming training who might have limited coached environment experience. The program is designed to enhance competitive swimming abilities, stroke techniques, and personal fitness. This program will introduce the structure of a coached swim and provide a challenging workout for those new to the coached environment. Participants must be able to swim a minimum of 25m and be comfortable in deep water.The program is being introduced to all RAWC Members as part of their membership.",
+            "image": "",
+            "start_date": "2025-04-23 07:15:00",
+            "end_date": "2025-04-23 08:15:00",
+            "venue": "Pool",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=054d1257-7afd-4d48-b651-51a0f5d90911",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "mo",
+                "we"
             ]
         },
         {
@@ -32933,6 +32665,186 @@
             "lgbt": false,
             "bipoc": false,
             "weeklyRepetitions": []
+        },
+        {
+            "id": 2462008208,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Flow Yoga",
+            "description": "Energize your day with our Flow Yoga class. Move seamlessly through poses synchronizing the breath to movement while elevating your heart rate for this total body mindful workout.",
+            "image": "",
+            "start_date": "2025-04-23 07:45:00",
+            "end_date": "2025-04-23 08:15:00",
+            "venue": "Dance Studio",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=64cbe11d-09c4-48a0-876b-31734b0b40ec&semesterId=89c3c776-830f-415a-b4eb-d1482c172792",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.yoga",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 254015880,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Flow Yoga",
+            "description": "Energize your day with our Flow Yoga class. Move seamlessly through poses synchronizing the breath to movement while elevating your heart rate for this total body mindful workout.",
+            "image": "",
+            "start_date": "2025-04-30 07:45:00",
+            "end_date": "2025-04-30 08:15:00",
+            "venue": "Dance Studio",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=64cbe11d-09c4-48a0-876b-31734b0b40ec&semesterId=89c3c776-830f-415a-b4eb-d1482c172792",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.yoga",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 4265287153,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Indigenous Learn to Swim",
+            "description": "Indigenous Learn to Swim is an introductory program for Indigenous identified students designed to focus on water safety and building your confidence in an aquatic environment - all skill levels are welcome! Our aquatic instructors will meet you at your current swimming level and work with you to develop and enhance your skills. Whether you\u2019re conquering floats and glides or beginning to learn your strokes, come by, say hi, and let us help you meet your swimming goals!",
+            "image": "",
+            "start_date": "2025-04-23 12:00:00",
+            "end_date": "2025-04-23 12:50:00",
+            "venue": "Pool",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=f3149e07-f12c-4216-9cf2-2880afad2021",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": true,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 3377564456,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Glutes, Core & More",
+            "description": "\u00a0A Pilates-inspired fitness class that offers the benefits of Pilates training with an emphasis on the powerhouse muscles including the glutes and hips, abdominals, low back muscles and deep pelvic floor muscles.\u00a0 Join us and get the strength back in your glutes and core!",
+            "image": "",
+            "start_date": "2025-04-23 12:10:00",
+            "end_date": "2025-04-23 12:55:00",
+            "venue": "Dance Studio",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=89c2fdbf-7626-4fcd-8bcf-31fe93f3893f&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.core.training",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 525688004,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Glutes, Core & More",
+            "description": "\u00a0A Pilates-inspired fitness class that offers the benefits of Pilates training with an emphasis on the powerhouse muscles including the glutes and hips, abdominals, low back muscles and deep pelvic floor muscles.\u00a0 Join us and get the strength back in your glutes and core!",
+            "image": "",
+            "start_date": "2025-04-30 12:10:00",
+            "end_date": "2025-04-30 12:55:00",
+            "venue": "Dance Studio",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=89c2fdbf-7626-4fcd-8bcf-31fe93f3893f&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.core.training",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 3633133145,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Pilates",
+            "description": "Achieve a balanced and toned body with the ultimate core fitness workout!\u00a0 Incorporate Pilate\u2019s postures with traditional core exercises to help improve posture, strength, and range of motion.\u00a0 Rejuvenate your workout with a focus on your breathing and find those deep core muscles in the abdomen and that surround the spine.\u00a0 All fitness levels welcome.",
+            "image": "",
+            "start_date": "2025-04-23 17:10:00",
+            "end_date": "2025-04-23 17:55:00",
+            "venue": "Dance Studio",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=03dbd7b9-e1e5-4221-bf11-dd4396b82c81&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.pilates",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 2418045356,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Pilates",
+            "description": "Achieve a balanced and toned body with the ultimate core fitness workout!\u00a0 Incorporate Pilate\u2019s postures with traditional core exercises to help improve posture, strength, and range of motion.\u00a0 Rejuvenate your workout with a focus on your breathing and find those deep core muscles in the abdomen and that surround the spine.\u00a0 All fitness levels welcome.",
+            "image": "",
+            "start_date": "2025-04-30 17:10:00",
+            "end_date": "2025-04-30 17:55:00",
+            "venue": "Dance Studio",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=03dbd7b9-e1e5-4221-bf11-dd4396b82c81&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.pilates",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 578094155,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Beginner Boxing",
+            "description": "Learn how to pack a punch in this technical workshop designed to teach beginners the basics of boxing. This session provides instructions on boxing stance, footwork, and fundamental mechanics of the jab and cross. Join this fun session to stay in shape and build your confidence!\u00a0*Hand wraps, gloves and non-slip shoes are recommended!",
+            "image": "",
+            "start_date": "2025-04-23 18:10:00",
+            "end_date": "2025-04-23 18:55:00",
+            "venue": "Dance Studio",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=605fabea-b518-4f2f-a3ec-cb51acefda80&semesterId=89c3c776-830f-415a-b4eb-d1482c172792",
+            "sortCategory": "Combat",
+            "symbol": "figure.boxing",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 876061162,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Beginner Boxing",
+            "description": "Learn how to pack a punch in this technical workshop designed to teach beginners the basics of boxing. This session provides instructions on boxing stance, footwork, and fundamental mechanics of the jab and cross. Join this fun session to stay in shape and build your confidence!\u00a0*Hand wraps, gloves and non-slip shoes are recommended!",
+            "image": "",
+            "start_date": "2025-04-30 18:10:00",
+            "end_date": "2025-04-30 18:55:00",
+            "venue": "Dance Studio",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=605fabea-b518-4f2f-a3ec-cb51acefda80&semesterId=89c3c776-830f-415a-b4eb-d1482c172792",
+            "sortCategory": "Combat",
+            "symbol": "figure.boxing",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
         },
         {
             "id": 2190298247,
