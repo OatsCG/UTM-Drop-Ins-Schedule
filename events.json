@@ -32844,5 +32844,12 @@
             "weeklyRepetitions": []
         }
     ],
-    "announcements": []
+    "announcements": [
+        {
+            "id": 655351368,
+            "title": "RAWC Closed: Good Friday Holiday",
+            "body": "The RAWC will be closed on Friday, April 18th for Good Friday and will re-open on Saturday, April 19th\u00a0for [regular operating hours](https://www.utm.utoronto.ca/athletics/about-us/hours-operation \"Hours of Operation\") for the remainder of the weekend.",
+            "type": 1
+        }
+    ]
 }
