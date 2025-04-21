@@ -31628,68 +31628,6 @@
     ],
     "featured": [
         {
-            "id": 3741915459,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Stroke Development",
-            "description": "\nAre you looking to get some guidance on improving your strokes? This program will allow you to get feedback on your strokes and ideas to help make improvements. Staff will watch your strokes and provide drills to help you fine tune your strokes. Note: This is not a lesson.",
-            "image": "",
-            "start_date": "2025-04-20 12:00:00",
-            "end_date": "2025-04-20 13:00:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=e04706d3-7021-4301-9890-0c1e8e974fc8",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "su",
-                "tu"
-            ]
-        },
-        {
-            "id": 3927809599,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Stroke Development",
-            "description": "\nAre you looking to get some guidance on improving your strokes? This program will allow you to get feedback on your strokes and ideas to help make improvements. Staff will watch your strokes and provide drills to help you fine tune your strokes. Note: This is not a lesson.",
-            "image": "",
-            "start_date": "2025-04-22 12:00:00",
-            "end_date": "2025-04-22 13:00:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=e04706d3-7021-4301-9890-0c1e8e974fc8",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "su",
-                "tu"
-            ]
-        },
-        {
-            "id": 2270490402,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Fun Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2025-04-20 13:30:00",
-            "end_date": "2025-04-20 16:30:00",
-            "venue": "Pool",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b3c1fd9b-343f-4114-a627-c861f963c685",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
             "id": 2218243633,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Intro to Coached Swim",
@@ -32005,6 +31943,27 @@
             "bipoc": false,
             "weeklyRepetitions": [
                 "mo"
+            ]
+        },
+        {
+            "id": 3927809599,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Stroke Development",
+            "description": "\nAre you looking to get some guidance on improving your strokes? This program will allow you to get feedback on your strokes and ideas to help make improvements. Staff will watch your strokes and provide drills to help you fine tune your strokes. Note: This is not a lesson.",
+            "image": "",
+            "start_date": "2025-04-22 12:00:00",
+            "end_date": "2025-04-22 13:00:00",
+            "venue": "Pool",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=e04706d3-7021-4301-9890-0c1e8e974fc8",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "su",
+                "tu"
             ]
         },
         {
