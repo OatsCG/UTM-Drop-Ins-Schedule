@@ -5705,7 +5705,7 @@
             "sortCategory": "Basketball",
             "symbol": "basketball",
             "womens": false,
-            "lgbt": false,
+            "lgbt": true,
             "bipoc": false,
             "weeklyRepetitions": [
                 "we"
@@ -6171,7 +6171,7 @@
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
             "womens": false,
-            "lgbt": false,
+            "lgbt": true,
             "bipoc": false,
             "weeklyRepetitions": [
                 "fr"
@@ -7437,7 +7437,7 @@
             "sortCategory": "Basketball",
             "symbol": "basketball",
             "womens": false,
-            "lgbt": false,
+            "lgbt": true,
             "bipoc": false,
             "weeklyRepetitions": [
                 "we"
@@ -7901,7 +7901,7 @@
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
             "womens": false,
-            "lgbt": false,
+            "lgbt": true,
             "bipoc": false,
             "weeklyRepetitions": [
                 "fr"
@@ -7921,7 +7921,7 @@
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
             "womens": false,
-            "lgbt": false,
+            "lgbt": true,
             "bipoc": false,
             "weeklyRepetitions": []
         },
@@ -9213,7 +9213,7 @@
             "sortCategory": "Basketball",
             "symbol": "basketball",
             "womens": false,
-            "lgbt": false,
+            "lgbt": true,
             "bipoc": false,
             "weeklyRepetitions": [
                 "we"
@@ -9516,7 +9516,7 @@
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
             "womens": false,
-            "lgbt": false,
+            "lgbt": true,
             "bipoc": false,
             "weeklyRepetitions": [
                 "fr"
@@ -10371,7 +10371,7 @@
             "sortCategory": "Basketball",
             "symbol": "basketball",
             "womens": false,
-            "lgbt": false,
+            "lgbt": true,
             "bipoc": false,
             "weeklyRepetitions": [
                 "we"
@@ -11179,7 +11179,7 @@
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
             "womens": false,
-            "lgbt": false,
+            "lgbt": true,
             "bipoc": false,
             "weeklyRepetitions": [
                 "fr"
@@ -12459,7 +12459,7 @@
             "sortCategory": "Basketball",
             "symbol": "basketball",
             "womens": false,
-            "lgbt": false,
+            "lgbt": true,
             "bipoc": false,
             "weeklyRepetitions": [
                 "we"
@@ -13255,7 +13255,7 @@
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
             "womens": false,
-            "lgbt": false,
+            "lgbt": true,
             "bipoc": false,
             "weeklyRepetitions": [
                 "fr"
@@ -14848,7 +14848,7 @@
             "sortCategory": "Basketball",
             "symbol": "basketball",
             "womens": false,
-            "lgbt": false,
+            "lgbt": true,
             "bipoc": false,
             "weeklyRepetitions": [
                 "we"
@@ -15741,7 +15741,7 @@
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
             "womens": false,
-            "lgbt": false,
+            "lgbt": true,
             "bipoc": false,
             "weeklyRepetitions": [
                 "fr"
@@ -17374,7 +17374,7 @@
             "sortCategory": "Basketball",
             "symbol": "basketball",
             "womens": false,
-            "lgbt": false,
+            "lgbt": true,
             "bipoc": false,
             "weeklyRepetitions": [
                 "we"
@@ -18325,7 +18325,7 @@
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
             "womens": false,
-            "lgbt": false,
+            "lgbt": true,
             "bipoc": false,
             "weeklyRepetitions": [
                 "fr"
@@ -20004,7 +20004,7 @@
             "sortCategory": "Basketball",
             "symbol": "basketball",
             "womens": false,
-            "lgbt": false,
+            "lgbt": true,
             "bipoc": false,
             "weeklyRepetitions": [
                 "we"
@@ -21002,7 +21002,7 @@
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
             "womens": false,
-            "lgbt": false,
+            "lgbt": true,
             "bipoc": false,
             "weeklyRepetitions": [
                 "fr"
@@ -22794,7 +22794,7 @@
             "sortCategory": "Basketball",
             "symbol": "basketball",
             "womens": false,
-            "lgbt": false,
+            "lgbt": true,
             "bipoc": false,
             "weeklyRepetitions": [
                 "we"
@@ -23850,7 +23850,7 @@
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
             "womens": false,
-            "lgbt": false,
+            "lgbt": true,
             "bipoc": false,
             "weeklyRepetitions": [
                 "fr"
@@ -26855,7 +26855,7 @@
             "sortCategory": "Volleyball",
             "symbol": "volleyball",
             "womens": false,
-            "lgbt": false,
+            "lgbt": true,
             "bipoc": false,
             "weeklyRepetitions": [
                 "fr"
