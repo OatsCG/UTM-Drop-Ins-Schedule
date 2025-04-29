@@ -31628,152 +31628,6 @@
     ],
     "featured": [
         {
-            "id": 1012975317,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Yogilates",
-            "description": "Yogilates blends the movements and postures of yoga with the core-focused exercises of Pilates, incorporating strength, flexibility, and relaxation techniques into one 45-minute class. All fitness levels welcome.\u00a0",
-            "image": "",
-            "start_date": "2025-04-28 12:10:00",
-            "end_date": "2025-04-28 12:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=39a642fb-d656-4836-9bed-30aa2b4a5d35&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.yoga",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
-            "id": 2963183170,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only: Cardio HIIT",
-            "description": "A 45-minute-high intensity interval training class for all fitness levels. Use a variety of cardiovascular and resistance training equipment such as Ski Ergs, Rowers, Curve Treadmills, weights and more to build cardiovascular and muscular endurance.\u00a0",
-            "image": "",
-            "start_date": "2025-04-28 13:10:00",
-            "end_date": "2025-04-28 13:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=07342ccc-7c88-4522-b99b-b29a44f8c624&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Cardio",
-            "symbol": "heart",
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo",
-                "we"
-            ]
-        },
-        {
-            "id": 3806815839,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only: Cardio HIIT",
-            "description": "A 45-minute-high intensity interval training class for all fitness levels. Use a variety of cardiovascular and resistance training equipment such as Ski Ergs, Rowers, Curve Treadmills, weights and more to build cardiovascular and muscular endurance.\u00a0",
-            "image": "",
-            "start_date": "2025-04-30 13:10:00",
-            "end_date": "2025-04-30 13:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=07342ccc-7c88-4522-b99b-b29a44f8c624&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Cardio",
-            "symbol": "heart",
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo",
-                "we"
-            ]
-        },
-        {
-            "id": 4150227215,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only: Cardio HIIT",
-            "description": "A 45-minute-high intensity interval training class for all fitness levels. Use a variety of cardiovascular and resistance training equipment such as Ski Ergs, Rowers, Curve Treadmills, weights and more to build cardiovascular and muscular endurance.\u00a0",
-            "image": "",
-            "start_date": "2025-05-02 13:10:00",
-            "end_date": "2025-05-02 13:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=07342ccc-7c88-4522-b99b-b29a44f8c624&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Cardio",
-            "symbol": "heart",
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo",
-                "we"
-            ]
-        },
-        {
-            "id": 186759213,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Meditation & Movement",
-            "description": "Join us for a guided meditation paired with a physical practice to help us move our bodies into wellness including stretching, yoga, Pilates, and walking.Mindfulness is about being present and in the moment. No prior experience with mindfulness or meditation is required -- everyone is welcome, students, staff, and faculty! Offered on a weekly basis from 12:10-12:40pm at the Dance Studio.",
-            "image": "",
-            "start_date": "2025-04-28 13:30:00",
-            "end_date": "2025-04-28 14:00:00",
-            "venue": "The Hub | DV 2207",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/program/GetProgramDetails?courseId=fd3c4eeb-717f-4f67-8962-573241ed316e",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.mind.and.body",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
-            "id": 915763453,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "H2O Bootcamp",
-            "description": "40-minute fun and challenging low intensity fitness class designed for the pool using the resistance of the water. \u00a0Get your strength and interval training with our aqua belts, weight and noodles. Challenge yourself and get ready for a top to bottom workout!! All fitness levels welcome.",
-            "image": "",
-            "start_date": "2025-04-28 17:00:00",
-            "end_date": "2025-04-28 17:45:00",
-            "venue": "Pool",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=80e9c254-d7b3-417e-80f4-d2865963d171",
-            "sortCategory": "Swim",
-            "symbol": "figure.water.fitness",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
-            "id": 3453566967,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Rainbow Rhythm",
-            "description": "Rainbow Rhythm\u00a0is a lively aerobics class that centers around the 2SLGBTQ+\u00a0community! This vibrant program combines high-energy movement with an inclusive atmosphere that welcomes individuals of all fitness levels. Participants are encouraged to express themselves through dance and movement in a supportive environment that fosters self-acceptance and joy. Rainbow Rythm\u00a0is not just about getting fit; it\u2019s about feeling your best self and connecting with others who share a commitment to a healthy lifestyle.",
-            "image": "",
-            "start_date": "2025-04-28 19:10:00",
-            "end_date": "2025-04-28 19:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=7c97d530-7ad0-4dd9-a16d-443e0c7b55db",
-            "sortCategory": "Cardio",
-            "symbol": "heart",
-            "womens": false,
-            "lgbt": true,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
             "id": 1962533984,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "UTM Runs: Couch to 5k - Mississauga Marathon",
@@ -31811,6 +31665,69 @@
             "bipoc": false,
             "weeklyRepetitions": [
                 "we"
+            ]
+        },
+        {
+            "id": 1038864702,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Cycle Core",
+            "description": "This class offers a fusion experience of traditional high intensity indoor cycling with implementation of core exercises to fire up your whole body! Get registered today to improve your cardiovascular and core endurance, and strength.",
+            "image": "",
+            "start_date": "2025-04-29 12:10:00",
+            "end_date": "2025-04-29 12:55:00",
+            "venue": "Fitness Studio",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=504148e9-182e-488d-96b1-71c5b569ea60",
+            "sortCategory": "Cycling",
+            "symbol": "figure.indoor.cycle",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "fr",
+                "tu"
+            ]
+        },
+        {
+            "id": 3285835885,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Cycle Core",
+            "description": "This class offers a fusion experience of traditional high intensity indoor cycling with implementation of core exercises to fire up your whole body! Get registered today to improve your cardiovascular and core endurance, and strength",
+            "image": "",
+            "start_date": "2025-04-30 19:10:00",
+            "end_date": "2025-04-30 19:55:00",
+            "venue": "Fitness Studio",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=504148e9-182e-488d-96b1-71c5b569ea60&semesterId=bb4e0bba-b1e3-485c-8a94-769596e0e6bd",
+            "sortCategory": "Cycling",
+            "symbol": "figure.indoor.cycle",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "mo",
+                "we"
+            ]
+        },
+        {
+            "id": 202909552,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Cycle Core",
+            "description": "This class offers a fusion experience of traditional high intensity indoor cycling with implementation of core exercises to fire up your whole body! Get registered today to improve your cardiovascular and core endurance, and strength.",
+            "image": "",
+            "start_date": "2025-05-02 12:10:00",
+            "end_date": "2025-05-02 12:55:00",
+            "venue": "Fitness Studio",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=504148e9-182e-488d-96b1-71c5b569ea60",
+            "sortCategory": "Cycling",
+            "symbol": "figure.indoor.cycle",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "fr",
+                "tu"
             ]
         },
         {
@@ -31910,6 +31827,50 @@
             "lgbt": false,
             "bipoc": false,
             "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 3806815839,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Women's Only: Cardio HIIT",
+            "description": "A 45-minute-high intensity interval training class for all fitness levels. Use a variety of cardiovascular and resistance training equipment such as Ski Ergs, Rowers, Curve Treadmills, weights and more to build cardiovascular and muscular endurance.\u00a0",
+            "image": "",
+            "start_date": "2025-04-30 13:10:00",
+            "end_date": "2025-04-30 13:55:00",
+            "venue": "Dance Studio",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=07342ccc-7c88-4522-b99b-b29a44f8c624&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
+            "sortCategory": "Cardio",
+            "symbol": "heart",
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo",
+                "we"
+            ]
+        },
+        {
+            "id": 4150227215,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Women's Only: Cardio HIIT",
+            "description": "A 45-minute-high intensity interval training class for all fitness levels. Use a variety of cardiovascular and resistance training equipment such as Ski Ergs, Rowers, Curve Treadmills, weights and more to build cardiovascular and muscular endurance.\u00a0",
+            "image": "",
+            "start_date": "2025-05-02 13:10:00",
+            "end_date": "2025-05-02 13:55:00",
+            "venue": "Dance Studio",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=07342ccc-7c88-4522-b99b-b29a44f8c624&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
+            "sortCategory": "Cardio",
+            "symbol": "heart",
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo",
                 "we"
             ]
         },
