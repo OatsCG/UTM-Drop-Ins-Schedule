@@ -31628,131 +31628,6 @@
     ],
     "featured": [
         {
-            "id": 1928607090,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Barre &  Pilates",
-            "description": "This class incorporates exercises from different workout styles\u2014including barre, yoga, strength training, cardio, and dance\u2014to give a modern twist to Mat Pilates. You can expect an effective full-body workout every class and to have fun while you're doing it.",
-            "image": "",
-            "start_date": "2025-05-02 07:30:00",
-            "end_date": "2025-05-02 08:15:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=d82234ed-3950-4783-9d13-2272c9e29f03",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.pilates",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
-            "id": 202909552,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Cycle Core",
-            "description": "This class offers a fusion experience of traditional high intensity indoor cycling with implementation of core exercises to fire up your whole body! Get registered today to improve your cardiovascular and core endurance, and strength.",
-            "image": "",
-            "start_date": "2025-05-02 12:10:00",
-            "end_date": "2025-05-02 12:55:00",
-            "venue": "Fitness Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=504148e9-182e-488d-96b1-71c5b569ea60",
-            "sortCategory": "Cycling",
-            "symbol": "figure.indoor.cycle",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "fr",
-                "tu"
-            ]
-        },
-        {
-            "id": 4150227215,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only: Cardio HIIT",
-            "description": "A 45-minute-high intensity interval training class for all fitness levels. Use a variety of cardiovascular and resistance training equipment such as Ski Ergs, Rowers, Curve Treadmills, weights and more to build cardiovascular and muscular endurance.\u00a0",
-            "image": "",
-            "start_date": "2025-05-02 13:10:00",
-            "end_date": "2025-05-02 13:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=07342ccc-7c88-4522-b99b-b29a44f8c624&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Cardio",
-            "symbol": "heart",
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo",
-                "we"
-            ]
-        },
-        {
-            "id": 1579984309,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "H2O Kickboxing",
-            "description": "",
-            "image": "",
-            "start_date": "2025-05-02 13:10:00",
-            "end_date": "2025-05-02 13:55:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Combat",
-            "symbol": "figure.boxing",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
-            "id": 1724389932,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women on Weights ",
-            "description": "A class that caters to women's needs and wants! Providing a safe space to get energized while building up strength and muscle. Push yourself and raise your limits with our women focused circuit training using a mix of cardio and weights. An inclusive, fun, and supportive environment that will teach you effective exercises and challenge you to reach your goals.",
-            "image": "",
-            "start_date": "2025-05-02 16:10:00",
-            "end_date": "2025-05-02 16:55:00",
-            "venue": "Multipurpose B",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b05d2432-ae3d-4aae-8ccb-87540c252ef9&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Workout",
-            "symbol": "dumbbell",
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo",
-                "we"
-            ]
-        },
-        {
-            "id": 2150006129,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only: Beginner Boxing",
-            "description": "Learn how to pack a punch in this technical workshop designed to teach beginners the basics of boxing. This session provides instructions on boxing stance, footwork, and fundamental mechanics of the jab, cross, hook and uppercut. Join this fun session to stay in shape and build your confidence!This class is open to female identifying members. ",
-            "image": "",
-            "start_date": "2025-05-02 17:10:00",
-            "end_date": "2025-05-02 17:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=9b20108d-57a4-425b-a2b4-5e1e30009df1",
-            "sortCategory": "Combat",
-            "symbol": "figure.boxing",
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 3573682475,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "RAWC W.O.D.",
@@ -31795,5 +31670,12 @@
             ]
         }
     ],
-    "announcements": []
+    "announcements": [
+        {
+            "id": 958747746,
+            "title": "Service Disruption: Spa out of service for repairs.",
+            "body": "Please be advised that the whirlpool is currently out of service due to repairs. We apologize for the inconvenience.",
+            "type": 0
+        }
+    ]
 }
