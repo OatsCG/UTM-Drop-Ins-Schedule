@@ -2208,29 +2208,6 @@
             ]
         },
         {
-            "id": 1387816358,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Volleyball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-05-05 07:30:00",
-            "end_date": "2025-05-05 12:00:00",
-            "venue": "Gym B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Volleyball",
-            "symbol": "volleyball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "mo",
-                "th",
-                "tu",
-                "we"
-            ]
-        },
-        {
             "id": 3301502162,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Pickleball",
@@ -2271,6 +2248,29 @@
             "weeklyRepetitions": [
                 "fr",
                 "mo",
+                "we"
+            ]
+        },
+        {
+            "id": 1387816358,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-05-05 07:30:00",
+            "end_date": "2025-05-05 12:00:00",
+            "venue": "Gym B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "mo",
+                "th",
+                "tu",
                 "we"
             ]
         },
@@ -3407,49 +3407,6 @@
             ]
         },
         {
-            "id": 1854070759,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Table Tennis",
-            "description": "",
-            "image": "",
-            "start_date": "2025-05-07 07:30:00",
-            "end_date": "2025-05-07 20:30:00",
-            "venue": "Multipurpose B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Table Tennis",
-            "symbol": "figure.table.tennis",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
-            "id": 3704451262,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Volleyball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-05-07 07:30:00",
-            "end_date": "2025-05-07 12:00:00",
-            "venue": "Gym B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Volleyball",
-            "symbol": "volleyball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "mo",
-                "th",
-                "tu",
-                "we"
-            ]
-        },
-        {
             "id": 4274449475,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Pickleball",
@@ -3490,6 +3447,49 @@
             "weeklyRepetitions": [
                 "fr",
                 "mo",
+                "we"
+            ]
+        },
+        {
+            "id": 3704451262,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-05-07 07:30:00",
+            "end_date": "2025-05-07 12:00:00",
+            "venue": "Gym B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "mo",
+                "th",
+                "tu",
+                "we"
+            ]
+        },
+        {
+            "id": 1854070759,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Table Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2025-05-07 07:30:00",
+            "end_date": "2025-05-07 20:30:00",
+            "venue": "Multipurpose B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Table Tennis",
+            "symbol": "figure.table.tennis",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
                 "we"
             ]
         },
@@ -3885,6 +3885,26 @@
             ]
         },
         {
+            "id": 2670841222,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Table Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2025-05-08 07:30:00",
+            "end_date": "2025-05-08 20:30:00",
+            "venue": "Multipurpose B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Table Tennis",
+            "symbol": "figure.table.tennis",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
             "id": 3772137572,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Volleyball",
@@ -3905,26 +3925,6 @@
                 "th",
                 "tu",
                 "we"
-            ]
-        },
-        {
-            "id": 2670841222,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Table Tennis",
-            "description": "",
-            "image": "",
-            "start_date": "2025-05-08 07:30:00",
-            "end_date": "2025-05-08 20:30:00",
-            "venue": "Multipurpose B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Table Tennis",
-            "symbol": "figure.table.tennis",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "th"
             ]
         },
         {
@@ -4871,7 +4871,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-05-09 18:45:00",
-            "end_date": "2025-05-09 20:45:00",
+            "end_date": "2025-05-09 20:15:00",
             "venue": "Gym A/B",
             "ticket_label": "",
             "ticket_url": "",
@@ -5298,29 +5298,6 @@
             ]
         },
         {
-            "id": 671278670,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Volleyball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-05-12 07:30:00",
-            "end_date": "2025-05-12 12:00:00",
-            "venue": "Gym B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Volleyball",
-            "symbol": "volleyball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "mo",
-                "th",
-                "tu",
-                "we"
-            ]
-        },
-        {
             "id": 1514779270,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Pickleball",
@@ -5361,6 +5338,29 @@
             "weeklyRepetitions": [
                 "fr",
                 "mo",
+                "we"
+            ]
+        },
+        {
+            "id": 671278670,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-05-12 07:30:00",
+            "end_date": "2025-05-12 12:00:00",
+            "venue": "Gym B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "mo",
+                "th",
+                "tu",
                 "we"
             ]
         },
@@ -6467,49 +6467,6 @@
             ]
         },
         {
-            "id": 3600939189,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Table Tennis",
-            "description": "",
-            "image": "",
-            "start_date": "2025-05-14 07:30:00",
-            "end_date": "2025-05-14 20:30:00",
-            "venue": "Multipurpose B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Table Tennis",
-            "symbol": "figure.table.tennis",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
-            "id": 175805116,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Volleyball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-05-14 07:30:00",
-            "end_date": "2025-05-14 12:00:00",
-            "venue": "Gym B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Volleyball",
-            "symbol": "volleyball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "mo",
-                "th",
-                "tu",
-                "we"
-            ]
-        },
-        {
             "id": 3628198592,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Pickleball",
@@ -6550,6 +6507,49 @@
             "weeklyRepetitions": [
                 "fr",
                 "mo",
+                "we"
+            ]
+        },
+        {
+            "id": 175805116,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-05-14 07:30:00",
+            "end_date": "2025-05-14 12:00:00",
+            "venue": "Gym B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "mo",
+                "th",
+                "tu",
+                "we"
+            ]
+        },
+        {
+            "id": 3600939189,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Table Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2025-05-14 07:30:00",
+            "end_date": "2025-05-14 20:30:00",
+            "venue": "Multipurpose B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Table Tennis",
+            "symbol": "figure.table.tennis",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
                 "we"
             ]
         },
@@ -10098,7 +10098,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-05-23 18:45:00",
-            "end_date": "2025-05-23 20:45:00",
+            "end_date": "2025-05-23 20:15:00",
             "venue": "Gym A/B",
             "ticket_label": "",
             "ticket_url": "",
@@ -13048,7 +13048,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-05-30 18:45:00",
-            "end_date": "2025-05-30 20:45:00",
+            "end_date": "2025-05-30 20:15:00",
             "venue": "Gym A/B",
             "ticket_label": "",
             "ticket_url": "",
@@ -13815,6 +13815,26 @@
             "bipoc": false,
             "weeklyRepetitions": [
                 "th",
+                "tu"
+            ]
+        },
+        {
+            "id": 229158127,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Runs: Community",
+            "description": "Join us for dynamic stretches and warm up in the RAWC lobby. Participants can choose to run together and explore the suggested route around campus/Erindale Park. ",
+            "image": "",
+            "start_date": "2025-06-03 07:30:00",
+            "end_date": "2025-06-03 07:30:00",
+            "venue": "RAWC Lobby",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=0ea6efed-75d5-4094-a87b-7087abc4bc8a",
+            "sortCategory": "UTM Moves",
+            "symbol": "figure.run",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
                 "tu"
             ]
         },
@@ -15765,7 +15785,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-06-06 18:45:00",
-            "end_date": "2025-06-06 20:45:00",
+            "end_date": "2025-06-06 20:15:00",
             "venue": "Gym A/B",
             "ticket_label": "",
             "ticket_url": "",
@@ -16563,6 +16583,26 @@
             ]
         },
         {
+            "id": 1838610640,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Runs: Community",
+            "description": "Join us for dynamic stretches and warm up in the RAWC lobby. Participants can choose to run together and explore the suggested route around campus/Erindale Park. ",
+            "image": "",
+            "start_date": "2025-06-10 07:30:00",
+            "end_date": "2025-06-10 07:30:00",
+            "venue": "RAWC Lobby",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=0ea6efed-75d5-4094-a87b-7087abc4bc8a",
+            "sortCategory": "UTM Moves",
+            "symbol": "figure.run",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
             "id": 1939561033,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Volleyball",
@@ -16603,6 +16643,26 @@
             "bipoc": false,
             "weeklyRepetitions": [
                 "th",
+                "tu"
+            ]
+        },
+        {
+            "id": 3846701130,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Runs: Community",
+            "description": "Join us for dynamic stretches and warm up in the RAWC lobby. Participants can choose to run together and explore the suggested route around campus/Erindale Park. ",
+            "image": "",
+            "start_date": "2025-06-10 10:30:00",
+            "end_date": "2025-06-10 10:30:00",
+            "venue": "RAWC Lobby",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=0ea6efed-75d5-4094-a87b-7087abc4bc8a",
+            "sortCategory": "UTM Moves",
+            "symbol": "figure.run",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
                 "tu"
             ]
         },
@@ -18509,7 +18569,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-06-13 18:45:00",
-            "end_date": "2025-06-13 20:45:00",
+            "end_date": "2025-06-13 20:15:00",
             "venue": "Gym A/B",
             "ticket_label": "",
             "ticket_url": "",
@@ -19307,6 +19367,26 @@
             ]
         },
         {
+            "id": 2228054018,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Runs: Community",
+            "description": "Join us for dynamic stretches and warm up in the RAWC lobby. Participants can choose to run together and explore the suggested route around campus/Erindale Park. ",
+            "image": "",
+            "start_date": "2025-06-17 07:30:00",
+            "end_date": "2025-06-17 07:30:00",
+            "venue": "RAWC Lobby",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=0ea6efed-75d5-4094-a87b-7087abc4bc8a",
+            "sortCategory": "UTM Moves",
+            "symbol": "figure.run",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
             "id": 1962095360,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Volleyball",
@@ -19347,6 +19427,26 @@
             "bipoc": false,
             "weeklyRepetitions": [
                 "th",
+                "tu"
+            ]
+        },
+        {
+            "id": 4032429400,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Runs: Community",
+            "description": "Join us for dynamic stretches and warm up in the RAWC lobby. Participants can choose to run together and explore the suggested route around campus/Erindale Park. ",
+            "image": "",
+            "start_date": "2025-06-17 10:30:00",
+            "end_date": "2025-06-17 10:30:00",
+            "venue": "RAWC Lobby",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=0ea6efed-75d5-4094-a87b-7087abc4bc8a",
+            "sortCategory": "UTM Moves",
+            "symbol": "figure.run",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
                 "tu"
             ]
         },
@@ -21253,7 +21353,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-06-20 18:45:00",
-            "end_date": "2025-06-20 20:45:00",
+            "end_date": "2025-06-20 20:15:00",
             "venue": "Gym A/B",
             "ticket_label": "",
             "ticket_url": "",
@@ -22051,6 +22151,26 @@
             ]
         },
         {
+            "id": 514184602,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Runs: Community",
+            "description": "Join us for dynamic stretches and warm up in the RAWC lobby. Participants can choose to run together and explore the suggested route around campus/Erindale Park. ",
+            "image": "",
+            "start_date": "2025-06-24 07:30:00",
+            "end_date": "2025-06-24 07:30:00",
+            "venue": "RAWC Lobby",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=0ea6efed-75d5-4094-a87b-7087abc4bc8a",
+            "sortCategory": "UTM Moves",
+            "symbol": "figure.run",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
             "id": 1649591994,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Volleyball",
@@ -22091,6 +22211,26 @@
             "bipoc": false,
             "weeklyRepetitions": [
                 "th",
+                "tu"
+            ]
+        },
+        {
+            "id": 1978311537,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Runs: Community",
+            "description": "Join us for dynamic stretches and warm up in the RAWC lobby. Participants can choose to run together and explore the suggested route around campus/Erindale Park. ",
+            "image": "",
+            "start_date": "2025-06-24 10:30:00",
+            "end_date": "2025-06-24 10:30:00",
+            "venue": "RAWC Lobby",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=0ea6efed-75d5-4094-a87b-7087abc4bc8a",
+            "sortCategory": "UTM Moves",
+            "symbol": "figure.run",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
                 "tu"
             ]
         },
@@ -23997,7 +24137,7 @@
             "description": "",
             "image": "",
             "start_date": "2025-06-27 18:45:00",
-            "end_date": "2025-06-27 20:45:00",
+            "end_date": "2025-06-27 20:15:00",
             "venue": "Gym A/B",
             "ticket_label": "",
             "ticket_url": "",
