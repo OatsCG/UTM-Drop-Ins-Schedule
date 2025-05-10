@@ -1715,26 +1715,6 @@
             ]
         },
         {
-            "id": 268532355,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Black Learn to Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2025-05-02 12:00:00",
-            "end_date": "2025-05-02 12:50:00",
-            "venue": "Pool",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=561c3e70-e443-4d8a-bbc1-31fb34585d2a",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 2559285477,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -1745,6 +1725,26 @@
             "venue": "Pool",
             "ticket_label": "reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=d3331c2b-594d-4b36-becc-a9b943a4dde6",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
+            "id": 268532355,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Black Learn to Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2025-05-02 12:00:00",
+            "end_date": "2025-05-02 12:50:00",
+            "venue": "Pool",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=561c3e70-e443-4d8a-bbc1-31fb34585d2a",
             "sortCategory": "Swim",
             "symbol": "figure.pool.swim",
             "womens": false,
@@ -3005,24 +3005,6 @@
             ]
         },
         {
-            "id": 3431147970,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women on Weights! (WOW!)",
-            "description": "",
-            "image": "",
-            "start_date": "2025-05-06 13:10:00",
-            "end_date": "2025-05-06 13:55:00",
-            "venue": "Multipurpose A",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b05d2432-ae3d-4aae-8ccb-87540c252ef9&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Workout",
-            "symbol": "dumbbell",
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 568261458,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Volleyball",
@@ -3098,7 +3080,9 @@
             "womens": true,
             "lgbt": false,
             "bipoc": false,
-            "weeklyRepetitions": []
+            "weeklyRepetitions": [
+                "tu"
+            ]
         },
         {
             "id": 1473635941,
@@ -3196,7 +3180,9 @@
             "womens": true,
             "lgbt": false,
             "bipoc": false,
-            "weeklyRepetitions": []
+            "weeklyRepetitions": [
+                "tu"
+            ]
         },
         {
             "id": 3697876681,
@@ -3885,26 +3871,6 @@
             ]
         },
         {
-            "id": 2670841222,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Table Tennis",
-            "description": "",
-            "image": "",
-            "start_date": "2025-05-08 07:30:00",
-            "end_date": "2025-05-08 20:30:00",
-            "venue": "Multipurpose B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Table Tennis",
-            "symbol": "figure.table.tennis",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
             "id": 3772137572,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Volleyball",
@@ -3960,6 +3926,26 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
+            "id": 2670841222,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Table Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2025-05-08 07:30:00",
+            "end_date": "2025-05-08 20:30:00",
+            "venue": "Multipurpose B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Table Tennis",
+            "symbol": "figure.table.tennis",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -4146,7 +4132,10 @@
             "womens": true,
             "lgbt": false,
             "bipoc": false,
-            "weeklyRepetitions": []
+            "weeklyRepetitions": [
+                "th",
+                "tu"
+            ]
         },
         {
             "id": 818309216,
@@ -4222,7 +4211,9 @@
             "womens": true,
             "lgbt": false,
             "bipoc": false,
-            "weeklyRepetitions": []
+            "weeklyRepetitions": [
+                "th"
+            ]
         },
         {
             "id": 1135423343,
@@ -4260,25 +4251,9 @@
             "womens": true,
             "lgbt": false,
             "bipoc": false,
-            "weeklyRepetitions": []
-        },
-        {
-            "id": 513426230,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Basketball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-05-08 18:00:00",
-            "end_date": "2025-05-08 20:45:00",
-            "venue": "Gym A/B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": []
+            "weeklyRepetitions": [
+                "th"
+            ]
         },
         {
             "id": 1126174492,
@@ -4299,6 +4274,24 @@
             "weeklyRepetitions": [
                 "th"
             ]
+        },
+        {
+            "id": 513426230,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-05-08 18:00:00",
+            "end_date": "2025-05-08 20:45:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": []
         },
         {
             "id": 3650345763,
@@ -4447,6 +4440,26 @@
             ]
         },
         {
+            "id": 4026908008,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Table Tennis",
+            "description": "",
+            "image": "",
+            "start_date": "2025-05-09 07:30:00",
+            "end_date": "2025-05-09 20:30:00",
+            "venue": "Multipurpose B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Table Tennis",
+            "symbol": "figure.table.tennis",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
             "id": 2500423292,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Pickleball",
@@ -4488,26 +4501,6 @@
                 "fr",
                 "mo",
                 "we"
-            ]
-        },
-        {
-            "id": 4026908008,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Table Tennis",
-            "description": "",
-            "image": "",
-            "start_date": "2025-05-09 07:30:00",
-            "end_date": "2025-05-09 20:30:00",
-            "venue": "Multipurpose B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Table Tennis",
-            "symbol": "figure.table.tennis",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "fr"
             ]
         },
         {
@@ -4625,24 +4618,22 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 1168159597,
+            "id": 3248564588,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Black Learn to Swim",
+            "title": "Drop-in Basketball",
             "description": "",
             "image": "",
             "start_date": "2025-05-09 12:00:00",
-            "end_date": "2025-05-09 12:50:00",
-            "venue": "Pool",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=561c3e70-e443-4d8a-bbc1-31fb34585d2a",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
+            "end_date": "2025-05-09 15:30:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
+            "weeklyRepetitions": []
         },
         {
             "id": 2015193901,
@@ -4665,22 +4656,24 @@
             ]
         },
         {
-            "id": 3248564588,
+            "id": 1168159597,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Basketball",
+            "title": "Black Learn to Swim",
             "description": "",
             "image": "",
             "start_date": "2025-05-09 12:00:00",
-            "end_date": "2025-05-09 15:30:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
+            "end_date": "2025-05-09 12:50:00",
+            "venue": "Pool",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=561c3e70-e443-4d8a-bbc1-31fb34585d2a",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "weeklyRepetitions": []
+            "weeklyRepetitions": [
+                "fr"
+            ]
         },
         {
             "id": 3078662066,
@@ -5448,14 +5441,14 @@
             ]
         },
         {
-            "id": 3438765487,
+            "id": 2478245305,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "RAWC W.O.D.",
             "description": "",
             "image": "",
             "start_date": "2025-05-12 11:10:00",
             "end_date": "2025-05-12 11:55:00",
-            "venue": "Strength & Conditioning Centre",
+            "venue": "Fitness Center",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=bd21dcf1-5ad4-47a5-96e1-53e86350a33f",
             "sortCategory": "Workout",
@@ -5463,7 +5456,12 @@
             "womens": false,
             "lgbt": false,
             "bipoc": false,
-            "weeklyRepetitions": []
+            "weeklyRepetitions": [
+                "mo",
+                "th",
+                "tu",
+                "we"
+            ]
         },
         {
             "id": 2739558819,
@@ -5524,14 +5522,14 @@
             ]
         },
         {
-            "id": 4068055394,
+            "id": 1833464707,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Cardio HIIT",
             "description": "",
             "image": "",
             "start_date": "2025-05-12 13:10:00",
             "end_date": "2025-05-12 13:55:00",
-            "venue": "Strength & Conditioning Centre",
+            "venue": "Dance Studio",
             "ticket_label": "reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=07342ccc-7c88-4522-b99b-b29a44f8c624&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
             "sortCategory": "Cardio",
@@ -5539,7 +5537,11 @@
             "womens": true,
             "lgbt": false,
             "bipoc": false,
-            "weeklyRepetitions": []
+            "weeklyRepetitions": [
+                "fr",
+                "mo",
+                "we"
+            ]
         },
         {
             "id": 3726942477,
@@ -5639,14 +5641,14 @@
             ]
         },
         {
-            "id": 470992959,
+            "id": 3255835423,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women on Weights! (WOW)",
             "description": "",
             "image": "",
             "start_date": "2025-05-12 16:10:00",
             "end_date": "2025-05-12 16:55:00",
-            "venue": "Strength & Conditioning Centre",
+            "venue": "Multipurpose B",
             "ticket_label": "reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b05d2432-ae3d-4aae-8ccb-87540c252ef9&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
             "sortCategory": "Workout",
@@ -5954,14 +5956,14 @@
             ]
         },
         {
-            "id": 1824258022,
+            "id": 1352580152,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "RAWC W.O.D.",
             "description": "",
             "image": "",
             "start_date": "2025-05-13 11:10:00",
             "end_date": "2025-05-13 11:55:00",
-            "venue": "Strength & Conditioning Centre",
+            "venue": "Fitness Center",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=bd21dcf1-5ad4-47a5-96e1-53e86350a33f",
             "sortCategory": "Workout",
@@ -5970,7 +5972,10 @@
             "lgbt": false,
             "bipoc": false,
             "weeklyRepetitions": [
-                "tu"
+                "mo",
+                "th",
+                "tu",
+                "we"
             ]
         },
         {
@@ -6057,14 +6062,14 @@
             ]
         },
         {
-            "id": 3134808343,
+            "id": 2203070335,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women on Weights! (WOW!)",
             "description": "",
             "image": "",
             "start_date": "2025-05-13 13:10:00",
             "end_date": "2025-05-13 13:55:00",
-            "venue": "Strength & Conditioning Centre",
+            "venue": "Dance Studio",
             "ticket_label": "reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b05d2432-ae3d-4aae-8ccb-87540c252ef9&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
             "sortCategory": "Workout",
@@ -6073,6 +6078,7 @@
             "lgbt": false,
             "bipoc": false,
             "weeklyRepetitions": [
+                "th",
                 "tu"
             ]
         },
@@ -6137,14 +6143,14 @@
             ]
         },
         {
-            "id": 2141887421,
+            "id": 2615024381,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Strength 101",
             "description": "",
             "image": "",
             "start_date": "2025-05-13 16:10:00",
             "end_date": "2025-05-13 16:55:00",
-            "venue": "Strength & Conditioning Centre",
+            "venue": "Multipurpose B",
             "ticket_label": "reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/program/GetProgramDetails?courseId=e13dee39-9237-45ac-a44a-d2d4cfbe8c38",
             "sortCategory": "Workout",
@@ -6237,14 +6243,14 @@
             ]
         },
         {
-            "id": 1945798549,
+            "id": 611893210,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Cardio HIIT",
             "description": "",
             "image": "",
             "start_date": "2025-05-13 17:10:00",
             "end_date": "2025-05-13 17:55:00",
-            "venue": "Strength & Conditioning Centre",
+            "venue": "Multipurpose A",
             "ticket_label": "reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=07342ccc-7c88-4522-b99b-b29a44f8c624&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
             "sortCategory": "Cardio",
@@ -6637,14 +6643,14 @@
             ]
         },
         {
-            "id": 3085264413,
+            "id": 2186867088,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "RAWC W.O.D.",
             "description": "",
             "image": "",
             "start_date": "2025-05-14 11:10:00",
             "end_date": "2025-05-14 11:55:00",
-            "venue": "Strength & Conditioning Centre",
+            "venue": "Fitness Center",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=bd21dcf1-5ad4-47a5-96e1-53e86350a33f",
             "sortCategory": "Workout",
@@ -6653,6 +6659,9 @@
             "lgbt": false,
             "bipoc": false,
             "weeklyRepetitions": [
+                "mo",
+                "th",
+                "tu",
                 "we"
             ]
         },
@@ -6757,6 +6766,28 @@
             ]
         },
         {
+            "id": 1200432732,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Women's Only: Cardio HIIT",
+            "description": "",
+            "image": "",
+            "start_date": "2025-05-14 13:10:00",
+            "end_date": "2025-05-14 13:55:00",
+            "venue": "Dance Studio",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=07342ccc-7c88-4522-b99b-b29a44f8c624&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
+            "sortCategory": "Cardio",
+            "symbol": "heart",
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo",
+                "we"
+            ]
+        },
+        {
             "id": 660593825,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -6777,14 +6808,14 @@
             ]
         },
         {
-            "id": 305278636,
+            "id": 1219796605,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women on Weights! (WOW)",
             "description": "",
             "image": "",
             "start_date": "2025-05-14 16:10:00",
             "end_date": "2025-05-14 16:55:00",
-            "venue": "Strength & Conditioning Centre",
+            "venue": "Multipurpose B",
             "ticket_label": "reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b05d2432-ae3d-4aae-8ccb-87540c252ef9&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
             "sortCategory": "Workout",
@@ -7154,14 +7185,14 @@
             ]
         },
         {
-            "id": 2409859540,
+            "id": 835304579,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "RAWC W.O.D.",
             "description": "",
             "image": "",
             "start_date": "2025-05-15 11:10:00",
             "end_date": "2025-05-15 11:55:00",
-            "venue": "Strength & Conditioning Centre",
+            "venue": "Fitness Center",
             "ticket_label": "Reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=bd21dcf1-5ad4-47a5-96e1-53e86350a33f",
             "sortCategory": "Workout",
@@ -7170,7 +7201,10 @@
             "lgbt": false,
             "bipoc": false,
             "weeklyRepetitions": [
-                "th"
+                "mo",
+                "th",
+                "tu",
+                "we"
             ]
         },
         {
@@ -7255,6 +7289,27 @@
             ]
         },
         {
+            "id": 866866791,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Women on Weights! (WOW!)",
+            "description": "",
+            "image": "",
+            "start_date": "2025-05-15 13:10:00",
+            "end_date": "2025-05-15 13:55:00",
+            "venue": "Dance Studio",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b05d2432-ae3d-4aae-8ccb-87540c252ef9&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
+            "sortCategory": "Workout",
+            "symbol": "dumbbell",
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th",
+                "tu"
+            ]
+        },
+        {
             "id": 1091304321,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Volleyball",
@@ -7313,14 +7368,14 @@
             ]
         },
         {
-            "id": 172079911,
+            "id": 2031748957,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Hyperthrophy 101",
-            "description": "Try out total resistance exercises!",
+            "description": "",
             "image": "",
             "start_date": "2025-05-15 16:10:00",
             "end_date": "2025-05-15 16:55:00",
-            "venue": "Strength & Conditioning Centre",
+            "venue": "Multipurpose B",
             "ticket_label": "reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/program/GetProgramDetails?courseId=81ecd9bc-e525-4bb1-ac6d-535cf5fc646f",
             "sortCategory": "Workout",
@@ -7353,14 +7408,14 @@
             ]
         },
         {
-            "id": 4233882083,
+            "id": 3490145680,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women on Weights! (WOW!)",
             "description": "",
             "image": "",
             "start_date": "2025-05-15 17:10:00",
             "end_date": "2025-05-15 17:55:00",
-            "venue": "Strength & Conditioning Centre",
+            "venue": "Multipurpose A",
             "ticket_label": "reserve your spot",
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b05d2432-ae3d-4aae-8ccb-87540c252ef9&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
             "sortCategory": "Workout",
@@ -8127,26 +8182,6 @@
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b05d2432-ae3d-4aae-8ccb-87540c252ef9&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
             "sortCategory": "Workout",
             "symbol": "dumbbell",
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
-            "id": 3432662793,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only: TRX",
-            "description": "Try out total resistance exercises!",
-            "image": "",
-            "start_date": "2025-05-20 13:10:00",
-            "end_date": "2025-05-20 13:55:00",
-            "venue": "Strength & Conditioning Centre",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=224fa6a8-38a8-451e-bbdf-5b1ea2ff2a55&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
             "womens": true,
             "lgbt": false,
             "bipoc": false,
@@ -15839,6 +15874,26 @@
             ]
         },
         {
+            "id": 318369310,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Runs: Community",
+            "description": "Join us for dynamic stretches and warm up in the RAWC lobby. Participants can choose to run together and explore the suggested route around campus/Erindale Park. ",
+            "image": "",
+            "start_date": "2025-06-07 10:30:00",
+            "end_date": "2025-06-07 10:30:00",
+            "venue": "RAWC Lobby",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=0ea6efed-75d5-4094-a87b-7087abc4bc8a",
+            "sortCategory": "UTM Moves",
+            "symbol": "figure.run",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "sa"
+            ]
+        },
+        {
             "id": 1866061241,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "RAWC W.O.D.",
@@ -16643,26 +16698,6 @@
             "bipoc": false,
             "weeklyRepetitions": [
                 "th",
-                "tu"
-            ]
-        },
-        {
-            "id": 3846701130,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "UTM Runs: Community",
-            "description": "Join us for dynamic stretches and warm up in the RAWC lobby. Participants can choose to run together and explore the suggested route around campus/Erindale Park. ",
-            "image": "",
-            "start_date": "2025-06-10 10:30:00",
-            "end_date": "2025-06-10 10:30:00",
-            "venue": "RAWC Lobby",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=0ea6efed-75d5-4094-a87b-7087abc4bc8a",
-            "sortCategory": "UTM Moves",
-            "symbol": "figure.run",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
                 "tu"
             ]
         },
@@ -18623,6 +18658,26 @@
             ]
         },
         {
+            "id": 3152249504,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Runs: Community",
+            "description": "Join us for dynamic stretches and warm up in the RAWC lobby. Participants can choose to run together and explore the suggested route around campus/Erindale Park. ",
+            "image": "",
+            "start_date": "2025-06-14 10:30:00",
+            "end_date": "2025-06-14 10:30:00",
+            "venue": "RAWC Lobby",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=0ea6efed-75d5-4094-a87b-7087abc4bc8a",
+            "sortCategory": "UTM Moves",
+            "symbol": "figure.run",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "sa"
+            ]
+        },
+        {
             "id": 1968608869,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "RAWC W.O.D.",
@@ -19427,26 +19482,6 @@
             "bipoc": false,
             "weeklyRepetitions": [
                 "th",
-                "tu"
-            ]
-        },
-        {
-            "id": 4032429400,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "UTM Runs: Community",
-            "description": "Join us for dynamic stretches and warm up in the RAWC lobby. Participants can choose to run together and explore the suggested route around campus/Erindale Park. ",
-            "image": "",
-            "start_date": "2025-06-17 10:30:00",
-            "end_date": "2025-06-17 10:30:00",
-            "venue": "RAWC Lobby",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=0ea6efed-75d5-4094-a87b-7087abc4bc8a",
-            "sortCategory": "UTM Moves",
-            "symbol": "figure.run",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
                 "tu"
             ]
         },
@@ -21407,6 +21442,26 @@
             ]
         },
         {
+            "id": 2678501764,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "UTM Runs: Community",
+            "description": "Join us for dynamic stretches and warm up in the RAWC lobby. Participants can choose to run together and explore the suggested route around campus/Erindale Park. ",
+            "image": "",
+            "start_date": "2025-06-21 10:30:00",
+            "end_date": "2025-06-21 10:30:00",
+            "venue": "RAWC Lobby",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=0ea6efed-75d5-4094-a87b-7087abc4bc8a",
+            "sortCategory": "UTM Moves",
+            "symbol": "figure.run",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "sa"
+            ]
+        },
+        {
             "id": 1520042909,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "RAWC W.O.D.",
@@ -22211,26 +22266,6 @@
             "bipoc": false,
             "weeklyRepetitions": [
                 "th",
-                "tu"
-            ]
-        },
-        {
-            "id": 1978311537,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "UTM Runs: Community",
-            "description": "Join us for dynamic stretches and warm up in the RAWC lobby. Participants can choose to run together and explore the suggested route around campus/Erindale Park. ",
-            "image": "",
-            "start_date": "2025-06-24 10:30:00",
-            "end_date": "2025-06-24 10:30:00",
-            "venue": "RAWC Lobby",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=0ea6efed-75d5-4094-a87b-7087abc4bc8a",
-            "sortCategory": "UTM Moves",
-            "symbol": "figure.run",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
                 "tu"
             ]
         },
@@ -30561,15 +30596,9 @@
     ],
     "announcements": [
         {
-            "id": 4179713510,
-            "title": "Closure extended: SCC will reopen on Monday, May 12.",
-            "body": "Please note that the Strength and Conditioning Centre (SCC) closure has been extended to Sunday, May 11.\nA number of classes have been relocated due to scheduled work.\nWe appreciate your patience and understanding as we take a little more time in revamping our facilities. We look forward to having you use our space once our new equipment is set up and running!",
-            "type": 1
-        },
-        {
-            "id": 370064331,
-            "title": "Closure Notice: Presidential Day & Victoria Day Holiday",
-            "body": "Please note that the Recreation, Athletics, & Wellness Centre will be closed on Friday, May 16 (Presidential Day) and Monday, May 19 (Victoria Day). However, the facilities will be open for regular hours of operation over the weekend.",
+            "id": 1178308491,
+            "title": "Closure extended: SCC will reopen on Tuesday, May 20.",
+            "body": "Please note that the Strength and Conditioning Centre (SCC) closure has been extended to Sunday, May 18.\nA number of classes have been relocated due to scheduled work.\nWe appreciate your patience and understanding as we take a little more time in revamping our facilities. We look forward to having you use our space once our new equipment is set up and running!",
             "type": 1
         },
         {
