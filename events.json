@@ -30552,27 +30552,6 @@
     ],
     "featured": [
         {
-            "id": 1790888751,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "RAWC W.O.D",
-            "description": "",
-            "image": "",
-            "start_date": "2025-05-10 12:10:00",
-            "end_date": "2025-05-10 12:55:00",
-            "venue": "Fitness Center",
-            "ticket_label": "Reserve Your Spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=bd21dcf1-5ad4-47a5-96e1-53e86350a33f",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "sa",
-                "su"
-            ]
-        },
-        {
             "id": 4091404631,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "RAWC W.O.D",
