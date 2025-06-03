@@ -21,7 +21,7 @@
         {
             "title": "Tennis",
             "symbol": "tennisball",
-            "isChip": false,
+            "isChip": true,
             "isMedal": true
         },
         {
@@ -11377,24 +11377,6 @@
             ]
         },
         {
-            "id": 2249263604,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2025-05-30 18:30:00",
-            "end_date": "2025-05-30 20:15:00",
-            "venue": "Gym B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 2769962191,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Volleyball",
@@ -11413,6 +11395,24 @@
             "weeklyRepetitions": [
                 "fr"
             ]
+        },
+        {
+            "id": 2249263604,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2025-05-30 18:30:00",
+            "end_date": "2025-05-30 20:15:00",
+            "venue": "Gym B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": []
         },
         {
             "id": 125069871,
@@ -11435,24 +11435,6 @@
             ]
         },
         {
-            "id": 3473715047,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Basketball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-05-31 10:00:00",
-            "end_date": "2025-05-31 13:00:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 3759588932,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Registered Swimming Lessons ",
@@ -11471,6 +11453,24 @@
             "weeklyRepetitions": [
                 "sa"
             ]
+        },
+        {
+            "id": 3473715047,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-05-31 10:00:00",
+            "end_date": "2025-05-31 13:00:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": []
         },
         {
             "id": 2888550441,
@@ -11669,26 +11669,6 @@
             ]
         },
         {
-            "id": 2231552193,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-In Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2025-06-02 07:00:00",
-            "end_date": "2025-06-02 14:00:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
             "id": 3099360217,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Intro to Coached Swim",
@@ -11820,26 +11800,6 @@
             ]
         },
         {
-            "id": 2537420464,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-In Pickleball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-06-02 11:30:00",
-            "end_date": "2025-06-02 14:00:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Pickleball",
-            "symbol": "figure.pickleball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
             "id": 369214686,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Yogilates",
@@ -11936,26 +11896,6 @@
             "lgbt": false,
             "bipoc": false,
             "weeklyRepetitions": []
-        },
-        {
-            "id": 1145405179,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Cricket",
-            "description": "",
-            "image": "",
-            "start_date": "2025-06-02 14:30:00",
-            "end_date": "2025-06-02 16:30:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Cricket",
-            "symbol": "cricket.ball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
         },
         {
             "id": 1271127330,
@@ -12093,26 +12033,6 @@
             "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=80e9c254-d7b3-417e-80f4-d2865963d171",
             "sortCategory": "Swim",
             "symbol": "figure.water.fitness",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
-            "id": 275026762,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2025-06-02 17:00:00",
-            "end_date": "2025-06-02 20:45:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -12627,6 +12547,26 @@
             ]
         },
         {
+            "id": 2595970117,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-06-03 15:00:00",
+            "end_date": "2025-06-03 18:00:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
             "id": 921723329,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Volleyball",
@@ -12807,6 +12747,27 @@
             ]
         },
         {
+            "id": 2465738482,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Learn to Play: Tennis",
+            "description": "Ever wanted to learn the basic skills of tennis or never had the chance pick up this amazing sport? You have the chance now UTM! This June and/or July join in on the 4-week UTM Beginner Tennis Lessons being offered by skilled tennis instructors on the UTM Tennis Courts. This is a great opportunity to learn the basics of tennis in a beginner friendly environment. Players will be introduced to the proper technique for volleys, serves, forehand and backhand groundstrokes.Don\u2019t own a tennis racquet? Don\u2019t worry\u2026 we have you covered!\u00a0Please Note: This program is for novice/new players only.\u00a0\u00a0\n",
+            "image": "",
+            "start_date": "2025-06-03 17:15:00",
+            "end_date": "2025-06-03 18:45:00",
+            "venue": "Tennis Courts",
+            "ticket_label": "Register Here",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=12988102-51b9-4705-b113-94b43f3991ab",
+            "sortCategory": "Tennis",
+            "symbol": "tennisball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th",
+                "tu"
+            ]
+        },
+        {
             "id": 4108292310,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Lifesaving Sport",
@@ -12843,6 +12804,27 @@
             "lgbt": false,
             "bipoc": false,
             "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 2242906473,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Learn to Play: Tennis",
+            "description": "Ever wanted to learn the basic skills of tennis or never had the chance pick up this amazing sport? You have the chance now UTM! This June and/or July join in on the 4-week UTM Beginner Tennis Lessons being offered by skilled tennis instructors on the UTM Tennis Courts. This is a great opportunity to learn the basics of tennis in a beginner friendly environment. Players will be introduced to the proper technique for volleys, serves, forehand and backhand groundstrokes.Don\u2019t own a tennis racquet? Don\u2019t worry\u2026 we have you covered!\u00a0Please Note: This program is for novice/new players only.\u00a0\u00a0\n",
+            "image": "",
+            "start_date": "2025-06-03 18:45:00",
+            "end_date": "2025-06-03 20:15:00",
+            "venue": "Tennis Courts",
+            "ticket_label": "Register Here",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=12988102-51b9-4705-b113-94b43f3991ab",
+            "sortCategory": "Tennis",
+            "symbol": "tennisball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th",
                 "tu"
             ]
         },
@@ -13246,6 +13228,26 @@
             "weeklyRepetitions": [
                 "fr",
                 "mo",
+                "we"
+            ]
+        },
+        {
+            "id": 3618123660,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-06-04 15:00:00",
+            "end_date": "2025-06-04 18:00:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
                 "we"
             ]
         },
@@ -13756,6 +13758,26 @@
             ]
         },
         {
+            "id": 3068433564,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-06-05 15:00:00",
+            "end_date": "2025-06-05 18:00:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
             "id": 2544844013,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "2SLGBTQ+ Solidarity Swim",
@@ -13856,6 +13878,47 @@
             ]
         },
         {
+            "id": 2881666762,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Learn to Play: Tennis",
+            "description": "Ever wanted to learn the basic skills of tennis or never had the chance pick up this amazing sport? You have the chance now UTM! This June and/or July join in on the 4-week UTM Beginner Tennis Lessons being offered by skilled tennis instructors on the UTM Tennis Courts. This is a great opportunity to learn the basics of tennis in a beginner friendly environment. Players will be introduced to the proper technique for volleys, serves, forehand and backhand groundstrokes.Don\u2019t own a tennis racquet? Don\u2019t worry\u2026 we have you covered!\u00a0Please Note: This program is for novice/new players only.\u00a0\u00a0\n",
+            "image": "",
+            "start_date": "2025-06-05 17:15:00",
+            "end_date": "2025-06-05 18:45:00",
+            "venue": "Tennis Courts",
+            "ticket_label": "Register Here",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=12988102-51b9-4705-b113-94b43f3991ab",
+            "sortCategory": "Tennis",
+            "symbol": "tennisball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th",
+                "tu"
+            ]
+        },
+        {
+            "id": 3751161719,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-06-05 18:00:00",
+            "end_date": "2025-06-05 20:45:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
             "id": 3404636561,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Bootcamp",
@@ -13873,6 +13936,27 @@
             "bipoc": false,
             "weeklyRepetitions": [
                 "th"
+            ]
+        },
+        {
+            "id": 2271684371,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Learn to Play: Tennis",
+            "description": "Ever wanted to learn the basic skills of tennis or never had the chance pick up this amazing sport? You have the chance now UTM! This June and/or July join in on the 4-week UTM Beginner Tennis Lessons being offered by skilled tennis instructors on the UTM Tennis Courts. This is a great opportunity to learn the basics of tennis in a beginner friendly environment. Players will be introduced to the proper technique for volleys, serves, forehand and backhand groundstrokes.Don\u2019t own a tennis racquet? Don\u2019t worry\u2026 we have you covered!\u00a0Please Note: This program is for novice/new players only.\u00a0\u00a0\n",
+            "image": "",
+            "start_date": "2025-06-05 18:45:00",
+            "end_date": "2025-06-05 20:15:00",
+            "venue": "Tennis Courts",
+            "ticket_label": "Register Here",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=12988102-51b9-4705-b113-94b43f3991ab",
+            "sortCategory": "Tennis",
+            "symbol": "tennisball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th",
+                "tu"
             ]
         },
         {
@@ -14490,6 +14574,81 @@
             ]
         },
         {
+            "id": 2371191081,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2025-06-07 10:00:00",
+            "end_date": "2025-06-07 16:45:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 1463613579,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-06-07 10:00:00",
+            "end_date": "2025-06-07 13:00:00",
+            "venue": "Gym B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 4083599302,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-06-07 10:00:00",
+            "end_date": "2025-06-07 13:00:00",
+            "venue": "Gym A",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 2093999742,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Squash",
+            "description": "",
+            "image": "",
+            "start_date": "2025-06-07 10:00:00",
+            "end_date": "2025-06-07 16:30:00",
+            "venue": "Squash Courts",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Squash",
+            "symbol": "figure.squash",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "sa",
+                "su"
+            ]
+        },
+        {
             "id": 2766665795,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Registered Swimming Lessons ",
@@ -14571,6 +14730,24 @@
             ]
         },
         {
+            "id": 3852286888,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Indoor Soccer",
+            "description": "",
+            "image": "",
+            "start_date": "2025-06-07 13:30:00",
+            "end_date": "2025-06-07 16:30:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Soccer",
+            "symbol": "soccerball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": []
+        },
+        {
             "id": 636716420,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Fitness Swim",
@@ -14589,6 +14766,63 @@
             "weeklyRepetitions": [
                 "sa"
             ]
+        },
+        {
+            "id": 692860524,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Squash",
+            "description": "",
+            "image": "",
+            "start_date": "2025-06-08 10:00:00",
+            "end_date": "2025-06-08 16:30:00",
+            "venue": "Squash Courts",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Squash",
+            "symbol": "figure.squash",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "sa",
+                "su"
+            ]
+        },
+        {
+            "id": 2723070309,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2025-06-08 10:00:00",
+            "end_date": "2025-06-08 16:45:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 1528488373,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-06-08 10:00:00",
+            "end_date": "2025-06-08 13:00:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": []
         },
         {
             "id": 1577203887,
@@ -14691,6 +14925,42 @@
             "weeklyRepetitions": [
                 "su"
             ]
+        },
+        {
+            "id": 2911809404,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-06-08 13:30:00",
+            "end_date": "2025-06-08 16:45:00",
+            "venue": "Gym B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": []
+        },
+        {
+            "id": 2929457089,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-06-08 13:30:00",
+            "end_date": "2025-06-08 16:45:00",
+            "venue": "Gym A",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": []
         },
         {
             "id": 1603544780,
@@ -14950,26 +15220,6 @@
             ]
         },
         {
-            "id": 35633547,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-In Pickleball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-06-09 11:30:00",
-            "end_date": "2025-06-09 14:00:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Pickleball",
-            "symbol": "figure.pickleball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
             "id": 624307653,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -14989,6 +15239,26 @@
                 "mo",
                 "th",
                 "tu"
+            ]
+        },
+        {
+            "id": 35633547,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-In Pickleball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-06-09 11:30:00",
+            "end_date": "2025-06-09 14:00:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Pickleball",
+            "symbol": "figure.pickleball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "mo"
             ]
         },
         {
@@ -15723,6 +15993,26 @@
             ]
         },
         {
+            "id": 1225875042,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-06-10 15:00:00",
+            "end_date": "2025-06-10 18:00:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
             "id": 3697394962,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Volleyball",
@@ -15903,6 +16193,27 @@
             ]
         },
         {
+            "id": 1219992475,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Learn to Play: Tennis",
+            "description": "Ever wanted to learn the basic skills of tennis or never had the chance pick up this amazing sport? You have the chance now UTM! This June and/or July join in on the 4-week UTM Beginner Tennis Lessons being offered by skilled tennis instructors on the UTM Tennis Courts. This is a great opportunity to learn the basics of tennis in a beginner friendly environment. Players will be introduced to the proper technique for volleys, serves, forehand and backhand groundstrokes.Don\u2019t own a tennis racquet? Don\u2019t worry\u2026 we have you covered!\u00a0Please Note: This program is for novice/new players only.\u00a0\u00a0\n",
+            "image": "",
+            "start_date": "2025-06-10 17:15:00",
+            "end_date": "2025-06-10 18:45:00",
+            "venue": "Tennis Courts",
+            "ticket_label": "Register Here",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=12988102-51b9-4705-b113-94b43f3991ab",
+            "sortCategory": "Tennis",
+            "symbol": "tennisball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th",
+                "tu"
+            ]
+        },
+        {
             "id": 4182580143,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Lifesaving Sport",
@@ -15979,6 +16290,27 @@
             "lgbt": false,
             "bipoc": false,
             "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 3708902918,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Learn to Play: Tennis",
+            "description": "Ever wanted to learn the basic skills of tennis or never had the chance pick up this amazing sport? You have the chance now UTM! This June and/or July join in on the 4-week UTM Beginner Tennis Lessons being offered by skilled tennis instructors on the UTM Tennis Courts. This is a great opportunity to learn the basics of tennis in a beginner friendly environment. Players will be introduced to the proper technique for volleys, serves, forehand and backhand groundstrokes.Don\u2019t own a tennis racquet? Don\u2019t worry\u2026 we have you covered!\u00a0Please Note: This program is for novice/new players only.\u00a0\u00a0\n",
+            "image": "",
+            "start_date": "2025-06-10 18:45:00",
+            "end_date": "2025-06-10 20:15:00",
+            "venue": "Tennis Courts",
+            "ticket_label": "Register Here",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=12988102-51b9-4705-b113-94b43f3991ab",
+            "sortCategory": "Tennis",
+            "symbol": "tennisball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th",
                 "tu"
             ]
         },
@@ -16382,6 +16714,26 @@
             "weeklyRepetitions": [
                 "fr",
                 "mo",
+                "we"
+            ]
+        },
+        {
+            "id": 3842997067,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-06-11 15:00:00",
+            "end_date": "2025-06-11 18:00:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
                 "we"
             ]
         },
@@ -16892,6 +17244,26 @@
             ]
         },
         {
+            "id": 2674409269,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-06-12 15:00:00",
+            "end_date": "2025-06-12 18:00:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
             "id": 2294473935,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "2SLGBTQ+ Solidarity Swim",
@@ -16992,6 +17364,47 @@
             ]
         },
         {
+            "id": 2923199457,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Learn to Play: Tennis",
+            "description": "Ever wanted to learn the basic skills of tennis or never had the chance pick up this amazing sport? You have the chance now UTM! This June and/or July join in on the 4-week UTM Beginner Tennis Lessons being offered by skilled tennis instructors on the UTM Tennis Courts. This is a great opportunity to learn the basics of tennis in a beginner friendly environment. Players will be introduced to the proper technique for volleys, serves, forehand and backhand groundstrokes.Don\u2019t own a tennis racquet? Don\u2019t worry\u2026 we have you covered!\u00a0Please Note: This program is for novice/new players only.\u00a0\u00a0\n",
+            "image": "",
+            "start_date": "2025-06-12 17:15:00",
+            "end_date": "2025-06-12 18:45:00",
+            "venue": "Tennis Courts",
+            "ticket_label": "Register Here",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=12988102-51b9-4705-b113-94b43f3991ab",
+            "sortCategory": "Tennis",
+            "symbol": "tennisball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th",
+                "tu"
+            ]
+        },
+        {
+            "id": 2112588081,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-06-12 18:00:00",
+            "end_date": "2025-06-12 20:45:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
             "id": 2143543754,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Bootcamp",
@@ -17009,6 +17422,27 @@
             "bipoc": false,
             "weeklyRepetitions": [
                 "th"
+            ]
+        },
+        {
+            "id": 2923369629,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Learn to Play: Tennis",
+            "description": "Ever wanted to learn the basic skills of tennis or never had the chance pick up this amazing sport? You have the chance now UTM! This June and/or July join in on the 4-week UTM Beginner Tennis Lessons being offered by skilled tennis instructors on the UTM Tennis Courts. This is a great opportunity to learn the basics of tennis in a beginner friendly environment. Players will be introduced to the proper technique for volleys, serves, forehand and backhand groundstrokes.Don\u2019t own a tennis racquet? Don\u2019t worry\u2026 we have you covered!\u00a0Please Note: This program is for novice/new players only.\u00a0\u00a0\n",
+            "image": "",
+            "start_date": "2025-06-12 18:45:00",
+            "end_date": "2025-06-12 20:15:00",
+            "venue": "Tennis Courts",
+            "ticket_label": "Register Here",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=12988102-51b9-4705-b113-94b43f3991ab",
+            "sortCategory": "Tennis",
+            "symbol": "tennisball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th",
+                "tu"
             ]
         },
         {
@@ -17626,6 +18060,27 @@
             ]
         },
         {
+            "id": 2384423894,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Squash",
+            "description": "",
+            "image": "",
+            "start_date": "2025-06-14 10:00:00",
+            "end_date": "2025-06-14 16:30:00",
+            "venue": "Squash Courts",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Squash",
+            "symbol": "figure.squash",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "sa",
+                "su"
+            ]
+        },
+        {
             "id": 1930796384,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Registered Swimming Lessons ",
@@ -17724,6 +18179,27 @@
             "bipoc": false,
             "weeklyRepetitions": [
                 "sa"
+            ]
+        },
+        {
+            "id": 2504970231,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Squash",
+            "description": "",
+            "image": "",
+            "start_date": "2025-06-15 10:00:00",
+            "end_date": "2025-06-15 16:30:00",
+            "venue": "Squash Courts",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Squash",
+            "symbol": "figure.squash",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "sa",
+                "su"
             ]
         },
         {
@@ -18086,26 +18562,6 @@
             ]
         },
         {
-            "id": 2935373116,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-In Pickleball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-06-16 11:30:00",
-            "end_date": "2025-06-16 14:00:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Pickleball",
-            "symbol": "figure.pickleball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
             "id": 1906908041,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -18125,6 +18581,26 @@
                 "mo",
                 "th",
                 "tu"
+            ]
+        },
+        {
+            "id": 2935373116,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-In Pickleball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-06-16 11:30:00",
+            "end_date": "2025-06-16 14:00:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Pickleball",
+            "symbol": "figure.pickleball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "mo"
             ]
         },
         {
@@ -18859,6 +19335,26 @@
             ]
         },
         {
+            "id": 4215889364,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-06-17 15:00:00",
+            "end_date": "2025-06-17 18:00:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
             "id": 1096027415,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Volleyball",
@@ -19039,6 +19535,27 @@
             ]
         },
         {
+            "id": 4015894135,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Learn to Play: Tennis",
+            "description": "Ever wanted to learn the basic skills of tennis or never had the chance pick up this amazing sport? You have the chance now UTM! This June and/or July join in on the 4-week UTM Beginner Tennis Lessons being offered by skilled tennis instructors on the UTM Tennis Courts. This is a great opportunity to learn the basics of tennis in a beginner friendly environment. Players will be introduced to the proper technique for volleys, serves, forehand and backhand groundstrokes.Don\u2019t own a tennis racquet? Don\u2019t worry\u2026 we have you covered!\u00a0Please Note: This program is for novice/new players only.\u00a0\u00a0\n",
+            "image": "",
+            "start_date": "2025-06-17 17:15:00",
+            "end_date": "2025-06-17 18:45:00",
+            "venue": "Tennis Courts",
+            "ticket_label": "Register Here",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=12988102-51b9-4705-b113-94b43f3991ab",
+            "sortCategory": "Tennis",
+            "symbol": "tennisball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th",
+                "tu"
+            ]
+        },
+        {
             "id": 1200893233,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Lifesaving Sport",
@@ -19115,6 +19632,27 @@
             "lgbt": false,
             "bipoc": false,
             "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 3677113951,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Learn to Play: Tennis",
+            "description": "Ever wanted to learn the basic skills of tennis or never had the chance pick up this amazing sport? You have the chance now UTM! This June and/or July join in on the 4-week UTM Beginner Tennis Lessons being offered by skilled tennis instructors on the UTM Tennis Courts. This is a great opportunity to learn the basics of tennis in a beginner friendly environment. Players will be introduced to the proper technique for volleys, serves, forehand and backhand groundstrokes.Don\u2019t own a tennis racquet? Don\u2019t worry\u2026 we have you covered!\u00a0Please Note: This program is for novice/new players only.\u00a0\u00a0\n",
+            "image": "",
+            "start_date": "2025-06-17 18:45:00",
+            "end_date": "2025-06-17 20:15:00",
+            "venue": "Tennis Courts",
+            "ticket_label": "Register Here",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=12988102-51b9-4705-b113-94b43f3991ab",
+            "sortCategory": "Tennis",
+            "symbol": "tennisball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th",
                 "tu"
             ]
         },
@@ -19518,6 +20056,26 @@
             "weeklyRepetitions": [
                 "fr",
                 "mo",
+                "we"
+            ]
+        },
+        {
+            "id": 3385361681,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-06-18 15:00:00",
+            "end_date": "2025-06-18 18:00:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
                 "we"
             ]
         },
@@ -20028,6 +20586,26 @@
             ]
         },
         {
+            "id": 2457922487,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-06-19 15:00:00",
+            "end_date": "2025-06-19 18:00:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
             "id": 665675830,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "2SLGBTQ+ Solidarity Swim",
@@ -20128,6 +20706,47 @@
             ]
         },
         {
+            "id": 2525095976,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Learn to Play: Tennis",
+            "description": "Ever wanted to learn the basic skills of tennis or never had the chance pick up this amazing sport? You have the chance now UTM! This June and/or July join in on the 4-week UTM Beginner Tennis Lessons being offered by skilled tennis instructors on the UTM Tennis Courts. This is a great opportunity to learn the basics of tennis in a beginner friendly environment. Players will be introduced to the proper technique for volleys, serves, forehand and backhand groundstrokes.Don\u2019t own a tennis racquet? Don\u2019t worry\u2026 we have you covered!\u00a0Please Note: This program is for novice/new players only.\u00a0\u00a0\n",
+            "image": "",
+            "start_date": "2025-06-19 17:15:00",
+            "end_date": "2025-06-19 18:45:00",
+            "venue": "Tennis Courts",
+            "ticket_label": "Register Here",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=12988102-51b9-4705-b113-94b43f3991ab",
+            "sortCategory": "Tennis",
+            "symbol": "tennisball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th",
+                "tu"
+            ]
+        },
+        {
+            "id": 1930371052,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-06-19 18:00:00",
+            "end_date": "2025-06-19 20:45:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
             "id": 3991450836,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Bootcamp",
@@ -20145,6 +20764,27 @@
             "bipoc": false,
             "weeklyRepetitions": [
                 "th"
+            ]
+        },
+        {
+            "id": 3212853858,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Learn to Play: Tennis",
+            "description": "Ever wanted to learn the basic skills of tennis or never had the chance pick up this amazing sport? You have the chance now UTM! This June and/or July join in on the 4-week UTM Beginner Tennis Lessons being offered by skilled tennis instructors on the UTM Tennis Courts. This is a great opportunity to learn the basics of tennis in a beginner friendly environment. Players will be introduced to the proper technique for volleys, serves, forehand and backhand groundstrokes.Don\u2019t own a tennis racquet? Don\u2019t worry\u2026 we have you covered!\u00a0Please Note: This program is for novice/new players only.\u00a0\u00a0\n",
+            "image": "",
+            "start_date": "2025-06-19 18:45:00",
+            "end_date": "2025-06-19 20:15:00",
+            "venue": "Tennis Courts",
+            "ticket_label": "Register Here",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=12988102-51b9-4705-b113-94b43f3991ab",
+            "sortCategory": "Tennis",
+            "symbol": "tennisball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th",
+                "tu"
             ]
         },
         {
@@ -20762,6 +21402,27 @@
             ]
         },
         {
+            "id": 992600748,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Squash",
+            "description": "",
+            "image": "",
+            "start_date": "2025-06-21 10:00:00",
+            "end_date": "2025-06-21 16:30:00",
+            "venue": "Squash Courts",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Squash",
+            "symbol": "figure.squash",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "sa",
+                "su"
+            ]
+        },
+        {
             "id": 894675605,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Registered Swimming Lessons ",
@@ -20860,6 +21521,27 @@
             "bipoc": false,
             "weeklyRepetitions": [
                 "sa"
+            ]
+        },
+        {
+            "id": 1911584625,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Squash",
+            "description": "",
+            "image": "",
+            "start_date": "2025-06-22 10:00:00",
+            "end_date": "2025-06-22 16:30:00",
+            "venue": "Squash Courts",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Squash",
+            "symbol": "figure.squash",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "sa",
+                "su"
             ]
         },
         {
@@ -21141,26 +21823,6 @@
             ]
         },
         {
-            "id": 4276975801,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-In Pickleball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-06-23 11:30:00",
-            "end_date": "2025-06-23 14:00:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Pickleball",
-            "symbol": "figure.pickleball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
             "id": 1842369256,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -21180,6 +21842,26 @@
                 "mo",
                 "th",
                 "tu"
+            ]
+        },
+        {
+            "id": 4276975801,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-In Pickleball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-06-23 11:30:00",
+            "end_date": "2025-06-23 14:00:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Pickleball",
+            "symbol": "figure.pickleball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "mo"
             ]
         },
         {
@@ -21914,6 +22596,26 @@
             ]
         },
         {
+            "id": 3310899736,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-06-24 15:00:00",
+            "end_date": "2025-06-24 18:00:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
             "id": 4216926770,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Volleyball",
@@ -22094,6 +22796,27 @@
             ]
         },
         {
+            "id": 2000463247,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Learn to Play: Tennis",
+            "description": "Ever wanted to learn the basic skills of tennis or never had the chance pick up this amazing sport? You have the chance now UTM! This June and/or July join in on the 4-week UTM Beginner Tennis Lessons being offered by skilled tennis instructors on the UTM Tennis Courts. This is a great opportunity to learn the basics of tennis in a beginner friendly environment. Players will be introduced to the proper technique for volleys, serves, forehand and backhand groundstrokes.Don\u2019t own a tennis racquet? Don\u2019t worry\u2026 we have you covered!\u00a0Please Note: This program is for novice/new players only.\u00a0\u00a0\n",
+            "image": "",
+            "start_date": "2025-06-24 17:15:00",
+            "end_date": "2025-06-24 18:45:00",
+            "venue": "Tennis Courts",
+            "ticket_label": "Register Here",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=12988102-51b9-4705-b113-94b43f3991ab",
+            "sortCategory": "Tennis",
+            "symbol": "tennisball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th",
+                "tu"
+            ]
+        },
+        {
             "id": 3358220382,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Lifesaving Sport",
@@ -22170,6 +22893,27 @@
             "lgbt": false,
             "bipoc": false,
             "weeklyRepetitions": [
+                "tu"
+            ]
+        },
+        {
+            "id": 3341917930,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Learn to Play: Tennis",
+            "description": "Ever wanted to learn the basic skills of tennis or never had the chance pick up this amazing sport? You have the chance now UTM! This June and/or July join in on the 4-week UTM Beginner Tennis Lessons being offered by skilled tennis instructors on the UTM Tennis Courts. This is a great opportunity to learn the basics of tennis in a beginner friendly environment. Players will be introduced to the proper technique for volleys, serves, forehand and backhand groundstrokes.Don\u2019t own a tennis racquet? Don\u2019t worry\u2026 we have you covered!\u00a0Please Note: This program is for novice/new players only.\u00a0\u00a0\n",
+            "image": "",
+            "start_date": "2025-06-24 18:45:00",
+            "end_date": "2025-06-24 20:15:00",
+            "venue": "Tennis Courts",
+            "ticket_label": "Register Here",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=12988102-51b9-4705-b113-94b43f3991ab",
+            "sortCategory": "Tennis",
+            "symbol": "tennisball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th",
                 "tu"
             ]
         },
@@ -22573,6 +23317,26 @@
             "weeklyRepetitions": [
                 "fr",
                 "mo",
+                "we"
+            ]
+        },
+        {
+            "id": 3355490956,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-06-25 15:00:00",
+            "end_date": "2025-06-25 18:00:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
                 "we"
             ]
         },
@@ -23083,6 +23847,26 @@
             ]
         },
         {
+            "id": 889177337,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-06-26 15:00:00",
+            "end_date": "2025-06-26 18:00:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
             "id": 694333243,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "2SLGBTQ+ Solidarity Swim",
@@ -23176,6 +23960,26 @@
             "sortCategory": "Workout",
             "symbol": "dumbbell",
             "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
+            "id": 2411726258,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Basketball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-06-26 18:00:00",
+            "end_date": "2025-06-26 20:45:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "basketball",
+            "womens": false,
             "lgbt": false,
             "bipoc": false,
             "weeklyRepetitions": [
@@ -23817,6 +24621,27 @@
             ]
         },
         {
+            "id": 4064855953,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Squash",
+            "description": "",
+            "image": "",
+            "start_date": "2025-06-28 10:00:00",
+            "end_date": "2025-06-28 16:30:00",
+            "venue": "Squash Courts",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Squash",
+            "symbol": "figure.squash",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "sa",
+                "su"
+            ]
+        },
+        {
             "id": 3607092259,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Registered Swimming Lessons ",
@@ -23895,6 +24720,27 @@
             "bipoc": false,
             "weeklyRepetitions": [
                 "sa"
+            ]
+        },
+        {
+            "id": 132679517,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Squash",
+            "description": "",
+            "image": "",
+            "start_date": "2025-06-29 10:00:00",
+            "end_date": "2025-06-29 16:30:00",
+            "venue": "Squash Courts",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Squash",
+            "symbol": "figure.squash",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "sa",
+                "su"
             ]
         },
         {
@@ -24625,6 +25471,27 @@
             ]
         },
         {
+            "id": 556472450,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Squash",
+            "description": "",
+            "image": "",
+            "start_date": "2025-07-05 10:00:00",
+            "end_date": "2025-07-05 16:30:00",
+            "venue": "Squash Courts",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Squash",
+            "symbol": "figure.squash",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "sa",
+                "su"
+            ]
+        },
+        {
             "id": 1817308905,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "RAWC W.O.D.",
@@ -24642,6 +25509,27 @@
             "bipoc": false,
             "weeklyRepetitions": [
                 "sa"
+            ]
+        },
+        {
+            "id": 2017121843,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Squash",
+            "description": "",
+            "image": "",
+            "start_date": "2025-07-06 10:00:00",
+            "end_date": "2025-07-06 16:30:00",
+            "venue": "Squash Courts",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Squash",
+            "symbol": "figure.squash",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "sa",
+                "su"
             ]
         },
         {
@@ -25421,6 +26309,27 @@
             ]
         },
         {
+            "id": 2654950708,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Squash",
+            "description": "",
+            "image": "",
+            "start_date": "2025-07-12 10:00:00",
+            "end_date": "2025-07-12 16:30:00",
+            "venue": "Squash Courts",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Squash",
+            "symbol": "figure.squash",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "sa",
+                "su"
+            ]
+        },
+        {
             "id": 2952240095,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "RAWC W.O.D.",
@@ -25438,6 +26347,27 @@
             "bipoc": false,
             "weeklyRepetitions": [
                 "sa"
+            ]
+        },
+        {
+            "id": 423995389,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Squash",
+            "description": "",
+            "image": "",
+            "start_date": "2025-07-13 10:00:00",
+            "end_date": "2025-07-13 16:30:00",
+            "venue": "Squash Courts",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Squash",
+            "symbol": "figure.squash",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "sa",
+                "su"
             ]
         },
         {
@@ -26217,6 +27147,27 @@
             ]
         },
         {
+            "id": 3059531969,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Squash",
+            "description": "",
+            "image": "",
+            "start_date": "2025-07-19 10:00:00",
+            "end_date": "2025-07-19 16:30:00",
+            "venue": "Squash Courts",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Squash",
+            "symbol": "figure.squash",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "sa",
+                "su"
+            ]
+        },
+        {
             "id": 248278651,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "RAWC W.O.D.",
@@ -26234,6 +27185,27 @@
             "bipoc": false,
             "weeklyRepetitions": [
                 "sa"
+            ]
+        },
+        {
+            "id": 3912578959,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Squash",
+            "description": "",
+            "image": "",
+            "start_date": "2025-07-20 10:00:00",
+            "end_date": "2025-07-20 16:30:00",
+            "venue": "Squash Courts",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Squash",
+            "symbol": "figure.squash",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "sa",
+                "su"
             ]
         },
         {
@@ -27013,6 +27985,27 @@
             ]
         },
         {
+            "id": 2928477563,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Squash",
+            "description": "",
+            "image": "",
+            "start_date": "2025-07-26 10:00:00",
+            "end_date": "2025-07-26 16:30:00",
+            "venue": "Squash Courts",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Squash",
+            "symbol": "figure.squash",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "sa",
+                "su"
+            ]
+        },
+        {
             "id": 1635392387,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "RAWC W.O.D.",
@@ -27030,6 +28023,27 @@
             "bipoc": false,
             "weeklyRepetitions": [
                 "sa"
+            ]
+        },
+        {
+            "id": 2079117980,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Squash",
+            "description": "",
+            "image": "",
+            "start_date": "2025-07-27 10:00:00",
+            "end_date": "2025-07-27 16:30:00",
+            "venue": "Squash Courts",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Squash",
+            "symbol": "figure.squash",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "sa",
+                "su"
             ]
         },
         {
@@ -27748,6 +28762,27 @@
             ]
         },
         {
+            "id": 4078844548,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Squash",
+            "description": "",
+            "image": "",
+            "start_date": "2025-08-02 10:00:00",
+            "end_date": "2025-08-02 16:30:00",
+            "venue": "Squash Courts",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Squash",
+            "symbol": "figure.squash",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "sa",
+                "su"
+            ]
+        },
+        {
             "id": 3301756049,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "RAWC W.O.D.",
@@ -27765,6 +28800,27 @@
             "bipoc": false,
             "weeklyRepetitions": [
                 "sa"
+            ]
+        },
+        {
+            "id": 2723288936,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Squash",
+            "description": "",
+            "image": "",
+            "start_date": "2025-08-03 10:00:00",
+            "end_date": "2025-08-03 16:30:00",
+            "venue": "Squash Courts",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Squash",
+            "symbol": "figure.squash",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "sa",
+                "su"
             ]
         },
         {
@@ -28544,6 +29600,27 @@
             ]
         },
         {
+            "id": 1525577565,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Squash",
+            "description": "",
+            "image": "",
+            "start_date": "2025-08-09 10:00:00",
+            "end_date": "2025-08-09 16:30:00",
+            "venue": "Squash Courts",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Squash",
+            "symbol": "figure.squash",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "sa",
+                "su"
+            ]
+        },
+        {
             "id": 3629026144,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "RAWC W.O.D.",
@@ -28561,6 +29638,27 @@
             "bipoc": false,
             "weeklyRepetitions": [
                 "sa"
+            ]
+        },
+        {
+            "id": 3281038505,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Squash",
+            "description": "",
+            "image": "",
+            "start_date": "2025-08-10 10:00:00",
+            "end_date": "2025-08-10 16:30:00",
+            "venue": "Squash Courts",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Squash",
+            "symbol": "figure.squash",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "sa",
+                "su"
             ]
         },
         {
@@ -29340,6 +30438,27 @@
             ]
         },
         {
+            "id": 4145406269,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Squash",
+            "description": "",
+            "image": "",
+            "start_date": "2025-08-16 10:00:00",
+            "end_date": "2025-08-16 16:30:00",
+            "venue": "Squash Courts",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Squash",
+            "symbol": "figure.squash",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "sa",
+                "su"
+            ]
+        },
+        {
             "id": 958926856,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "RAWC W.O.D.",
@@ -29357,6 +30476,27 @@
             "bipoc": false,
             "weeklyRepetitions": [
                 "sa"
+            ]
+        },
+        {
+            "id": 3382996859,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Squash",
+            "description": "",
+            "image": "",
+            "start_date": "2025-08-17 10:00:00",
+            "end_date": "2025-08-17 16:30:00",
+            "venue": "Squash Courts",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Squash",
+            "symbol": "figure.squash",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "sa",
+                "su"
             ]
         },
         {
@@ -30133,6 +31273,27 @@
             "bipoc": false,
             "weeklyRepetitions": [
                 "fr"
+            ]
+        },
+        {
+            "id": 599901682,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Squash",
+            "description": "",
+            "image": "",
+            "start_date": "2025-08-23 10:00:00",
+            "end_date": "2025-08-23 16:30:00",
+            "venue": "Squash Courts",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Squash",
+            "symbol": "figure.squash",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "sa",
+                "su"
             ]
         }
     ],
