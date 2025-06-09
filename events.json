@@ -27294,6 +27294,44 @@
             "lgbt": true,
             "bipoc": false,
             "weeklyRepetitions": []
+        },
+        {
+            "id": 153458575,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fun Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2025-06-15 13:30:00",
+            "end_date": "2025-06-15 16:30:00",
+            "venue": "Pool",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b3c1fd9b-343f-4114-a627-c861f963c685",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "su"
+            ]
+        },
+        {
+            "id": 3727357430,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fun Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2025-06-29 13:30:00",
+            "end_date": "2025-06-29 16:30:00",
+            "venue": "Pool",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b3c1fd9b-343f-4114-a627-c861f963c685",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": []
         }
     ],
     "announcements": []
