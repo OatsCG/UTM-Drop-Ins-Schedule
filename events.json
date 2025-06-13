@@ -32544,6 +32544,46 @@
             "weeklyRepetitions": [
                 "tu"
             ]
+        },
+        {
+            "id": 665675830,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "2SLGBTQ+ Solidarity Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2025-06-19 15:30:00",
+            "end_date": "2025-06-19 16:15:00",
+            "venue": "Pool",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=0465236b-2f32-4b2a-97b1-af1ca7693be8",
+            "sortCategory": "Swim",
+            "symbol": "figure.water.fitness",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
+            "id": 694333243,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "2SLGBTQ+ Solidarity Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2025-06-26 15:30:00",
+            "end_date": "2025-06-26 16:15:00",
+            "venue": "Pool",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=0465236b-2f32-4b2a-97b1-af1ca7693be8",
+            "sortCategory": "Swim",
+            "symbol": "figure.water.fitness",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
         }
     ],
     "announcements": []
