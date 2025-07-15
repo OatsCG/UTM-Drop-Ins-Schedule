@@ -35565,6 +35565,46 @@
     ],
     "featured": [
         {
+            "id": 3095225471,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Learn to Play: Indoor Cricket",
+            "description": "Ever wanted to learn the basic skills of Indoor Cricket or never had the chance to pick up this amazing sport? You have the chance now at UTM! This Winter, join in on the 4-week Learn to Play Indoor Cricket Lessons being offered by a skilled instructor in GYM A/B at the RAWC. This is a terrific opportunity to learn the basics of this sport in a beginner friendly environment. Players will be introduced to the proper technique for bowling, batting, defensive play and scoring!Please Note: This program is for novice/new players only.\u00a0\u00a0Spots are limited so be sure to secure your spot!",
+            "image": "",
+            "start_date": "2025-07-21 18:00:00",
+            "end_date": "2025-07-21 19:30:00",
+            "venue": "Gym A/B",
+            "ticket_label": "Register Here",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=de4d45b0-6427-4e83-8972-793a8cd416d1",
+            "sortCategory": "Cricket",
+            "symbol": "cricket.ball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
+            "id": 3826885926,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Learn to Play: Indoor Cricket",
+            "description": "Ever wanted to learn the basic skills of Indoor Cricket or never had the chance to pick up this amazing sport? You have the chance now at UTM! This Winter, join in on the 4-week Learn to Play Indoor Cricket Lessons being offered by a skilled instructor in GYM A/B at the RAWC. This is a terrific opportunity to learn the basics of this sport in a beginner friendly environment. Players will be introduced to the proper technique for bowling, batting, defensive play and scoring!Please Note: This program is for novice/new players only.\u00a0\u00a0Spots are limited so be sure to secure your spot!",
+            "image": "",
+            "start_date": "2025-07-28 18:00:00",
+            "end_date": "2025-07-28 19:30:00",
+            "venue": "Gym A/B",
+            "ticket_label": "Register Here",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=de4d45b0-6427-4e83-8972-793a8cd416d1",
+            "sortCategory": "Cricket",
+            "symbol": "cricket.ball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
             "id": 1492095858,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Indoor Soccer",
