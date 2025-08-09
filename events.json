@@ -36229,6 +36229,46 @@
             "weeklyRepetitions": [
                 "th"
             ]
+        },
+        {
+            "id": 2001034035,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Women's Only: Beginner Boxing",
+            "description": "",
+            "image": "",
+            "start_date": "2025-08-15 17:10:00",
+            "end_date": "2025-08-15 17:55:00",
+            "venue": "Dance Studio",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=9b20108d-57a4-425b-a2b4-5e1e30009df1",
+            "sortCategory": "Combat",
+            "symbol": "figure.boxing",
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
+        },
+        {
+            "id": 3176197818,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Women's Only: Beginner Boxing",
+            "description": "",
+            "image": "",
+            "start_date": "2025-08-22 17:10:00",
+            "end_date": "2025-08-22 17:55:00",
+            "venue": "Dance Studio",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=9b20108d-57a4-425b-a2b4-5e1e30009df1",
+            "sortCategory": "Combat",
+            "symbol": "figure.boxing",
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "fr"
+            ]
         }
     ],
     "announcements": [
