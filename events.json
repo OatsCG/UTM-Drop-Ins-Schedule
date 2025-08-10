@@ -36269,6 +36269,46 @@
             "weeklyRepetitions": [
                 "fr"
             ]
+        },
+        {
+            "id": 3230087769,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Registered Swimming Lessons ",
+            "description": "",
+            "image": "",
+            "start_date": "2025-08-16 10:00:00",
+            "end_date": "2025-08-16 13:30:00",
+            "venue": "Pool",
+            "ticket_label": "Learn More",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/aquatics/swimming-lessons",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "sa"
+            ]
+        },
+        {
+            "id": 1077358762,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Registered Swimming Lessons ",
+            "description": "",
+            "image": "",
+            "start_date": "2025-08-23 10:00:00",
+            "end_date": "2025-08-23 13:30:00",
+            "venue": "Pool",
+            "ticket_label": "Learn More",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/aquatics/swimming-lessons",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "sa"
+            ]
         }
     ],
     "announcements": [
