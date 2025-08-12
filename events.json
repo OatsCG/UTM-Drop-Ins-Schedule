@@ -35731,106 +35731,6 @@
     ],
     "featured": [
         {
-            "id": 2123317287,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Yogilates",
-            "description": "",
-            "image": "",
-            "start_date": "2025-08-11 12:10:00",
-            "end_date": "2025-08-11 12:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=39a642fb-d656-4836-9bed-30aa2b4a5d35&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.yoga",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
-            "id": 275241021,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Yogilates",
-            "description": "",
-            "image": "",
-            "start_date": "2025-08-18 12:10:00",
-            "end_date": "2025-08-18 12:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=39a642fb-d656-4836-9bed-30aa2b4a5d35&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.yoga",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
-            "id": 2352791964,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Meditation & Movement",
-            "description": "",
-            "image": "",
-            "start_date": "2025-08-11 13:30:00",
-            "end_date": "2025-08-11 14:00:00",
-            "venue": "The Hub | DV2207",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=fd3c4eeb-717f-4f67-8962-573241ed316e",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.mind.and.body",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
-            "id": 198264944,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Meditation & Movement",
-            "description": "",
-            "image": "",
-            "start_date": "2025-08-18 13:30:00",
-            "end_date": "2025-08-18 14:00:00",
-            "venue": "The Hub | DV2207",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=fd3c4eeb-717f-4f67-8962-573241ed316e",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.mind.and.body",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
-            "id": 2419414332,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Intermediate Boxing",
-            "description": "",
-            "image": "",
-            "start_date": "2025-08-11 17:30:00",
-            "end_date": "2025-08-11 18:45:00",
-            "venue": "Dance Studio",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/program/getprogramdetails?courseid=33df4c67-b0d1-4017-bfd4-24e46782d478",
-            "sortCategory": "Combat",
-            "symbol": "figure.boxing",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
             "id": 4245168780,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Strength 101",
@@ -36308,6 +36208,206 @@
             "bipoc": false,
             "weeklyRepetitions": [
                 "sa"
+            ]
+        },
+        {
+            "id": 275241021,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Yogilates",
+            "description": "",
+            "image": "",
+            "start_date": "2025-08-18 12:10:00",
+            "end_date": "2025-08-18 12:55:00",
+            "venue": "Dance Studio",
+            "ticket_label": "Reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=39a642fb-d656-4836-9bed-30aa2b4a5d35&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.yoga",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
+            "id": 198264944,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Meditation & Movement",
+            "description": "",
+            "image": "",
+            "start_date": "2025-08-18 13:30:00",
+            "end_date": "2025-08-18 14:00:00",
+            "venue": "The Hub | DV2207",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=fd3c4eeb-717f-4f67-8962-573241ed316e",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.mind.and.body",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
+            "id": 538342173,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in BIPOC Sports",
+            "description": "",
+            "image": "",
+            "start_date": "2025-08-18 17:00:00",
+            "end_date": "2025-08-18 18:30:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "figure.run",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": true,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
+            "id": 90094464,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in BIPOC Sports",
+            "description": "",
+            "image": "",
+            "start_date": "2025-08-25 17:00:00",
+            "end_date": "2025-08-25 18:30:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Basketball",
+            "symbol": "figure.run",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": true,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
+            "id": 1837193679,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Women's Only: Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2025-08-18 18:00:00",
+            "end_date": "2025-08-18 20:45:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
+            "id": 3427173008,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Women's Only: Fitness Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2025-08-25 18:00:00",
+            "end_date": "2025-08-25 20:45:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
+            "id": 3541109240,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Women's Only: Registered Lessons ($)",
+            "description": "",
+            "image": "",
+            "start_date": "2025-08-18 18:00:00",
+            "end_date": "2025-08-18 20:45:00",
+            "venue": "Pool",
+            "ticket_label": "Learn More",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=62163d56-8588-41ba-859c-d00854c27a42&semesterId=c0176165-a345-43f0-8060-2358e0051c75",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
+            "id": 3759531821,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Women's Only: Registered Lessons ($)",
+            "description": "",
+            "image": "",
+            "start_date": "2025-08-25 18:00:00",
+            "end_date": "2025-08-25 20:45:00",
+            "venue": "Pool",
+            "ticket_label": "Learn More",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=62163d56-8588-41ba-859c-d00854c27a42&semesterId=c0176165-a345-43f0-8060-2358e0051c75",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
+            "id": 1480353684,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Cricket",
+            "description": "",
+            "image": "",
+            "start_date": "2025-08-18 19:30:00",
+            "end_date": "2025-08-18 20:45:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Cricket",
+            "symbol": "cricket.ball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "mo"
+            ]
+        },
+        {
+            "id": 2022178594,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Cricket",
+            "description": "",
+            "image": "",
+            "start_date": "2025-08-25 19:30:00",
+            "end_date": "2025-08-25 20:45:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Cricket",
+            "symbol": "cricket.ball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "mo"
             ]
         }
     ],
