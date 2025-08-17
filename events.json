@@ -35605,38 +35605,80 @@
     ],
     "featured": [
         {
-            "id": 3230087769,
+            "id": 2589832394,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Registered Swimming Lessons ",
+            "title": "Drop-in Beach Volleyball",
             "description": "",
             "image": "",
-            "start_date": "2025-08-16 10:00:00",
-            "end_date": "2025-08-16 13:30:00",
-            "venue": "Pool",
-            "ticket_label": "Learn More",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/aquatics/swimming-lessons",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
+            "start_date": "2025-08-17 10:30:00",
+            "end_date": "2025-08-17 16:30:00",
+            "venue": "Beach Volleyball Courts",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
             "weeklyRepetitions": [
-                "sa"
+                "sa",
+                "su"
             ]
         },
         {
-            "id": 1077358762,
+            "id": 3012803224,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Registered Swimming Lessons ",
+            "title": "Drop-in Beach Volleyball",
             "description": "",
             "image": "",
-            "start_date": "2025-08-23 10:00:00",
-            "end_date": "2025-08-23 13:30:00",
-            "venue": "Pool",
-            "ticket_label": "Learn More",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/aquatics/swimming-lessons",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
+            "start_date": "2025-08-23 10:30:00",
+            "end_date": "2025-08-23 16:30:00",
+            "venue": "Beach Volleyball Courts",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "sa",
+                "su"
+            ]
+        },
+        {
+            "id": 2507310098,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Field Sports",
+            "description": "",
+            "image": "",
+            "start_date": "2025-08-17 10:30:00",
+            "end_date": "2025-08-17 16:30:00",
+            "venue": "North Field",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Field Sports",
+            "symbol": "flag",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "su"
+            ]
+        },
+        {
+            "id": 22153568,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Field Sports",
+            "description": "",
+            "image": "",
+            "start_date": "2025-08-23 10:30:00",
+            "end_date": "2025-08-23 16:30:00",
+            "venue": "North Field",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Field Sports",
+            "symbol": "flag",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -36264,6 +36306,26 @@
             "bipoc": false,
             "weeklyRepetitions": [
                 "fr"
+            ]
+        },
+        {
+            "id": 1077358762,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Registered Swimming Lessons ",
+            "description": "",
+            "image": "",
+            "start_date": "2025-08-23 10:00:00",
+            "end_date": "2025-08-23 13:30:00",
+            "venue": "Pool",
+            "ticket_label": "Learn More",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/aquatics/swimming-lessons",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "sa"
             ]
         }
     ],
