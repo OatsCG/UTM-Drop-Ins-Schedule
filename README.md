@@ -3,6 +3,7 @@
 
 version.txt stores the version and date of when events.json was last updated.
 
+## [App Data Pipeline](UTMSportsDataPipeline.pdf)
 
 ## Schema
 ```ts
