@@ -59,9 +59,13 @@ version.txt stores the version and date of when events.json was last updated.
             "id": Int,
             "title": String,
             "body": String,
-            "type": Int
+            "type": Int // 0=>normal, 1=>closure, 2=>update, other=>gray
         },
         ...
     ]
 }
 ```
+
+
+## To Note
+- "featured" events exist in "events" as well
