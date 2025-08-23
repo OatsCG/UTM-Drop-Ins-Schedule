@@ -36383,67 +36383,6 @@
     ],
     "featured": [
         {
-            "id": 1690970024,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "RAWC W.O.D.",
-            "description": "",
-            "image": "",
-            "start_date": "2025-08-22 11:10:00",
-            "end_date": "2025-08-22 11:55:00",
-            "venue": "Strength & Conditioning Centre",
-            "ticket_label": "Reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=bd21dcf1-5ad4-47a5-96e1-53e86350a33f",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
-            "id": 1661054394,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Cycle Core",
-            "description": "",
-            "image": "",
-            "start_date": "2025-08-22 12:10:00",
-            "end_date": "2025-08-22 12:55:00",
-            "venue": "TBD",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=504148e9-182e-488d-96b1-71c5b569ea60&semesterId=bb4e0bba-b1e3-485c-8a94-769596e0e6bd",
-            "sortCategory": "Cycling",
-            "symbol": "figure.indoor.cycle",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "fr",
-                "tu"
-            ]
-        },
-        {
-            "id": 3176197818,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only: Beginner Boxing",
-            "description": "",
-            "image": "",
-            "start_date": "2025-08-22 17:10:00",
-            "end_date": "2025-08-22 17:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=9b20108d-57a4-425b-a2b4-5e1e30009df1",
-            "sortCategory": "Combat",
-            "symbol": "figure.boxing",
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "fr"
-            ]
-        },
-        {
             "id": 1077358762,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Registered Swimming Lessons ",
@@ -36502,6 +36441,46 @@
             "bipoc": false,
             "weeklyRepetitions": [
                 "sa"
+            ]
+        },
+        {
+            "id": 388524800,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fun Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2025-08-24 13:30:00",
+            "end_date": "2025-08-24 16:30:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "su"
+            ]
+        },
+        {
+            "id": 2758512910,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Fun Swim",
+            "description": "",
+            "image": "",
+            "start_date": "2025-08-29 18:00:00",
+            "end_date": "2025-08-29 20:45:00",
+            "venue": "Pool",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "fr"
             ]
         },
         {
