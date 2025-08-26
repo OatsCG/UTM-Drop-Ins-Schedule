@@ -18511,26 +18511,6 @@
             ]
         },
         {
-            "id": 4045953713,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Pilates",
-            "description": "",
-            "image": "",
-            "start_date": "2025-07-02 16:10:00",
-            "end_date": "2025-07-02 16:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=03dbd7b9-e1e5-4221-bf11-dd4396b82c81&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.pilates",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 1839509092,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women on Weights! (WOW)",
@@ -18549,6 +18529,26 @@
             "weeklyRepetitions": [
                 "fr",
                 "mo",
+                "we"
+            ]
+        },
+        {
+            "id": 4045953713,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Pilates",
+            "description": "",
+            "image": "",
+            "start_date": "2025-07-02 16:10:00",
+            "end_date": "2025-07-02 16:55:00",
+            "venue": "Dance Studio",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=03dbd7b9-e1e5-4221-bf11-dd4396b82c81&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.pilates",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
                 "we"
             ]
         },
@@ -20594,26 +20594,6 @@
             ]
         },
         {
-            "id": 3510304080,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Pilates",
-            "description": "",
-            "image": "",
-            "start_date": "2025-07-09 16:10:00",
-            "end_date": "2025-07-09 16:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=03dbd7b9-e1e5-4221-bf11-dd4396b82c81&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.pilates",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 2226172152,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women on Weights! (WOW)",
@@ -20632,6 +20612,26 @@
             "weeklyRepetitions": [
                 "fr",
                 "mo",
+                "we"
+            ]
+        },
+        {
+            "id": 3510304080,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Pilates",
+            "description": "",
+            "image": "",
+            "start_date": "2025-07-09 16:10:00",
+            "end_date": "2025-07-09 16:55:00",
+            "venue": "Dance Studio",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=03dbd7b9-e1e5-4221-bf11-dd4396b82c81&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.pilates",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
                 "we"
             ]
         },
@@ -20871,26 +20871,6 @@
             ]
         },
         {
-            "id": 847032234,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2025-07-10 12:00:00",
-            "end_date": "2025-07-10 13:00:00",
-            "venue": "Gym B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
             "id": 1630277597,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -20903,6 +20883,26 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
+            "id": 847032234,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2025-07-10 12:00:00",
+            "end_date": "2025-07-10 13:00:00",
+            "venue": "Gym B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -22974,26 +22974,6 @@
             ]
         },
         {
-            "id": 3169770103,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Pilates",
-            "description": "",
-            "image": "",
-            "start_date": "2025-07-16 16:10:00",
-            "end_date": "2025-07-16 16:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=03dbd7b9-e1e5-4221-bf11-dd4396b82c81&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.pilates",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 3400422772,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women on Weights! (WOW)",
@@ -23012,6 +22992,26 @@
             "weeklyRepetitions": [
                 "fr",
                 "mo",
+                "we"
+            ]
+        },
+        {
+            "id": 3169770103,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Pilates",
+            "description": "",
+            "image": "",
+            "start_date": "2025-07-16 16:10:00",
+            "end_date": "2025-07-16 16:55:00",
+            "venue": "Dance Studio",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=03dbd7b9-e1e5-4221-bf11-dd4396b82c81&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.pilates",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
                 "we"
             ]
         },
@@ -23230,26 +23230,6 @@
             ]
         },
         {
-            "id": 1684484656,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2025-07-17 12:00:00",
-            "end_date": "2025-07-17 13:00:00",
-            "venue": "Gym B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
             "id": 3838967201,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -23262,6 +23242,26 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
+            "id": 1684484656,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2025-07-17 12:00:00",
+            "end_date": "2025-07-17 13:00:00",
+            "venue": "Gym B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -25179,26 +25179,6 @@
             ]
         },
         {
-            "id": 3595342116,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Pilates",
-            "description": "",
-            "image": "",
-            "start_date": "2025-07-23 16:10:00",
-            "end_date": "2025-07-23 16:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=03dbd7b9-e1e5-4221-bf11-dd4396b82c81&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.pilates",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 2142987293,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women on Weights! (WOW)",
@@ -25217,6 +25197,26 @@
             "weeklyRepetitions": [
                 "fr",
                 "mo",
+                "we"
+            ]
+        },
+        {
+            "id": 3595342116,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Pilates",
+            "description": "",
+            "image": "",
+            "start_date": "2025-07-23 16:10:00",
+            "end_date": "2025-07-23 16:55:00",
+            "venue": "Dance Studio",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=03dbd7b9-e1e5-4221-bf11-dd4396b82c81&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.pilates",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
                 "we"
             ]
         },
@@ -25414,26 +25414,6 @@
             ]
         },
         {
-            "id": 2185742883,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2025-07-24 12:00:00",
-            "end_date": "2025-07-24 13:00:00",
-            "venue": "Gym B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
             "id": 3300383875,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -25446,6 +25426,26 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
+            "id": 2185742883,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2025-07-24 12:00:00",
+            "end_date": "2025-07-24 13:00:00",
+            "venue": "Gym B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -27428,26 +27428,6 @@
             ]
         },
         {
-            "id": 2220692162,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Pilates",
-            "description": "",
-            "image": "",
-            "start_date": "2025-07-30 16:10:00",
-            "end_date": "2025-07-30 16:55:00",
-            "venue": "Dance Studio",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=03dbd7b9-e1e5-4221-bf11-dd4396b82c81&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Mind & Body",
-            "symbol": "figure.pilates",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
             "id": 1771843345,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women on Weights! (WOW)",
@@ -27466,6 +27446,26 @@
             "weeklyRepetitions": [
                 "fr",
                 "mo",
+                "we"
+            ]
+        },
+        {
+            "id": 2220692162,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Pilates",
+            "description": "",
+            "image": "",
+            "start_date": "2025-07-30 16:10:00",
+            "end_date": "2025-07-30 16:55:00",
+            "venue": "Dance Studio",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=03dbd7b9-e1e5-4221-bf11-dd4396b82c81&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
+            "sortCategory": "Mind & Body",
+            "symbol": "figure.pilates",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
                 "we"
             ]
         },
@@ -27663,26 +27663,6 @@
             ]
         },
         {
-            "id": 42798878,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2025-07-31 12:00:00",
-            "end_date": "2025-07-31 13:00:00",
-            "venue": "Gym B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
             "id": 3166353931,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -27695,6 +27675,26 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
+            "id": 42798878,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2025-07-31 12:00:00",
+            "end_date": "2025-07-31 13:00:00",
+            "venue": "Gym B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -28084,6 +28084,27 @@
             ]
         },
         {
+            "id": 4263381214,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Pickleball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-08-02 10:30:00",
+            "end_date": "2025-08-02 13:15:00",
+            "venue": "Tennis Courts",
+            "ticket_label": "book a court",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "sortCategory": "Pickleball",
+            "symbol": "figure.pickleball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "sa",
+                "su"
+            ]
+        },
+        {
             "id": 2759873838,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Beach Volleyball",
@@ -28122,27 +28143,6 @@
             "bipoc": false,
             "weeklyRepetitions": [
                 "sa"
-            ]
-        },
-        {
-            "id": 4263381214,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Pickleball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-08-02 10:30:00",
-            "end_date": "2025-08-02 13:15:00",
-            "venue": "Tennis Courts",
-            "ticket_label": "book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
-            "sortCategory": "Pickleball",
-            "symbol": "figure.pickleball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "sa",
-                "su"
             ]
         },
         {
@@ -28245,27 +28245,6 @@
             ]
         },
         {
-            "id": 2620740312,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Beach Volleyball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-08-03 10:30:00",
-            "end_date": "2025-08-03 16:30:00",
-            "venue": "Beach Volleyball Courts",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Volleyball",
-            "symbol": "volleyball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "sa",
-                "su"
-            ]
-        },
-        {
             "id": 2483671972,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Pickleball",
@@ -28278,6 +28257,27 @@
             "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
             "sortCategory": "Pickleball",
             "symbol": "figure.pickleball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "sa",
+                "su"
+            ]
+        },
+        {
+            "id": 2620740312,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Beach Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-08-03 10:30:00",
+            "end_date": "2025-08-03 16:30:00",
+            "venue": "Beach Volleyball Courts",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -28963,7 +28963,7 @@
             ]
         },
         {
-            "id": 3519289655,
+            "id": 3497670801,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Cardio HIIT",
             "description": "",
@@ -28985,7 +28985,7 @@
             ]
         },
         {
-            "id": 3497670801,
+            "id": 3519289655,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Cardio HIIT",
             "description": "",
@@ -29045,6 +29045,28 @@
             "weeklyRepetitions": []
         },
         {
+            "id": 1400358392,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Women on Weights! (WOW)",
+            "description": "",
+            "image": "",
+            "start_date": "2025-08-06 16:10:00",
+            "end_date": "2025-08-06 16:55:00",
+            "venue": "Strength & Conditioning Centre",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b05d2432-ae3d-4aae-8ccb-87540c252ef9&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
+            "sortCategory": "Workout",
+            "symbol": "dumbbell",
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo",
+                "we"
+            ]
+        },
+        {
             "id": 3331082858,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women on Weights! (WOW)",
@@ -29083,28 +29105,6 @@
             "lgbt": false,
             "bipoc": false,
             "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
-            "id": 1400358392,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women on Weights! (WOW)",
-            "description": "",
-            "image": "",
-            "start_date": "2025-08-06 16:10:00",
-            "end_date": "2025-08-06 16:55:00",
-            "venue": "Strength & Conditioning Centre",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b05d2432-ae3d-4aae-8ccb-87540c252ef9&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Workout",
-            "symbol": "dumbbell",
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo",
                 "we"
             ]
         },
@@ -29346,26 +29346,6 @@
             ]
         },
         {
-            "id": 2114160458,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2025-08-07 12:00:00",
-            "end_date": "2025-08-07 13:00:00",
-            "venue": "Gym B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
             "id": 1101075121,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -29378,6 +29358,26 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
+            "id": 2114160458,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2025-08-07 12:00:00",
+            "end_date": "2025-08-07 13:00:00",
+            "venue": "Gym B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -29801,7 +29801,7 @@
             ]
         },
         {
-            "id": 2610427114,
+            "id": 2919423523,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Cardio HIIT",
             "description": "",
@@ -29823,7 +29823,7 @@
             ]
         },
         {
-            "id": 2919423523,
+            "id": 2610427114,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Cardio HIIT",
             "description": "",
@@ -29865,7 +29865,7 @@
             ]
         },
         {
-            "id": 4257811972,
+            "id": 1891841521,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women on Weights! (WOW)",
             "description": "",
@@ -29887,7 +29887,7 @@
             ]
         },
         {
-            "id": 1891841521,
+            "id": 4257811972,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women on Weights! (WOW)",
             "description": "",
@@ -30030,6 +30030,27 @@
             ]
         },
         {
+            "id": 2338837263,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Pickleball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-08-09 10:30:00",
+            "end_date": "2025-08-09 13:15:00",
+            "venue": "Tennis Courts",
+            "ticket_label": "book a court",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "sortCategory": "Pickleball",
+            "symbol": "figure.pickleball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "sa",
+                "su"
+            ]
+        },
+        {
             "id": 2047581545,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Beach Volleyball",
@@ -30068,27 +30089,6 @@
             "bipoc": false,
             "weeklyRepetitions": [
                 "sa"
-            ]
-        },
-        {
-            "id": 2338837263,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Pickleball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-08-09 10:30:00",
-            "end_date": "2025-08-09 13:15:00",
-            "venue": "Tennis Courts",
-            "ticket_label": "book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
-            "sortCategory": "Pickleball",
-            "symbol": "figure.pickleball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "sa",
-                "su"
             ]
         },
         {
@@ -30173,27 +30173,6 @@
             ]
         },
         {
-            "id": 115702825,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Beach Volleyball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-08-10 10:30:00",
-            "end_date": "2025-08-10 16:30:00",
-            "venue": "Beach Volleyball Courts",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Volleyball",
-            "symbol": "volleyball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "sa",
-                "su"
-            ]
-        },
-        {
             "id": 7520627,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Pickleball",
@@ -30206,6 +30185,27 @@
             "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
             "sortCategory": "Pickleball",
             "symbol": "figure.pickleball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "sa",
+                "su"
+            ]
+        },
+        {
+            "id": 115702825,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Beach Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-08-10 10:30:00",
+            "end_date": "2025-08-10 16:30:00",
+            "venue": "Beach Volleyball Courts",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -30470,7 +30470,7 @@
             ]
         },
         {
-            "id": 3463602286,
+            "id": 3629515842,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Cardio HIIT",
             "description": "",
@@ -30492,7 +30492,7 @@
             ]
         },
         {
-            "id": 3629515842,
+            "id": 3463602286,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Cardio HIIT",
             "description": "",
@@ -30554,7 +30554,7 @@
             ]
         },
         {
-            "id": 3654129595,
+            "id": 1112073212,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women on Weights! (WOW)",
             "description": "",
@@ -30576,7 +30576,7 @@
             ]
         },
         {
-            "id": 1112073212,
+            "id": 3654129595,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women on Weights! (WOW)",
             "description": "",
@@ -31293,7 +31293,7 @@
             ]
         },
         {
-            "id": 2099795012,
+            "id": 685447834,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Cardio HIIT",
             "description": "",
@@ -31315,7 +31315,7 @@
             ]
         },
         {
-            "id": 685447834,
+            "id": 2099795012,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Cardio HIIT",
             "description": "",
@@ -31377,6 +31377,28 @@
             ]
         },
         {
+            "id": 318301797,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Women on Weights! (WOW)",
+            "description": "",
+            "image": "",
+            "start_date": "2025-08-13 16:10:00",
+            "end_date": "2025-08-13 16:55:00",
+            "venue": "Strength & Conditioning Centre",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b05d2432-ae3d-4aae-8ccb-87540c252ef9&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
+            "sortCategory": "Workout",
+            "symbol": "dumbbell",
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo",
+                "we"
+            ]
+        },
+        {
             "id": 736383669,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women on Weights! (WOW)",
@@ -31415,28 +31437,6 @@
             "lgbt": false,
             "bipoc": false,
             "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
-            "id": 318301797,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women on Weights! (WOW)",
-            "description": "",
-            "image": "",
-            "start_date": "2025-08-13 16:10:00",
-            "end_date": "2025-08-13 16:55:00",
-            "venue": "Strength & Conditioning Centre",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b05d2432-ae3d-4aae-8ccb-87540c252ef9&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Workout",
-            "symbol": "dumbbell",
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo",
                 "we"
             ]
         },
@@ -31678,26 +31678,6 @@
             ]
         },
         {
-            "id": 2689194731,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2025-08-14 12:00:00",
-            "end_date": "2025-08-14 13:00:00",
-            "venue": "Gym B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
             "id": 1322649109,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -31710,6 +31690,26 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
+            "id": 2689194731,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2025-08-14 12:00:00",
+            "end_date": "2025-08-14 13:00:00",
+            "venue": "Gym B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -32137,7 +32137,7 @@
             ]
         },
         {
-            "id": 3010146033,
+            "id": 4024935064,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Cardio HIIT",
             "description": "",
@@ -32159,7 +32159,7 @@
             ]
         },
         {
-            "id": 4024935064,
+            "id": 3010146033,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Cardio HIIT",
             "description": "",
@@ -32201,7 +32201,7 @@
             ]
         },
         {
-            "id": 442116854,
+            "id": 4162726993,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women on Weights! (WOW)",
             "description": "",
@@ -32223,7 +32223,7 @@
             ]
         },
         {
-            "id": 4162726993,
+            "id": 442116854,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women on Weights! (WOW)",
             "description": "",
@@ -32366,6 +32366,27 @@
             ]
         },
         {
+            "id": 3181706501,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Pickleball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-08-16 10:30:00",
+            "end_date": "2025-08-16 13:15:00",
+            "venue": "Tennis Courts",
+            "ticket_label": "book a court",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "sortCategory": "Pickleball",
+            "symbol": "figure.pickleball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "sa",
+                "su"
+            ]
+        },
+        {
             "id": 709971647,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Beach Volleyball",
@@ -32404,27 +32425,6 @@
             "bipoc": false,
             "weeklyRepetitions": [
                 "sa"
-            ]
-        },
-        {
-            "id": 3181706501,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Pickleball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-08-16 10:30:00",
-            "end_date": "2025-08-16 13:15:00",
-            "venue": "Tennis Courts",
-            "ticket_label": "book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
-            "sortCategory": "Pickleball",
-            "symbol": "figure.pickleball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "sa",
-                "su"
             ]
         },
         {
@@ -32509,27 +32509,6 @@
             ]
         },
         {
-            "id": 2589832394,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Beach Volleyball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-08-17 10:30:00",
-            "end_date": "2025-08-17 16:30:00",
-            "venue": "Beach Volleyball Courts",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Volleyball",
-            "symbol": "volleyball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "sa",
-                "su"
-            ]
-        },
-        {
             "id": 268620324,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Pickleball",
@@ -32542,6 +32521,27 @@
             "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
             "sortCategory": "Pickleball",
             "symbol": "figure.pickleball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "sa",
+                "su"
+            ]
+        },
+        {
+            "id": 2589832394,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Beach Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-08-17 10:30:00",
+            "end_date": "2025-08-17 16:30:00",
+            "venue": "Beach Volleyball Courts",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -32806,7 +32806,7 @@
             ]
         },
         {
-            "id": 4142714825,
+            "id": 3047123904,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Cardio HIIT",
             "description": "",
@@ -32828,7 +32828,7 @@
             ]
         },
         {
-            "id": 3047123904,
+            "id": 4142714825,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Cardio HIIT",
             "description": "",
@@ -32890,7 +32890,7 @@
             ]
         },
         {
-            "id": 2506547209,
+            "id": 1579362794,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women on Weights! (WOW)",
             "description": "",
@@ -32912,7 +32912,7 @@
             ]
         },
         {
-            "id": 1579362794,
+            "id": 2506547209,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women on Weights! (WOW)",
             "description": "",
@@ -33607,7 +33607,7 @@
             ]
         },
         {
-            "id": 454892280,
+            "id": 1037867486,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Cardio HIIT",
             "description": "",
@@ -33629,7 +33629,7 @@
             ]
         },
         {
-            "id": 1037867486,
+            "id": 454892280,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Cardio HIIT",
             "description": "",
@@ -33691,6 +33691,28 @@
             ]
         },
         {
+            "id": 2047689171,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Women on Weights! (WOW)",
+            "description": "",
+            "image": "",
+            "start_date": "2025-08-20 16:10:00",
+            "end_date": "2025-08-20 16:55:00",
+            "venue": "Strength & Conditioning Centre",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b05d2432-ae3d-4aae-8ccb-87540c252ef9&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
+            "sortCategory": "Workout",
+            "symbol": "dumbbell",
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo",
+                "we"
+            ]
+        },
+        {
             "id": 2064889140,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women on Weights! (WOW)",
@@ -33729,28 +33751,6 @@
             "lgbt": false,
             "bipoc": false,
             "weeklyRepetitions": [
-                "we"
-            ]
-        },
-        {
-            "id": 2047689171,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women on Weights! (WOW)",
-            "description": "",
-            "image": "",
-            "start_date": "2025-08-20 16:10:00",
-            "end_date": "2025-08-20 16:55:00",
-            "venue": "Strength & Conditioning Centre",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b05d2432-ae3d-4aae-8ccb-87540c252ef9&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Workout",
-            "symbol": "dumbbell",
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "fr",
-                "mo",
                 "we"
             ]
         },
@@ -33990,26 +33990,6 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2607386242,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Badminton",
-            "description": "",
-            "image": "",
-            "start_date": "2025-08-21 12:00:00",
-            "end_date": "2025-08-21 13:00:00",
-            "venue": "Gym B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Badminton",
-            "symbol": "figure.badminton",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "th"
-            ]
-        },
-        {
             "id": 322288210,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Basketball",
@@ -34022,6 +34002,26 @@
             "ticket_url": "",
             "sortCategory": "Basketball",
             "symbol": "basketball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
+            "id": 2607386242,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2025-08-21 12:00:00",
+            "end_date": "2025-08-21 13:00:00",
+            "venue": "Gym B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
@@ -34449,7 +34449,7 @@
             ]
         },
         {
-            "id": 2217412439,
+            "id": 4138107932,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Cardio HIIT",
             "description": "",
@@ -34471,7 +34471,7 @@
             ]
         },
         {
-            "id": 4138107932,
+            "id": 2217412439,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Cardio HIIT",
             "description": "",
@@ -34513,7 +34513,7 @@
             ]
         },
         {
-            "id": 1412874489,
+            "id": 2974229296,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women on Weights! (WOW)",
             "description": "",
@@ -34535,7 +34535,7 @@
             ]
         },
         {
-            "id": 2974229296,
+            "id": 1412874489,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women on Weights! (WOW)",
             "description": "",
@@ -34678,6 +34678,27 @@
             ]
         },
         {
+            "id": 2516158074,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Pickleball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-08-23 10:30:00",
+            "end_date": "2025-08-23 13:15:00",
+            "venue": "Tennis Courts",
+            "ticket_label": "book a court",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
+            "sortCategory": "Pickleball",
+            "symbol": "figure.pickleball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "sa",
+                "su"
+            ]
+        },
+        {
             "id": 3012803224,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Beach Volleyball",
@@ -34716,27 +34737,6 @@
             "bipoc": false,
             "weeklyRepetitions": [
                 "sa"
-            ]
-        },
-        {
-            "id": 2516158074,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Pickleball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-08-23 10:30:00",
-            "end_date": "2025-08-23 13:15:00",
-            "venue": "Tennis Courts",
-            "ticket_label": "book a court",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/drop-sports/court-booking",
-            "sortCategory": "Pickleball",
-            "symbol": "figure.pickleball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "sa",
-                "su"
             ]
         },
         {
@@ -36383,86 +36383,6 @@
     ],
     "featured": [
         {
-            "id": 90094464,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in BIPOC Sports",
-            "description": "",
-            "image": "",
-            "start_date": "2025-08-25 17:00:00",
-            "end_date": "2025-08-25 18:30:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "figure.run",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": true,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
-            "id": 3427173008,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only: Fitness Swim",
-            "description": "",
-            "image": "",
-            "start_date": "2025-08-25 18:00:00",
-            "end_date": "2025-08-25 20:45:00",
-            "venue": "Pool",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
-            "id": 3759531821,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only: Registered Lessons ($)",
-            "description": "",
-            "image": "",
-            "start_date": "2025-08-25 18:00:00",
-            "end_date": "2025-08-25 20:45:00",
-            "venue": "Pool",
-            "ticket_label": "Learn More",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=62163d56-8588-41ba-859c-d00854c27a42&semesterId=c0176165-a345-43f0-8060-2358e0051c75",
-            "sortCategory": "Swim",
-            "symbol": "figure.pool.swim",
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
-            "id": 2022178594,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Cricket",
-            "description": "",
-            "image": "",
-            "start_date": "2025-08-25 19:30:00",
-            "end_date": "2025-08-25 20:45:00",
-            "venue": "Gym A/B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Cricket",
-            "symbol": "cricket.ball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "mo"
-            ]
-        },
-        {
             "id": 2059502233,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women on Weights! (WOW!)",
@@ -36543,6 +36463,50 @@
             ]
         },
         {
+            "id": 1606564334,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Women on Weights! (WOW)",
+            "description": "",
+            "image": "",
+            "start_date": "2025-08-27 16:10:00",
+            "end_date": "2025-08-27 16:55:00",
+            "venue": "Strength & Conditioning Centre",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b05d2432-ae3d-4aae-8ccb-87540c252ef9&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
+            "sortCategory": "Workout",
+            "symbol": "dumbbell",
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo",
+                "we"
+            ]
+        },
+        {
+            "id": 3830968127,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Women on Weights! (WOW)",
+            "description": "",
+            "image": "",
+            "start_date": "2025-08-29 16:10:00",
+            "end_date": "2025-08-29 16:55:00",
+            "venue": "Strength & Conditioning Centre",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b05d2432-ae3d-4aae-8ccb-87540c252ef9&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
+            "sortCategory": "Workout",
+            "symbol": "dumbbell",
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "fr",
+                "mo",
+                "we"
+            ]
+        },
+        {
             "id": 4262928142,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Only: Drop-in Badminton",
@@ -36560,6 +36524,46 @@
             "bipoc": false,
             "weeklyRepetitions": [
                 "we"
+            ]
+        },
+        {
+            "id": 2340553906,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2025-08-27 18:15:00",
+            "end_date": "2025-08-27 20:45:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 113752124,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Badminton",
+            "description": "",
+            "image": "",
+            "start_date": "2025-08-29 16:30:00",
+            "end_date": "2025-08-29 20:45:00",
+            "venue": "Gym C",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Badminton",
+            "symbol": "figure.badminton",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "fr"
             ]
         },
         {
