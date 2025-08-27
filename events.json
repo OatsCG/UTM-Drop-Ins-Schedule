@@ -36383,82 +36383,87 @@
     ],
     "featured": [
         {
-            "id": 2059502233,
+            "id": 1411461051,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women on Weights! (WOW!)",
+            "title": "Women's Only: Cardio HIIT",
             "description": "",
             "image": "",
-            "start_date": "2025-08-26 13:10:00",
-            "end_date": "2025-08-26 13:10:00",
+            "start_date": "2025-08-27 13:10:00",
+            "end_date": "2025-08-27 13:55:00",
             "venue": "Strength & Conditioning Centre",
             "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b05d2432-ae3d-4aae-8ccb-87540c252ef9&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Workout",
-            "symbol": "dumbbell",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=07342ccc-7c88-4522-b99b-b29a44f8c624&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
+            "sortCategory": "Cardio",
+            "symbol": "heart",
             "womens": true,
             "lgbt": false,
             "bipoc": false,
             "weeklyRepetitions": [
-                "tu"
+                "fr",
+                "mo",
+                "we"
             ]
         },
         {
-            "id": 2554019567,
+            "id": 3145345379,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women on Weights! (WOW!)",
+            "title": "Women's Only: Cardio HIIT",
             "description": "",
             "image": "",
-            "start_date": "2025-08-28 17:10:00",
-            "end_date": "2025-08-28 17:55:00",
+            "start_date": "2025-08-29 13:10:00",
+            "end_date": "2025-08-29 13:55:00",
             "venue": "Strength & Conditioning Centre",
             "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b05d2432-ae3d-4aae-8ccb-87540c252ef9&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
-            "sortCategory": "Workout",
-            "symbol": "dumbbell",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=07342ccc-7c88-4522-b99b-b29a44f8c624&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
+            "sortCategory": "Cardio",
+            "symbol": "heart",
             "womens": true,
             "lgbt": false,
             "bipoc": false,
             "weeklyRepetitions": [
-                "th"
+                "fr",
+                "mo",
+                "we"
             ]
         },
         {
-            "id": 3714182196,
+            "id": 3186394009,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Women's Only: Strength 101",
+            "title": "Registered Swimming Lessons ($)",
             "description": "",
             "image": "",
-            "start_date": "2025-08-26 16:10:00",
-            "end_date": "2025-08-26 16:55:00",
-            "venue": "Strength & Conditioning Centre",
-            "ticket_label": "reserve your spot",
-            "ticket_url": "https://recreation.utoronto.ca/program/GetProgramDetails?courseId=e13dee39-9237-45ac-a44a-d2d4cfbe8c38",
-            "sortCategory": "Workout",
-            "symbol": "figure.run",
-            "womens": true,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": [
-                "tu"
-            ]
-        },
-        {
-            "id": 2828138390,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Pride Sports",
-            "description": "",
-            "image": "",
-            "start_date": "2025-08-26 17:00:00",
-            "end_date": "2025-08-26 18:30:00",
-            "venue": "Gym C",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "figure.run",
+            "start_date": "2025-08-27 16:00:00",
+            "end_date": "2025-08-27 20:45:00",
+            "venue": "Pool",
+            "ticket_label": "Learn More",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/aquatics/swimming-lessons",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
             "womens": false,
-            "lgbt": true,
+            "lgbt": false,
             "bipoc": false,
             "weeklyRepetitions": [
+                "we"
+            ]
+        },
+        {
+            "id": 3363946411,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Registered Swimming Lessons ($)",
+            "description": "",
+            "image": "",
+            "start_date": "2025-08-28 16:15:00",
+            "end_date": "2025-08-28 20:45:00",
+            "venue": "Pool",
+            "ticket_label": "Learn More",
+            "ticket_url": "https://www.utm.utoronto.ca/athletics/aquatics/swimming-lessons",
+            "sortCategory": "Swim",
+            "symbol": "figure.pool.swim",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th",
                 "tu"
             ]
         },
@@ -36584,6 +36589,66 @@
             "bipoc": false,
             "weeklyRepetitions": [
                 "th"
+            ]
+        },
+        {
+            "id": 2554019567,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Women on Weights! (WOW!)",
+            "description": "",
+            "image": "",
+            "start_date": "2025-08-28 17:10:00",
+            "end_date": "2025-08-28 17:55:00",
+            "venue": "Strength & Conditioning Centre",
+            "ticket_label": "reserve your spot",
+            "ticket_url": "https://recreation.utoronto.ca/Program/GetProgramDetails?courseId=b05d2432-ae3d-4aae-8ccb-87540c252ef9&semesterId=be7544c3-d05c-443f-844b-8ce87874f958",
+            "sortCategory": "Workout",
+            "symbol": "dumbbell",
+            "womens": true,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
+            "id": 3012244884,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-08-28 18:00:00",
+            "end_date": "2025-08-28 20:45:00",
+            "venue": "Gym A/B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "th"
+            ]
+        },
+        {
+            "id": 3597995815,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Volleyball",
+            "description": "",
+            "image": "",
+            "start_date": "2025-08-29 12:00:00",
+            "end_date": "2025-08-29 13:00:00",
+            "venue": "Gym B",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Volleyball",
+            "symbol": "volleyball",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "weeklyRepetitions": [
+                "fr"
             ]
         },
         {
