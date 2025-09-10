@@ -59175,24 +59175,6 @@
     ],
     "featured": [
         {
-            "id": 1575729090,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Learn to Play: Try It Beach Volleyball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-09-09 12:00:00",
-            "end_date": "2025-09-09 15:00:00",
-            "venue": "Beach Volleyball Court",
-            "ticket_label": "Learn more",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/learn-play/weekly-learn-play",
-            "sortCategory": "Field Sports",
-            "symbol": "flag",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 743047890,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Learn to Play: Try It Beach Volleyball",
@@ -59211,42 +59193,6 @@
             "weeklyRepetitions": [
                 "we"
             ]
-        },
-        {
-            "id": 2021945184,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Learn to Play: Try it Pickleball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-09-09 14:30:00",
-            "end_date": "2025-09-09 17:30:00",
-            "venue": "Tennis Court",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Field Sports",
-            "symbol": "flag",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": []
-        },
-        {
-            "id": 2618644608,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Tri-Campus Tryout: Mixed Ultimate Frisbee",
-            "description": "",
-            "image": "",
-            "start_date": "2025-09-09 19:30:00",
-            "end_date": "2025-09-09 21:00:00",
-            "venue": "South Field",
-            "ticket_label": "Learn more",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/sports/tri-campus-sports/tri-campus-tryout-information",
-            "sortCategory": "Field Sports",
-            "symbol": "figure.disc.sports",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "weeklyRepetitions": []
         },
         {
             "id": 564996205,
