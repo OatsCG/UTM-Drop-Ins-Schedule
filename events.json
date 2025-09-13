@@ -12567,28 +12567,6 @@
             ]
         },
         {
-            "id": 369228599,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Residence Night: Drop-in Basketball",
-            "description": "",
-            "image": "",
-            "start_date": "2025-09-07 18:00:00",
-            "end_date": "2025-09-07 21:00:00",
-            "venue": "Gym A/B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
-        },
-        {
             "id": 3177807649,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Residence Night: Fun Swim",
@@ -13995,26 +13973,6 @@
             ]
         },
         {
-            "id": 960287394,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Field Sports",
-            "description": "",
-            "image": "",
-            "start_date": "2025-09-10 07:00:00",
-            "end_date": "2025-09-10 19:00:00",
-            "venue": "North Field",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Field Sports",
-            "symbol": "flag",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 1019927261,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Drop-in Tennis",
@@ -14079,6 +14037,26 @@
             "weeklyRepetitions": [
                 "we"
             ]
+        },
+        {
+            "id": 960287394,
+            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
+            "title": "Drop-in Field Sports",
+            "description": "",
+            "image": "",
+            "start_date": "2025-09-10 07:00:00",
+            "end_date": "2025-09-10 19:00:00",
+            "venue": "North Field",
+            "ticket_label": "",
+            "ticket_url": "",
+            "sortCategory": "Field Sports",
+            "symbol": "flag",
+            "womens": false,
+            "lgbt": false,
+            "bipoc": false,
+            "intramurals": false,
+            "closure": false,
+            "weeklyRepetitions": []
         },
         {
             "id": 610746221,
@@ -16811,26 +16789,24 @@
             ]
         },
         {
-            "id": 2727209557,
+            "id": 1587317174,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Residence Night: Drop-in Basketball",
+            "title": "Residence Night: Learn to Play Pickleball",
             "description": "",
             "image": "",
             "start_date": "2025-09-14 18:00:00",
-            "end_date": "2025-09-14 21:00:00",
+            "end_date": "2025-09-14 20:45:00",
             "venue": "Gym A/B",
             "ticket_label": "",
             "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
+            "sortCategory": "Field Sports",
+            "symbol": "flag",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
             "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
+            "weeklyRepetitions": []
         },
         {
             "id": 738582078,
@@ -67627,46 +67603,6 @@
     ],
     "featured": [
         {
-            "id": 1282474926,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Drop-in Circket",
-            "description": "",
-            "image": "",
-            "start_date": "2025-09-12 14:30:00",
-            "end_date": "2025-09-12 16:00:00",
-            "venue": "Gym A/B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Cricket",
-            "symbol": "cricket.ball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
-            "id": 693615743,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "UTM Intramurals: Free Agent Round-up Cricket",
-            "description": "",
-            "image": "",
-            "start_date": "2025-09-12 16:00:00",
-            "end_date": "2025-09-12 18:00:00",
-            "venue": "Gym A/B",
-            "ticket_label": "",
-            "ticket_url": "",
-            "sortCategory": "Cricket",
-            "symbol": "cricket.ball",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": true,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 3902558499,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "Women's Outdoor Soccer: UTM vs UTSG-BLUE",
@@ -67707,26 +67643,24 @@
             "weeklyRepetitions": []
         },
         {
-            "id": 2727209557,
+            "id": 1587317174,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "Residence Night: Drop-in Basketball",
+            "title": "Residence Night: Learn to Play Pickleball",
             "description": "",
             "image": "",
             "start_date": "2025-09-14 18:00:00",
-            "end_date": "2025-09-14 21:00:00",
+            "end_date": "2025-09-14 20:45:00",
             "venue": "Gym A/B",
             "ticket_label": "",
             "ticket_url": "",
-            "sortCategory": "Basketball",
-            "symbol": "basketball",
+            "sortCategory": "Field Sports",
+            "symbol": "flag",
             "womens": false,
             "lgbt": false,
             "bipoc": false,
             "intramurals": false,
             "closure": false,
-            "weeklyRepetitions": [
-                "su"
-            ]
+            "weeklyRepetitions": []
         },
         {
             "id": 663872217,
