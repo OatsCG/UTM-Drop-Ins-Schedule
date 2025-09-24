@@ -65759,26 +65759,6 @@
     ],
     "featured": [
         {
-            "id": 3329174015,
-            "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
-            "title": "UTM Walks: Staying Safe on Campus",
-            "description": "Facilitated by Campus Safety.Explore the beautiful trails and scenery of UTM alongside a member of the\u00a0Campus\u00a0Safety\u00a0team who will provide tips and resources to keep you safe on\u00a0campus!",
-            "image": "",
-            "start_date": "2025-09-24 12:00:00",
-            "end_date": "2025-09-24 13:00:00",
-            "venue": "RAWC Lobby",
-            "ticket_label": "Learn More & Register",
-            "ticket_url": "https://www.utm.utoronto.ca/athletics/utm-moves/utm-walks/utm-walks-staying-safe-campus",
-            "sortCategory": "UTM Moves",
-            "symbol": "figure.walk",
-            "womens": false,
-            "lgbt": false,
-            "bipoc": false,
-            "intramurals": false,
-            "closure": false,
-            "weeklyRepetitions": []
-        },
-        {
             "id": 577734157,
             "url": "https://www.utm.utoronto.ca/athletics/?loxi_pathname=%2Flist%2Ffuture%2F3",
             "title": "UTM Ascends: Treetop Trekking Adventure",
@@ -66045,6 +66025,12 @@
             "title": "Residence Night Sundays (6:00 PM - 9:00 PM)",
             "body": "Every Sunday, residence students have additional access hours at the RAWC from 6:00 PM - 9:00 PM. Students can take advantage of the extra hours by working out at the Fitness Centre, jump in Fun Swim at the Pool or participate in sports programs in Gym A/B.\nWeekly schedule can be found in [**our online calendar**](https://www.utm.utoronto.ca/athletics/schedule).",
             "type": 0
+        },
+        {
+            "id": 220250924,
+            "title": "TEST",
+            "body": "This is a test of the **Announcements** system.",
+            "type": 2
         }
     ]
 }
