@@ -1,3 +1,5 @@
+# ⚠️⚠️⚠️ DEPRECATED: Use the UniSports Catalog instead:  https://github.com/OatsCG/UniSports-Catalog/tree/main/UTM
+
 # UTM-Drop-Ins-Schedule
 #### A downloadable schedule of University of Toronto Mississauga Drop-In Sports.
 
